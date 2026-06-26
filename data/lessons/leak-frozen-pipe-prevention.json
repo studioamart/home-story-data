@@ -1,0 +1,85 @@
+{
+  "slug": "leak-frozen-pipe-prevention",
+  "system": "plumbing",
+  "title": "How to Protect Your Pipes from Freezing and Bursting During a Sudden Cold Snap",
+  "question": "A hard freeze (single digits or below) is forecast for the next few nights and I'm worried my pipes will freeze and burst. What should I do right now, tonight, to keep that from happening?",
+  "summary": "Pipes usually burst not where the ice forms but downstream, where trapped, pressurized water has nowhere to go, so the fix is to keep vulnerable pipes warm and let a trickle of water run. Tonight: seal drafts near pipes, open cabinet doors, let faucets drip, and keep the heat on, focusing on pipes in exterior walls, attics, crawlspaces, and unheated garages.",
+  "commonCauses": [
+    {
+      "cause": "Pipes in unheated or exterior spaces (crawlspace, attic, garage, exterior walls, under kitchen/bath sinks on outside walls) freeze first because they sit outside the home's heated envelope.",
+      "likelihood": "most common",
+      "quickCheck": "Walk the house and note every run of supply pipe you can see in a garage, basement, crawlspace, or under a sink against an outside wall. Those are your at-risk pipes."
+    },
+    {
+      "cause": "A burst happens downstream of the ice, not at the ice itself. As water freezes it expands and pushes pressure ahead of it toward a closed faucet; that trapped section is what splits. Simply 'having ice' isn't the failure, sealed-off pressure is.",
+      "likelihood": "most common",
+      "quickCheck": "Ask: if this pipe froze, is there a closed valve or faucet trapping water beyond it? Opening a faucet to a trickle gives that pressure an escape and is the single highest-value step."
+    },
+    {
+      "cause": "Cold air infiltration through small gaps (rim joists, dryer vents, sill plates, open foundation/crawlspace vents, gaps where pipes pass through walls) chills pipes far faster than ambient cold alone.",
+      "likelihood": "common",
+      "quickCheck": "On a cold night, feel along pipe runs for a draft or stream of cold air. An incense stick held near the gap will flicker where air leaks in."
+    },
+    {
+      "cause": "Outdoor hose bibs / spigots with a hose still attached. Water trapped in the hose and bib freezes, splits the valve, and you don't find out until spring when you turn it on and it floods the wall.",
+      "likelihood": "common",
+      "quickCheck": "Check every outdoor faucet: is a hose attached? Disconnect it. If you have an interior shutoff for that line, close it and drain the spigot."
+    },
+    {
+      "cause": "Thermostat set back too low, or heat shut off in a vacant area or vacation home. Wall cavities never get warm enough to protect the pipes inside them.",
+      "likelihood": "common",
+      "quickCheck": "Confirm the thermostat is at 55F or higher and will stay there overnight; do not set back during a hard freeze."
+    },
+    {
+      "cause": "Naive fixes that backfire: thawing a frozen pipe with an open flame (fire and steam-rupture risk), or leaving a space heater running unattended near combustibles.",
+      "likelihood": "less common",
+      "quickCheck": "If a pipe is already frozen, plan to use a hair dryer or heat lamp, never a torch. The open-flame shortcut is far more likely to start a fire than to save the pipe."
+    }
+  ],
+  "fixes": [
+    "Find your main water shutoff NOW, before anything freezes. It's usually where the line enters the house (basement, crawlspace, garage, or an interior wall near the front) or at the street meter. Make sure you can turn it by hand or have the meter key. If a pipe bursts, shutting this off in seconds is the difference between a mop and a gutted ceiling.",
+    "Disconnect all garden hoses from outdoor spigots. Drain each hose and store it. If you have interior shutoff valves for the outdoor faucets, close them, open the outdoor spigot to drain the line, and leave it open. Foam faucet covers add cheap extra protection.",
+    "Insulate the most exposed pipes. Slide foam pipe-insulation sleeves (cheap, from any hardware store) over any accessible pipe in a garage, crawlspace, attic, or against an exterior wall. In a pinch, wrap with towels and tape. Focus on the first few feet of pipe nearest an outside wall.",
+    "Seal drafts hitting the pipes. Use caulk, expanding foam, or stuffed insulation to close gaps where cold air reaches pipes (where pipes pass through exterior walls, around rim joists, open foundation/crawlspace vents). Cold air at the pipe is the real enemy, not just room temperature. Leave a little air movement to the rest of the crawlspace; do not seal it airtight.",
+    "Open cabinet doors under kitchen and bathroom sinks, especially on exterior walls, so heated room air can reach the supply lines. If you have small kids or pets, move household chemicals out of reach first.",
+    "Let faucets drip overnight. For each at-risk run, open both the hot and cold side to a slow but steady trickle (a thin stream, not just an occasional drip). Moving water resists freezing and, more importantly, relieves the pressure that actually bursts pipes. The few cents of water is far cheaper than a repair.",
+    "Keep your heat on and steady at 55F or higher, day and night, for the whole cold snap. Do not set the thermostat back overnight. If you leave home, leave the heat on.",
+    "For a known trouble spot that froze before, use a UL-listed heat-tape / heat-cable product rated for your pipe material, following the instructions exactly. Do not overlap or double it over itself, and don't use it on a pipe type it isn't rated for.",
+    "If a pipe does freeze (no water comes out), open the served faucet, then warm the pipe with a hair dryer, heat lamp, or hot-water-soaked towels, working from the faucet end back toward the frozen section so melt water can escape. Never use a blowtorch or open flame. If you can't reach it, or it has already burst, shut off the main and call a plumber."
+  ],
+  "diyVsPro": "Preventive steps (dripping faucets, disconnecting hoses, insulating accessible pipes, sealing drafts, setting the thermostat, locating the main shutoff) are all squarely DIY and cost very little. Thawing an accessible, intact frozen pipe with a hair dryer is also DIY. Call a licensed plumber if a pipe has already burst, if the frozen pipe is inside a finished wall or otherwise unreachable, if you can't locate or operate your main shutoff, or if you want permanent fixes like rerouting pipes out of an unheated space, adding wall insulation, or installing freeze-protected hose bibs. If your home is in a region that rarely freezes and has no pipe insulation, a one-time plumber walkthrough before winter is money well spent.",
+  "typicalCostUSD": "DIY prevention: $20-$80 (foam pipe sleeves $3-$8 each, exterior faucet covers $5-$10, caulk/foam $10-$20, heat tape $20-$60 per run). Dripping faucets for several nights adds maybe $1-$5 to the water bill. A plumber for a burst-pipe repair typically runs $150-$600+ depending on access, plus water-damage remediation that can reach thousands if it goes undetected.",
+  "timeEstimate": "1-3 hours to walk the house and do all the prevention steps; the faucet drip and thermostat setting take under five minutes and do most of the work.",
+  "safetyLevel": "caution",
+  "safetyNote": "Never thaw a pipe with a blowtorch or open flame; it causes house fires, and trapped steam can rupture the pipe violently. Keep space heaters and heat lamps clear of anything flammable and never leave them running unattended or while you sleep. Don't use heat tape that isn't UL-listed or that you've overlapped, it's a known fire cause. If a pipe has already burst, shut off the main water; if water is anywhere near outlets or the electrical panel, treat it as an electrical hazard, keep clear, and cut power at the breaker only if you can do so safely from a dry spot, otherwise call an electrician or utility.",
+  "toolsParts": [
+    "Foam pipe insulation sleeves",
+    "Outdoor faucet (hose bib) insulated covers",
+    "Exterior-grade caulk or expanding spray foam",
+    "UL-listed pipe heat tape / heat cable (for known trouble spots)",
+    "Hair dryer or heat lamp (for thawing, not a torch)",
+    "Towels and duct tape (temporary wrap)",
+    "Meter key or pliers to operate the main shutoff",
+    "Flashlight"
+  ],
+  "searchTerms": [
+    "how to keep pipes from freezing during a cold snap",
+    "should I let faucets drip to prevent frozen pipes",
+    "protect pipes from bursting in single digit temperatures overnight",
+    "do I drip hot or cold water to prevent freezing",
+    "how to insulate pipes before a hard freeze tonight",
+    "what temperature to set thermostat to prevent frozen pipes",
+    "disconnect garden hose before freeze",
+    "frozen pipe in exterior wall what to do"
+  ],
+  "sources": [
+    "American Red Cross \u2014 Preventing and Thawing Frozen Pipes",
+    "Insurance Institute for Business & Home Safety (IBHS) \u2014 freezing pipe guidance",
+    "U.S. Dept. of Energy / Energy.gov \u2014 pipe insulation and weatherization",
+    "Manufacturer instructions and UL listing for pipe heat cable"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed professional's assessment of your specific home. Codes, climate, and plumbing layouts vary; when in doubt, or when water is already flowing, shut off the main and call a licensed plumber.",
+  "verified": true,
+  "verifierNote": "Confirmed against Red Cross/IBHS/DOE practice (55F min, drip both hot+cold, disconnect hoses, no open-flame thaw, UL heat tape, hair-dryer DIY thaw); tightened the draft-sealing and faucet-drip wording, replaced candle with safer incense for draft checking, added a not-airtight caveat for crawlspaces, and hardened the burst/electrical safety step.",
+  "kind": "spoke"
+}

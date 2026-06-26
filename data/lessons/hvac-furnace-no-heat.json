@@ -1,0 +1,92 @@
+{
+  "slug": "hvac-furnace-no-heat",
+  "system": "hvac",
+  "title": "Furnace Not Heating? Causes & Fixes Before You Call a Pro",
+  "question": "Why is my furnace running but not heating the house?",
+  "summary": "A furnace that won't heat is most often a thermostat, dirty filter, tripped switch, or pilot/ignition problem \u2014 several are easy DIY checks, but gas and ignition issues should go to a licensed HVAC tech. Start with the cheap, safe checks before assuming the worst.",
+  "commonCauses": [
+    {
+      "cause": "Thermostat set wrong, dead batteries, or set to COOL/OFF instead of HEAT",
+      "likelihood": "most common",
+      "quickCheck": "Confirm mode is HEAT and setpoint is 5+ degrees above room temp; swap the batteries and watch for the display to wake up or a click after a minute."
+    },
+    {
+      "cause": "Clogged air filter choking airflow, causing the furnace to overheat and shut off on its limit switch",
+      "likelihood": "most common",
+      "quickCheck": "Pull the filter; if you can't see light through it, it's too dirty. Note if the furnace runs a few minutes then quits \u2014 a classic overheating sign."
+    },
+    {
+      "cause": "Furnace power switch off or tripped breaker (the switch looks like a light switch near the unit)",
+      "likelihood": "common",
+      "quickCheck": "Check the on/off switch on or beside the furnace is ON, and look for a tripped breaker in the panel labeled furnace/HVAC."
+    },
+    {
+      "cause": "Pilot light out (older units) or failed electronic ignitor/flame sensor (newer units)",
+      "likelihood": "common",
+      "quickCheck": "On older units, look through the access window for a small flame. On newer ones, watch the startup: a glow or clicks with no sustained flame points to ignition/flame-sensor trouble."
+    },
+    {
+      "cause": "Tripped safety: front panel not seated (door switch), or flame sensor dirty causing short-cycling",
+      "likelihood": "common",
+      "quickCheck": "Make sure the front access panel is fully closed and clicked \u2014 many furnaces won't fire with it loose. Watch if it lights then dies within seconds."
+    },
+    {
+      "cause": "Condensate drain clogged (high-efficiency units) tripping the float safety switch",
+      "likelihood": "less common",
+      "quickCheck": "Look for standing water in the drain pan or a full condensate trap near a 90%+ efficiency furnace."
+    },
+    {
+      "cause": "No gas supply \u2014 gas valve closed, unpaid bill, or utility outage",
+      "likelihood": "less common",
+      "quickCheck": "Check that the gas shutoff at the furnace is parallel to the pipe (open) and that your stove/water heater still have gas."
+    },
+    {
+      "cause": "Failed blower motor, control board, gas valve, or igniter (component failure)",
+      "likelihood": "less common",
+      "quickCheck": "Furnace ignites but no warm air moves (bad blower), or nothing happens at all after all the above check out \u2014 needs a tech with a meter."
+    }
+  ],
+  "fixes": [
+    "Set the thermostat to HEAT and raise the target at least 5 degrees above the current room temperature; if the screen is blank or dim, install fresh batteries and wait a minute for the call for heat.",
+    "Replace the air filter with the correct size (printed on the old filter's edge). A 1-inch filter is cheap insurance \u2014 swap every 1-3 months in heating season.",
+    "Confirm the furnace's on/off switch (looks like a light switch on or beside the unit) is ON, then check your electrical panel and reset a tripped HVAC/furnace breaker ONCE. If it trips again immediately, stop and call a pro \u2014 a repeat trip means an electrical fault, not a nuisance trip.",
+    "Make sure the furnace front access panel is fully closed and latched \u2014 a loose panel trips the door safety switch and blocks ignition.",
+    "For a high-efficiency (condensing) furnace, check the condensate drain and pan; if water is backed up, clear the line so the float switch resets.",
+    "On an older standing-pilot furnace, relight the pilot ONLY by following the printed instructions on the unit's label exactly. Do NOT make repeated attempts \u2014 if it won't light or won't stay lit, stop and call a pro (thermocouple/gas issue).",
+    "Verify the gas is on: the shutoff handle at the furnace should be in-line (parallel) with the pipe, and confirm other gas appliances still work.",
+    "If it still won't heat after these checks \u2014 or it ignites then short-cycles, makes a clicking-without-firing sound, or the blower won't push warm air \u2014 call a licensed HVAC technician."
+  ],
+  "diyVsPro": "DIY is fine for thermostat settings/batteries, filter changes, checking the power switch, resetting a breaker once, reseating the access panel, and clearing a condensate drain. Call a licensed HVAC pro for anything involving the gas valve, gas piping, a pilot that won't stay lit, ignitor/flame-sensor replacement, blower or control-board failure, a breaker that trips repeatedly, or any gas smell \u2014 these involve gas, 120/240V wiring, and combustion safety that require training and tools.",
+  "typicalCostUSD": "DIY parts: filter $5-25, thermostat batteries $5, new programmable thermostat $25-180. Pro repairs: service call/diagnostic $80-200; flame sensor clean/replace $80-250; hot-surface ignitor $150-400; gas valve $300-800; blower motor $400-900; control board $300-700. Full furnace replacement (if old and failing) $3,000-7,500+ (high-efficiency can run higher).",
+  "timeEstimate": "Basic DIY checks: 10-30 minutes. A pro diagnostic visit is typically 1-2 hours; most common part repairs are done same-visit.",
+  "safetyLevel": "caution",
+  "safetyNote": "If you smell gas (rotten-egg odor) or hear hissing, do NOT touch switches or relight anything \u2014 leave the house and call your gas utility's emergency line or 911 from outside. Furnaces produce carbon monoxide; make sure you have a working CO detector. Never make repeated ignition attempts \u2014 they can flood the chamber with gas. The cheap checks here (thermostat, filter, power switch, access panel, condensate drain) are safe DIY, but anything involving the gas valve, gas line, combustion components, or a repeatedly tripping breaker is licensed-pro work.",
+  "toolsParts": [
+    "Replacement air filter (correct size)",
+    "AA/AAA batteries for thermostat",
+    "Flashlight",
+    "Screwdriver (for access panel, if needed)",
+    "Wet/dry vac or brush (for condensate line)",
+    "Working carbon monoxide detector"
+  ],
+  "searchTerms": [
+    "furnace not heating",
+    "furnace runs but no heat",
+    "furnace blowing cold air",
+    "furnace won't turn on",
+    "furnace ignites then shuts off",
+    "pilot light won't stay lit",
+    "thermostat not calling for heat",
+    "furnace short cycling"
+  ],
+  "sources": [
+    "Manufacturer furnace operation and troubleshooting labels/manuals (e.g., Carrier, Trane, Lennox, Goodman)",
+    "Reputable DIY home-maintenance references (This Old House, Family Handyman)",
+    "General building-code and combustion-safety norms (gas appliance and CO detector guidance)",
+    "Utility company gas-safety guidance"
+  ],
+  "disclaimer": "This guide is general home-maintenance information, not professional advice. Furnaces involve natural gas, high-voltage electricity, and carbon monoxide. When in doubt, or for any gas or combustion-related issue, hire a licensed HVAC professional. Follow your specific unit's manual, which overrides any general guidance here.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes/costs accurate; downgraded safetyLevel call-a-pro\u2192caution (lead advice is genuinely safe DIY, gas/ignition already gated to a pro), added \"stop if breaker re-trips\" and \"no repeated ignition attempts\" warnings, and nudged gas-valve/control-board cost ceilings up.",
+  "kind": "pillar"
+}

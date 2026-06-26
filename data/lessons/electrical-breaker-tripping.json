@@ -1,0 +1,80 @@
+{
+  "slug": "electrical-breaker-tripping",
+  "system": "electrical",
+  "title": "Why Your Circuit Breaker Keeps Tripping \u2014 Causes & Fixes",
+  "question": "Why does my circuit breaker keep tripping and how do I fix it?",
+  "summary": "A breaker that keeps tripping is doing its job \u2014 it's cutting power to stop an overload, short circuit, or ground fault before it overheats wires or starts a fire. The goal is to find out whether you're simply asking one circuit to do too much, or whether there's a wiring fault that needs an electrician.",
+  "commonCauses": [
+    {
+      "cause": "Circuit overload \u2014 too many devices (especially space heaters, hair dryers, microwaves, window AC) drawing more amps than the breaker's rating (usually 15A or 20A) on one circuit at the same time.",
+      "likelihood": "most common",
+      "quickCheck": "Note what was running when it tripped. If unplugging a high-draw appliance lets the breaker stay on, it's an overload."
+    },
+    {
+      "cause": "A specific faulty appliance or cord \u2014 a failing motor, frayed cord, or shorted device trips the breaker the moment it's plugged in or turned on.",
+      "likelihood": "common",
+      "quickCheck": "Unplug everything on that circuit, reset the breaker. Plug devices back in one at a time; the one that trips it is the culprit."
+    },
+    {
+      "cause": "Short circuit \u2014 a hot wire touching a neutral or ground, often in a worn outlet, switch, or damaged cable. Usually trips instantly and hard, sometimes with a pop, scorch mark, or burning smell.",
+      "likelihood": "common",
+      "quickCheck": "Look and smell for scorched outlets or switches. A burning smell, browning, or buzzing means stop and call a pro now."
+    },
+    {
+      "cause": "Ground fault or arc fault on a GFCI/AFCI device \u2014 moisture or small leakage current (GFCI), or arcing/damaged wiring (AFCI) trips these more sensitive protective devices. GFCIs are common in bathrooms, kitchens, garages, basements, and outdoors.",
+      "likelihood": "common",
+      "quickCheck": "If it's a bathroom, kitchen, garage, or outdoor outlet, check for moisture and test/reset the GFCI. Note: nuisance AFCI trips can also be caused by certain electronics, not just a fault."
+    },
+    {
+      "cause": "Worn-out or weak breaker \u2014 older breakers can occasionally trip below their rating. Some legacy panels (e.g., Federal Pacific Stab-Lok, Zinsco) have a documented history of breakers that fail to trip when they should \u2014 a fire hazard that warrants evaluation regardless of nuisance tripping.",
+      "likelihood": "less common",
+      "quickCheck": "If one breaker trips with little load while others don't, or your panel is one of the known problem brands, have an electrician evaluate it."
+    },
+    {
+      "cause": "Loose or corroded wiring connection \u2014 a loose wire at the breaker, outlet, or splice causes arcing and heat that can trip the breaker (especially AFCI) and is a real fire risk.",
+      "likelihood": "less common",
+      "quickCheck": "Flickering lights, a burning smell, or warm/discolored outlet plates on that circuit point to a loose connection \u2014 pro territory, leave it off."
+    }
+  ],
+  "fixes": [
+    "First, identify the circuit: at the panel, find the breaker that is not fully ON \u2014 a tripped breaker usually sits in a middle position or moves toward OFF.",
+    "Reduce the load. Unplug high-wattage items (space heaters, hair dryers, microwaves, irons) from that circuit, and avoid running several of them at once on the same circuit.",
+    "Reset the breaker correctly: push it firmly all the way to OFF first, then back to ON. A breaker often won't reset from the tripped middle position if you only push toward ON.",
+    "Isolate a bad appliance: unplug everything on the circuit, reset, then add devices back one at a time until it trips again \u2014 that device or its cord is likely faulty and should be repaired or replaced (don't keep using a cord or appliance that trips the breaker).",
+    "For GFCI/AFCI circuits in wet areas, check for moisture, let the outlet dry, and press RESET on the outlet or breaker. If it trips again right away, stop and call an electrician.",
+    "Spread the load: move power-hungry appliances to outlets on different circuits so no single 15A/20A circuit is maxed out. If you constantly need more capacity, have an electrician add a dedicated circuit.",
+    "If the breaker trips immediately with nothing plugged in, trips with very light load, won't reset at all, or you see/smell scorching or feel a warm or buzzing panel \u2014 leave it OFF and call a licensed electrician. That points to a short, ground/arc fault, or failing breaker/wiring, not a simple overload.",
+    "Do NOT replace a breaker with a higher-amp one to stop the tripping \u2014 the wire is sized for the original amperage, and a bigger breaker lets the wire overheat and can start a fire. Never bypass, jumper, or wedge a breaker."
+  ],
+  "diyVsPro": "DIY is fine for the diagnostic basics that don't require opening the panel: finding the tripped breaker, reducing load, resetting it, and isolating a faulty appliance by plugging things in one at a time. Call a licensed electrician for anything inside the panel (replacing or tightening a breaker, any internal wiring), any short or ground/arc fault you can't trace to a single device, burning smells, scorch marks, a warm or buzzing panel, breakers that trip with no load or won't reset, recurring AFCI/GFCI trips, or a known problem panel (Federal Pacific Stab-Lok, Zinsco). Opening a live panel exposes you to lethal shock and arc-flash \u2014 the main lugs and line side stay energized even with the main breaker off.",
+  "typicalCostUSD": "DIY: $0 (resetting and rearranging loads). Electrician service call/diagnosis: ~$100\u2013$250. Replacing a standard breaker: ~$150\u2013$300 installed; AFCI/GFCI breaker: ~$200\u2013$400. Repairing a faulty outlet/switch: ~$120\u2013$300. Adding a new dedicated circuit: ~$300\u2013$1,000+ depending on run length. Full panel replacement (if old/unsafe): ~$1,500\u2013$4,500+. Costs vary widely by region.",
+  "timeEstimate": "5\u201315 minutes to reset and test load; 30\u201360 minutes to isolate a faulty appliance. A pro diagnosis is typically 1\u20132 hours.",
+  "safetyLevel": "call-a-pro",
+  "safetyNote": "Resetting a breaker and unplugging appliances is safe for anyone. Never open the breaker panel cover or touch wiring inside it \u2014 the main service lugs and line-side conductors stay energized even with the main breaker off and can deliver a fatal shock or arc-flash burn. Stop immediately and call an electrician (or 911 if there's active danger) if you smell burning, see smoke or scorch marks, feel a warm or buzzing panel, or a breaker trips repeatedly with nothing plugged in \u2014 these signal a short or arcing fault that can cause a fire. Never wire around a tripping breaker or install a higher-amperage breaker than the circuit is rated for.",
+  "toolsParts": [
+    "Flashlight or phone light (to read the panel)",
+    "Notepad or phone to track which appliances were running",
+    "GFCI outlet tester (optional, ~$10\u2013$20)",
+    "List of which breaker controls which circuit (label your panel if it isn't already)"
+  ],
+  "searchTerms": [
+    "circuit breaker keeps tripping",
+    "breaker trips when I turn on appliance",
+    "how to reset a tripped breaker",
+    "breaker won't reset",
+    "GFCI keeps tripping",
+    "AFCI breaker keeps tripping",
+    "circuit overload signs",
+    "breaker trips immediately"
+  ],
+  "sources": [
+    "Building/electrical code norms (National Electrical Code, NEC)",
+    "Manufacturer guidance (breaker and panel makers, e.g., Square D, Eaton)",
+    "Reputable DIY references (This Old House, Family Handyman)",
+    "Consumer electrical-safety guidance (ESFI-style public safety education)"
+  ],
+  "disclaimer": "This is general home-maintenance information, not professional electrical advice. Electrical work can be dangerous and is governed by local codes and permits. When in doubt, hire a licensed electrician. Verify any guidance against your specific equipment and local regulations.",
+  "verified": true,
+  "verifierNote": "Confirmed the core diagnostics and the critical \"never upsize the breaker / never open a live panel\" warnings are accurate; corrected the GFCI/AFCI cause to distinguish ground fault (GFCI) from arc fault (AFCI) and noted nuisance AFCI trips, softened the overconfident \"browning means call now\"/old-panel claims, added arc-flash to the safety note, and nudged costs to realistic 2026 US ranges (service call ~$100\u2013$250, dedicated circuit up to $1,000+).",
+  "kind": "pillar"
+}

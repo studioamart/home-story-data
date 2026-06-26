@@ -1,0 +1,77 @@
+{
+  "slug": "hvac-filter-change-frequency",
+  "system": "hvac",
+  "title": "How Often to Change Your HVAC Filter \u2014 A Simple Schedule",
+  "question": "How often should I change my HVAC / furnace air filter?",
+  "summary": "Most homes should change a standard 1-inch filter every 1\u20133 months; thicker 4\u20135 inch media filters typically last 6\u201312 months. Pets, allergies, and heavy use push you to the shorter end \u2014 check it monthly and replace it once it looks dirty.",
+  "commonCauses": [
+    {
+      "cause": "Filter thickness \u2014 a thin 1-inch filter clogs fast (1\u20133 months) while a 4\u20135 inch pleated media filter has far more surface area and lasts longer (often 6\u201312 months).",
+      "likelihood": "most common",
+      "quickCheck": "Slide the filter out and read the depth printed on the cardboard edge (1\", 2\", 4\", or 5\")."
+    },
+    {
+      "cause": "Pets in the home \u2014 dander and hair load the filter quickly, often cutting a 1-inch filter's life to 30\u201360 days.",
+      "likelihood": "most common",
+      "quickCheck": "If you have one or more shedding pets, plan to check the filter monthly."
+    },
+    {
+      "cause": "How much the system runs \u2014 peak summer cooling and winter heating mean the blower moves air constantly, so filters dirty faster in those months than in mild spring/fall.",
+      "likelihood": "common",
+      "quickCheck": "Pull the filter at the end of a hot or cold stretch; heavy-run months show visibly more dust."
+    },
+    {
+      "cause": "MERV rating / filter density \u2014 a higher-MERV (denser) filter traps more but also clogs sooner and can choke airflow if you stretch it too long.",
+      "likelihood": "common",
+      "quickCheck": "Check the MERV number on the frame; MERV 8\u201311 is typical for homes, and higher MERV loads up faster."
+    },
+    {
+      "cause": "Allergies/asthma in the household, or local dust, construction, or wildfire smoke \u2014 more airborne particles mean faster loading.",
+      "likelihood": "common",
+      "quickCheck": "During smoke events or remodels, inspect every 2\u20134 weeks."
+    },
+    {
+      "cause": "Whole-house vs. small system / multiple return grilles \u2014 larger homes and multiple filter locations each have their own schedule.",
+      "likelihood": "less common",
+      "quickCheck": "Walk the house and confirm how many return-air grilles and filter slots you actually have; it's often more than one."
+    }
+  ],
+  "fixes": [
+    "Find your filter: it sits in a slot at the furnace/air handler or behind a large return-air grille on a wall or ceiling. Most homes have one or two.",
+    "Read the size printed on the cardboard frame (e.g. 16x25x1) and the MERV rating; buy the exact same size. Stick to MERV 8\u201311 unless your system was specifically designed for higher \u2014 a too-dense filter can strain the blower.",
+    "Set a baseline schedule: 1-inch filter every 1\u20133 months; 2-inch every ~3 months; 4\u20135 inch media filter every 6\u201312 months. With pets, allergies, or heavy use, use the shorter end.",
+    "Check monthly regardless of schedule: hold the filter up to a light. If you can barely see light through it, replace it now.",
+    "Turn the thermostat/system OFF before swapping, then slide the old filter out and note the airflow-direction arrow on the new filter's frame.",
+    "Insert the new filter with the arrow pointing in the direction air flows \u2014 toward the furnace/blower and away from the return duct \u2014 then turn the system back on. Make sure it sits flat in the slot with no gaps for air to bypass.",
+    "Write the date on the new filter's edge with a marker, or set a recurring phone reminder, so you don't lose track.",
+    "Buy filters in multi-packs to lower per-filter cost and remove the excuse to skip a change."
+  ],
+  "diyVsPro": "Changing a filter is fully DIY \u2014 no tools, no risk, a 2-minute job. Call an HVAC pro only if airflow stays weak after a fresh filter, you can't locate the filter slot, the filter comes out wet or moldy (a sign of a drainage or duct problem, not just dirt), or you want a system set up to take high-MERV/HEPA filtration without straining the blower.",
+  "typicalCostUSD": "DIY: standard 1-inch pleated filters run about $5\u2013$20 each (cheaper in multi-packs); thick 4\u20135 inch media filters run about $30\u2013$60 each but last far longer. A pro service visit that includes a filter change is typically $80\u2013$150 \u2014 rarely worth it just to swap a filter.",
+  "timeEstimate": "2\u20135 minutes per filter",
+  "safetyLevel": "none",
+  "safetyNote": "Turn the system off at the thermostat before swapping so the blower isn't pulling air mid-change. A consistently dirty or restrictive filter stresses the blower and, in furnaces, can contribute to overheating \u2014 don't let it run months past due. If the old filter comes out wet or shows mold, stop and call a pro; that signals a moisture problem, not just a dirty filter.",
+  "toolsParts": [
+    "Correctly sized replacement filter (match the printed dimensions exactly)",
+    "Marker to date the new filter",
+    "Phone or calendar reminder"
+  ],
+  "searchTerms": [
+    "how often to change HVAC filter",
+    "furnace filter replacement schedule",
+    "when to replace air filter home",
+    "1 inch vs 4 inch furnace filter how often",
+    "air filter change pets allergies",
+    "what MERV rating for home filter"
+  ],
+  "sources": [
+    "Manufacturer guidance (furnace/air-handler and filter-maker recommendations)",
+    "Building-code and energy-efficiency norms for residential HVAC airflow",
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "EPA indoor air quality guidance on filtration and MERV ratings"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional advice. Always follow your specific furnace and filter manufacturer's recommendations, and consult a licensed HVAC technician for system-specific concerns.",
+  "verified": true,
+  "verifierNote": "Confirmed airflow-arrow direction, MERV guidance, costs, and schedules as accurate; softened the 5-inch \"6\u201312 month\" claim to a typical range, added a no-gaps/bypass note, and tightened wording. Safety level correctly \"none\" \u2014 no gas/electrical/roof/structural exposure in a filter swap.",
+  "kind": "pillar"
+}

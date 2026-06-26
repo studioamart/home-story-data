@@ -1,0 +1,82 @@
+{
+  "slug": "plumbing-leak-under-sink",
+  "system": "plumbing",
+  "title": "Leak Under the Sink \u2014 Causes and How to Fix It",
+  "question": "Why is there water leaking under my kitchen sink and how do I fix it?",
+  "summary": "A leak under the sink almost always comes from one of a few spots \u2014 a loose drain trap, a worn supply line, or a bad faucet/drain seal. Most are cheap DIY fixes if you find the exact source first by drying everything and watching where water reappears.",
+  "commonCauses": [
+    {
+      "cause": "Loose or worn P-trap / slip-joint connections (the curved drain pipe). Plastic nuts back off over time or rubber/poly washers harden.",
+      "likelihood": "most common",
+      "quickCheck": "Dry the trap, then run water and watch the slip-joint nuts; feel for drips at each joint. Leak appears only when draining, not constantly."
+    },
+    {
+      "cause": "Failed water-supply line or shutoff-valve connection (braided hose or compression fitting feeding the faucet).",
+      "likelihood": "common",
+      "quickCheck": "Feel the supply lines and the valve nuts high up under the sink. A constant drip even when nothing is running points here."
+    },
+    {
+      "cause": "Worn faucet base gasket or loose faucet mounting nuts \u2014 water runs down the supply lines and drips off the lowest point.",
+      "likelihood": "common",
+      "quickCheck": "Dry under the faucet body, run water over the deck and around the handle base, then check if the underside of the faucet/sink deck gets wet."
+    },
+    {
+      "cause": "Bad sink strainer / drain basket seal (the basket where the drain meets the sink bowl), usually failed plumber's putty.",
+      "likelihood": "common",
+      "quickCheck": "Plug the drain, fill the bowl with a few inches of water, and watch the top of the strainer body underneath for seeping."
+    },
+    {
+      "cause": "Garbage disposal leaking \u2014 at the sink flange, the dishwasher hose, or a cracked body.",
+      "likelihood": "less common",
+      "quickCheck": "Dry the disposal, run water and a dishwasher cycle, and trace drips from the top flange vs. the side hose vs. the bottom (a bottom leak means replace the unit)."
+    },
+    {
+      "cause": "Cracked or corroded pipe / old metal trap.",
+      "likelihood": "less common",
+      "quickCheck": "Inspect for green corrosion, white mineral crust, or a hairline crack; leak persists after tightening connections."
+    }
+  ],
+  "fixes": [
+    "Find the exact source first. Clear the cabinet, wipe everything bone dry, lay down paper towels, then run water, fill and drain the bowl, and run the dishwasher. Watch which spot wets first \u2014 fixing the wrong joint wastes time.",
+    "Tighten slip-joint nuts on the P-trap by hand first; most seal hand-tight. If a joint still seeps, add no more than a slight nudge with channel-lock pliers \u2014 plastic nuts crack if overtightened. If it still drips, disassemble the trap, replace the washers (or the whole PVC trap kit, about $8-15), and reassemble making sure the pipes seat squarely.",
+    "For supply-line leaks, gently snug the compression/braided-hose nuts about a quarter-turn. If a braided hose is corroded or weeping along the line, shut off the angle stop, drain the line into a bucket, and swap in a new braided stainless supply line (about $8-12) \u2014 hand-tight plus a quarter-turn. Don't wrap PTFE tape on compression or braided-hose nuts; those seal on a ferrule or rubber washer, not the threads.",
+    "For a faucet base or loose-faucet leak, tighten the mounting nuts under the deck; if the gasket is hard or cracked, pull the faucet and replace the gasket or re-bed it with silicone or fresh putty per the faucet instructions.",
+    "For a leaking sink strainer, remove the basket, scrape off the old putty, and re-set it with fresh plumber's putty and a new rubber gasket, then tighten the locknut underneath.",
+    "For a garbage disposal: cut power at the breaker first, then tighten the mounting ring or replace the dishwasher-hose clamp if the leak is at a connection. A leak from the bottom seam means the internal seal failed \u2014 replace the disposal. Never put a hand inside the grinding chamber.",
+    "Replace any cracked or badly corroded pipe rather than patching it. Tape or epoxy on a pressurized supply line is a temporary stopgap only, not a real fix.",
+    "After any fix, dry everything and re-test with several minutes of running water plus a full bowl drain before declaring it done."
+  ],
+  "diyVsPro": "DIY is fine for tightening or replacing the P-trap, braided supply lines, faucet gaskets, and sink strainers \u2014 these are low-pressure or easily shut-off connections. Call a licensed plumber if the leak is inside the wall, at a soldered or glued joint you can't isolate, if the shutoff valve itself is stuck or leaking and won't close, if you see water damage in the cabinet floor or subfloor, or if a leak persists after you've replaced the obvious parts.",
+  "typicalCostUSD": "DIY parts: $8-30 (PVC trap kit, braided supply line, plumber's putty, gasket). Pro visit: roughly $150-350 for a common trap or supply-line repair; $300-600+ if a shutoff valve, in-wall pipe, or water-damaged cabinet is involved.",
+  "timeEstimate": "15-45 minutes for a trap or supply-line fix; 1-2 hours for a faucet or sink-strainer reseat.",
+  "safetyLevel": "caution",
+  "safetyNote": "Turn off the angle-stop shutoff valves under the sink (or the main if they won't budge) before working on supply lines, and keep a bucket and towels ready. Don't overtighten plastic fittings \u2014 they crack and leak worse. Always cut power to a garbage disposal at the breaker before reaching near it, and never put a hand inside the grinding chamber. If the cabinet base is soft, stained, or smells musty, you may have hidden water damage or mold \u2014 get it assessed.",
+  "toolsParts": [
+    "Channel-lock (tongue-and-groove) pliers",
+    "Adjustable wrench",
+    "Bucket and towels / paper towels",
+    "Flashlight",
+    "Replacement PVC P-trap kit and slip-joint washers",
+    "New braided stainless supply line",
+    "Plumber's putty",
+    "Replacement faucet/strainer gasket",
+    "Plumber's tape (PTFE) \u2014 only for threaded NPT pipe joints, not compression or braided-hose nuts"
+  ],
+  "searchTerms": [
+    "leak under kitchen sink",
+    "P-trap leaking how to fix",
+    "water supply line leak under sink",
+    "sink drain leaking at trap",
+    "garbage disposal leaking from bottom",
+    "how to fix leaking sink strainer"
+  ],
+  "sources": [
+    "reputable DIY references (This Old House, Family Handyman, Bob Vila in spirit)",
+    "faucet and garbage disposal manufacturer installation guidance",
+    "general plumbing and building-code norms for drain and supply connections"
+  ],
+  "disclaimer": "This is general guidance, not a substitute for professional inspection. Plumbing details vary by fixture and local code. If you're unsure, the leak is inside a wall, or you find water damage, consult a licensed plumber.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes/costs as accurate; clarified that PTFE tape is for threaded NPT joints only (not compression/braided nuts), softened plastic slip-nut tightening to hand-tight-first, and added garbage-disposal hand-safety plus power-off ordering.",
+  "kind": "pillar"
+}

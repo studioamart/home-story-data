@@ -1,0 +1,80 @@
+{
+  "slug": "electrical-warm-switch",
+  "system": "electrical",
+  "title": "Why Your Light Switch Gets Warm \u2014 Causes & When to Worry",
+  "question": "why does my light switch feel warm to the touch",
+  "summary": "A switch that's slightly warm can be normal for a dimmer or one running heavy lighting, but a switch that's hot, discolored, buzzing, or smells like burning plastic signals a loose connection or a real fault and needs attention now. Here's how to tell the difference and what to do.",
+  "commonCauses": [
+    {
+      "cause": "Dimmer switch under normal load. Dimmers shed energy as heat by design, so a faceplate that feels warm (not hot) is expected, especially older models running many bulbs.",
+      "likelihood": "most common",
+      "quickCheck": "Is it a dimmer? Feel the plate after 30+ min of use. Warm-but-touchable with no smell or buzz is normal."
+    },
+    {
+      "cause": "Loose wire connection at the switch terminal (or a back-stab push-in connection working loose). Loose contacts create resistance, and resistance makes heat right at the screw or stab. This is the most common cause of a non-dimmer switch running warm.",
+      "likelihood": "most common",
+      "quickCheck": "Power off at the breaker, pull the switch, and check if any wire wiggles or shows dark/melted insulation near the terminals."
+    },
+    {
+      "cause": "Worn-out switch with corroded or fatigued internal contacts. Switches degrade after years of use; the internal contacts can arc and heat up.",
+      "likelihood": "common",
+      "quickCheck": "Is the switch old, stiff, or does the toggle feel loose or crackly? Any faint buzz when on?"
+    },
+    {
+      "cause": "Wrong dimmer for the bulb type (a standard/incandescent dimmer driving non-dimmable or incompatible LEDs). This can cause excess heat, flicker, and buzz.",
+      "likelihood": "common",
+      "quickCheck": "Check if the dimmer is rated 'LED/CFL compatible' and the bulbs say 'dimmable.' A mismatch causes heat and flicker."
+    },
+    {
+      "cause": "Heavy or near-rated load on the switch. A 15A switch is rarely maxed out by lighting alone, but a switch feeding a large bank of old incandescent/halogen bulbs, or wired to carry more than simple lighting, will run warmer. LEDs draw far less current and run much cooler.",
+      "likelihood": "less common",
+      "quickCheck": "Add up the wattage of everything the switch controls. A wall of incandescent/halogen flood bulbs is the red flag; the same scene in LED draws a fraction of the current."
+    },
+    {
+      "cause": "Aluminum branch wiring (common in homes built ~1965\u20131973) connected to switches not rated for it. Aluminum-to-copper junctions can loosen and overheat over time.",
+      "likelihood": "less common",
+      "quickCheck": "Look at the cable jacket and wire: dull silver conductor (not copper) may be aluminum. If so, do not disturb it \u2014 leave it connected and call a licensed electrician. This is a known fire hazard."
+    }
+  ],
+  "fixes": [
+    "First, judge severity. Slightly warm and quiet, with no smell or discoloration, on a dimmer or busy lighting circuit is usually fine. Hot to the touch (you can't hold a finger on it), buzzing or crackling, a burnt-plastic smell, a brown or scorched faceplate, or flicker means turn it off and stop using it.",
+    "If it's hot or smells: switch it off. If the wall plate is discolored or it smells like burning, shut off that circuit at the breaker and call a licensed electrician. Do not keep using it.",
+    "Reduce the load as a quick test. Swap high-wattage incandescent/halogen bulbs for LEDs (a 60W incandescent becomes roughly an 8-10W LED). Less current through the switch means less heat. Confirm the bulb count is within the fixture's rating.",
+    "For a dimmer running hot: verify its wattage rating covers your total bulb load (dimmers list a max), and that it's an LED-rated dimmer paired with dimmable bulbs. Replacing a mismatched dimmer with the correct LED dimmer often fixes the heat and buzz.",
+    "To inspect or replace the switch yourself (careful homeowners only, single-pole or 3-way line-voltage switch \u2014 not the panel): turn off the breaker for that circuit, then confirm power is dead with a non-contact voltage tester at the switch before touching anything. Remove the plate and pull the switch out.",
+    "Check the connections. If wires are back-stabbed into push-in holes on the back, moving them to the side screw terminals and tightening firmly is more reliable and runs cooler. Look for any darkened, melted, or brittle insulation.",
+    "If a wire or terminal is scorched, or you see aluminum wiring, stop and call a licensed electrician \u2014 that damage means a real fault, not just a tired switch.",
+    "Replace a worn switch with a new one of the same rating (typically 15A/120V residential), matching the number of poles (single-pole vs 3-way) and re-using the same wire positions. Wire it to the screw terminals, seat it back in straight, replace the plate, restore power, and feel it again after 30 minutes of use."
+  ],
+  "diyVsPro": "A careful homeowner can swap a bulb to LED, replace a like-for-like single-pole or 3-way switch or dimmer, and move wires from back-stabs to screw terminals \u2014 as long as the breaker is off and verified dead first. Call a licensed electrician if you find scorched wires or terminals, aluminum wiring, a switch too hot to touch, a burning smell, repeated breaker tripping, or if the circuit feeds more than simple lighting and you're unsure. Anything at the panel, any 240V circuit, or any sign of an actual fault is pro territory.",
+  "typicalCostUSD": "DIY: a standard switch is $2-8, a quality LED-compatible dimmer $20-40, LED bulbs $2-6 each. Pro: an electrician to diagnose and replace a switch typically runs $120-250 including a service-call minimum; correcting aluminum wiring or a damaged circuit can run $300-800+ depending on scope.",
+  "timeEstimate": "5 minutes to assess severity; 15-30 minutes to replace a switch or dimmer yourself.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always shut off the circuit at the breaker and confirm the switch is dead with a non-contact voltage tester before touching any wiring \u2014 never trust the wall switch alone, since a switch can cut the light while leaving wires live. If you smell burning plastic, see scorching, or the switch is too hot to touch, kill the breaker and call a licensed electrician rather than opening it up. Do not disturb suspected aluminum wiring yourself. Hot switches and discoloration are early warning signs of an electrical fire; do not ignore them.",
+  "toolsParts": [
+    "Non-contact voltage tester",
+    "Insulated flathead and Phillips screwdrivers",
+    "Replacement switch or LED-rated dimmer (matching amperage and pole count)",
+    "LED bulbs (to reduce load)",
+    "Wire strippers (if re-terminating wires)",
+    "Flashlight or headlamp"
+  ],
+  "searchTerms": [
+    "light switch warm to touch",
+    "is a warm light switch dangerous",
+    "dimmer switch hot normal",
+    "light switch getting hot fix",
+    "buzzing warm light switch",
+    "should a light switch be warm"
+  ],
+  "sources": [
+    "Manufacturer guidance (dimmer wattage/heat ratings, e.g. Lutron/Leviton instructions)",
+    "National Electrical Code norms (15A/20A circuit and device ratings, terminal connections)",
+    "Reputable DIY references (This Old House, Family Handyman)",
+    "CPSC guidance on aluminum branch-circuit wiring hazards"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed electrician's inspection. Electrical codes and conditions vary; when in doubt, or if you see any sign of an actual fault, hire a qualified pro and follow your local code.",
+  "verified": true,
+  "verifierNote": "Confirmed costs, ratings, aluminum-wiring dates, and back-stab-to-screw advice; softened the \"overloaded 15A switch\" cause (lighting rarely maxes a switch \u2014 loose connections are the real heat source), added not-to-disturb-aluminum warnings, scoped DIY to non-panel line-voltage switches, and clarified that a switch can leave wires live.",
+  "kind": "pillar"
+}

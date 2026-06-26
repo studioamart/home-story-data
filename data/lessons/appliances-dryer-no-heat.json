@@ -1,0 +1,83 @@
+{
+  "slug": "appliances-dryer-no-heat",
+  "system": "appliances",
+  "title": "Dryer Runs But Won't Heat \u2014 Causes & Fixes",
+  "question": "Why is my dryer running but not heating up?",
+  "summary": "A dryer that tumbles but won't heat is usually starved of airflow (clogged lint/vent), missing one leg of its 240V power (electric models), or has a blown thermal fuse. Most causes are cheap to fix; gas burner and 240V power issues are where you call a pro.",
+  "commonCauses": [
+    {
+      "cause": "Clogged lint filter or blocked dryer vent duct \u2014 trapped heat trips the dryer's safety thermostat, so it tumbles but stops heating. This is the single most common cause and also a serious fire hazard.",
+      "likelihood": "most common",
+      "quickCheck": "Pull the lint screen (is it caked?), then run the dryer and feel the exterior vent flap outside \u2014 weak or no airflow means a clog."
+    },
+    {
+      "cause": "Electric dryer is getting only 120V instead of 240V \u2014 one of the two breakers (or one half of a double breaker) tripped, or a fuse blew. The motor and lights run on 120V, but heat needs the full 240V.",
+      "likelihood": "common",
+      "quickCheck": "Drum spins and panel lights up but no heat? Check the panel: flip the dryer's double breaker fully OFF then back ON."
+    },
+    {
+      "cause": "Blown thermal fuse \u2014 a one-time safety device that opens permanently after an overheat (almost always caused by an earlier vent clog). On many models a blown thermal fuse kills heat; on some it kills the whole machine.",
+      "likelihood": "common",
+      "quickCheck": "Unplug, access the fuse on the blower/heat duct, and test for continuity with a multimeter \u2014 no continuity means blown."
+    },
+    {
+      "cause": "Failed heating element (electric) \u2014 the coil burns out or sags and shorts. Common on older dryers.",
+      "likelihood": "common",
+      "quickCheck": "Unplug and test the element terminals for continuity; an open (no continuity) element is dead."
+    },
+    {
+      "cause": "Gas dryer: igniter or gas valve coils failed, or the gas supply is off \u2014 the burner never lights.",
+      "likelihood": "common",
+      "quickCheck": "Confirm the gas shutoff behind the dryer is open and other gas appliances work; listen for the igniter glowing/clicking at cycle start."
+    },
+    {
+      "cause": "Failed thermostat (cycling or high-limit) or a faulty timer/control board not calling for heat.",
+      "likelihood": "less common",
+      "quickCheck": "After cheaper causes are ruled out, test thermostats for continuity at room temperature; suspect the control board last."
+    }
+  ],
+  "fixes": [
+    "Empty the lint screen every load. Then clean the screen housing with a vacuum and a long lint brush.",
+    "Disconnect and clean the full vent run: unplug the dryer (or shut off the gas), pull it out, detach the duct, and vacuum/brush out lint from the duct, the wall stub, and the exterior hood. Replace any crushed or plastic flex duct with smooth rigid or semi-rigid metal duct.",
+    "Confirm the exterior vent flap opens freely with airflow and isn't blocked by a bird nest or lint mat.",
+    "Electric, no heat: at the breaker panel, switch the dryer's double-pole breaker fully OFF, then back ON to reset a half-tripped breaker. If it trips again, stop and call an electrician.",
+    "If you're comfortable and the machine is unplugged, test the thermal fuse, heating element, and thermostats for continuity with a multimeter. These are inexpensive parts (often $10-40) and are common DIY swaps on electric dryers.",
+    "Critical: if a thermal fuse blew, find and clear the airflow blockage that caused it before replacing the fuse \u2014 otherwise the new fuse will blow again and you've masked a fire risk.",
+    "Gas dryer: verify the gas supply valve behind the unit is open and other gas appliances work. Beyond that, leave igniter, gas valve coil, and burner work to a licensed appliance tech.",
+    "If the basics check out and you're not equipped to test components, call an appliance repair tech \u2014 bring the brand and model number (on the door jamb or inside the door)."
+  ],
+  "diyVsPro": "DIY is fine for cleaning the lint screen and full vent run, resetting the breaker once, and \u2014 if you own a multimeter and are comfortable working inside an unplugged electric dryer \u2014 swapping a thermal fuse, heating element, or thermostat. Call a licensed pro for anything on a gas dryer's burner system (igniter, gas valve, gas leaks), for 240V power problems at the panel or outlet, or if a breaker keeps tripping. Also call a pro if you've cleaned the vent and reset power but still have no heat and don't want to open the cabinet.",
+  "typicalCostUSD": "DIY: vent cleaning $0-30 (brush kit); thermal fuse, thermostat, or heating element parts $10-60. Pro: appliance repair service call typically $90-180, with common repairs landing $150-400 total parts + labor. Professional vent cleaning runs $100-200. Gas valve/igniter repair often $150-350.",
+  "timeEstimate": "Lint screen and vent cleaning: 30-60 minutes. Breaker reset: 5 minutes. DIY part replacement (thermal fuse/element/thermostat): 1-2 hours including testing. Pro repair: usually a single 1-2 hour visit.",
+  "safetyLevel": "caution",
+  "safetyNote": "A clogged dryer vent is a leading cause of home fires \u2014 clean it regularly and never run a dryer without the lint screen. ALWAYS unplug an electric dryer (or shut off the gas and unplug) before opening the cabinet; never test components on a live machine. Gas work and 240V panel/outlet work carry real risk of fire, electric shock, and gas leaks \u2014 leave those to a licensed pro. If you smell gas, leave the house and call your gas utility from outside. A breaker that repeatedly trips signals a wiring or short fault that needs an electrician, not repeated resets.",
+  "toolsParts": [
+    "Vacuum with hose attachment",
+    "Long flexible dryer-vent lint brush",
+    "Multimeter (for continuity testing)",
+    "Nut driver / screwdriver set",
+    "Replacement thermal fuse, heating element, or thermostat (model-specific)",
+    "Rigid or semi-rigid metal dryer duct and clamps (if replacing flex duct)",
+    "Work gloves"
+  ],
+  "searchTerms": [
+    "dryer not heating but running",
+    "dryer no heat fix",
+    "dryer thermal fuse blown",
+    "electric dryer no heat 120v 240v",
+    "gas dryer not heating igniter",
+    "clogged dryer vent no heat",
+    "how to test dryer heating element",
+    "dryer breaker tripped no heat"
+  ],
+  "sources": [
+    "Manufacturer use-and-care and service guidance (Whirlpool, GE, LG, Samsung, Maytag)",
+    "Reputable DIY repair references (This Old House, Family Handyman)",
+    "NFPA / U.S. Fire Administration guidance on dryer lint and vent fire safety",
+    "National Electrical Code norms for 240V dryer circuits"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for professional inspection. Always unplug the dryer and shut off the gas before servicing. Work on gas lines, burner components, and 240V electrical should be done by a licensed professional. If you smell gas or see scorching, stop and call a pro or your utility.",
+  "verified": true,
+  "verifierNote": "Confirmed technical claims (120V/240V split, thermal fuse, element). Downgraded safetyLevel from \"call-a-pro\" to \"caution\" since the headline fix (vent cleaning) and breaker reset are safe DIY and the original level contradicted the body; kept strong gas/240V pro warnings, bumped pro service-call floor to $90-180, and minor wording fixes.",
+  "kind": "pillar"
+}

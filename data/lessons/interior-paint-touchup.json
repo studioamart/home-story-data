@@ -1,0 +1,77 @@
+{
+  "slug": "interior-paint-touchup",
+  "system": "interior",
+  "title": "Paint Touch-Ups That Actually Blend \u2014 Why Yours Show & How to Fix It",
+  "question": "How do I touch up interior paint so the spot doesn't stand out?",
+  "summary": "Touch-ups usually show because of sheen and color mismatch, not bad paint \u2014 fixing it means using the exact original paint, the same applicator, and feathering a thin coat. When a wall is too faded or the spot too big, repainting wall-to-corner is the only reliable blend.",
+  "commonCauses": [
+    {
+      "cause": "Sheen mismatch \u2014 the touch-up dries shinier or flatter than the surrounding wall, so it 'flashes' under angled light even when the color is perfect",
+      "likelihood": "most common",
+      "quickCheck": "Shine a light raking across the wall from the side; if you only see the spot at an angle, it's sheen, not color."
+    },
+    {
+      "cause": "Color drift \u2014 the original paint on the wall has faded from sunlight, smoke, or years of cleaning, so fresh paint from the same can no longer matches",
+      "likelihood": "most common",
+      "quickCheck": "Compare a hidden area (behind furniture) to an exposed wall; if they differ, the wall has faded and fresh paint will look brighter."
+    },
+    {
+      "cause": "Wrong applicator or heavy application \u2014 using a brush where the wall was rolled, or laying it on thick, leaves a different texture (stipple) and a hard edge",
+      "likelihood": "common",
+      "quickCheck": "Touch the wall: rolled walls have a fine orange-peel stipple; a brushed touch-up will feel and look smooth and flat by comparison."
+    },
+    {
+      "cause": "Different paint entirely \u2014 you used 'close enough' leftover paint, a store color match, or a different brand/batch instead of the actual original",
+      "likelihood": "common",
+      "quickCheck": "Check whether the can you used is the original labeled can for that room; a guess or rematch rarely blends."
+    },
+    {
+      "cause": "Skipping primer over a stain, patch, or repair \u2014 patched drywall mud or a stain soaks up paint differently and shows through",
+      "likelihood": "less common",
+      "quickCheck": "If the touch-up went over spackle, a water stain, or a bare patch and looks dull or blotchy, the substrate wasn't sealed first."
+    }
+  ],
+  "fixes": [
+    "Find the original paint first. Check the can in the basement or garage for the brand, line, color name/code, and sheen (flat, eggshell, satin, semi-gloss). The exact same product is the single biggest factor in a blend. If the can is dried up, take a quarter-sized chip to a paint store for a scan-match \u2014 but know a scan rarely matches as well as the real can.",
+    "Clean the area gently with mild soap and water, rinse, and let it dry fully. Dust, kitchen grease, and hand oils stop new paint from sitting right and reading the correct color.",
+    "Prime only if needed: spot-prime any spackle/patch, water stain, or bare drywall with a stain-blocking primer (e.g., Kilz or Zinsser) so the repair doesn't soak up paint and flash. Don't prime an intact painted wall \u2014 it just creates another mismatch.",
+    "Match the applicator to how the wall was done. Rolled wall = use a small foam or mini-roller to recreate the same stipple. Brushed trim = use a brush. A brush on a rolled wall almost always shows.",
+    "Stir the paint well and apply a THIN coat \u2014 less is more. Feather (lightly drag) the edges outward so there's no hard line; aim for the touch-up to fade into the old paint, not stop abruptly.",
+    "Keep each touch-up small and centered on the defect. Big swaths show more than small dabs. Let it dry fully (check the can \u2014 typically about 1-4 hours for latex before recoat), then judge in daylight AND with a lamp at an angle before adding a second thin coat.",
+    "If it still flashes, the real fix is to repaint the whole wall plane corner-to-corner (or trim end-to-end). Paint stops cleanly at inside corners and edges, so a full plane hides the sheen or age difference a spot never will.",
+    "For future touch-ups, write the room + color + sheen on the can lid with a marker and keep a small labeled jar; same-batch paint is what makes touch-ups invisible."
+  ],
+  "diyVsPro": "This is a fully DIY cosmetic task \u2014 no licensed pro is needed. Consider hiring a painter only when the 'fix' becomes repainting many walls or a whole room, when there are high ceilings or stairwells requiring tall ladders or scaffolding (a real fall risk \u2014 don't overreach on a ladder), or when a recurring stain (water, smoke, persistent mildew) keeps bleeding through, which signals an underlying moisture or leak problem to fix before any paint will hold.",
+  "typicalCostUSD": "DIY: $0 if you have the original paint; $5-15 for a foam roller, brush, and small primer; $20-50 for a quart if you must rematch. Pro: a painter for a single wall or small room runs roughly $150-400 depending on size, height, and prep; a full interior repaint is about $2-6+ per sq ft of wall.",
+  "timeEstimate": "15-30 minutes of hands-on work for a small spot, plus drying time (commonly 1-4 hours for latex) before a second coat. A full wall repaint is a half-day including prep and two coats.",
+  "safetyLevel": "caution",
+  "safetyNote": "Cosmetic and low-risk overall. Ventilate well (open a window) when using oil-based or stain-blocking primers, which give off strong fumes. Important: if your home was built before 1978, assume the existing paint may contain lead \u2014 do NOT dry-sand or scrape it; wet-clean the area instead and follow EPA Renovation, Repair and Painting (RRP) lead-safe practices before disturbing any old paint, especially around children. For anything above comfortable arm's reach, use a stable ladder and don't overreach.",
+  "toolsParts": [
+    "Original paint can (brand, color code, and sheen) \u2014 or a paint chip for matching",
+    "Small foam roller or mini-roller (for rolled walls)",
+    "Quality angled brush (for trim or brushed surfaces)",
+    "Stain-blocking primer (e.g., Kilz or Zinsser) for patches and stains only",
+    "Mild soap, water, and a clean cloth or sponge",
+    "Paint tray or small container, stir stick",
+    "Painter's tape (for clean edges at trim/corners)",
+    "Drop cloth, and a lamp or flashlight to check for flashing"
+  ],
+  "searchTerms": [
+    "paint touch up not blending",
+    "why does my paint touch up show",
+    "how to touch up wall paint",
+    "paint touch up flashing different sheen",
+    "match interior wall paint",
+    "feather paint touch up edges",
+    "touch up paint same color but looks different"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "Paint manufacturer application guidance (Sherwin-Williams, Benjamin Moore, Behr touch-up instructions)",
+    "EPA Renovation, Repair and Painting (RRP) lead-safe practices for pre-1978 homes"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for professional advice. Conditions in your home may differ; when in doubt or when work exceeds your comfort level, consult a qualified professional.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes/costs as accurate; firmed the pre-1978 lead warning (no dry-sanding) and added ladder/fall caution, bumped safetyLevel none\u2192caution, and softened the dry-time claim to a can-dependent 1-4 hr range.",
+  "kind": "pillar"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "repair-door-wont-latch",
+  "system": "interior",
+  "title": "Interior Door Won't Latch or Stay Shut? Fix the Strike-Plate Alignment",
+  "question": "My interior door won't latch \u2014 it swings shut but pops back open or the latch bolt doesn't catch the hole in the strike plate. How do I realign the strike plate so the door stays closed?",
+  "summary": "A door won't latch because the spring-loaded latch bolt no longer lines up with the hole in the strike plate on the jamb \u2014 almost always off by a sixteenth to a quarter inch from house settling, humidity swelling, or loose hinges. You diagnose the exact direction it's missing, then either file the strike hole bigger, move the strike plate, or tighten the hinges to bring it back into line. A 15-minute fix in most cases with a screwdriver and maybe a file.",
+  "commonCauses": [
+    {
+      "cause": "Latch bolt hits ABOVE or BELOW the strike hole (vertical misalignment) \u2014 usually from a sagging door because the top hinge screws have loosened, or the house has settled.",
+      "likelihood": "most common",
+      "quickCheck": "Close the door slowly and watch where the latch bolt tip lands on the strike plate. Or smear lipstick/pencil on the latch bolt, push it against the strike, and see where the mark lands relative to the hole."
+    },
+    {
+      "cause": "Latch bolt hits TOO FAR OUT (toward you) \u2014 the door isn't closing deep enough, so the bolt never reaches the strike hole. Often a swollen door, paint buildup on the jamb stop, or weatherstrip/carpet holding it open.",
+      "likelihood": "common",
+      "quickCheck": "Push firmly on the door while turning the knob. If it latches when you press hard, the bolt is reaching but the door isn't seating \u2014 it's a depth problem, not vertical."
+    },
+    {
+      "cause": "Latch bolt lands left/right of center on the strike hole (horizontal) \u2014 the hole just needs slight enlargement on one side.",
+      "likelihood": "common",
+      "quickCheck": "With the door open, look straight at the strike hole, then close slowly and note if the bolt is biased to one edge of the hole."
+    },
+    {
+      "cause": "Loose hinge screws letting the whole door drop \u2014 the real root cause behind many 'sudden' latching problems. The top hinge carries the most load and strips out first.",
+      "likelihood": "common",
+      "quickCheck": "Grab the door by its outer (latch) edge and lift up/push in. If it moves or you hear the hinge clunk, screws are loose. Check that hinge screws are snug, especially the top hinge."
+    },
+    {
+      "cause": "Seasonal humidity swelling the door or jamb \u2014 the door binds and stops short. Comes and goes with the weather, which is the tell.",
+      "likelihood": "less common",
+      "quickCheck": "Note whether the problem appeared in a humid/wet season and eases when it's dry. If so, avoid permanent material removal and try the gentler fixes first."
+    }
+  ],
+  "fixes": [
+    "Diagnose first. Color the tip of the latch bolt with a pencil, lipstick, or a dark marker. Close the door normally, then open it and look at the strike plate \u2014 the smudge shows exactly where the bolt is hitting relative to the hole. This one step tells you which fix you need; skip it and you'll guess wrong.",
+    "Tighten all the hinge screws (do this before anything else). Open the door, snug every hinge screw with a screwdriver \u2014 not a drill, you don't want to overdrive and strip the hole. If a screw just spins and won't bite (stripped hole), back it out, tap a few wooden toothpicks or a golf tee with wood glue into the hole, snap them flush, let it set, and redrive. For a sagging door, replace one top-hinge screw with a 2.5\u20133 inch screw that reaches the wall framing behind the jamb \u2014 this pulls the door up and over, often curing the misalignment outright.",
+    "If the smudge is just slightly off (within ~1/8 inch of the hole), enlarge the strike hole with a metal file. Remove the strike plate's two screws, clamp it or hold it firmly, and file the edge of the hole in the direction the bolt is missing (file the top edge up if the bolt hits high, the bottom edge down if it hits low). Test-fit, file a little more if needed. Deburr the filed edge and reinstall. This is the fastest fix for small misses.",
+    "If the bolt misses by more than about 1/8 inch, move the strike plate. Unscrew it, reposition it up/down or in/out as the smudge indicated, and mark new screw holes. If you only need a tiny shift, you can sometimes reuse the holes by angling the screws. For a bigger move you'll need to chisel the mortise (the recessed pocket) slightly larger and fill the old screw holes with toothpicks/glue so new screws bite. Re-test before the final tighten.",
+    "If it's a depth problem (bolt reaching but door won't seat), find what's stopping it: scrape paint buildup off the jamb stop, sand a swollen edge lightly, or check for carpet/weatherstrip in the way. Alternatively, move the strike plate slightly toward the door stop so the bolt catches sooner \u2014 but don't move it so far the door rattles.",
+    "For seasonal swelling, try a non-permanent fix first: rub a candle or bar soap on the binding edge, or adjust the strike. Only sand/plane the door as a last resort, and do it at the end of the humid season so you don't over-remove and leave a gap when it dries.",
+    "Final check: close the door ten times. It should latch on a normal swing with no slam and no rattle when shut. If it rattles, the strike sits a hair too far out \u2014 nudge it toward the stop. If it still won't catch, recheck the smudge test; the geometry changed."
+  ],
+  "diyVsPro": "This is a beginner-friendly DIY job for the vast majority of cases \u2014 tightening hinges, filing a strike hole, or moving a strike plate needs only hand tools and patience. Call a carpenter or handyman if the door itself is visibly warped or cracked, the jamb is rotted or pulling away from the wall, the gaps around the door are wildly uneven (a sign the rough opening has shifted structurally), or you've moved the strike and tightened hinges and it still binds \u2014 at that point the door may need rehanging or planing, which is fussier work. Rot or a structurally shifting opening is a pro call, not a DIY patch.",
+  "typicalCostUSD": "$0\u201315 DIY (you likely already own a screwdriver; a metal file is ~$8\u201312 and longer 2.5\u20133 inch screws are a few dollars). A handyman call-out runs $75\u2013200 depending on your area and whether the door needs rehanging.",
+  "timeEstimate": "15\u201330 minutes for a typical strike/hinge fix; up to an hour if you have to chisel and relocate the strike plate.",
+  "safetyLevel": "none",
+  "safetyNote": "Low-risk cosmetic/mechanical work. Wear eye protection when filing metal so shavings don't get in your eyes, and watch your fingers with the file and chisel. If you drive a longer screw into the jamb, do it gently \u2014 overdriving can crack or dimple the trim. No electrical, gas, or structural hazard in the standard fix. If you uncover rot or the jamb is pulling away from the wall, stop and get a carpenter \u2014 that's a structural issue, not a strike-plate fix.",
+  "toolsParts": [
+    "Phillips screwdriver (manual, not a drill, for hinge screws)",
+    "Pencil, lipstick, or dark marker (for the smudge/diagnosis test)",
+    "Metal/mill file (flat or half-round) to enlarge the strike hole",
+    "Wooden toothpicks or golf tees + wood glue (to fix stripped screw holes)",
+    "2.5\u20133 inch wood screws (to reach framing and lift a sagging door)",
+    "Wood chisel and hammer (only if relocating the strike plate's mortise)",
+    "Drill with small bit (optional, for pilot holes when moving the strike)",
+    "Eye protection",
+    "Bar soap or candle wax (for a binding/swollen edge)"
+  ],
+  "searchTerms": [
+    "interior door won't latch how to fix",
+    "door latch doesn't line up with strike plate",
+    "door won't stay closed pops open",
+    "how to adjust strike plate alignment",
+    "door latch hits above strike plate hole",
+    "file strike plate to make door latch",
+    "door sagging won't latch tighten hinge",
+    "strike plate misaligned interior door fix"
+  ],
+  "sources": [
+    "General home-maintenance and carpentry best practices (strike-plate alignment, hinge-screw repair with toothpicks/longer screws, mortise relocation)",
+    "Common door-hardware manufacturer installation guidance (latch bolt and strike plate fit)"
+  ],
+  "disclaimer": "General home-maintenance guidance for a typical US interior door. Your specific door, jamb, and hardware may differ. If anything seems structurally wrong (warping, rot, a shifting opening) or you're unsure, consult a qualified carpenter or handyman.",
+  "verified": true,
+  "verifierNote": "Confirmed the diagnose-tighten-file-relocate sequence, costs, and times match standard US carpentry practice; fixed a backward file-direction instruction (file high-hit edge up), corrected the 3-in screw to a 2.5\u20133 in range, clarified \"outer edge\" as latch edge, added deburring, and reinforced rot/structural-shift = pro.",
+  "kind": "spoke"
+}

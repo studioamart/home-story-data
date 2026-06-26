@@ -1,0 +1,82 @@
+{
+  "slug": "plumbing-faucet-drip-diagnose",
+  "system": "plumbing",
+  "title": "Faucet Dripping From the Spout vs. Leaking Around the Handle: How to Tell Them Apart and Fix Each",
+  "question": "My faucet keeps dripping. How do I figure out whether it's dripping from the spout or leaking around the base of the handle, and how do I fix each one myself?",
+  "summary": "Where the water shows up tells you which part failed: drips out the spout mean a worn cartridge, washer, or valve seat (the part that shuts the water OFF), while water seeping around the handle or base means a worn O-ring or packing (the part that keeps pressurized water IN). Most fixes are a $5-25 part and an hour of work once you shut off the supply valves under the sink.",
+  "commonCauses": [
+    {
+      "cause": "Spout drip = the shut-off seal failed. In a single-handle faucet this is the cartridge; in a two-handle faucet it's the rubber washer (compression type) or a rubber seat and spring (Delta-style ball/cartridge). Water gets past the closed valve and trickles out the end.",
+      "likelihood": "most common",
+      "quickCheck": "Wipe the spout dry, close the faucet fully, and watch for 2-3 minutes. Steady or intermittent drops from the spout tip = internal shut-off seal, not the handle."
+    },
+    {
+      "cause": "Handle/base leak = a sealing ring failed under pressure. Water escaping around the handle, under the decorative cap, or pooling at the base of the spout where it meets the deck usually means a worn O-ring, a loose or worn packing nut, or (on a swivel spout) the spout O-rings.",
+      "likelihood": "common",
+      "quickCheck": "Dry the handle and base, then turn the water ON and leave it running. If water weeps out around the handle or base only while it's on, the problem is a pressure seal (O-ring/packing), not the shut-off."
+    },
+    {
+      "cause": "Mistaking the faucet type. The right part and the right fix depend entirely on the mechanism: compression (separate hot/cold, handle keeps turning and gets tighter), cartridge, ball (single handle with a rounded cap, often a dome), or ceramic-disc. Buying the wrong repair kit is the #1 reason a 'simple' fix stalls.",
+      "likelihood": "common",
+      "quickCheck": "Single handle that lifts up/down and swivels = cartridge or ball. Two handles you screw down hard = compression. Look for a brand stamp (Moen, Delta, Kohler, Price Pfister) on the faucet to match parts."
+    },
+    {
+      "cause": "Mineral scale or a pitted valve seat. Even with a fresh washer, a corroded/pitted brass seat will keep dripping because the new washer can't seal against a rough surface. Common in hard-water areas.",
+      "likelihood": "less common",
+      "quickCheck": "With the faucet apart, run a fingertip around the seat down in the valve body. Gritty, rough, or pitted = the seat needs dressing (a seat-grinding tool) or replacing, not just a new washer."
+    },
+    {
+      "cause": "Loose packing nut or just-not-tight reassembly. Sometimes the only problem is a packing nut that backed off, or parts seated crooked after a previous repair.",
+      "likelihood": "less common",
+      "quickCheck": "On a compression faucet, gently snug the packing nut (the nut directly under the handle) about a quarter turn with a wrench. If a base/handle weep stops, that was it."
+    }
+  ],
+  "fixes": [
+    "Identify the faucet type and brand first. Look for a maker's mark (Moen, Delta, Kohler, Pfister, American Standard). Note whether it's single-handle (cartridge or ball) or two-handle (compression or ceramic-disc). Snap a phone photo of the faucet to show at the hardware store.",
+    "Shut off the water. Turn the two angle-stop valves under the sink clockwise until they stop. Open the faucet to release pressure and confirm flow stops. Put a rag or basin in the sink and close the drain stopper so small parts and screws can't fall down it.",
+    "Diagnose with the dry-and-watch test. For a SPOUT drip: dry the spout, fully close the faucet, watch 2-3 minutes. For a HANDLE/BASE leak: dry everything, turn the water on, and look for weeping around the handle or base while it runs.",
+    "SPOUT DRIP, two-handle compression: pry off the handle index cap, remove the handle screw and handle, unscrew the packing/bonnet nut, lift out the stem. Replace the rubber seat washer on the bottom (match size exactly) and the stem O-ring. Inspect the brass seat down in the body; if pitted, dress it with a seat wrench/grinder or replace it. Reassemble.",
+    "SPOUT DRIP, single-handle cartridge (e.g., Moen): pop the cap, remove the handle screw and handle, pull the retaining clip with needle-nose pliers, then pull the cartridge straight up (a cartridge puller helps if it's stuck). Drop in the exact replacement cartridge in the same orientation. Reinstall the clip first, then the handle.",
+    "SPOUT DRIP, single-handle ball (e.g., Delta): buy the brand repair kit. Remove the cap, lift out the ball, and replace the two rubber seats and springs in the bottom of the body with the tool/parts in the kit. Replace the cam and packing on top. This is the fiddliest type, parts are tiny.",
+    "HANDLE/BASE leak: replace O-rings. For a swivel-spout leak at the base, lift off the spout and roll new O-rings onto the body (coat them with plumber's silicone grease, never petroleum-based). For a compression handle weep, replace the stem O-ring and snug the packing nut about a quarter turn, no more.",
+    "Turn the supply valves back on slowly, then run the faucet and re-run both watch tests. Check under the sink with a dry paper towel for any new leaks at the supply connections. If it's dry hot and cold, you're done.",
+    "If the drip persists after a correct part swap, suspect a pitted seat (replace/dress it) or the wrong part. If the valve body itself is corroded or the faucet is decades old, replacing the whole faucet ($80-250 part) is often smarter than chasing seals."
+  ],
+  "diyVsPro": "Strongly DIY for most people. Cartridge, washer, and O-ring swaps need only basic hand tools and a $5-25 part, and the worst case is you simply close the supply valves and call someone. Call a plumber if: the angle-stop shutoff valves under the sink won't close or leak when you touch them, the cartridge is seized solid and snaps, the valve seat is corroded into a one-piece body, or there's no local shutoff and you'd have to kill the whole house main. Also call a pro if water has been wicking into the cabinet or wall, since hidden moisture and any sign of rot or mold is its own problem and needs professional assessment.",
+  "typicalCostUSD": "DIY: $5-15 washer/O-ring kit, $10-25 cartridge, $12-20 brand ball-faucet kit, plus ~$8 plumber's grease and ~$10 seat wrench if needed. Pro: $125-250 for a service call and basic faucet repair; $200-450 installed if the whole faucet gets replaced.",
+  "timeEstimate": "30-60 minutes for a first-timer once you have the right part; add a trip to the hardware store to match the cartridge/kit.",
+  "safetyLevel": "caution",
+  "safetyNote": "Low physical risk, but water risk is real: always shut off and verify both supply valves before opening the faucet, and keep a basin and towels ready. Never force a stuck shutoff valve, old gate valves can snap and flood the cabinet. Use only plumber's silicone grease on O-rings, petroleum jelly degrades the rubber. Cap the drain so screws and clips don't disappear down it. If you find rot, mold, or long-standing moisture in the cabinet or wall, stop and bring in a pro.",
+  "toolsParts": [
+    "Phillips and flat-head screwdrivers",
+    "Adjustable wrench and/or channel-lock pliers",
+    "Needle-nose pliers (for cartridge retaining clips)",
+    "Allen/hex key set (many handle set screws)",
+    "Brand-specific repair kit: cartridge, seat-and-spring kit, or washer/O-ring assortment",
+    "Plumber's silicone grease",
+    "Replacement O-rings sized to your faucet",
+    "Seat wrench or seat-dressing tool (only if the valve seat is pitted)",
+    "Cartridge puller (only for stuck cartridges)",
+    "Rags/towels and a small basin",
+    "Phone (photograph the faucet/brand to match parts)"
+  ],
+  "searchTerms": [
+    "faucet dripping from spout vs leaking around handle",
+    "how to tell if faucet leak is cartridge or o-ring",
+    "single handle faucet drips from spout how to fix",
+    "two handle faucet leaking at base when turned on",
+    "Moen cartridge replacement faucet dripping",
+    "Delta ball faucet seats and springs leak fix",
+    "water leaking around faucet handle when running",
+    "replace faucet o-ring stop base leak"
+  ],
+  "sources": [
+    "Manufacturer repair guides and parts finders (Moen, Delta, Kohler, Pfister, American Standard)",
+    "General home-improvement repair references (faucet repair by type: compression, cartridge, ball, ceramic-disc)",
+    "Standard residential plumbing maintenance practice"
+  ],
+  "disclaimer": "General guidance for typical US residential faucets, not a substitute for professional advice. Faucet designs vary by brand and model; always match replacement parts to your exact faucet and shut off the water before disassembly. If you're unsure or the shutoff valves are unreliable, consult a licensed plumber.",
+  "verified": true,
+  "verifierNote": "Confirmed diagnostic logic, fix steps, costs, and tool list as accurate for US residential faucets; corrected Delta seat from \"ceramic/rubber\" to rubber, scoped the packing-nut quarter-turn to compression faucets, and strengthened the rot/mold/moisture-to-pro routing.",
+  "kind": "spoke"
+}

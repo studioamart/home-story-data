@@ -1,0 +1,87 @@
+{
+  "slug": "sound-existing-wall-no-demo",
+  "system": "interior",
+  "title": "How to Soundproof an Existing Interior Wall Without Tearing Out the Drywall",
+  "question": "How can I soundproof an existing interior wall (voices, TV, music from the next room) without removing the existing drywall?",
+  "summary": "You can meaningfully cut noise through an existing wall by sealing every air gap and adding a second mass layer over the drywall you already have \u2014 the highest-impact no-demo move is a new layer of 5/8\" drywall bonded with Green Glue. Learn the realistic gains, the right products, and where DIY ends and a pro begins for soundproofing a wall without demolition.",
+  "commonCauses": [
+    {
+      "cause": "Airborne gaps do most of the leaking \u2014 sound follows air. Outlet/switch boxes, gaps at the floor and ceiling, and door undercuts let noise bypass even a heavy wall (a wall is only as quiet as its leaks).",
+      "likelihood": "most common",
+      "quickCheck": "At night, turn off lights in the quiet room and look for light glowing around outlet covers, baseboard, and the door \u2014 light paths are sound paths."
+    },
+    {
+      "cause": "Not enough mass. A single layer of 1/2\" drywall is light and passes low-frequency bass easily; without adding mass, no caulk or foam will fix bass-heavy TV/music.",
+      "likelihood": "most common",
+      "quickCheck": "Tap the wall \u2014 if it sounds hollow and drum-like, it's a single light layer that would benefit from a second mass layer."
+    },
+    {
+      "cause": "The two drywall faces are rigidly coupled through the studs, so vibration crosses straight through (structure-borne / flanking). Adding mass without a damping layer like Green Glue gives less than you'd expect.",
+      "likelihood": "common",
+      "quickCheck": "Knock along a stud line vs. between studs \u2014 if it transmits hardest right over a stud, the studs are the bridge."
+    },
+    {
+      "cause": "Flanking paths route around the wall entirely \u2014 through shared ductwork/HVAC registers, a common attic, back-to-back outlets, or under a hollow-core door.",
+      "likelihood": "common",
+      "quickCheck": "Temporarily cover a suspected register or the door gap with a heavy blanket; if the noise drops noticeably, that path is flanking around your wall."
+    },
+    {
+      "cause": "Foam panels / 'acoustic' egg-crate get bought by mistake. They absorb echo inside a room but do almost nothing to block sound passing between rooms \u2014 wrong tool, wasted money.",
+      "likelihood": "common",
+      "quickCheck": "If the product is light, soft, porous foam, it's for echo, not blocking \u2014 blocking needs heavy, dense, sealed mass."
+    },
+    {
+      "cause": "Hollow-core door and its perimeter gap. On many 'walls' the actual weak link is the door, which can leak more sound than the wall itself.",
+      "likelihood": "less common",
+      "quickCheck": "Tap the door \u2014 if it's light and hollow and you see daylight around the edges, the door is your weakest point, not the drywall."
+    }
+  ],
+  "fixes": [
+    "Diagnose first: in the quiet room at night, find the actual leak paths (outlets, baseboard gap, ceiling line, door, registers). Fixing leaks is cheap and often gets you part of the way for under $50 before you add any mass.",
+    "Seal the airborne leaks with acoustical sealant (e.g., OSI SC-175 or Green Glue sealant \u2014 it stays permanently flexible, unlike hard latex caulk). Pull the baseboard and run a bead along the wall-to-floor joint, then the wall-to-ceiling joint and any trim gaps. This step is the best dollar-for-dollar improvement.",
+    "Treat the electrical boxes: turn the circuit OFF at the breaker and verify dead with a non-contact tester, pull the cover plates, and seal around the box with putty pads (e.g., 3M MPP) or a bead of acoustical sealant, then add foam outlet gaskets under the plates. Never stuff insulation inside a live box. If boxes are back-to-back with the next room, see the pro note.",
+    "Add mass with a damping layer \u2014 the core no-demo move: screw a new layer of 5/8\" Type X drywall directly over the existing wall, with a full coat of Green Glue Noiseproofing Compound (about 2 tubes per 4x8 sheet) sandwiched between the old and new layer. The Green Glue converts vibration to heat; the extra mass blocks more. Use screws long enough to bite at least 1\" into the studs (typically 2\" through a single existing 1/2\" layer), hit the studs, and stagger the new seams off the old seams.",
+    "Tape, mud, and re-seal: finish the new layer's seams normally, but caulk the entire perimeter of the new layer with acoustical sealant before trim goes back on. An unsealed new layer loses much of its benefit.",
+    "Upgrade the door if it's the weak link: swap a hollow-core door for a solid-core slab, add an adhesive perimeter gasket/weatherstrip kit, and put an automatic door bottom or sweep on the threshold gap.",
+    "Re-mount the baseboard and outlet covers, restore power, and test. Expect a clearly noticeable reduction in voices/TV and a moderate reduction in bass \u2014 realistic, not silence. If bass still bothers you, the remaining gain requires opening the wall (insulation + resilient channel/sound clips or a staggered/double stud), which is no longer a no-demo job."
+  ],
+  "diyVsPro": "DIY-friendly for a handy homeowner: sealing leaks, outlet putty pads/gaskets, door weatherstripping, and adding a Green Glue + 5/8\\\" drywall layer are all standard weekend tasks (drywall is heavy and awkward \u2014 get a helper or a panel lift). Call a pro if the wall is shared with a unit you don't own (condo/townhome \u2014 check HOA and fire-rating rules before adding layers), if you find aluminum wiring or scorched/overloaded outlet boxes when you open the covers, if back-to-back boxes need rerouting, if the noise is structure-borne from plumbing/HVAC/a subwoofer (that's not a drywall fix), or if you actually need a high sound rating and have to open the wall for insulation and resilient channel.",
+  "typicalCostUSD": "$50-150 for sealing-only (acoustical sealant, putty pads, outlet gaskets, door weatherstrip). $250-600 in materials to add Green Glue + a 5/8\\\" drywall layer to a typical 10-12 ft wall (Green Glue ~$20-25/tube, 5/8\\\" sheets ~$15-20 each, screws/mud/tape). Solid-core door swap $150-350. Pro installation of the new layer typically $800-2,000 for one wall depending on region and finish.",
+  "timeEstimate": "Sealing-only: 2-4 hours. Adding a Green Glue + drywall layer to one wall: a full weekend (1-2 days) including mud/tape drying time between coats. Door swap: a half day.",
+  "safetyLevel": "caution",
+  "safetyNote": "The main hazards are minor-electrical and weight. Always shut the circuit OFF at the breaker and verify dead with a non-contact tester before touching outlet/switch boxes; never insulate or seal inside a live box. If you uncover aluminum wiring, charred plugs, or back-to-back boxes that need moving, stop and get a licensed electrician. 5/8\\\" drywall sheets are heavy and unwieldy \u2014 use a helper or a drywall lift and lift with your legs. Keep the new layer fire-rated (Type X) and do not bridge or compromise a fire-rated assembly in shared-wall construction \u2014 verify code first.",
+  "toolsParts": [
+    "Acoustical sealant (OSI SC-175 or Green Glue sealant)",
+    "Green Glue Noiseproofing Compound (~2 tubes per 4x8 sheet)",
+    "Heavy-duty caulk gun (quart-size for sealant tubes)",
+    "5/8\" Type X drywall sheets",
+    "Outlet/switch putty pads (3M MPP) and foam outlet gaskets",
+    "Drywall screws (2\" for a single existing layer; size to bite ~1\" into studs) and screw gun/drill",
+    "Stud finder",
+    "Drywall taping knives, joint compound, paper/mesh tape",
+    "Non-contact voltage tester",
+    "Door weatherstrip kit + automatic door bottom or sweep (and a solid-core door if swapping)",
+    "Utility knife, T-square, tape measure",
+    "Panel lift or a helper, dust mask, safety glasses"
+  ],
+  "searchTerms": [
+    "soundproof existing wall without removing drywall",
+    "add green glue layer over existing wall",
+    "reduce noise through shared wall no demolition",
+    "how to block sound from neighbor's room existing wall",
+    "green glue and second layer of drywall over old drywall",
+    "soundproof wall cheaply without tearing it out",
+    "acoustical caulk outlet putty pads soundproofing",
+    "does adding a layer of drywall reduce noise"
+  ],
+  "sources": [
+    "Green Glue Noiseproofing Compound manufacturer installation guidance (Saint-Gobain)",
+    "USG / National Gypsum drywall assembly STC data sheets",
+    "ASTM E90 / STC sound transmission class concepts (industry standard)",
+    "General building-code norms for Type X fire-rated drywall in shared walls"
+  ],
+  "disclaimer": "General guidance for typical US wood-framed interior walls. Verify local building and fire codes and any HOA/condo rules before adding layers to a shared wall. If you are unsure about electrical work or the wall's construction, consult a licensed professional.",
+  "verified": true,
+  "verifierNote": "Confirmed the Green-Glue-plus-5/8\"-drywall no-demo approach, costs, and realistic-gain framing as sound; fixed the screw-length error (2.5\" screws on a single 1/2\" layer over-penetrate \u2014 changed to 2\"/bite-1\"-into-stud), tightened the \"press and tap\" check to tap-only, removed \"let wiring breathe\" phrasing, and added verify-dead-with-tester to the electrical step.",
+  "kind": "spoke"
+}

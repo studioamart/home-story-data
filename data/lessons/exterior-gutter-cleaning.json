@@ -1,0 +1,74 @@
+{
+  "slug": "exterior-gutter-cleaning",
+  "system": "exterior",
+  "title": "How Often to Clean Your Gutters \u2014 A Practical Schedule",
+  "question": "How often should I clean my gutters?",
+  "summary": "Clean gutters at least twice a year \u2014 late spring and late fall \u2014 but if you have pine, oak, maple, or other trees overhanging the roof, plan on 3 to 4 times a year. The right interval depends on how many trees are near your house, not a fixed calendar.",
+  "commonCauses": [
+    {
+      "cause": "Lots of overhanging trees (especially pine needles, oak catkins, maple seeds) dropping debris year-round",
+      "likelihood": "most common",
+      "quickCheck": "Look up: if branches hang over the roof or you constantly sweep leaves off the deck, your gutters fill fast \u2014 expect 3-4 cleanings a year."
+    },
+    {
+      "cause": "Only the standard twice-a-year cleaning is needed because few trees are nearby",
+      "likelihood": "common",
+      "quickCheck": "If your lot is open with no large trees within 20-30 feet of the house, twice a year (spring and fall) is usually enough."
+    },
+    {
+      "cause": "Heavy single fall leaf-drop from deciduous trees overwhelms gutters in autumn",
+      "likelihood": "common",
+      "quickCheck": "Watch the downspouts after a fall rain \u2014 if water sheets over the front edge instead of draining, they're clogged and overdue."
+    },
+    {
+      "cause": "Roof shingle grit and moss/seed buildup, or a nearby roof being replaced, adds debris",
+      "likelihood": "less common",
+      "quickCheck": "Scoop a handful from the gutter \u2014 black sandy grit means asphalt-shingle granules are accumulating and shortening the interval."
+    },
+    {
+      "cause": "Gutter guards are installed, reducing but not eliminating the need to clean",
+      "likelihood": "less common",
+      "quickCheck": "Guards usually cut cleaning to about once a year, but fine debris still gets through and can mat on top \u2014 check them at least annually, not never."
+    }
+  ],
+  "fixes": [
+    "Set a baseline schedule: clean in late spring (after seeds/blossoms drop) and again in late fall (after most leaves are down). This catches the two big debris seasons.",
+    "Increase to about every 3 months if you have pine, oak, maple, or other heavy-shedding trees overhanging the roof.",
+    "Do a quick ground-level visual check after any major storm \u2014 look for sagging gutters, overflow stains on siding, or plants sprouting in the trough.",
+    "When you clean: set a stable extension ladder on firm, level ground with a helper footing it. Scoop debris by hand (work gloves) into a bucket, then flush the gutter and downspouts with a hose to confirm they drain.",
+    "If a downspout stays clogged after flushing, clear it with the hose or a drain auger while standing on the ground at the bottom outlet \u2014 don't force a tool from up on the ladder, where pushing hard can throw you off balance.",
+    "Confirm water exits the downspout extension at least 4-6 feet away from the foundation; add an extension or splash block if it dumps right at the wall.",
+    "If reaching the gutters means standing on the roof, or on a ladder above the first story, stop and hire a pro instead of risking a fall."
+  ],
+  "diyVsPro": "Single-story homes with safe, level ladder access are a reasonable DIY job for a careful homeowner with a helper. Call a pro for two-or-more-story homes, steep or high roofs, any situation that requires standing on the roof, or if you're uncomfortable on a ladder \u2014 falls from ladders and roofs are a leading cause of serious home-maintenance injuries. Also call a pro if you find rusted-through troughs, separated joints, or fascia pulling away from the house \u2014 those are repairs, not cleaning.",
+  "typicalCostUSD": "DIY: $0-$40 in supplies (gloves, scoop, hose) if you already own a ladder; a basic extension ladder runs $150-$300. Professional cleaning: roughly $120-$250 for a typical single-story home, $200-$450+ for two-story or large/complex rooflines (more in high-cost-of-living areas).",
+  "timeEstimate": "1-2 hours for an average single-story home; 2-4 hours for larger or multi-story homes.",
+  "safetyLevel": "caution",
+  "safetyNote": "The main hazard is the ladder/height work itself. Use a stable extension ladder on firm, level ground, keep three points of contact, never overreach (move the ladder instead), and have a helper foot the ladder. Keep well clear of overhead power lines, especially with a metal ladder. If the job requires getting on the roof or working above the first story, hire a professional \u2014 gutter-cleaning falls send thousands of people to the ER every year.",
+  "toolsParts": [
+    "Extension ladder (stable, rated for your weight plus tools)",
+    "Heavy-duty work gloves",
+    "Gutter scoop or small plastic trowel",
+    "Bucket or tarp for debris",
+    "Garden hose with a spray nozzle",
+    "Optional: drain/plumber's auger for stubborn downspout clogs",
+    "Optional: downspout extension or splash block"
+  ],
+  "searchTerms": [
+    "how often to clean gutters",
+    "gutter cleaning frequency",
+    "when should I clean my gutters",
+    "do gutter guards need cleaning",
+    "clogged gutter overflow fix",
+    "gutter cleaning cost"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "Gutter and exterior manufacturer guidance",
+    "General building-maintenance and ladder-safety best practices (CPSC/OSHA ladder-safety norms)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional advice for your specific home. Conditions vary \u2014 when in doubt, or for any work above the first story, consult a licensed contractor.",
+  "verified": true,
+  "verifierNote": "Confirmed the schedule, debris causes, costs, and ladder safety are sound; softened the gutter-guard frequency claim, added a warning not to force a downspout auger from atop a ladder, kept safetyLevel at caution since single-story DIY is legitimate and roof/multi-story work is already routed to a pro, and nudged the two-story cost ceiling up for realism.",
+  "kind": "pillar"
+}

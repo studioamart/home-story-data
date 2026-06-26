@@ -1,0 +1,91 @@
+{
+  "slug": "yard-drainage",
+  "system": "yard",
+  "title": "Standing Water in Your Yard \u2014 Causes & Fixes",
+  "question": "Why does water pool in my yard and how do I fix the drainage?",
+  "summary": "Standing water means rain has nowhere to go \u2014 usually because the ground slopes toward the spot, the soil is heavy clay, or gutters dump there. Fix it by redirecting downspouts, regrading low spots, or installing a French drain.",
+  "commonCauses": [
+    {
+      "cause": "Negative or flat grade \u2014 the ground slopes toward the low spot (or your foundation) instead of away, so water collects there",
+      "likelihood": "most common",
+      "quickCheck": "After rain, watch where water flows, or set a level on a 4-ft board: the ground should drop about 6 inches over the first 10 feet away from the house (a ~5% slope, the standard building-code minimum)."
+    },
+    {
+      "cause": "Downspouts/gutters dumping water right at the spot \u2014 roof runoff is concentrated into one area with no extension to carry it away",
+      "likelihood": "most common",
+      "quickCheck": "Look at where each downspout ends during rain. If it spills within a few feet of the puddle or the foundation, that's your source."
+    },
+    {
+      "cause": "Heavy clay or compacted soil that won't absorb water (poor percolation)",
+      "likelihood": "common",
+      "quickCheck": "Dig a 12-inch hole, fill with water, let it drain fully, then refill and time it. If it drops less than about 1 inch per hour, your soil drains poorly."
+    },
+    {
+      "cause": "A natural low spot or shallow depression that collects runoff from a larger area",
+      "likelihood": "common",
+      "quickCheck": "Stand back after rain \u2014 is this a bowl that catches water from the whole yard, lawn, or a neighbor's higher property?"
+    },
+    {
+      "cause": "Compacted lawn or buried debris/old construction fill preventing infiltration",
+      "likelihood": "less common",
+      "quickCheck": "Probe the soil with a screwdriver. If it stops hard a few inches down, you may have compaction or buried fill."
+    },
+    {
+      "cause": "A high water table or underground spring keeping the area saturated",
+      "likelihood": "less common",
+      "quickCheck": "If the area stays wet for days even without rain, or you see seepage, the water table may be high \u2014 this usually needs a pro."
+    }
+  ],
+  "fixes": [
+    "Start with the cheapest fix: extend your downspouts. Add flexible or rigid extensions to carry roof water at least 4-6 feet away from the foundation and away from the puddle. This alone solves many drainage problems.",
+    "Fix the grade on small low spots. Strip the sod, add topsoil (or a soil/sand mix) to fill the depression so it slopes away from the house \u2014 about 6 inches of drop over 10 feet \u2014 tamp it in layers, then re-lay sod or seed.",
+    "For larger low areas, build a shallow swale \u2014 a gentle grassed channel that guides surface water toward the street, a storm drain, or a lower part of your own property where it can safely soak in.",
+    "For persistent wet spots, install a French drain: dig a trench about 18 inches deep, sloped at least 1% (roughly 1 inch of drop per 8 feet), line it with landscape fabric, add a gravel base, lay perforated pipe with the holes facing down (so it collects water from the soil), wrap it in the fabric, then cover with gravel and a thin soil cap. Route the outlet to a lower daylight spot or a dry well. Keep the trench away from your foundation footing \u2014 do not dig a deep trench right against the house, which can undermine it; that's a job for a pro.",
+    "Aerate compacted lawns and topdress with organic compost to help clay soil absorb water faster; over time this reduces minor pooling.",
+    "Where you can't move the water elsewhere, install a dry well \u2014 a buried, gravel-filled pit or perforated basin that lets collected water slowly percolate into the ground (works only if the surrounding soil drains; useless in heavy clay or a high water table).",
+    "Always confirm where the water will end up. Never drain onto a neighbor's property or into a spot that sends water back at your (or their) foundation \u2014 that can violate local stormwater codes and create liability.",
+    "Call 811 before any digging to mark buried utility lines \u2014 it's free and legally required in the US. Wait for the marks before you put a shovel in the ground."
+  ],
+  "diyVsPro": "Extending downspouts, filling minor low spots, aerating, and building a short swale or a shallow French drain (away from the house) are reasonable weekend DIY jobs for a careful homeowner. Call a pro when water is pooling against the foundation or getting into a basement/crawlspace, when the area stays saturated without rain (high water table or spring), when a drain would need to run deep alongside the foundation, when you need to tie into a municipal storm drain, or when the job requires moving large volumes of earth, retaining walls, or regrading that affects neighbors. A landscape-drainage contractor or a civil/geotechnical engineer is worth it for chronic or foundation-threatening water.",
+  "typicalCostUSD": "Downspout extensions: $10-40 each DIY. DIY French drain materials: $100-400 for a typical run. Professional French drain: $1,000-5,000+ depending on length and access. Regrading/swale by a pro: $1,000-3,000. Dry well: $1,500-4,000 installed. Major drainage systems or foundation-related work: $5,000-15,000+.",
+  "timeEstimate": "Downspout extensions: 30-60 minutes. Filling a small low spot: a half day. DIY French drain (20-40 ft): a full weekend. Larger regrading or professional jobs: 1-3 days.",
+  "safetyLevel": "caution",
+  "safetyNote": "Call 811 before any digging to locate buried gas, electric, and other utility lines, and wait for the marks \u2014 hitting a line can be deadly or cause expensive damage. Keep DIY trenches shallow (roughly knee-deep); deeper trenches can collapse and bury someone, so leave anything chest-deep or deeper to a pro with proper shoring. Do not excavate a deep trench right against or below your foundation footing \u2014 you can undermine the structure. If water is reaching your foundation, getting into a basement or crawlspace, or standing for days, treat it as urgent: chronic moisture causes structural damage, mold, and mosquito breeding. Don't redirect water onto a neighbor's land.",
+  "toolsParts": [
+    "Shovel and/or trenching shovel",
+    "4-foot level and a straight board",
+    "Wheelbarrow",
+    "Hand tamper or plate compactor",
+    "Landscape fabric",
+    "Washed gravel/drainage rock",
+    "Perforated drain pipe (4-inch)",
+    "Downspout extensions (flexible or rigid)",
+    "Topsoil / sand-soil mix",
+    "Sod or grass seed",
+    "Lawn aerator (rent for clay soil)",
+    "Marking paint and a tape measure"
+  ],
+  "searchTerms": [
+    "standing water in yard after rain",
+    "how to fix yard drainage",
+    "water pooling in backyard",
+    "French drain installation DIY",
+    "regrade yard for drainage",
+    "downspout extension to fix puddles",
+    "soggy lawn won't drain",
+    "clay soil drainage solutions",
+    "swale vs French drain",
+    "dry well for yard water"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "IRC grading guidance (R401.3: minimum 6-inch fall within first 10 feet from the foundation)",
+    "811 'call before you dig' utility-locate requirements",
+    "OSHA trench-safety norms (collapse risk in deep excavations)",
+    "General landscape-drainage and French-drain installation best practices"
+  ],
+  "disclaimer": "This is general guidance, not a substitute for professional assessment. Drainage that threatens your foundation, involves high water tables, or ties into municipal systems should be evaluated by a licensed contractor or engineer. Local codes and easement/stormwater rules vary \u2014 check with your municipality before regrading or redirecting water.",
+  "verified": true,
+  "verifierNote": "Verified slope math (1% \u2248 1 in/8 ft) and 6-in/10-ft (~5%) grade against IRC R401.3; tightened the perc-test threshold to ~1 in/hr; added explicit warnings against deep trenching that undermines the foundation and against deep-trench collapse (OSHA), noted dry wells fail in clay/high water table, and stressed waiting for 811 marks. SafetyLevel 'caution' confirmed \u2014 no gas/electrical/structural-DIY hazards in this topic.",
+  "kind": "pillar"
+}

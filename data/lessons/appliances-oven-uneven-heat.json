@@ -1,0 +1,100 @@
+{
+  "slug": "appliances-oven-uneven-heat",
+  "system": "appliances",
+  "title": "Why Your Oven Heats Unevenly \u2014 Causes & Fixes",
+  "question": "Why is my oven not heating evenly?",
+  "summary": "Uneven oven heat is usually a worn heating element, a failing temperature sensor, or just hot spots from crowded racks and skipped preheating \u2014 many are inexpensive fixes a careful homeowner can do, though gas, 240V wiring, and control-board problems should go to a licensed pro.",
+  "commonCauses": [
+    {
+      "cause": "Crowded oven, blocked airflow, or using only one rack position \u2014 heat can't circulate, so food browns unevenly even when the oven is fine",
+      "likelihood": "most common",
+      "quickCheck": "Bake on the center rack with space around the pan; if results even out, it was airflow, not a fault"
+    },
+    {
+      "cause": "Not preheating long enough \u2014 most ovens need 12-15 minutes to fully stabilize, and the beep often sounds before the oven walls are evenly hot",
+      "likelihood": "most common",
+      "quickCheck": "Use an oven thermometer; wait until it reads the target temp and holds steady before loading food"
+    },
+    {
+      "cause": "Oven is miscalibrated (reads hotter or cooler than set) \u2014 can feel uneven because one zone overshoots",
+      "likelihood": "common",
+      "quickCheck": "Set 350F, let it cycle 20+ min, read a standalone oven thermometer in the center; off by more than about 25F suggests recalibration"
+    },
+    {
+      "cause": "Failed or weak bake/broil heating element (electric ovens) \u2014 a burned, blistered, or partially-open element heats unevenly or only on one side",
+      "likelihood": "common",
+      "quickCheck": "Run the oven and look: a healthy element glows bright orange evenly along its whole length; dark spots or no glow means replace it"
+    },
+    {
+      "cause": "Faulty oven temperature sensor (the thin metal probe inside) \u2014 gives the control board bad readings so heat cycles wrong",
+      "likelihood": "common",
+      "quickCheck": "If a thermometer shows wild swings or the displayed temp is far off, the sensor is a common culprit; with power off you can test its resistance with a multimeter (many read roughly 1080-1100 ohms near room temperature, but confirm your model's spec)"
+    },
+    {
+      "cause": "Worn or warped door gasket / sagging door \u2014 heat leaks out the front, leaving the front of the oven cooler",
+      "likelihood": "common",
+      "quickCheck": "Carefully feel for heat escaping around the closed door; inspect the gasket for gaps, tears, or flattened spots"
+    },
+    {
+      "cause": "Clogged gas burner ports or weak/uneven flame (gas ovens) \u2014 partial blockage makes one side run cooler",
+      "likelihood": "less common",
+      "quickCheck": "With the oven on, the flame should be steady and blue across the burner; yellow, sputtering, or uneven flame points to a burner/gas issue \u2014 stop and call a pro"
+    },
+    {
+      "cause": "Failing convection fan or its motor (convection models) \u2014 a fan that doesn't spin or runs weakly kills the even-heat advantage",
+      "likelihood": "less common",
+      "quickCheck": "Listen for the fan running in convection mode; no sound or rattling means the fan or motor needs service"
+    },
+    {
+      "cause": "Control board / relay failure sending inconsistent power to the elements",
+      "likelihood": "less common",
+      "quickCheck": "If element, sensor, and calibration all check out but heat is still erratic, the board is the likely cause \u2014 diagnose with a pro"
+    }
+  ],
+  "fixes": [
+    "Rule out usage first: preheat a full 12-15 minutes, bake on the center rack, leave 2+ inches around pans, and avoid placing dishes directly under the broiler element. This solves a large share of 'uneven' complaints with zero repair.",
+    "Verify with a standalone oven thermometer. Place it in the center, set 350F, let the oven cycle for 20+ minutes, and read it. Move it to different rack positions to map hot and cold spots.",
+    "Recalibrate if it's off by more than about 25F. Most digital ovens have a calibration/offset setting in the menu (check your manual); many dial knobs have an adjustment behind the knob. This is a free, low-risk DIY fix.",
+    "Inspect the bake element (electric). First switch OFF the oven's dedicated breaker (an electric oven is typically 240V) and confirm it's dead, then look for blistering, cracks, or burn spots, and watch whether it glows evenly when powered. A bake element is a $20-60 part, usually held by a couple of screws and push-on terminals; many connect through the back wall rather than fully inside the cavity. A doable DIY swap once power is confirmed OFF.",
+    "Test or replace the temperature sensor. With the breaker off and confirmed dead, the sensor unscrews from the rear wall and unplugs; a multimeter often reads roughly 1080-1100 ohms near room temperature, but verify your model's spec. The part runs $10-40.",
+    "Check the door seal and hinges. Replace a torn or flattened gasket (often a clip-in part) and make sure the door closes flush so heat isn't leaking out the front.",
+    "For convection models, confirm the fan actually spins in convection mode; a dead fan motor is a service item.",
+    "For gas ovens with an uneven or yellow flame, clogged ports, or a suspected igniter/valve problem \u2014 and for any control-board or relay fault, or any 240V wiring you're not confident about \u2014 stop and call a licensed appliance technician. Do not disassemble gas components yourself."
+  ],
+  "diyVsPro": "DIY is reasonable for an electric oven once the dedicated breaker is off and confirmed dead: recalibration, swapping the bake/broil element or temperature sensor, replacing a door gasket, and all the airflow/preheat adjustments. Call a licensed appliance pro for anything involving the gas burner, igniter, or gas valve; for convection fan-motor or control-board/relay replacement; for damaged 240V wiring or terminals; and any time you're unsure whether power is truly off. If the oven is gas, treat internal repairs as pro work.",
+  "typicalCostUSD": "DIY parts: oven thermometer $7-15; bake/broil element $20-60; temperature sensor $10-40; door gasket $20-50. Pro repair: $150-400 typical for sensor, element, fan motor, or control board including the service call; gas-related diagnosis and repair often $200-450+.",
+  "timeEstimate": "Usage/calibration checks: 30-45 minutes including a full preheat-and-measure cycle. DIY element or sensor replacement: 30-60 minutes with power off. Pro visit: 1-2 hours, sometimes a second trip if a part must be ordered.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always cut power at the breaker (not just the knob) before reaching inside an electric oven, and use a meter or tester to confirm it's dead before touching any element or wiring \u2014 electric ovens are commonly 240V, which can be lethal. Heating elements and the cavity stay hot long after use; let everything cool. Never attempt repairs on gas burners, igniters, or the gas valve yourself; if you smell gas, leave the home and call your gas utility from outside. Gas work and any damaged 240V wiring should go to a licensed pro.",
+  "toolsParts": [
+    "Standalone oven thermometer",
+    "Multimeter (for testing the temperature sensor)",
+    "Non-contact voltage tester (to confirm power is off)",
+    "Nut driver / screwdriver set",
+    "Replacement bake or broil element (model-specific)",
+    "Replacement oven temperature sensor (model-specific)",
+    "Replacement door gasket (if worn)",
+    "Work gloves",
+    "Owner's manual for calibration steps and part numbers"
+  ],
+  "searchTerms": [
+    "oven heats unevenly one side",
+    "oven not cooking evenly fix",
+    "how to recalibrate oven temperature",
+    "oven bake element replacement",
+    "oven temperature sensor test multimeter",
+    "oven hot spots baking",
+    "gas oven uneven flame",
+    "oven door not sealing heat leak"
+  ],
+  "sources": [
+    "Manufacturer guidance (oven owner's manuals and calibration instructions)",
+    "Reputable DIY repair references (appliance-repair how-tos in the spirit of Family Handyman / This Old House)",
+    "General appliance-service best practices for element and sensor testing",
+    "Electrical and gas safety norms (breaker lockout and dead-test before service; gas and 240V work by licensed pros)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for your appliance's manual or a licensed technician. Specs like sensor resistance and calibration steps vary by model \u2014 always confirm against your manufacturer. Work on gas appliances and 240V electrical only if qualified; when in doubt, hire a pro.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes/costs as sound; downgraded safetyLevel from \"call-a-pro\" to \"caution\" (it contradicted the DIY-friendly content), added a confirm-dead/voltage-tester step and 240V lethality warning, generalized the element-terminal and sensor-resistance claims to avoid model-specific overconfidence, and added a voltage tester to tools.",
+  "kind": "pillar"
+}

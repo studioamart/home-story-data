@@ -1,0 +1,82 @@
+{
+  "slug": "interior-soundproof-room",
+  "system": "interior",
+  "title": "How to Soundproof a Room \u2014 What Actually Works (and What Doesn't)",
+  "question": "How do I soundproof a room to block noise?",
+  "summary": "Real soundproofing means stopping sound from passing through walls, doors, floors, and gaps \u2014 not just hanging foam panels (those only reduce echo inside a room). The biggest, cheapest wins are sealing air gaps and upgrading the door; deeper isolation requires adding mass and decoupling the wall.",
+  "commonCauses": [
+    {
+      "cause": "Air gaps \u2014 under and around the door, electrical outlets, where wall meets floor, around windows. Sound travels through any opening air can pass through, so these leak the most noise relative to their size.",
+      "likelihood": "most common",
+      "quickCheck": "At night with the room dark, have someone shine a flashlight along the closed door's edges from the other side \u2014 light leaking through means sound leaks too. Listen at outlets on shared walls."
+    },
+    {
+      "cause": "A hollow-core interior door. Standard bedroom doors are cardboard-honeycomb inside and block almost no sound \u2014 often the single weakest point in the room.",
+      "likelihood": "most common",
+      "quickCheck": "Knock on the door. A hollow, drum-like sound = hollow core. A dull, solid thud = solid core (much better)."
+    },
+    {
+      "cause": "Thin single-layer drywall with an empty wall cavity. A standard interior wall (one layer of 1/2\" drywall each side, empty wood-stud cavity) typically has a low STC rating around 33\u201335, so normal speech passes through.",
+      "likelihood": "common",
+      "quickCheck": "Tap the wall \u2014 a hollow echo suggests an empty (uninsulated) cavity. Older homes especially often have empty interior walls. Note: a tap test is a rough hint, not proof."
+    },
+    {
+      "cause": "Flanking paths \u2014 sound going around the wall through shared ductwork, a common ceiling or attic, recessed lights, or back-to-back outlets rather than straight through.",
+      "likelihood": "common",
+      "quickCheck": "If you've already added mass to a wall and noise barely dropped, sound is likely flanking through ducts, the ceiling, or fixtures instead."
+    },
+    {
+      "cause": "Hard parallel surfaces causing echo/reverberation inside the room. This is a different problem from blocking sound \u2014 it makes a room sound 'live' but doesn't let noise in or out.",
+      "likelihood": "less common",
+      "quickCheck": "Clap once in the empty room. A lingering ring or echo means a reverb problem (treat with absorption), not a sound-transmission problem."
+    }
+  ],
+  "fixes": [
+    "Start by sealing the leaks \u2014 it's the cheapest, highest-impact step. Add adhesive weatherstripping (foam or rubber) around the door jamb and a door sweep or draft stopper at the bottom. Caulk the gap where baseboards meet the floor and around window trim with a non-hardening acoustic sealant (not regular caulk, which dries rigid and cracks).",
+    "Address electrical outlets and switches on shared walls: shut off the breaker, confirm it's dead with a voltage tester, remove the cover plate, and add a foam outlet gasket; for more isolation use putty pads around the back of the box. If you're not fully comfortable working near wiring, hand this quick job to an electrician.",
+    "Upgrade the door. Swapping a hollow-core door for a solid-core door is the biggest bang-for-buck of any structural change. If you can't replace it, hanging a mass-loaded vinyl (MLV) panel or a heavy moving blanket over it helps as a temporary measure.",
+    "Add mass to the wall. The simplest reliable method: screw a second layer of 5/8\" drywall over the existing wall with a layer of a damping compound (such as Green Glue) sandwiched between the two layers. This add-mass-plus-damping approach noticeably cuts speech and TV noise. Note the damping compound needs roughly 30 days to reach full acoustic performance, though you can tape and finish sooner.",
+    "For serious isolation (home studio, drum room, shared-wall neighbor), decouple the wall: build a new stud wall, or fur out the existing one, on sound isolation clips + hat channel (generally more forgiving than resilient channel, which loses most of its benefit if screws accidentally bridge to the studs); fill the cavity with mineral wool or fiberglass batts, then add double drywall with damping compound. Decoupling stops vibration from bridging the two sides \u2014 but it adds wall thickness and is a bigger project.",
+    "Don't forget flanking paths: line shared ducts with acoustic duct liner or add a baffle, seal around recessed lights (or swap to airtight IC-rated fixtures), and avoid back-to-back outlets in the same stud cavity.",
+    "Treat echo separately with absorption \u2014 acoustic panels, heavy curtains, a rug with a thick pad, upholstered furniture, bookshelves. This improves how the room sounds but does NOT block noise from passing through; don't confuse foam panels with soundproofing."
+  ],
+  "diyVsPro": "Sealing gaps, weatherstripping, door sweeps, snap-on outlet gaskets, hanging blankets/panels, and even adding a second layer of drywall with damping compound are within reach of a careful DIYer with basic tools. Call a pro when: you're opening up walls and need to keep wiring and insulation to code, you're building a decoupled stud wall (hanging, mudding, and isolation hardware are easy to do poorly), the wall is load-bearing or you're touching structure, or HVAC/ductwork needs rerouting. A licensed electrician should handle anything beyond a snap-on outlet gasket \u2014 and any new wiring, box relocation, or work you're unsure about.",
+  "typicalCostUSD": "DIY gap-sealing kit (weatherstrip, door sweep, acoustic caulk, outlet gaskets): $40\u2013$120. Solid-core door + install: $150\u2013$400 DIY, $350\u2013$700 with a pro. Second drywall layer + damping compound for one wall: $200\u2013$500 in materials DIY; $1,000\u2013$2,500 done by a pro. Full decoupled, insulated, double-drywall room (all four walls + ceiling): $3,000\u2013$10,000+ professionally, depending on room size and how quiet you need it.",
+  "timeEstimate": "Sealing gaps and adding weatherstripping: 1\u20133 hours. Hanging a solid-core door: half a day. Adding a second drywall layer to one wall (hang, tape, and finish): a weekend of labor, though the damping compound keeps improving for about 30 days. A full decoupled room build: 1\u20132 weeks.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always shut off the breaker before removing any outlet or switch cover, and verify it's dead with a voltage tester \u2014 if you're not confident, hire an electrician. Wear a dust mask and eye protection when cutting drywall or handling insulation (mineral wool and fiberglass irritate skin and lungs). Critical: never block or seal HVAC return-air paths or combustion-appliance vents (furnace, water heater, gas fireplace) while sealing a room \u2014 restricting airflow can cause backdrafting of carbon monoxide. Keep required ventilation intact, and if you fully seal a room, add a dedicated quiet vent path and a CO alarm.",
+  "toolsParts": [
+    "Adhesive weatherstripping (foam or rubber)",
+    "Door sweep / draft stopper",
+    "Non-hardening acoustic sealant + caulk gun",
+    "Foam outlet/switch gaskets",
+    "Voltage tester",
+    "Solid-core door (optional upgrade)",
+    "5/8\" drywall sheets",
+    "Damping compound (e.g., Green Glue)",
+    "Mineral wool or fiberglass batts",
+    "Sound isolation clips + hat channel (preferred) or resilient channel (for decoupling)",
+    "Mass-loaded vinyl (MLV)",
+    "Drill/driver, drywall screws, utility knife, tape measure, dust mask, eye protection"
+  ],
+  "searchTerms": [
+    "how to soundproof a room",
+    "cheap ways to soundproof a bedroom",
+    "do acoustic foam panels block sound",
+    "Green Glue soundproofing",
+    "solid core vs hollow core door soundproof",
+    "soundproof a shared wall apartment",
+    "STC rating drywall",
+    "stop noise coming through wall"
+  ],
+  "sources": [
+    "Manufacturer guidance (damping-compound and resilient-channel/isolation-clip install instructions)",
+    "Building-code norms for STC ratings and fire-rated wall assemblies",
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "ASTM acoustic standards for STC (Sound Transmission Class) ratings"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for professional assessment. Building codes, fire-rating requirements, and HVAC/ventilation rules vary by locality \u2014 confirm with your local building department and pull permits where required, especially for structural or wall-cavity work. Results depend on your specific construction; verify wiring is de-energized before any electrical work.",
+  "verified": true,
+  "verifierNote": "Confirmed STC ~33\u201335, CO/backdraft warning, and cost ranges as accurate; softened resilient-channel over isolation-clips, added ~30-day damping-compound cure note, generalized the acoustic-sealant brand, and strengthened voltage-tester/electrician and combustion-vent CO cautions.",
+  "kind": "pillar"
+}

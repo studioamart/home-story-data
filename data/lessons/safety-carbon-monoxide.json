@@ -1,0 +1,82 @@
+{
+  "slug": "safety-carbon-monoxide",
+  "system": "safety",
+  "title": "Carbon Monoxide Basics for Homeowners \u2014 Detectors, Sources & Safety",
+  "question": "What is carbon monoxide and how do I keep my home safe from it?",
+  "summary": "Carbon monoxide (CO) is an invisible, odorless gas from any fuel-burning appliance or engine that can harm or kill before you notice it. Protect your home by installing CO alarms on every level and near bedrooms, having fuel appliances and chimneys inspected yearly, and never running engines or grills indoors or in an attached garage.",
+  "commonCauses": [
+    {
+      "cause": "Faulty, cracked, or poorly vented furnace or boiler heat exchanger \u2014 a leading home CO source, especially older units run hard in winter",
+      "likelihood": "most common",
+      "quickCheck": "Note your furnace's age and last service date; look for soot, rust, or a yellow/orange (not crisp blue) burner flame. Any of these means stop using it and call a licensed HVAC tech."
+    },
+    {
+      "cause": "Gas water heater, gas/propane stove, or fireplace with a blocked, disconnected, or backdrafting vent or flue",
+      "likelihood": "common",
+      "quickCheck": "Visually confirm the water-heater and furnace vent pipes are intact and sloped upward toward the chimney. A lit incense stick held near the draft hood is a rough draft check (smoke pulled in = drawing; smoke pushed back = possible backdraft) \u2014 treat any concern as a reason to call a pro, not a pass/fail test."
+    },
+    {
+      "cause": "Running a car, generator, pressure washer, or other gas engine in an attached garage or near windows/doors",
+      "likelihood": "common",
+      "quickCheck": "Confirm no one ever idles a vehicle or runs an engine in the garage (even with the door open) and that any generator runs at least 20 ft from the house, with exhaust pointed away from windows, doors, and vents."
+    },
+    {
+      "cause": "Blocked chimney or flue \u2014 bird nests, debris, creosote buildup, or snow/ice capping the vent",
+      "likelihood": "common",
+      "quickCheck": "From outside, check the chimney/flue cap for nests or blockage; if you can't see clearly or safely, schedule a certified chimney sweep inspection rather than climbing onto the roof."
+    },
+    {
+      "cause": "Using a charcoal grill, camp stove, or unvented portable kerosene/propane heater indoors or in a closed garage",
+      "likelihood": "less common",
+      "quickCheck": "Make sure none of these are ever operated inside the home, basement, tent, or closed garage \u2014 they are outdoor-only."
+    },
+    {
+      "cause": "Clothes dryer or other appliance venting blocked or leaking exhaust back into living space",
+      "likelihood": "less common",
+      "quickCheck": "Confirm the dryer and all fuel-appliance vents actually terminate outside and aren't crushed, disconnected, or lint-clogged."
+    }
+  ],
+  "fixes": [
+    "Install UL-listed (UL 2034) CO alarms on every level of the home, inside or just outside each sleeping area, following NFPA 72 and the manufacturer's instructions. Because CO mixes evenly through the air, wall or ceiling mounting per the brand is fine; keep alarms out of dead-air corners, away from the kitchen, and roughly 10\u201315 ft from fuel-burning appliances to avoid nuisance trips.",
+    "Test every CO alarm monthly with the test button and replace batteries yearly (or use 10-year sealed-battery units). CO sensors wear out \u2014 replace the whole alarm per the date stamped on the back, typically every 7\u201310 years.",
+    "Have every fuel-burning appliance \u2014 furnace, boiler, water heater, gas range, fireplace, gas dryer \u2014 inspected and serviced by a licensed HVAC or gas tech once a year, ideally before heating season.",
+    "Have the chimney and all flues/vents inspected and cleaned annually by a certified (e.g., CSIA) chimney sweep; keep vents clear of nests, debris, and snow.",
+    "Never run a car, generator, or any gas engine inside an attached garage \u2014 not even with the door open. Run generators outdoors, at least 20 ft from the house, with exhaust aimed away from windows, doors, and vents.",
+    "Never use a charcoal grill, camp stove, or unvented portable fuel heater indoors, in the basement, or in a closed garage.",
+    "If a CO alarm sounds: get everyone (and pets) outside to fresh air immediately, call 911 from outside, and do not re-enter until the fire department or gas utility says it's safe.",
+    "If you suspect CO but the alarm hasn't tripped and people feel sick (headache, dizziness, nausea, confusion, drowsiness), leave the house and call 911 anyway \u2014 trust symptoms over the device."
+  ],
+  "diyVsPro": "DIY is fine for installing and testing CO alarms, keeping generators and grills outdoors, and visually checking for soot or obviously blocked vents from the ground. Call a licensed pro for anything involving the gas appliances themselves: furnace/boiler/water-heater service, a suspected cracked heat exchanger, flue and chimney work (also a roof-height hazard), or any gas-line or combustion repair. A confirmed CO leak or an active alarm is a 911 / gas-utility emergency, never a DIY repair.",
+  "typicalCostUSD": "CO alarms: $20\u2013$50 each (combo smoke/CO ~$40\u2013$70; 10-yr sealed ~$30\u2013$50). Annual furnace/appliance inspection: ~$100\u2013$250. Chimney inspection + sweep: $150\u2013$400. Heat-exchanger or major combustion repair: $500\u2013$2,000+ (often the point where furnace replacement is considered). Fire department / gas-utility emergency response: typically free.",
+  "timeEstimate": "Installing and testing CO alarms: 30\u201360 minutes. Annual professional appliance and chimney inspections: a half-day, scheduled.",
+  "safetyLevel": "call-a-pro",
+  "safetyNote": "Carbon monoxide is colorless, odorless, and can be fatal \u2014 it kills hundreds of Americans a year and sends thousands to the ER. If a CO alarm sounds, or anyone has headache, dizziness, nausea, drowsiness, or confusion, get everyone outside to fresh air and call 911 immediately; do not re-enter until cleared. Never troubleshoot a suspected gas or combustion leak yourself \u2014 that is a job for the fire department, gas utility, or a licensed tech. Leave chimney/roof-height and gas-appliance work to pros.",
+  "toolsParts": [
+    "UL-listed (UL 2034) CO alarms, or combo smoke/CO alarms",
+    "Batteries (or 10-year sealed-battery units)",
+    "Drill and screws for mounting",
+    "Incense stick or smoke pencil (rough backdraft check only)",
+    "Step ladder"
+  ],
+  "searchTerms": [
+    "carbon monoxide detector placement",
+    "where to install CO alarm in house",
+    "CO detector going off what to do",
+    "carbon monoxide symptoms in home",
+    "do I need CO detectors on every floor",
+    "furnace carbon monoxide leak signs",
+    "how often replace carbon monoxide detector",
+    "generator carbon monoxide safety"
+  ],
+  "sources": [
+    "building code (IRC / NFPA 72 CO alarm requirements)",
+    "fire-safety authority guidance (NFPA, U.S. Fire Administration)",
+    "CDC and CPSC consumer guidance on CO poisoning and generators",
+    "CO alarm manufacturer installation instructions (UL 2034)",
+    "reputable DIY references (This Old House, Family Handyman)"
+  ],
+  "disclaimer": "General home-maintenance information, not professional, medical, or emergency advice. Carbon monoxide is potentially fatal \u2014 when in doubt, leave the home and call 911. Codes and product requirements vary by state and locality; follow your CO alarm's instructions and local building code.",
+  "verified": true,
+  "verifierNote": "Corrected NFPA 720 to NFPA 72 (720 was withdrawn/merged ~2016), changed alarm replacement from 5\u20137 to 7\u201310 yrs (UL 2034 norm; fixed contradiction with the 10-yr sealed units), relaxed appliance clearance to 10\u201315 ft, softened the incense backdraft check to a rough indicator, added roof-height caution for chimney work, and nudged furnace inspection cost to current ~$100\u2013250; sources, generator 20 ft rule, evacuate-and-call-911 guidance, and call-a-pro level confirmed accurate.",
+  "kind": "pillar"
+}

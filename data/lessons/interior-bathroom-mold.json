@@ -1,0 +1,87 @@
+{
+  "slug": "interior-bathroom-mold",
+  "system": "interior",
+  "title": "How to Remove and Prevent Bathroom Mold \u2014 Causes & Fixes",
+  "question": "How do I get rid of mold in my bathroom and keep it from coming back?",
+  "summary": "Most bathroom mold is surface mold on grout, caulk, and ceilings caused by trapped moisture; you can scrub it off, then prevent it by venting steam and keeping humidity down. Mold that keeps returning through walls or behind tile usually means a hidden leak that needs a pro.",
+  "commonCauses": [
+    {
+      "cause": "No exhaust fan, or one that is too weak or never gets turned on, so shower steam stays in the room",
+      "likelihood": "most common",
+      "quickCheck": "Run the fan and hold a square of toilet paper to the grille \u2014 if it doesn't hold, the fan is weak or not pulling air; also confirm it actually vents outside, not into the attic."
+    },
+    {
+      "cause": "Old, cracked, or porous caulk and grout that soaks up and holds water",
+      "likelihood": "most common",
+      "quickCheck": "Look at the caulk line where the tub/shower meets the wall and floor \u2014 if it's blackened, peeling, or spongy, mold has rooted into it."
+    },
+    {
+      "cause": "Wet towels, bath mats, and shower curtains/liners that stay damp and don't dry out",
+      "likelihood": "common",
+      "quickCheck": "Touch the lower folds of the shower liner and the back of bath mats \u2014 persistent dampness and a slimy pink/black film signals a chronic moisture source."
+    },
+    {
+      "cause": "A hidden leak \u2014 supply line, drain, toilet wax ring, or behind-tile waterproofing failure \u2014 feeding mold from inside the wall or floor",
+      "likelihood": "less common",
+      "quickCheck": "Look for mold that bleeds back fast after cleaning, soft/spongy flooring, peeling paint, or stains on the ceiling of the room below the bathroom."
+    },
+    {
+      "cause": "Cold surfaces (uninsulated exterior wall or ceiling) where warm shower air condenses into water",
+      "likelihood": "less common",
+      "quickCheck": "Mold concentrated on one exterior wall or a ceiling corner, with water beads forming after a shower, points to condensation from poor insulation."
+    }
+  ],
+  "fixes": [
+    "Ventilate before you start: open a window, run the exhaust fan, and wear rubber gloves, an N95 mask, and eye protection. Mold spores and cleaning fumes both irritate lungs and eyes.",
+    "For surface mold on tile, grout, and painted walls, scrub with a cleaner \u2014 either a store-bought mold/mildew remover, OR undiluted white vinegar in a spray bottle (vinegar penetrates porous grout and caulk better and is the gentler choice), OR diluted bleach (CDC: up to 1 cup of bleach per 1 gallon of water). Let it dwell about 10 minutes, scrub with a stiff brush, then rinse and dry. Test bleach on a hidden spot first \u2014 it can lighten colored grout and caulk.",
+    "NEVER mix bleach with vinegar, ammonia, or any other cleaner \u2014 combinations release toxic gas. Pick ONE product, and if you switch products, rinse thoroughly and ventilate in between.",
+    "For mold in caulk that won't scrub clean, cut out the old caulk completely, let the joint dry fully, and re-caulk with a 100% silicone caulk labeled mildew-resistant for kitchen/bath. Mold roots inside the caulk, so surface cleaning won't fix it.",
+    "For a moldy shower curtain liner or bath mat, machine wash it or just replace the liner \u2014 they're cheap and rarely worth saving.",
+    "Prevent recurrence: run the exhaust fan during every shower and for 20-30 minutes after; squeegee or wipe down shower walls; spread out towels and the liner so they dry; and keep bathroom humidity down (a hygrometer kept under ~50% and, if needed, a small dehumidifier help).",
+    "If your fan is weak or vents into the attic, upgrade to a properly sized fan (rough rule of thumb: CFM at least equal to the bathroom's square footage, more for larger baths) ducted to the outside. A like-for-like swap into existing wiring and duct is DIY only if you first turn OFF the circuit at the breaker and confirm the wires are dead \u2014 never work on it live. Adding new wiring or a new circuit is an electrician's job.",
+    "If mold keeps returning fast in the same spot after a thorough cleaning, stop scrubbing and investigate for a hidden leak or insulation/condensation problem \u2014 repeated regrowth is a symptom, not a cleaning failure."
+  ],
+  "diyVsPro": "Surface mold on grout, caulk, painted walls, ceilings, curtains, and a like-for-like fan swap into existing wiring/ductwork are DIY. Call a pro when: mold covers a large area (the EPA's rough threshold is about 10 square feet or more), it keeps coming back through walls or under flooring (signals a hidden leak), you find soft/rotted drywall, subfloor, or framing, or anyone in the home has asthma, allergies, or a weakened immune system. Use a licensed plumber for a suspected supply/drain leak, a licensed electrician for any new fan wiring or circuit work, and a mold remediation contractor for large or recurring infestations and any structural water damage.",
+  "typicalCostUSD": "DIY: cleaner/vinegar/bleach $5-15, silicone caulk + caulk tool $10-20, replacement shower liner $10-25, small dehumidifier $40-120. New bath exhaust fan $30-150, plus $150-450 if an electrician/handyman installs and ducts it. Professional mold remediation typically $500-3,000+ for a bathroom depending on size and whether walls/floors must be opened; fixing the underlying leak is extra.",
+  "timeEstimate": "A routine clean-and-recaulk is 1-3 hours plus cure time (silicone caulk needs ~24 hours before getting wet). Diagnosing/fixing a hidden leak or installing a new fan is a half-day to a full day.",
+  "safetyLevel": "caution",
+  "safetyNote": "Wear an N95 mask, gloves, and eye protection, and ventilate the room \u2014 disturbing mold releases spores, and cleaning chemicals give off fumes. NEVER mix bleach with vinegar, ammonia, or other cleaners (releases toxic gas). For a fan swap, turn off the circuit at the breaker and verify the wires are dead before touching them; leave new wiring or a new circuit to a licensed electrician. If anyone in the home has asthma, allergies, or a weakened immune system, or the moldy area is large (~10 sq ft or more), hire a remediation pro instead of disturbing it yourself.",
+  "toolsParts": [
+    "Rubber gloves",
+    "N95 mask / respirator",
+    "Eye protection",
+    "Stiff scrub brush or old toothbrush",
+    "Spray bottle",
+    "Mold/mildew remover, or white vinegar, or household bleach",
+    "Utility knife or caulk-removal tool",
+    "100% silicone mildew-resistant kitchen/bath caulk",
+    "Caulk gun",
+    "Squeegee",
+    "Microfiber cloths",
+    "Optional: hygrometer and small dehumidifier",
+    "Optional: replacement exhaust fan",
+    "For a fan swap: non-contact voltage tester"
+  ],
+  "searchTerms": [
+    "how to remove bathroom mold",
+    "black mold in shower caulk",
+    "get rid of mold on bathroom ceiling",
+    "prevent mold in bathroom",
+    "bathroom mold won't come back",
+    "mold in grout cleaner",
+    "vinegar vs bleach for mold",
+    "bathroom exhaust fan for mold",
+    "moldy shower silicone replace"
+  ],
+  "sources": [
+    "EPA mold cleanup and remediation guidance (general public guidance, including the ~10 sq ft threshold)",
+    "CDC guidance on mold cleanup, bleach dilution, and protective equipment",
+    "Manufacturer guidance for silicone caulk and mold/mildew bathroom cleaners",
+    "Reputable DIY references (This Old House, Family Handyman) on caulk replacement and bath exhaust fan sizing",
+    "Building-code norms on bathroom exhaust fans venting to the exterior and on de-energizing circuits before electrical work"
+  ],
+  "disclaimer": "This is general home-maintenance information, not professional inspection, medical, or remediation advice. Conditions in your home may differ. When in doubt \u2014 especially with large infestations, hidden leaks, structural damage, electrical work, or health concerns \u2014 consult a licensed professional and follow local building codes.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/costs/EPA 10-sqft threshold; corrected bleach dilution to CDC's up to 1 cup/gallon, added \"don't mix bleach with vinegar,\" warned bleach can discolor grout and doesn't penetrate porous surfaces (vinegar preferred), and added breaker-off/dead-wire and licensed-electrician warnings to the fan swap.",
+  "kind": "pillar"
+}

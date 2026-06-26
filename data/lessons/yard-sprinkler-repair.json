@@ -1,0 +1,90 @@
+{
+  "slug": "yard-sprinkler-repair",
+  "system": "yard",
+  "title": "Sprinkler Head Repair: Why It Won't Spray Right & How to Fix It",
+  "question": "How do I fix a broken or leaking sprinkler head?",
+  "summary": "Most sprinkler head problems are a clogged nozzle, a head crushed by a mower, or a stuck pop-up \u2014 usually cleanable, swappable, or adjustable by a homeowner in under an hour with basic tools. Many heads simply unscrew and a matching one threads back on, but some sit on a glued nipple or flexible swing pipe, so check what's below before you start.",
+  "commonCauses": [
+    {
+      "cause": "Clogged nozzle or filter screen \u2014 dirt, grass, or hard-water grit blocks the spray, causing weak, lopsided, or no spray",
+      "likelihood": "most common",
+      "quickCheck": "With the zone running, watch one head; if spray is weak or off-center, shut the zone off, unscrew the nozzle, and look for debris in the nozzle and the little filter basket under it"
+    },
+    {
+      "cause": "Physically broken head \u2014 cracked cap, snapped riser, or a head sheared off by a mower or foot traffic, causing a geyser or no spray",
+      "likelihood": "most common",
+      "quickCheck": "Run the zone and look for a head spraying straight up like a fountain, a cracked body, or a head sitting crooked or below grade"
+    },
+    {
+      "cause": "Pop-up stuck down or won't retract \u2014 the riser jams from dirt in the wiper seal, or the retract spring is weak. Note: the riser pops UP from water pressure and is pulled back DOWN by the spring",
+      "likelihood": "common",
+      "quickCheck": "With the zone off, press the riser down and let go; if it sticks, grinds, or won't drop back, the seal is fouled or the spring is shot. If it never rises under pressure, it's jammed or starved for pressure"
+    },
+    {
+      "cause": "Misaligned or wrong-arc spray \u2014 head sprays the sidewalk, fence, or house instead of the lawn after being bumped or replaced",
+      "likelihood": "common",
+      "quickCheck": "Watch the pattern while running; gear-driven rotors and adjustable spray nozzles have a slot or collar you turn to reset the arc"
+    },
+    {
+      "cause": "Low pressure across the whole zone (too many heads, a leak, or a partly closed valve) makes rotors barely turn and sprays not reach",
+      "likelihood": "common",
+      "quickCheck": "If EVERY head in one zone is weak (not just one), suspect a zone-wide leak, a clogged filter, or a backflow/isolation valve not fully open"
+    },
+    {
+      "cause": "Leak at the threaded connection or a cracked riser/elbow below the head \u2014 soggy spot or water bubbling up at the base",
+      "likelihood": "less common",
+      "quickCheck": "After the zone shuts off, look for a persistent wet ring or pooling right at one head; dig down a few inches to find a cracked fitting"
+    },
+    {
+      "cause": "Mismatched or wrong replacement head \u2014 someone installed a spray head where a rotor belongs, or mixed brands/precip rates, giving uneven coverage and dry spots",
+      "likelihood": "less common",
+      "quickCheck": "Compare heads in the same zone; they should be the same type (all spray OR all rotor) with compatible nozzles"
+    }
+  ],
+  "fixes": [
+    "Identify the head type first. The two common kinds are fixed spray heads (a short pop-up that throws a fan, ~4-15 ft) and gear-driven rotors (a stream that sweeps back and forth, ~25-50 ft). Buy a matching replacement and note the brand (Rain Bird, Hunter, Toro, Orbit), pop-up height (usually 4 in. for lawns, 6-12 in. for beds), and inlet size (most are 1/2 in. female thread).",
+    "Check what's under the head before you assume it unscrews. Many heads thread onto a riser or a flexible swing pipe and come off by hand, but some are glued to a PVC nipple \u2014 if it won't turn, don't force it; you may need to cut and refit the connection below.",
+    "Clean a clogged nozzle: turn off the zone, pull the riser up by hand and hold it (or twist the collar to keep it up), unscrew the nozzle, lift out the small filter screen/basket, and rinse both under a faucet or blow them out. With the nozzle still off, turn the water on briefly to flush grit from the body \u2014 stand to the side and wear eye protection, it can spit water and debris \u2014 then shut it off and reassemble.",
+    "Replace a broken head: shut off the zone (and ideally the whole system at the controller). Dig a small bowl around the head, keeping dirt out of the hole. Unscrew the old head counterclockwise from the riser/elbow below it. Wrap the new head's male threads with 2-3 turns of Teflon (PTFE) tape (optional but helps seal and lets it back out later), thread the new head on clockwise hand-tight (do NOT overtighten plastic \u2014 it cracks), keep it flush with grade and vertical, then backfill.",
+    "Reset the spray arc/pattern: for spray heads, rotate the nozzle or use the adjustment screw on top (turning it in reduces radius). For rotors, use the supplied plastic key or a flat screwdriver in the top slot \u2014 set the left/fixed stop first, then turn the arc adjustment to set how far right it sweeps. Run the zone and fine-tune.",
+    "Free a stuck pop-up: with the zone off, work the riser up and down by hand, then run the zone to let pressure flush the wiper seal. If it still binds or won't retract, the cheapest reliable fix is replacing the whole head \u2014 internal seals and springs usually aren't sold separately for residential heads.",
+    "Set heads to grade: a head sitting too low gets blocked by grass; too high is a trip and mower hazard. Heads should sit flush to slightly below the soil line. If it's low, lift it and add a threaded riser extension; if high, lower the riser or reseat it.",
+    "Fix a base leak: if water pools at the head after shutoff, the threaded joint or the fitting below is likely cracked. Re-tape and reseat the head first. If it still leaks, dig down and replace the cracked riser or swing-pipe/funny-pipe elbow \u2014 these are inexpensive press- or thread-fit parts. Only a break in the buried PVC lateral itself needs a glued (solvent-weld) repair.",
+    "Test your work: run the zone for a full cycle, walk it, and confirm even coverage with no dry spots, no spray hitting pavement or the house, and no geysers. Adjacent heads should overlap (head-to-head coverage) for an even lawn."
+  ],
+  "diyVsPro": "Cleaning, swapping, and adjusting individual heads is solidly DIY \u2014 most heads thread on and off by hand and need no pipe glue. Call a pro (irrigation/landscape contractor) when the problem is system-wide: a buried lateral or main-line break, a zone that won't turn on at all (likely a bad solenoid valve or a controller/wiring fault), a failed backflow preventer (plumbing-code regulated and often requires a certified tester), or repeated low pressure across multiple zones pointing to a design or supply problem.",
+  "typicalCostUSD": "DIY: a replacement spray head runs about $4-12, a gear rotor about $8-25, plus Teflon tape (~$3) \u2014 most repairs are under $30. Pro: a service call is typically $75-150 just to show up, with simple head replacements often $50-125 per head installed; buried-line or valve repairs commonly run $150-450+ depending on digging and parts.",
+  "timeEstimate": "Cleaning a nozzle: 10-15 minutes. Replacing a single head: 20-45 minutes. Adjusting arcs across a zone: 15-30 minutes.",
+  "safetyLevel": "caution",
+  "safetyNote": "Mostly low-risk yard work, with a few real cautions. Turn off the zone before unscrewing anything, and wear eye protection when flushing a head \u2014 pressurized water can throw grit into your eyes. Call 811 (free) before digging more than a few inches; irrigation trenches often share space with low-voltage wiring, and you don't want to nick anything. Don't overtighten plastic heads \u2014 they crack. If your system has a backflow preventer that needs repair, leave it to a certified pro: it's a plumbing-code item, and a failed backflow device can siphon irrigation water back into your drinking water.",
+  "toolsParts": [
+    "Replacement sprinkler head (matching brand, type, pop-up height, and thread size)",
+    "Teflon (PTFE) plumber's thread tape",
+    "Small trowel or shovel for digging around the head",
+    "Flat-head screwdriver",
+    "Rotor adjustment key (often included with the head)",
+    "Bucket or rag to keep dirt out of the open fitting",
+    "Eye protection",
+    "Garden gloves",
+    "Optional: riser extension or replacement riser/swing-pipe elbow if the connection below is cracked"
+  ],
+  "searchTerms": [
+    "how to replace a sprinkler head",
+    "sprinkler head not popping up",
+    "clogged sprinkler nozzle fix",
+    "adjust sprinkler spray pattern",
+    "sprinkler head leaking at base",
+    "Rain Bird vs Hunter sprinkler head replacement",
+    "sprinkler head geyser repair",
+    "DIY irrigation head repair"
+  ],
+  "sources": [
+    "Manufacturer installation and adjustment guides (Rain Bird, Hunter, Toro, Orbit)",
+    "Reputable DIY home-improvement references (This Old House, Family Handyman)",
+    "Common plumbing-code norms for backflow prevention and the 811 call-before-you-dig program"
+  ],
+  "disclaimer": "This is general DIY guidance, not a substitute for professional assessment. Sprinkler systems, parts, and local plumbing/backflow codes vary; when in doubt, or for buried-line, valve, or backflow work, consult a licensed irrigation or landscape professional. Always call 811 before digging.",
+  "verified": true,
+  "verifierNote": "Corrected the pop-up mechanism (riser rises on water pressure, spring retracts it \u2014 draft had it backwards), softened the overconfident \"unscrews by hand, no special tools\" claim by adding a step to check for glued/swing-pipe connections, added eye protection when flushing heads, and made Teflon tape optional; costs and 811/backflow safety guidance confirmed realistic.",
+  "kind": "pillar"
+}

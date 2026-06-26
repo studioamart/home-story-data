@@ -1,0 +1,78 @@
+{
+  "slug": "airseal-fireplace-draft",
+  "system": "interior",
+  "title": "How to Stop a Cold Draft Coming Down an Unused Fireplace or Flue",
+  "question": "Cold air keeps pouring down my unused fireplace and the chimney. How do I seal off the flue to stop the draft without permanently closing up the fireplace?",
+  "summary": "Cold air falls down an open chimney because warm house air rising elsewhere pulls outside air in through the flue (the \"stack effect\"). The fix is to block the airflow path with a removable seal \u2014 a chimney balloon or inflatable plug for casual use, or a top-sealing damper at the chimney cap for a permanent fix \u2014 while leaving the fireplace usable later. This guide walks through finding the leak path, choosing the right plug, and sealing it safely so you never light a fire over a blocked flue.",
+  "commonCauses": [
+    {
+      "cause": "The throat damper is missing, warped, or rusted open so it no longer seals \u2014 most old metal dampers leak even when 'closed' because soot and corrosion keep them from seating tight.",
+      "likelihood": "most common",
+      "quickCheck": "Reach up inside the firebox and feel for the damper handle. Close it, then hold a lit incense stick or tissue at the opening \u2014 if it still drifts, the damper leaks."
+    },
+    {
+      "cause": "Stack effect: warm air escaping high in the house (upstairs, attic, recessed lights) creates negative pressure that actively sucks cold air down the chimney. The chimney is the symptom, not the only leak.",
+      "likelihood": "most common",
+      "quickCheck": "Is the draft worse on cold or windy days, or when the furnace/bath fan/dryer runs? That points to whole-house pressure, not just a leaky damper."
+    },
+    {
+      "cause": "Picking the wrong seal location. Sealing only at the firebox lets cold air still fill the flue and chill the masonry; sealing at the top stops it but needs roof access.",
+      "likelihood": "common",
+      "quickCheck": "Look up the flue with a flashlight. A tall masonry flue above the seal will radiate cold into the room even with the firebox plugged."
+    },
+    {
+      "cause": "Forgetting the plug is in place and lighting a fire \u2014 a real fire/CO hazard with any throat-level seal.",
+      "likelihood": "common",
+      "quickCheck": "Does your plug come with a bright warning tag that hangs down into the firebox? If not, you must add one."
+    },
+    {
+      "cause": "Trapping moisture. A fully airtight seal at the bottom with an open cap on top can let rain/condensation collect and rot the seal or grow mold.",
+      "likelihood": "less common",
+      "quickCheck": "After a few weeks, pull the plug and check for dampness or musty smell. If wet, you need a top cap or a slightly breathable seal."
+    }
+  ],
+  "fixes": [
+    "Confirm the fireplace is truly unused, decorative, and not connected to any gas appliance, and that the flue is empty and cool. Look up with a flashlight for an existing damper, a flue liner, and any debris or nesting. If a gas log set is present, do NOT plug the flue unless the gas line is disconnected and the logs removed \u2014 never block a flue serving live gas.",
+    "Test where the air comes from. With the damper closed, hold a smoking incense stick at the firebox opening and along the damper edges. Drifting smoke shows the leak path and tells you whether the damper, the throat, or the whole flue is the problem.",
+    "For the quickest reversible fix, install a chimney balloon / inflatable flue plug. Measure the flue opening, buy the matching size, push it up past the damper into the smoke chamber or onto the smoke shelf (not below the damper), and inflate until snug. It pops out easily when you want a fire. Check it every few weeks \u2014 a slowly deflating balloon can drop into the firebox.",
+    "As a cheap alternative, cut a piece of rigid foam board to the flue opening, wrap it in a trash bag, and wedge it into the throat. Less airtight than a balloon but works for a season.",
+    "Attach a hanging warning tag. Tie a bright ribbon or 'FLUE BLOCKED \u2014 REMOVE BEFORE LIGHTING' tag so it dangles into the firebox where you cannot miss it. (Most balloons are also designed to deflate or pop if a fire is lit, but treat that as a backstop, not your plan.)",
+    "For a permanent, no-maintenance fix, install a top-sealing damper at the chimney crown. It is a cap with a rubber-gasket lid operated by a stainless cable down to the firebox. It seals far better than a throat damper and also keeps out rain, leaves, and animals. This requires safe roof access \u2014 hire a chimney sweep or roofer if you are not comfortable and properly secured on the roof.",
+    "Address the stack effect too, or the draft will just move elsewhere. Air-seal attic top plates, add a gasket to the attic hatch, and seal recessed lights and plumbing chases upstairs. Less air leaving high means less cold air pulled down the chimney.",
+    "After sealing, re-test with incense and confirm the room stays warmer. Set a phone reminder or note on the mantel so you remove any throat plug before the first fire of the season."
+  ],
+  "diyVsPro": "A chimney balloon, inflatable plug, or foam-board wedge is fully DIY \u2014 no tools beyond a tape measure and 20 minutes. Air-sealing the attic to fight stack effect is also DIY but tedious. Call a chimney sweep or roofer for a top-sealing damper (roof-height work and crown attachment), for any flue you are unsure is clean and lined, or if the flue serves \u2014 or you suspect it serves \u2014 a gas/oil appliance or gas log set. You must NEVER block a flue that vents a combustion appliance; if you smell gas, leave and call your gas utility.",
+  "typicalCostUSD": "Chimney balloon or inflatable plug: $40-$70. Foam-board wedge: under $20. Top-sealing damper installed by a pro: $400-$800 depending on flue size and roof access. Attic air-sealing materials: $50-$150 DIY.",
+  "timeEstimate": "Chimney balloon or foam plug: 20-30 minutes. Pro top-sealing damper: 1-2 hours. Attic air-sealing: a half-day DIY.",
+  "safetyLevel": "caution",
+  "safetyNote": "Never seal any flue that vents a gas or oil appliance (water heater, furnace) or serves a live gas log set \u2014 blocking it can cause a deadly carbon monoxide buildup. To use a plug, a gas log set must be fully disabled and removed first. Confirm the flue serves only a wood/decorative fireplace before plugging it. Always hang a visible warning tag on a throat-level plug so no one lights a fire over it, and check the plug periodically so a deflating balloon does not drop unnoticed. Top-sealing damper installation is roof-height work \u2014 leave it to a pro if you are not comfortable and properly secured on the roof. Keep a working CO alarm on the same level as the fireplace.",
+  "toolsParts": [
+    "Chimney balloon or inflatable flue plug (sized to the flue)",
+    "Tape measure",
+    "Flashlight",
+    "Incense stick or tissue for draft testing",
+    "Rigid foam board and trash bag (alternative plug)",
+    "Bright warning tag or ribbon",
+    "Top-sealing damper kit (for permanent fix, usually pro-installed)",
+    "CO alarm"
+  ],
+  "searchTerms": [
+    "how to stop cold air coming down unused fireplace",
+    "chimney balloon to block draft from flue",
+    "seal off fireplace flue without bricking it up",
+    "cold draft from chimney damper leaking",
+    "best way to stop fireplace draft in winter",
+    "top sealing damper vs chimney balloon",
+    "plug unused chimney to stop cold air"
+  ],
+  "sources": [
+    "Energy.gov / ENERGY STAR guidance on fireplace and chimney air sealing",
+    "Chimney Safety Institute of America (CSIA) guidance on dampers and flue maintenance",
+    "Manufacturer instructions for chimney balloon and top-sealing damper products (Rockford Chimney, Chimney Balloon)",
+    "Standard residential building and ventilation code norms on combustion appliance venting"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional inspection advice. Verify your specific flue's purpose and condition before sealing. When gas appliances, carbon monoxide risk, or roof work are involved, consult a licensed chimney sweep or contractor.",
+  "verified": true,
+  "verifierNote": "Corrected balloon placement to above the damper / smoke shelf (not below), widened pro top-sealing damper cost to $400-$800 per current quotes, and strengthened the gas-log-set CO warning (must be disabled/removed before plugging) plus a note to check for balloon deflation; core approach, steps, and DIY scope confirmed accurate.",
+  "kind": "spoke"
+}

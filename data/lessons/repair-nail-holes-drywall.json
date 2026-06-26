@@ -1,0 +1,79 @@
+{
+  "slug": "repair-nail-holes-drywall",
+  "system": "interior",
+  "title": "How to Patch Nail Holes and Small Drywall Dings Before Painting (So They Don't Show Through)",
+  "question": "I'm about to repaint a room and I have a bunch of small nail holes, thumbtack holes, and little dings/dents in the drywall. How do I fill and smooth them so they disappear under the new paint instead of showing as bumps or shiny spots?",
+  "summary": "Fill small holes with lightweight spackle, let it dry, sand flush, then spot-prime before painting\u2014the priming step is what stops the patches from showing as dull \"flashing\" spots. A whole room of nail holes is a beginner-friendly job that takes one short evening plus dry time.",
+  "commonCauses": [
+    {
+      "cause": "Patches show through as dull or shiny spots after painting (\"flashing\") because bare spackle absorbs paint differently than the surrounding painted wall",
+      "likelihood": "most common",
+      "quickCheck": "Look at the wall in raking light (a lamp held to the side). If you can see dull/glossy patches where you filled, that's flashing from skipping spot-priming."
+    },
+    {
+      "cause": "Filler shrinks or sinks into the hole, leaving a tiny dimple, because too little was applied or a deep dent was filled in one heavy pass",
+      "likelihood": "common",
+      "quickCheck": "Run a fingertip or a flashlight across the dry patch\u2014if you feel/see a depression, it sank and needs a second thin coat."
+    },
+    {
+      "cause": "Sanding leaves a raised \"halo\" of fuzzed-up paper or a visible ring around the patch because you over-sanded or used too-coarse paper",
+      "likelihood": "common",
+      "quickCheck": "Wipe the area and feel for a rough ridge around the fill, or a slightly fuzzy/scuffed circle in the old paint surrounding it."
+    },
+    {
+      "cause": "A nail hole has a small raised crater/ridge around it (popped from the nail) that you fill over but never knocked down, so it stays proud of the wall",
+      "likelihood": "common",
+      "quickCheck": "Press a putty knife flat over the hole before filling\u2014if it rocks or there's a bump, there's a raised lip to scrape/sand first."
+    },
+    {
+      "cause": "This isn't actually a small ding\u2014it's a nail/screw pop, a crack, or a hole bigger than ~1/2\", which spackle alone won't hold",
+      "likelihood": "less common",
+      "quickCheck": "Is it a hairline crack that reopens, a screw head pushing out, or a hole wider than a dime? Then it needs a different repair, not just spackle."
+    }
+  ],
+  "fixes": [
+    "Clear and prep each spot: scrape off any raised paint lip or paper burr around the hole with the corner of a putty knife so the area is flat or slightly recessed\u2014filler must sit in a low spot, never on a bump. Wipe away dust with a dry cloth.",
+    "For nail/tack holes and tiny dings, scoop a small amount of lightweight spackle (e.g., DAP DryDex or 3M lightweight) onto a 1.5-2\" flexible putty knife. Press it firmly into the hole, then drag the knife across at a low angle to wipe the surface flush, leaving the hole full and the wall clean. A little proud is fine; globs are not.",
+    "For a dent or ding (a depression with no hole), apply a thin skim coat over it with the putty knife, feathering the edges out past the dent so there's no hard ridge. Don't try to fill a deep dent in one thick pass\u2014it'll crack or sink.",
+    "Let it dry fully. Lightweight spackle is often dry in ~1-2 hours for small holes (DryDex turns from pink to white when ready), but humidity and deeper fills can stretch that\u2014go by the can, not the clock. A thicker skim coat may need several hours. Don't rush sanding\u2014wet filler tears and clogs paper.",
+    "Check for shrinkage: look across each patch in side light. If any sank into a dimple, apply a second thin coat and let it dry again. Two thin coats beat one thick one every time.",
+    "Sand smooth with fine paper\u2014220 grit on a small sanding sponge or block. Sand lightly, just until the patch is flush with the wall; stop as soon as it's level. Sand only the patch, not big circles of surrounding paint, to avoid fuzzing the paper face and creating halos.",
+    "Wipe off all sanding dust with a dry or barely-damp cloth and let it dry. Paint will not bond well over dust.",
+    "Spot-prime every patch with a quick coat of primer (PVA drywall primer or a stain-blocking primer) using a small brush or mini roller. This is the step most people skip and it's what makes patches vanish\u2014it seals the porous filler so it absorbs paint like the rest of the wall. Let the primer dry per the can (usually ~1 hour).",
+    "Paint the wall. For best results paint corner-to-corner or the full wall rather than dabbing paint only on the patches, so sheen and color blend seamlessly. Two coats on the patched areas if needed."
+  ],
+  "diyVsPro": "Squarely DIY\u2014filling nail holes and small dings is one of the most beginner-friendly home repairs there is, and the materials are cheap. Consider calling a painter or drywall pro only if what you thought were dings turn out to be recurring cracks, multiple nail pops, water-stained drywall, or holes bigger than a few inches, since those point to a movement, fastener, or moisture problem that needs proper repair (mesh/backing, screws, or stain-blocking) rather than cosmetic filler.",
+  "typicalCostUSD": "$15-$35 for materials (a tub of lightweight spackle ~$6-$10, a putty knife ~$4-$8, a sanding sponge ~$4, and a small can of primer ~$8-$15 if you don't already have it). A pro patch-and-prime visit, if you outsource it, typically runs $150-$400 depending on count and minimum trip charges.",
+  "timeEstimate": "About 1-2 hours of hands-on work for a typical room of nail holes, spread across an evening to allow for drying between fill, sand, prime, and paint (plan for a few hours total elapsed, or overnight if you skim-coated dents).",
+  "safetyLevel": "none",
+  "safetyNote": "This is cosmetic work with no real hazard. The only minor cautions: wear a dust mask or respirator and open a window when sanding so you don't breathe drywall/spackle dust, and use a step stool rather than overreaching for high spots. If the wall paint is from before 1978, assume it may contain lead\u2014don't dry-sand it; wet-sand or consult EPA lead-safe guidance instead.",
+  "toolsParts": [
+    "Lightweight spackle (e.g., DAP DryDex color-change or 3M lightweight)",
+    "Flexible putty knife, 1.5-2\" (and a 4-6\" knife for skim-coating dents)",
+    "220-grit sanding sponge or sandpaper on a block",
+    "Primer (PVA drywall primer or stain-blocking primer)",
+    "Small brush or mini foam roller for spot-priming",
+    "Dust mask/respirator",
+    "Clean cloth or tack cloth for dust",
+    "Drop cloth and a small work light or flashlight (for raking light)"
+  ],
+  "searchTerms": [
+    "how to fill nail holes in wall before painting",
+    "why do my spackle patches show through paint",
+    "do I need to prime spackle before painting",
+    "best spackle for small nail holes drywall",
+    "how to fix small dings in drywall before repainting",
+    "patches showing as shiny spots after painting flashing",
+    "sand and prime nail holes before painting"
+  ],
+  "sources": [
+    "DAP DryDex / lightweight spackling product use instructions (manufacturer label guidance)",
+    "3M lightweight spackling compound application directions",
+    "Common drywall finishing and painting-prep best practices (fill, sand to 220 grit, spot-prime to prevent flashing)",
+    "EPA lead-safe (RRP) practices for sanding pre-1978 painted surfaces"
+  ],
+  "disclaimer": "General home-maintenance guidance for typical interior drywall in good condition. Dry times, products, and results vary by humidity, filler type, and wall condition\u2014always follow the instructions on your specific spackle and primer cans. If holes turn out to be cracks, nail pops, or signs of moisture, treat them as a different repair.",
+  "verified": true,
+  "verifierNote": "Confirmed steps, 220-grit/spot-prime-to-stop-flashing practice, costs, and pre-1978 lead caution all match US norms; softened the optimistic DryDex dry-time to defer to the can and named EPA RRP in sources. No gas/240V/structural/roof/mold issues\u2014safetyLevel \"none\" is correct.",
+  "kind": "spoke"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "insulate-attic-hatch",
+  "system": "interior",
+  "title": "How to Insulate and Weatherstrip a Drafty Attic Hatch or Pull-Down Stairs",
+  "question": "My attic access hatch (or pull-down stairs) is letting cold/hot air into my house. How do I insulate and weatherstrip it so it stops leaking conditioned air?",
+  "summary": "An attic hatch is a hole in your ceiling's insulation, so it leaks air and heat unless you both seal the gap around the lid AND add insulation on top. The reliable fix is foam weatherstripping plus a rigid foam or batt cover (or a zippered insulated tent for stairs), which stops drafts for under $100. Learn the cheap DIY way to insulate and weatherstrip a leaky attic access door or pull-down ladder.",
+  "commonCauses": [
+    {
+      "cause": "The hatch lid rests on bare wood trim with no seal, so air leaks around the entire perimeter (stack effect pulls heated air up and out all winter).",
+      "likelihood": "most common",
+      "quickCheck": "On a windy or cold day, run a hand or a lit incense stick around the edge of the closed hatch (kept away from insulation) and watch for moving air or wavering smoke."
+    },
+    {
+      "cause": "The lid itself is just thin plywood or drywall with little or no insulation, so heat conducts straight through even when the perimeter is sealed.",
+      "likelihood": "most common",
+      "quickCheck": "Push up the hatch and look at the attic side: if it's bare board or under R-3, it's an uninsulated thermal hole compared to your R-38 to R-60 attic floor."
+    },
+    {
+      "cause": "Pull-down stairs are the worst offender because the folding ladder mechanism leaves a large uninsulated frame opening that can't take a simple flat cover.",
+      "likelihood": "common",
+      "quickCheck": "Open the stairs and look at the back of the door panel and the rough frame; you'll usually see daylight gaps and a flimsy uninsulated panel."
+    },
+    {
+      "cause": "Sealing too tight without adding insulation, so warm indoor air that does leak hits the cold lid and condenses, causing stains or mold.",
+      "likelihood": "less common",
+      "quickCheck": "Inspect the attic-side of the hatch and surrounding insulation for water stains, dampness, or dark spotting after a cold snap."
+    },
+    {
+      "cause": "Recessed or knee-wall hatches and scuttle holes where the cover doesn't sit flush, leaving the foam to compress unevenly and gaps to remain.",
+      "likelihood": "less common",
+      "quickCheck": "Close the hatch and look for daylight or uneven gaps along one edge where the lid is warped or the frame is out of square."
+    }
+  ],
+  "fixes": [
+    "Measure the hatch opening and the flat trim/stop the lid rests on. Note whether it's a simple drop-in panel, a hinged drywall hatch, or pull-down stairs, since each gets a different cover.",
+    "Clear and clean the wood trim where the lid seals. Wipe off dust so adhesive weatherstripping will actually stick.",
+    "Apply self-adhesive closed-cell foam weatherstripping (EPDM or vinyl foam, roughly 1/4 to 3/8 inch thick) in one continuous strip around the top edge of the trim the lid presses against. Butt the corners; don't leave gaps. This is the air-seal layer.",
+    "For a drop-in or hinged hatch: cut rigid foam board to the size of the lid and glue it to the attic side with foam-safe construction adhesive. Polyiso gives about R-6.5 per inch, EPS about R-4, XPS about R-5, so 2 inches of polyiso is roughly R-13. Stack more layers to add R-value (matching a full R-38 to R-60 attic isn't realistic on a lid, so just add as much as fits and stays balanced). A glued-on unfaced fiberglass batt inside a simple plywood box works too.",
+    "Add a grab/latch if needed: install a small hook-and-eye, barrel bolt, or turn-button latch so the lid is pulled down tight against the weatherstrip foam. Compression is what makes the seal work; a loose lid still leaks.",
+    "For pull-down stairs: install a pre-made insulated attic stair cover (a zippered foam tent or rigid foam box, R-10 or better) that sits over the opening in the attic, OR build a plywood box lined with rigid foam. Weatherstrip the door-panel frame the same way so the folded ladder seals at the ceiling line too.",
+    "Re-test with the incense stick or your hand after closing. If you still feel air, add a second weatherstrip layer or adjust the latch tension until the draft stops.",
+    "Manage moisture: don't make it airtight without insulation on top. The foam/batt cover keeps the lid's interior surface warm enough that leaked indoor air won't condense on it. If your attic has had moisture issues, confirm attic ventilation is adequate before fully sealing."
+  ],
+  "diyVsPro": "Fully DIY for nearly everyone. This is screwdriver-and-utility-knife work on a ladder at normal ceiling height, using cheap materials from any hardware store. Call a pro if the hatch framing is rotted, the pull-down stairs are broken or pulling loose from the framing, you see knob-and-tube wiring, or you find active mold or water damage in the attic that needs remediation first.",
+  "typicalCostUSD": "$15-$40 DIY for a simple hatch (foam weatherstrip + rigid foam board + adhesive + latch); $50-$170 for a pre-made insulated pull-down stair cover kit. $150-$350 if you hire a handyman for stairs.",
+  "timeEstimate": "1-2 hours for a simple hatch; 2-3 hours for pull-down stairs.",
+  "safetyLevel": "caution",
+  "safetyNote": "You'll be on a stepladder working overhead, so keep three points of contact and don't overreach. Wear a dust mask, gloves, long sleeves, and eye protection when handling fiberglass batts or cutting rigid foam, and watch your head and footing in the attic. Keep insulation clear of any chimney/flue or non-IC-rated recessed light cans (they need air gaps). If you see knob-and-tube wiring, do NOT cover it with insulation (a fire hazard, often code-prohibited) and have an electrician evaluate it. If you find mold larger than about 10 square feet, or any sign of moisture or structural rot, stop and get it professionally assessed before sealing.",
+  "toolsParts": [
+    "Tape measure",
+    "Utility knife or handsaw (to cut rigid foam)",
+    "Self-adhesive closed-cell foam weatherstripping (EPDM or vinyl)",
+    "Rigid foam board insulation (polyiso, EPS, or XPS) or unfaced fiberglass batt",
+    "Foam-safe construction adhesive",
+    "Hook-and-eye, barrel bolt, or turn-button latch",
+    "Pre-made insulated attic stair cover kit (for pull-down stairs)",
+    "Caulk or foam-safe sealant tape (optional, for frame gaps)",
+    "Stepladder",
+    "Dust mask, gloves, safety glasses",
+    "Incense stick or your hand (for the draft test)"
+  ],
+  "searchTerms": [
+    "how to weatherstrip attic access hatch",
+    "insulate attic pull down stairs cover",
+    "drafty attic hatch air leak fix",
+    "attic stairs insulation cover kit DIY",
+    "seal attic scuttle hole rigid foam",
+    "add weatherstripping to attic ceiling hatch"
+  ],
+  "sources": [
+    "U.S. Department of Energy / Energy.gov air sealing and attic access guidance",
+    "ENERGY STAR home sealing recommendations",
+    "Building Science Corporation guidance on attic air sealing",
+    "Manufacturer instructions for insulated attic stair cover kits"
+  ],
+  "disclaimer": "General home-maintenance information, not professional advice. Conditions in your home may differ. When in doubt, or if you encounter wiring, mold, structural, or moisture problems, consult a licensed contractor or insulation professional.",
+  "verified": true,
+  "verifierNote": "Corrected overstated foam R-values (split polyiso ~R-6.5/in vs EPS ~R-4 vs XPS ~R-5; 2-in polyiso ~R-13, not R-10 to 13 lumped), dropped unrealistic \"match attic R-value\" claim, set mold threshold to EPA's ~10 sq ft pro line, strengthened knob-and-tube to a pro/never-cover rule, and noted keeping the incense flame away from insulation; approach, costs, and DIY scope confirmed against DOE/ENERGY STAR practice.",
+  "kind": "spoke"
+}

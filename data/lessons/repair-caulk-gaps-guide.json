@@ -1,0 +1,88 @@
+{
+  "slug": "repair-caulk-gaps-guide",
+  "system": "interior",
+  "title": "How to Choose the Right Caulk and Seal Interior Gaps for Both Sound and Drafts",
+  "question": "I want to seal the gaps around my interior walls, trim, and outlets to block drafts and cut down on noise from the next room. Which caulk should I use, and how do I do it so it actually works for both sound and air?",
+  "summary": "Drafts and sound leak through the same hidden gaps, so sealing them helps both \u2014 but the right product differs: paintable acoustical sealant or a quality interior latex caulk for trim and small gaps, and low-expansion foam plus gasketed covers for bigger holes and outlets. Pick by gap size and whether it stays flexible, then seal the air path completely, because even a tiny continuous crack ruins both the draft and the sound results.",
+  "commonCauses": [
+    {
+      "cause": "Drafts and sound take the same flanking paths \u2014 the perimeter where trim meets wall, around window/door casing, electrical outlet and switch boxes, and where baseboard meets floor. Air leaks and airborne noise both squeeze through these continuous cracks, so one sealing pass can address both.",
+      "likelihood": "most common",
+      "quickCheck": "On a windy or cold day, run a damp hand or a lit incense stick slowly along the trim edges, outlet covers, and baseboard \u2014 wavering smoke or a cool draft marks the leak. For sound, press your ear near the same spots; noise is loudest where air moves freely."
+    },
+    {
+      "cause": "Gap size dictates the product \u2014 caulk only spans roughly up to 1/4 inch in one pass. Trying to bridge a wide gap (behind baseboard, around a rough door opening) with caulk alone leaves voids that whistle and pass sound. Those need backer rod or low-expansion foam first.",
+      "likelihood": "most common",
+      "quickCheck": "Slide a coin or a folded business card into the gap. If it disappears past 1/4 inch deep or wide, caulk alone won't fill it \u2014 you need backer rod or foam as a backing before the bead."
+    },
+    {
+      "cause": "Wrong caulk for the joint \u2014 silicone won't take paint and is wrong on trim; pure acoustical sealant stays gummy and is meant to be hidden inside wall assemblies, not as a visible finished bead; cheap painter's caulk shrinks and cracks, reopening the leak within a season.",
+      "likelihood": "common",
+      "quickCheck": "Read the tube: 'paintable,' 'siliconized acrylic latex,' or 'acrylic latex + silicone' for visible trim; 'acoustical sealant' (non-hardening) only where it will be covered by drywall, trim, or a cover plate."
+    },
+    {
+      "cause": "Outlets and switches on exterior or shared walls are a major leak point \u2014 the plastic box is open at the back and around the edges, so air and sound pass straight through. A bead of caulk on the cover plate alone misses the real opening behind it.",
+      "likelihood": "common",
+      "quickCheck": "Turn off the circuit, pull the cover plate, and look around the box edges \u2014 daylight, dust streaks, or a felt draft means the box perimeter is open. Foam gaskets behind the plate plus sealing the box-to-drywall gap is the real fix."
+    },
+    {
+      "cause": "Sound has a flanking nature caulk can't fully fix \u2014 a hairline air gap kills sound dampening, but even a perfectly sealed thin wall still transmits noise through the drywall and studs themselves. People over-expect caulk to soundproof a wall it can only modestly improve.",
+      "likelihood": "less common",
+      "quickCheck": "After sealing, if noise is still loud through a solid (not gappy) wall, the issue is mass/structure, not air leaks \u2014 that needs mass-loaded vinyl, a second drywall layer with damping compound, or resilient channel, which is a bigger project."
+    },
+    {
+      "cause": "Skipping surface prep \u2014 caulk won't bond to dust, old failing caulk, grease, or damp surfaces. The bead looks fine but peels in weeks, silently reopening both the draft and the sound path.",
+      "likelihood": "less common",
+      "quickCheck": "Drag a fingernail or plastic scraper along an existing bead; if it lifts or flakes, it was never bonded. New caulk needs a clean, dry, sound surface and old failed caulk fully removed first."
+    }
+  ],
+  "fixes": [
+    "Find the leaks first. On a cold or windy day, trace trim edges, window/door casing, baseboards, and outlets with a lit incense stick or damp hand; mark every spot where smoke wavers or you feel cool air. These are your air-and-sound paths. Work top-down: ceiling/crown, then casing, then baseboard, then outlets.",
+    "Measure each gap and choose the product. Up to ~1/4 inch and visible (trim, casing, baseboard-to-wall): a quality paintable siliconized acrylic latex caulk. Inside wall assemblies you'll cover (behind trim, drywall seams): non-hardening acoustical sealant. Gaps wider/deeper than 1/4 inch: backer rod or low-expansion (window-and-door) foam as backing, then caulk over the face.",
+    "Prep every surface. Remove old failing caulk with a plastic scraper or caulk-removal tool, wipe away dust with a dry cloth (mild detergent and water for grease, then let it dry fully), and make sure the surface is dry before caulking. Caulk bonds to clean and dry, nothing else. Run painter's tape on both sides of a visible joint for a crisp finished line if you want a clean look.",
+    "Cut the tube tip small and at 45 degrees \u2014 a smaller hole gives more control and a thinner, neater bead. Puncture the inner seal with a long nail or the tool on the gun. For acoustical sealant, expect it to be stringy and slow; that's normal.",
+    "Lay the bead in one steady pass, pushing the gun slightly ahead of the tip so caulk is forced into the gap (not just smeared over it). Filling the gap, not coating it, is what stops air and sound. For deep gaps, backer rod/foam goes in first so the caulk seals the face against a backing.",
+    "Tool the bead immediately. Lightly drag a damp (not wet) fingertip or a caulk-finishing tool along it to press it into the joint and smooth the surface. Pull painter's tape while the caulk is still wet so it doesn't tear a ragged edge. Wipe excess off your finger between strokes.",
+    "Handle outlets and switches separately. Kill the circuit at the breaker, verify it's dead with a non-contact tester, remove the cover plate, install foam outlet/switch gaskets behind the plate, and seal the gap between the electrical box and the drywall with acoustical sealant or a fire-rated/intumescent sealant if it's a rated wall (do not jam material inside the box or onto terminals). Reinstall the plate.",
+    "Let it cure before painting or expecting results \u2014 read the tube, but allow about 24 hours for latex caulk to skin and cure. Recheck on the next cold/windy day with the incense stick; touch up any spot you missed. If a solid, well-sealed wall is still loud, the remaining noise is structural and needs a mass/damping solution, not more caulk."
+  ],
+  "diyVsPro": "Almost entirely DIY \u2014 sealing trim, baseboards, casing, and adding outlet gaskets is a beginner-friendly weekend job needing only hand tools and a steady pass. Call a pro only if you discover the gaps come from settling/structural movement (recurring large cracks), if you're sealing penetrations in a fire-rated or shared multifamily wall and aren't sure which sealant is code-compliant, or if your real goal is genuine soundproofing of a shared wall \u2014 that's a construction-level job (added mass, resilient channel, double drywall) where a contractor or acoustic specialist is worth it.",
+  "typicalCostUSD": "$25-$90 DIY for caulk gun, 2-4 tubes of caulk/acoustical sealant, foam outlet gaskets, backer rod, and painter's tape. A pro sealing/air-sealing a room runs $150-$400; structural soundproofing of a wall runs $1,000-$3,000+ depending on method and size.",
+  "timeEstimate": "Half a day to a weekend for one room: 1-2 hours to find and prep leaks, 2-4 hours to caulk and gasket, plus ~24 hours cure time before painting or final assessment.",
+  "safetyLevel": "caution",
+  "safetyNote": "The only real hazard is the outlets and switches: always turn off the circuit at the breaker and verify it's dead with a non-contact tester before pulling cover plates, never push sealant or gaskets onto the wired terminals or inside the box, and use a fire-rated/intumescent sealant for penetrations in fire-rated walls. Work in a ventilated space \u2014 acoustical sealant and foam off-gas while curing. If you're ever unsure whether a wall is fire-rated or how to seal it to code, ask an electrician or building inspector.",
+  "toolsParts": [
+    "Caulk gun (dripless/smooth-rod preferred)",
+    "Paintable siliconized acrylic latex caulk (for visible trim joints)",
+    "Acoustical sealant, non-hardening (for hidden/covered gaps)",
+    "Low-expansion window-and-door foam (for gaps over 1/4 inch)",
+    "Foam backer rod (for deep gaps)",
+    "Foam outlet/switch gaskets",
+    "Painter's tape",
+    "Utility knife and a long nail (to open the tube)",
+    "Plastic caulk-removal/scraper tool",
+    "Caulk-finishing tool or just a damp fingertip",
+    "Lit incense stick (leak detection) and a non-contact voltage tester",
+    "Clean rags and mild detergent for prep"
+  ],
+  "searchTerms": [
+    "best caulk to seal gaps for both drafts and sound",
+    "acoustical sealant vs regular caulk for soundproofing",
+    "how to seal gaps around baseboard and trim for noise",
+    "sealing electrical outlets to stop drafts and sound",
+    "caulk vs foam for gaps wider than 1/4 inch interior wall",
+    "paintable caulk for window and door casing draft",
+    "do foam outlet gaskets reduce noise and air leaks",
+    "how to caulk interior trim to block sound and cold air"
+  ],
+  "sources": [
+    "Manufacturer technical data for acoustical sealant products (non-hardening sealant guidance on covered joints)",
+    "General building-code norms for sealing penetrations in fire-rated assemblies (fire-rated/intumescent sealant requirement)",
+    "Reputable DIY air-sealing references on perimeter/flanking leak paths and incense-stick leak detection",
+    "Standard product labeling guidance for paintable siliconized acrylic latex vs silicone caulk"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional engineering, electrical, or fire-code advice. Verify product suitability on the manufacturer's label and follow local building codes; when working near electrical or fire-rated walls and you're unsure, consult a licensed professional.",
+  "verified": true,
+  "verifierNote": "Confirmed product-by-gap-size logic, acoustical sealant guidance, outlet-gasket fix, and flanking/mass soundproofing limits as accurate; removed the child-safe plug-insert claim (slots aren't the air/sound path), softened grease prep from denatured alcohol to mild detergent, added non-contact-tester verify step to the outlet fix, widened DIY cost to $90, and flagged shared multifamily walls alongside fire-rated walls.",
+  "kind": "spoke"
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "exterior-roof-leak",
+  "system": "exterior",
+  "title": "Why Your Roof Is Leaking \u2014 Causes & Fixes",
+  "question": "Why is my roof leaking and how do I fix it?",
+  "summary": "Most roof leaks come from failed flashing, cracked or missing shingles, or clogged gutters/ice dams \u2014 not the field of the roof itself. Find and stop the water entry, then repair the specific failure point; widespread, steep, or high-roof leaks need a licensed roofer.",
+  "commonCauses": [
+    {
+      "cause": "Failed or improperly sealed flashing around chimneys, vents, skylights, and where the roof meets a wall \u2014 the single most common leak source.",
+      "likelihood": "most common",
+      "quickCheck": "After rain, look for stains on the ceiling directly below a chimney, vent pipe, or roof-to-wall junction; from outside, check for lifted, rusted, or cracked metal flashing and dried-out tar at penetrations."
+    },
+    {
+      "cause": "Cracked, curled, or missing shingles letting water reach the underlayment and decking.",
+      "likelihood": "most common",
+      "quickCheck": "From the ground with binoculars (or a drone/phone photo), scan for bare spots, shingles out of line, or granules collecting in gutters/at downspout outlets."
+    },
+    {
+      "cause": "Clogged or undersized gutters and ice dams backing water up under the shingle edge.",
+      "likelihood": "common",
+      "quickCheck": "Look for overflowing gutters in rain, plant growth in the trough, and in winter, thick ice ridges at the eaves with icicles; interior stains near exterior walls/eaves point here."
+    },
+    {
+      "cause": "Cracked or deteriorated rubber/neoprene pipe boots (plumbing vent collars) \u2014 they typically fail in 8\u201312 years.",
+      "likelihood": "common",
+      "quickCheck": "Inspect the rubber collar around each vent pipe for cracks, splits, or a gap where it meets the pipe; this is a frequent, easy-to-miss culprit."
+    },
+    {
+      "cause": "Worn or punctured valleys (where two roof planes meet) channeling concentrated water through a weak spot.",
+      "likelihood": "less common",
+      "quickCheck": "Check valley metal/membrane for rust, debris dams, or cracks; stains that appear only in heavy rain often trace to valleys."
+    },
+    {
+      "cause": "Old roof at end of service life (asphalt shingles typically last ~20\u201325 years) with widespread failure.",
+      "likelihood": "less common",
+      "quickCheck": "Note the roof's age and look for broad granule loss, brittle/curling shingles across whole sections, and multiple leak spots \u2014 that's replacement territory, not a patch."
+    },
+    {
+      "cause": "Condensation/poor attic ventilation mistaken for a leak.",
+      "likelihood": "less common",
+      "quickCheck": "If 'leaks' appear in cold weather without rain, frost or damp on the underside of the decking and rusty nail tips indicate condensation, not roof penetration."
+    }
+  ],
+  "fixes": [
+    "First, protect the area below: move valuables, lay down towels, and set a bucket. If a ceiling is bulging with trapped water, it can collapse \u2014 keep people out from under it, position a bucket, and from the side (not directly beneath) pierce a small drain hole at the low point with a nail or awl to release the water in a controlled way. If the bulge is near a light fixture or ceiling box, do not poke it \u2014 shut off that circuit at the breaker first and treat it as an electrical hazard.",
+    "Trace the source from inside the attic during or right after rain with a flashlight \u2014 follow the water trail uphill, since water often runs along rafters far from where it drips. Mark the entry point with chalk or a screw poked through to the outside.",
+    "For clogged gutters: clean out leaves and debris, flush with a hose, and confirm water flows freely to the downspout \u2014 this resolves many 'roof leaks' with zero roof work.",
+    "For a cracked vent pipe boot: slip on a replacement rubber boot or an EPDM 'no-caulk' boot, or as a temporary fix wrap the collar with self-adhesive roofing repair tape; the permanent fix is replacing the boot, which requires lifting the surrounding shingles \u2014 only attempt this on a low-slope roof you can reach and stand on safely.",
+    "For a single cracked shingle: on a warm dry day, apply a bead of roofing sealant under the crack and press down, then seal the top; for a missing/badly damaged shingle, lift the tabs above it, pull the nails, slide in a matching replacement, and re-nail and seal.",
+    "For minor flashing leaks: clear old failed caulk, clean the metal, and reseal with a high-quality roofing sealant (polyurethane or butyl); rusted-through or lifted flashing must be replaced, not just caulked \u2014 a flashing rebuild around a chimney or skylight is a pro job.",
+    "For ice dams: do not chip at the ice (you'll damage shingles) \u2014 rake snow off the lower 3\u20134 ft of roof with a roof rake from the ground, and improve attic insulation/ventilation to prevent recurrence.",
+    "Apply emergency tarping only if you can do it safely: run a tarp from above the leak over the ridge, weight/secure the edges with furring strips, and let it shed water until a permanent repair \u2014 but skip this entirely if the roof is steep, wet, icy, or high, or call a pro to tarp it.",
+    "After any repair, verify with a garden hose: have someone watch the attic spot while you run water on the suspect area in sections, working from low to high.",
+    "If you find multiple leak points, rotted decking (spongy when stepped on), or the roof is past ~20 years, get a licensed roofer to quote repair vs. replacement rather than patching repeatedly."
+  ],
+  "diyVsPro": "DIY is reasonable for ground-level work (gutter cleaning, snow raking, hose-testing to locate the leak), attic source-tracing, and small repairs on a low-slope, dry, single-story roof you can reach and stand on safely \u2014 like replacing a vent boot or sealing one cracked shingle. Call a licensed roofer for: steep or high (two-story+) roofs, walking on a wet/mossy/brittle roof, any flashing rebuild around chimneys/skylights, valley repairs, rotted decking, widespread shingle failure, or whenever you'd have to work where a fall could injure you. Falls from roofs are a leading cause of serious home-maintenance injuries \u2014 the cost of a pro is far less than an ER visit. When unsure, do the diagnosis from the attic and the ground and hire out the climb.",
+  "typicalCostUSD": "DIY materials: vent boot $10\u201325, tube of roofing sealant $8\u201315, bundle of matching shingles $35\u201350, tarp + furring strips $40\u201380, roof rake $30\u201360. Pro repair: minor flashing or shingle patch $200\u2013600; vent boot replacement $150\u2013450; chimney flashing rebuild $400\u20131,500; full roof replacement (asphalt) roughly $8,000\u2013$20,000+ depending on size, pitch, and region.",
+  "timeEstimate": "Locating the leak: 30 min\u20132 hrs. Gutter cleaning: 1\u20133 hrs. Small DIY repair (shingle or vent boot): 1\u20133 hrs once located. Emergency tarp: 30\u201360 min. Pro repairs: half a day to a day; full replacement: 1\u20133 days.",
+  "safetyLevel": "call-a-pro",
+  "safetyNote": "Working at roof height is the real hazard here, not the leak. Never go on a wet, icy, steep, or moss-covered roof; never work on a roof in wind or storms, and never work on a roof alone. Stay clear of power lines and the roof edge, use a stable ladder tied off at the top, and wear soft-soled shoes. Treat water near any light fixture, ceiling fan, or junction box as a live shock hazard: shut off that circuit at the breaker before touching the wet area, and do not pierce a bulging ceiling near a fixture. When in doubt, diagnose from the attic and the ground and hire a roofer for the climb.",
+  "toolsParts": [
+    "Flashlight or headlamp",
+    "Binoculars (or phone/drone for roof photos)",
+    "Bucket and old towels",
+    "Nail or awl (to drain a bulging ceiling)",
+    "Chalk or marker",
+    "Garden hose (for leak testing)",
+    "Roof rake (for ice dams/snow)",
+    "Stable extension ladder",
+    "Roofing sealant (polyurethane/butyl) and caulk gun",
+    "Pry bar and roofing nails (for shingle swap)",
+    "Replacement shingles matching existing",
+    "Replacement EPDM/rubber pipe boot",
+    "Self-adhesive roofing repair tape (temporary)",
+    "Tarp, furring strips, screws (emergency cover)",
+    "Work gloves and soft-soled shoes"
+  ],
+  "searchTerms": [
+    "roof leak repair",
+    "how to find a roof leak",
+    "fix leaking roof ceiling stain",
+    "roof flashing leak",
+    "replace cracked shingle",
+    "vent pipe boot leak",
+    "ice dam roof leak",
+    "emergency roof tarp",
+    "roof leak when it rains",
+    "attic water stain"
+  ],
+  "sources": [
+    "manufacturer guidance (asphalt shingle and pipe-boot makers' installation/repair instructions)",
+    "building-code norms (IRC roofing, flashing, and underlayment requirements)",
+    "reputable DIY references (This Old House / Family Handyman / Bob Vila in spirit)",
+    "general roofing-trade and home-safety best practices (ladder/fall safety, OSHA fall-hazard guidance)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for an on-site inspection by a licensed roofing contractor. Roof conditions, local building codes, and structures vary; verify any repair against your manufacturer's instructions and local code, and prioritize your personal safety over any DIY fix. If you are unsure or the work involves height, structure, or electrical exposure, hire a licensed professional.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/lifespans/techniques are accurate; fixed \"self-adhes;ing\" typo, made the bulging-ceiling drain step safer (pierce from the side with a nail, never near a fixture), added explicit electrical-near-fixture warning to step 1 and safetyNote, nudged pro replacement/patch costs up to 2026 reality, and reinforced steep/high/wet \u2192 pro routing; safetyLevel stays call-a-pro since the core task is roof-height work.",
+  "kind": "pillar"
+}

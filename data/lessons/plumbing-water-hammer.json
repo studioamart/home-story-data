@@ -1,0 +1,72 @@
+{
+  "slug": "plumbing-water-hammer",
+  "system": "plumbing",
+  "title": "Banging Pipes (Water Hammer) \u2014 Causes & How to Stop It",
+  "question": "Why do my pipes bang or knock loudly when I shut off a faucet or the washer fills?",
+  "summary": "That bang is water hammer: fast-moving water slamming to a stop when a valve closes suddenly, sending a shock wave through the pipes. It's usually fixable by recharging air chambers (if your home has them), adding a water hammer arrestor, or strapping loose pipes.",
+  "commonCauses": [
+    {
+      "cause": "Waterlogged air chambers \u2014 the small vertical capped pipe stubs behind some fixtures that cushion the shock have filled with water over time and lost their air pocket. (Note: many newer homes were never built with air chambers at all.)",
+      "likelihood": "most common",
+      "quickCheck": "If banging started gradually after years in an older home and happens at multiple fixtures, suspect waterlogged chambers."
+    },
+    {
+      "cause": "Fast-closing solenoid valves on appliances \u2014 washing machines and dishwashers snap shut in a fraction of a second, a classic water-hammer trigger.",
+      "likelihood": "most common",
+      "quickCheck": "Listen for the bang specifically when the washer or dishwasher starts or changes fill cycles."
+    },
+    {
+      "cause": "No water hammer arrestors installed \u2014 quick-closing modern valves (quarter-turn faucets, appliance solenoids) but no shock-absorbing devices anywhere in the system.",
+      "likelihood": "common",
+      "quickCheck": "Look under sinks and behind the washer for small T-shaped or cylindrical arrestors; if none exist, the system has no dedicated cushioning."
+    },
+    {
+      "cause": "Loose or unstrapped pipes that knock against framing \u2014 this is rattling/vibration noise, not true hydraulic hammer, but often confused with it.",
+      "likelihood": "common",
+      "quickCheck": "If the noise is a rattle or repeated knock (not a single sharp bang) and you can feel pipes move when water runs, they're loose."
+    },
+    {
+      "cause": "Excessively high water pressure (above ~80 psi) amplifying every shock.",
+      "likelihood": "less common",
+      "quickCheck": "Screw an inexpensive pressure gauge onto an outdoor hose bib or laundry faucet; over 80 psi is too high per plumbing code."
+    }
+  ],
+  "fixes": [
+    "Recharge waterlogged air chambers (free, try first if your home has them): shut off the main water valve, open the highest faucet in the house and the lowest faucet (e.g., a basement or outside spigot) to fully drain the lines and let air back into the chambers, close everything, then turn the main back on and run faucets to clear sputtering. Note: if your home has no air chambers, this won't help \u2014 skip to an arrestor.",
+    "If the bang is tied to the washer or dishwasher, install a screw-on water hammer arrestor on the supply lines (hose-thread arrestors thread right between the hose and the valve, no soldering). Add one on hot and one on cold.",
+    "For banging at a specific sink, install an arrestor on the supply stops under that fixture, or add an inline mini arrestor.",
+    "Strap loose pipes: where accessible (basement, crawlspace), add cushioned pipe clamps or foam insulation where pipes pass through or rest against framing so they can't slam. Don't clamp so tight that the pipe can't expand and contract.",
+    "Check and lower water pressure: test with a gauge; if over 80 psi, adjust or install a pressure-reducing valve (PRV) at the main. Some homes already have one near the meter that can be turned down; many do not, and adding one is a pro job.",
+    "If recharging chambers doesn't hold or there are no accessible chambers, install permanent arrestors near the problem valves \u2014 the modern, maintenance-free fix that never waterlogs."
+  ],
+  "diyVsPro": "DIY is fine for recharging air chambers, screw-on appliance arrestors, strapping accessible pipes, and testing pressure with a gauge. Call a licensed plumber if the noise persists after those steps, if arrestors must be soldered/sweated into copper lines, if you need a pressure-reducing valve installed or replaced at the main, or if the problem pipes are inaccessible behind finished walls.",
+  "typicalCostUSD": "DIY: $0 to recharge air chambers; ~$12-25 each for screw-on appliance arrestors; $8-15 for foam/cushioned clamps; ~$10-15 for a pressure gauge. Pro: roughly $150-350 to install arrestors on accessible lines; $300-600+ for in-wall arrestors or a pressure-reducing valve.",
+  "timeEstimate": "Recharging air chambers: 20-30 minutes. Screw-on appliance arrestors: 10-15 minutes each. Strapping pipes: 30-60 minutes. Pressure test: 5 minutes.",
+  "safetyLevel": "caution",
+  "safetyNote": "Water hammer can, over time, loosen joints and cause leaks, so don't ignore persistent banging. Before working on any supply line, shut off the water and relieve pressure by opening a faucet. Don't overtighten fittings on older pipes \u2014 it can crack them; on threaded plastic, hand-tight plus a slight turn is usually enough. This is minor supply-side plumbing \u2014 no gas, electrical, structural, or roof work involved.",
+  "toolsParts": [
+    "Water hammer arrestors (hose-thread for washer; supply-stop or inline mini arrestor for fixtures)",
+    "Adjustable wrench or channel-lock pliers",
+    "Cushioned pipe clamps or foam pipe insulation",
+    "Water pressure test gauge",
+    "Bucket and towels for drips",
+    "Plumber's tape (PTFE) for threaded connections"
+  ],
+  "searchTerms": [
+    "water hammer fix",
+    "pipes banging when water turned off",
+    "how to recharge air chambers plumbing",
+    "water hammer arrestor washing machine",
+    "knocking pipes in walls",
+    "stop banging pipes noise"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "Plumbing manufacturer guidance on water hammer arrestors (e.g., Sioux Chief, Oatey, Watts)",
+    "Building-code norms on water pressure (IPC/UPC: regulate supply above 80 psi with a pressure-reducing valve)"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional advice. Plumbing configurations vary; if you're unsure, the noise persists, or work involves in-wall pipes or your main shutoff, consult a licensed plumber. Verify local code requirements before modifying supply lines.",
+  "verified": true,
+  "verifierNote": "Confirmed mechanism, causes, recharge procedure, 80 psi threshold, and costs (Oatey screw-on ~$17.50, pro install $150-500) against current US practice; fixed \"mini-rester\" typo to \"mini arrestor\", softened \"milliseconds\" claim, and added caveats that many homes lack air chambers/PRVs so the free fixes may not apply. safetyLevel \"caution\" is correct \u2014 no gas/240V/structural/roof work.",
+  "kind": "pillar"
+}

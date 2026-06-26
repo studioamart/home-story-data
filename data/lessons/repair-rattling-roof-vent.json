@@ -1,0 +1,79 @@
+{
+  "slug": "repair-rattling-roof-vent",
+  "system": "exterior",
+  "title": "How to Stop a Roof Vent or Vent Cap From Rattling and Banging in the Wind",
+  "question": "My roof vent (or its cap) rattles and bangs loudly whenever it's windy. How do I figure out which vent is making the noise and quiet it for good?",
+  "summary": "A wind-rattling roof vent is almost always a loose hinged damper flap, a backed-out mounting screw, or a worn wind-driven turbine/cap \u2014 all fixable once you find the exact noisemaker. This guide helps you pinpoint the source and quiet each type, with a clear line on when roof height or a gas flue makes it a pro job.",
+  "commonCauses": [
+    {
+      "cause": "A loose or warped damper flap inside a bathroom/kitchen exhaust hood vent that flutters and slaps when wind pushes back through the duct",
+      "likelihood": "most common",
+      "quickCheck": "On a windy day, stand under the vent indoors (or at the wall hood) and listen \u2014 a light tick-tick-slap that matches gusts points to the spring-loaded backdraft flap, not the cap itself."
+    },
+    {
+      "cause": "Backed-out or missing mounting screws/nails letting the whole vent flange vibrate against the roof deck",
+      "likelihood": "most common",
+      "quickCheck": "From the ground with binoculars (or carefully on a ladder at the eave), look for a vent that visibly shudders or a lifted edge in gusts; a low-pitched bang usually means metal flapping on metal or deck."
+    },
+    {
+      "cause": "A turbine (whirlybird) vent whose bearings are worn or dry, so it wobbles, squeals, or clunks as it spins",
+      "likelihood": "common",
+      "quickCheck": "Watch the turbine spin in wind \u2014 a smooth quiet spin is fine; visible wobble, a rhythmic squeak, or a stop-start clunk means dry or failed bearings."
+    },
+    {
+      "cause": "A loose plastic or metal cap on a plumbing vent stack or furnace/water-heater B-vent that lifts and clatters",
+      "likelihood": "common",
+      "quickCheck": "Identify which pipe noises track the wind; a B-vent's rain cap can rattle on its standoffs. Anything serving a gas appliance flue is a pro item, not a DIY tighten."
+    },
+    {
+      "cause": "An undersized or unsecured cap/hood that resonates \u2014 the part is attached but acts like a reed in the wind",
+      "likelihood": "less common",
+      "quickCheck": "If screws are tight and the flap is fine but it still hums or buzzes only at certain wind speeds, the cap geometry itself is the culprit and likely needs replacing with a heavier, baffled model."
+    }
+  ],
+  "fixes": [
+    "Locate the exact vent first. On the next windy day, walk the attic and the exterior and match the noise to one vent \u2014 bath fan hood, range hood cap, turbine, or pipe cap. Fixing the wrong one wastes a roof trip. Do all roof-level inspection from the attic, a stable ladder at the eave, or the ground with binoculars; do not walk a steep, wet, or high roof.",
+    "For a fluttering damper flap (most common): from inside, remove the interior grille of the bath/kitchen fan and check the backdraft flap, or at the exterior hood lift the louver. Make sure it swings freely and seats flat. Add a small self-adhesive felt or foam bumper where the flap meets the housing so it closes quietly, or replace a warped flap or louvered cap with a new one (about $10-$25). Do not glue, tape, or block the flap shut \u2014 it must still open to vent moisture or grease, or you risk mold in the duct.",
+    "For a loose flange (most common): with the vent identified, snug every mounting screw. Replace any rusted nails with rubber-washered roofing screws driven into solid decking, and add a dab of roofing sealant under any lifted edge. If you are not comfortable at that spot on the roof, stop and call a roofer \u2014 this is the step that tempts people onto unsafe footing.",
+    "For a worn turbine (whirlybird): a wobble or squeal means bearings. A light spray of dry silicone lubricant can quiet a squeak temporarily, but a wobbling turbine should be replaced (about $30-$60 for the part). Balanced replacement turbines spin nearly silently. This is roof-mounted work \u2014 only do it from safe footing, or hire it out.",
+    "For a resonating or undersized cap: replace it with a heavier-gauge, baffled vent cap or hood designed for high wind. A flat-back, gravity-louver hood resists fluttering far better than a thin domed cap. (Does not apply to gas B-vents \u2014 see safety note.)",
+    "For plumbing vents, never seal or cap a stack that was originally open \u2014 codes require the vent to stay open, and capping it can siphon traps and let sewer gas indoors. Only re-secure a cap that is meant to be there.",
+    "After any fix, wait for the next windy day to confirm the noise is gone before assuming you're done \u2014 vents can have more than one loose part."
+  ],
+  "diyVsPro": "DIY-friendly only when the noisy vent is reachable safely from inside the attic, from a wall-mounted hood, or from a stable ladder at a low eave on a low-slope roof \u2014 and when it's an exhaust or attic vent, not a gas flue. Call a pro if the vent is mid-roof on a steep or tall roof, if you'd have to walk the roof, if it's a furnace or water-heater B-vent or any gas-appliance flue cap, or if you find rot, flashing damage, or active leaks around the vent. A roofer or handyman trip for one vent is cheap insurance against a fall or a botched flashing seal.",
+  "typicalCostUSD": "DIY: $5-$25 for felt/foam bumpers, sealant, and screws; $10-$60 for a replacement flap, cap, or turbine. Pro: roughly $150-$400 for a service call to re-secure or replace a single roof vent, more if flashing or decking repair is needed.",
+  "timeEstimate": "15-45 minutes to locate and quiet a reachable flap or tighten a flange; 1-2 hours to swap a cap or turbine. Add time for waiting on a windy day to confirm both the source and the fix.",
+  "safetyLevel": "call-a-pro",
+  "safetyNote": "Roof work is a leading cause of serious home-DIY falls. Never go on a steep, wet, icy, or tall roof \u2014 do all roof-level work from the attic, a wall hood, or a stable ladder at a low eave, or hire a pro. Do not tighten, seal, or cap any furnace, water-heater, or other gas-appliance flue; an improperly altered flue can cause carbon-monoxide backup \u2014 that is a licensed pro's job. If a rattle comes with any gas or sewer smell, soot, or signs of leaking, stop and call a professional.",
+  "toolsParts": [
+    "Binoculars (to spot the noisy vent from the ground)",
+    "Stable extension or step ladder rated for your weight",
+    "Cordless drill/driver and assorted bits",
+    "Rubber-washered roofing screws (neoprene-gasket hex-head)",
+    "Roofing/flashing sealant (polyurethane or butyl)",
+    "Self-adhesive felt or closed-cell foam weatherstrip bumpers",
+    "Dry silicone spray lubricant (for turbine bearings)",
+    "Replacement backdraft damper flap or louvered vent cap (if needed)",
+    "Replacement turbine vent (if bearings are shot)",
+    "Work gloves and safety glasses"
+  ],
+  "searchTerms": [
+    "roof vent rattling banging in the wind how to fix",
+    "how to stop bathroom exhaust vent flap from flapping in wind",
+    "whirlybird turbine vent squealing wobbling fix",
+    "loose roof vent cap rattle quiet down",
+    "backdraft damper flap noise windy day",
+    "why does my roof vent bang when it's windy",
+    "secure loose roof vent screws stop vibration",
+    "range hood roof cap flutter in wind"
+  ],
+  "sources": [
+    "Manufacturer installation/maintenance guidance for roof and turbine vents (e.g., Lomanco, Broan-NuTone exhaust vent docs)",
+    "International Residential Code (IRC) attic ventilation and plumbing vent termination provisions",
+    "Reputable DIY references (This Old House, Family Handyman) on roof vent and exhaust fan damper repair"
+  ],
+  "disclaimer": "General home-maintenance information, not professional inspection or code advice. Conditions vary by home and local code; when in doubt, or for any roof-height or gas-flue work, hire a licensed contractor.",
+  "verified": true,
+  "verifierNote": "Confirmed diagnosis-by-noise approach, costs, and DIY/pro line are sound; tightened the plumbing-vent fix to warn against trap-siphoning/sewer gas, added a no-glue-shut warning on the damper flap (mold/grease risk), flagged the cap-replacement fix as not applying to gas B-vents, and reinforced roof-height safety on the turbine step.",
+  "kind": "spoke"
+}

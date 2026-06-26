@@ -1,0 +1,79 @@
+{
+  "slug": "sound-interior-door",
+  "system": "interior",
+  "title": "How to Soundproof a Hollow-Core Interior Door (Seal the Gaps + the Door Itself)",
+  "question": "How do I soundproof an interior door so voices, TV, and noise from the next room are quieter \u2014 both the air gaps around it and the thin door itself?",
+  "summary": "Sound leaks through an interior door the same way air does \u2014 so seal every gap first (that's most of the win), then add mass to the lightweight door. Weatherstrip the jamb, fit a door sweep or bottom seal at the threshold, and if you still need more, add a mass-loaded barrier or swap the hollow door for a solid one.",
+  "commonCauses": [
+    {
+      "cause": "The gap under the door (the threshold). On interior doors this is usually 1/2 to 3/4 inch of open air \u2014 a direct, unobstructed path for sound. Even a perfect door does nothing if this stays open.",
+      "likelihood": "most common",
+      "quickCheck": "At night with the room light on and hallway dark, close the door and look at the bottom \u2014 if you see a line of light, that's a sound leak."
+    },
+    {
+      "cause": "Gaps around the perimeter (head and side jambs). The door swings on hinges with intentional clearance, leaving thin slots along the top and both sides where sound passes straight through.",
+      "likelihood": "most common",
+      "quickCheck": "Run your hand around the closed door's edges and feel for moving air, or slide a sheet of paper into the gap \u2014 if it slides in anywhere, sound gets through there."
+    },
+    {
+      "cause": "The door is hollow-core. Most interior doors are a thin wood skin (about 1/8 inch) over a cardboard honeycomb \u2014 almost no mass, so it barely blocks sound even when perfectly sealed.",
+      "likelihood": "common",
+      "quickCheck": "Knock on the middle of the door. A hollow, drum-like 'thock' means hollow-core; a dull, dense thud means solid-core (much better blocker)."
+    },
+    {
+      "cause": "Unrealistic expectations / flanking paths. Sound also travels through the wall, shared HVAC ducts, outlets, and the gap above a dropped ceiling. Even a great door won't give silence if these are open.",
+      "likelihood": "common",
+      "quickCheck": "After sealing the door, if you can still clearly hear a normal conversation, press your ear to the wall vs. the door \u2014 if the wall is just as loud, the door was never the main path."
+    },
+    {
+      "cause": "Trying to caulk or foam the door shut. People sometimes seal the operating gaps with rigid material; the door then won't close or latch, and the seal gets crushed and fails.",
+      "likelihood": "less common",
+      "quickCheck": "After installing weatherstrip, close the door \u2014 it should latch with firm but normal effort. If it slams hard or won't latch, the seal is too thick/stiff."
+    }
+  ],
+  "fixes": [
+    "Seal the bottom first \u2014 biggest single win. Buy a door sweep (screw-on or self-adhesive) or, better, an automatic 'drop-down' door bottom that lifts when open and drops to seal when closed. Measure door width, cut to length with a hacksaw, and mount so the seal just kisses the floor or threshold when shut. For carpet, use a brush-style sweep.",
+    "Weatherstrip the perimeter (head + sides). Apply self-adhesive high-density foam or, for a tighter seal, screw-on silicone/rubber compression weatherstripping (V-strip or bulb type) onto the jamb stop. Clean the surface first so adhesive holds. Close the door and adjust so it compresses the strip evenly without preventing the latch from catching.",
+    "Test and recheck with the light/paper test. Close the door at night and confirm no light leaks anywhere. Fix any remaining gaps before spending money on the door itself \u2014 sealing is cheap and does most of the work.",
+    "Add mass to the existing door (if still too loud). Mount a layer of mass-loaded vinyl (MLV, about 1 lb/sq ft) cut to the door panel, then optionally a decorative panel or acoustic blanket over it. This raises the door's weight so it blocks more sound. Confirm the hinges can carry the added weight and the door still swings and latches; expect a modest improvement, not silence.",
+    "Upgrade the door for the best result. Replace the hollow-core slab with a solid-core door (same size, prehung or slab). A solid-core door blocks noticeably more sound than hollow-core and pairs perfectly with the perimeter and bottom seals above. This is the single most effective step if budget allows.",
+    "Close obvious flanking paths. If a shared HVAC return, a back-to-back outlet, or a big gap above a dropped ceiling connects the rooms, address those too \u2014 otherwise the door work plateaus."
+  ],
+  "diyVsPro": "Fully DIY for almost everyone. Weatherstripping, a door sweep, and adding MLV are basic hand-tool jobs with no electrical, plumbing, gas, or structural risk. Hanging a heavier solid-core replacement door is also DIY-friendly but is the one step where a handyman or carpenter is worth it if you're not comfortable shimming a prehung unit or planing a slab to fit \u2014 a poorly hung door binds, won't latch, and undoes your seal.",
+  "typicalCostUSD": "$15\u2013$40 for weatherstrip + a basic door sweep; $40\u2013$120 for an automatic drop-down door bottom; $40\u2013$80 for mass-loaded vinyl to cover one door; $90\u2013$250 for a solid-core slab (plus $150\u2013$400 if you pay a pro to hang it).",
+  "timeEstimate": "1\u20132 hours to weatherstrip and add a sweep; another 1\u20132 hours to apply MLV; half a day to swap in a solid-core door.",
+  "safetyLevel": "none",
+  "safetyNote": "Low-risk work. The only real cautions: wear eye protection when cutting metal sweeps or door bottoms with a hacksaw, and get a helper when handling a heavy solid-core door so you don't strain your back or pinch fingers. If you add significant weight (MLV or a solid door), make sure hinge screws bite into solid jamb wood \u2014 replacing one screw per hinge with a longer screw into the framing prevents sag.",
+  "toolsParts": [
+    "Self-adhesive foam or screw-on silicone/rubber compression weatherstripping (V-strip or bulb)",
+    "Door sweep or automatic drop-down door bottom",
+    "Mass-loaded vinyl (MLV) sheet, about 1 lb/sq ft (optional, for adding mass)",
+    "Solid-core door slab or prehung unit (optional upgrade)",
+    "Tape measure",
+    "Hacksaw or fine-tooth saw (to cut sweep/door bottom to length)",
+    "Drill/driver and screws",
+    "Utility knife and straightedge",
+    "Eye protection",
+    "Helper (for handling a solid-core door)"
+  ],
+  "searchTerms": [
+    "soundproof hollow core interior door cheap",
+    "how to seal gaps around interior door for sound",
+    "best door sweep to block sound from hallway",
+    "weatherstrip interior bedroom door reduce noise",
+    "mass loaded vinyl on interior door soundproofing",
+    "do solid core doors block sound better than hollow",
+    "automatic drop down door bottom seal interior door",
+    "gap under door letting sound through how to fix"
+  ],
+  "sources": [
+    "Manufacturer guidance for door weatherstripping and door sweeps (e.g., M-D Building Products, Frost King installation instructions)",
+    "General building-acoustics principles: airtightness and mass-law (sealing air gaps + adding mass reduces sound transmission)",
+    "Reputable DIY references on interior door soundproofing (This Old House, Family Handyman)",
+    "Door manufacturer specs on solid-core vs. hollow-core sound performance"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for professional assessment. Product fit and results vary by door, frame, and flooring; follow the manufacturer's instructions for any weatherstrip, sweep, or door you install.",
+  "verified": true,
+  "verifierNote": "Confirmed approach and costs against standard US acoustic practice (seal air gaps first, then add mass; solid-core outperforms hollow-core); softened overstated claims (\"80% of the win\", \"roughly twice the sound\") to realistic wording, set MLV expectations, fixed \"into the jamb stop\"\u2192\"onto\", added longer-screw detail; no safety reroute needed (no gas/240V/structural/roof/mold).",
+  "kind": "spoke"
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "plumbing-water-hammer-appliance",
+  "system": "plumbing",
+  "title": "How to Stop Banging Pipes (Water Hammer) When the Washer or Dishwasher Valve Shuts Off",
+  "question": "My pipes bang loudly right after my washing machine (or dishwasher) finishes filling and the valve snaps shut. How do I stop this water hammer for good?",
+  "summary": "That bang is water hammer: a fast-closing appliance solenoid valve stops moving water instantly, and the momentum slams into the pipe like a hammer. The lasting fix is to install a water hammer arrestor at the appliance and (if needed) lower your home's water pressure and re-charge any old air chambers.",
+  "commonCauses": [
+    {
+      "cause": "The appliance has a fast-closing solenoid valve (washer, dishwasher, ice maker). Unlike a hand faucet you close slowly, these snap shut in milliseconds, so the entire column of moving water has nowhere to go and hammers the pipe. This is why it only bangs right when the appliance stops filling.",
+      "likelihood": "most common",
+      "quickCheck": "Note exactly when the bang happens. If it is right as the washer/dishwasher stops taking water (not when you turn a hand faucet off), it is a fast solenoid valve and an arrestor at that appliance is the fix."
+    },
+    {
+      "cause": "Old-style air chambers (capped vertical pipe stubs behind the valves) have become waterlogged. Builders once relied on a trapped air pocket to cushion the shock, but air dissolves into the water over months and the cushion disappears, so hammer returns.",
+      "likelihood": "common",
+      "quickCheck": "Shut off the main, open the highest and lowest faucets in the house to drain the lines, then close them and turn water back on. If the banging stops for a while and slowly returns, you have waterlogged air chambers, not modern arrestors."
+    },
+    {
+      "cause": "Whole-house water pressure is too high (above ~60-80 psi). High static pressure makes every shutoff hit harder and can also signal a failed or missing pressure-reducing valve (PRV).",
+      "likelihood": "common",
+      "quickCheck": "Screw a $12 pressure gauge onto an outdoor hose bib or the washer faucet and read it. Above 80 psi is over code in most areas and needs a PRV; 50-60 psi is ideal."
+    },
+    {
+      "cause": "Loose or unsecured pipe runs. Even with normal pressure, a pipe that can move in its joist holes or against framing will bang and rattle because nothing dampens the shock wave.",
+      "likelihood": "less common",
+      "quickCheck": "In the basement or crawlspace, run the appliance and feel/watch the supply pipe at the moment of shutoff. If you see it jump or hear it slap a joist, it needs cushioned clamps or padding where it passes through framing."
+    }
+  ],
+  "fixes": [
+    "Confirm it is water hammer: the bang must coincide with an appliance valve closing (washer fill ending, dishwasher between cycles, ice maker filling). A bang on hot-water demand or while water runs is a different problem (loose pipe, thermal expansion).",
+    "Try the free reset first for waterlogged air chambers: turn off the main supply, open the highest faucet in the house and the lowest (often a basement or outdoor tap), let everything drain fully for a few minutes, close the faucets, then reopen the main. This re-introduces air into existing chambers and often quiets things temporarily.",
+    "Check static pressure with a gauge on a hose bib. If it reads above ~80 psi, that is the root amplifier. Have a PRV installed or adjusted to bring it to ~50-60 psi (PRV work is plumber territory if you do not have one).",
+    "Install a water hammer arrestor at the offending appliance. For a washer, the easiest is a screw-on tee-style arrestor pair that goes between the hot/cold wall valves and the washer hoses (no soldering, hand-tight). For a dishwasher or ice maker, a mini arrestor installs on the supply line under the sink or at the valve. This is the permanent fix and the cleanest DIY win.",
+    "Turn the water back on, run the appliance through a fill cycle, and listen. The bang should be gone or reduced to a soft thud.",
+    "If banging persists after an arrestor and normal pressure, secure loose pipes: add cushioned pipe clamps or wrap foam/pipe insulation where the supply line passes through joists or rests against framing, so it cannot slap.",
+    "If you have older air chambers built into the walls that keep waterlogging, the modern replacement is a permanent mechanical arrestor (piston/spring sealed unit) tied into the line near the appliance branch, which never needs recharging. This usually means opening a wall or working at the branch, so weigh DIY vs. a plumber."
+  ],
+  "diyVsPro": "A screw-on washer arrestor or an under-sink mini arrestor is a confident DIY job: hand-tight fittings, no torch, 20 minutes. The free drain-down reset and a pressure-gauge check are also fully DIY. Call a plumber if your static pressure is high and you have no PRV (or it is failing), if the fix requires opening a wall to reach a soldered-in arrestor, or if the banging continues after you have addressed pressure and added an arrestor, since that points to a deeper supply-line or anchoring problem.",
+  "typicalCostUSD": "Screw-on washing-machine arrestor pair: $20-$35. Under-sink mini arrestor (dishwasher/ice maker): $10-$20. Pressure gauge: $10-$15. Drain-down reset: $0. Plumber to install/adjust a PRV or a soldered-in arrestor: $150-$450 depending on access and region.",
+  "timeEstimate": "15-30 minutes for a screw-on or under-sink arrestor; 10 minutes for the drain-down reset; half a day if a plumber sets a PRV.",
+  "safetyLevel": "caution",
+  "safetyNote": "This is low-risk water work, but always shut off the supply valve before disconnecting any hose or fitting, and keep a towel and bucket handy. Do not over-tighten plastic arrestor fittings or you can crack them. Ignoring chronic water hammer is not just noise: the repeated shock can loosen joints and eventually cause a leak, so it is worth fixing. If your pressure gauge reads very high (90+ psi), reduce it before the next appliance cycle to avoid stressing supply lines.",
+  "toolsParts": [
+    "Water hammer arrestor (screw-on tee pair for washer, or mini arrestor for dishwasher/ice maker)",
+    "Water pressure test gauge (hose-bib type)",
+    "Adjustable wrench or channel-lock pliers",
+    "Plumber's tape (PTFE) \u2014 only for tapered threaded (NPT) connections; do NOT use on rubber-gasketed hose/washer fittings",
+    "Towel and small bucket",
+    "Foam pipe insulation or cushioned pipe clamps (if securing loose pipe)"
+  ],
+  "searchTerms": [
+    "water hammer when washing machine valve closes",
+    "pipes banging after dishwasher fills",
+    "how to install washing machine water hammer arrestor",
+    "loud bang when ice maker fills",
+    "stop water hammer from appliance solenoid valve",
+    "waterlogged air chamber recharge fix",
+    "screw on water hammer arrestor for washer hoses"
+  ],
+  "sources": [
+    "Manufacturer guidance from water hammer arrestor makers (e.g., Sioux Chief, Oatey) on sizing and placement at appliances",
+    "International Residential Code / Uniform Plumbing Code provisions on water hammer arrestors at quick-closing valves and 80 psi maximum static pressure",
+    "Reputable DIY references (This Old House, Family Handyman style guidance) on the air-chamber drain-down recharge method"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for professional inspection. Plumbing codes and conditions vary by locale; when in doubt, consult a licensed plumber.",
+  "verified": true,
+  "verifierNote": "Confirmed cause/fix logic, 80 psi code cap, PRV target 50-60 psi, arrestor types, and costs; fixed PTFE-tape guidance (must not be used on rubber-gasketed washer/hose fittings) and aligned the \"ideal pressure\" range to 50-60.",
+  "kind": "spoke"
+}

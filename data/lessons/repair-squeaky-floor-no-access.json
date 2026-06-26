@@ -1,0 +1,73 @@
+{
+  "slug": "repair-squeaky-floor-no-access",
+  "system": "interior",
+  "title": "How to Stop a Squeaky Floor From Above When You Can't Get to the Subfloor",
+  "question": "My floor squeaks when I walk on it, but there's no basement or crawlspace underneath \u2014 it's a slab, or there's a finished ceiling below \u2014 so I can't reach the subfloor from beneath. How do I silence the squeak working only from the top?",
+  "summary": "A floor squeaks because two surfaces rub \u2014 usually the subfloor lifting off a joist and sliding on a loose nail, or boards rubbing each other. With no access from below, you fix it from the top: pinpoint the squeak and the joist, then either drive a special breakaway screw down into the joist or lubricate the rubbing seam, matched to your floor type (carpet, hardwood, laminate, or tile).",
+  "commonCauses": [
+    {
+      "cause": "Subfloor has separated from the joist and rides up and down on a loose nail as you step \u2014 the classic 'pop' or rhythmic creak. From the top, the whole fix hinges on hitting that joist with a fastener, and joists are hidden under the finish floor.",
+      "likelihood": "most common",
+      "quickCheck": "Have a helper rock weight back and forth over the noisy spot while you feel/listen for a sharp pop directly under foot; that pop sits over a joist. Confirm joist location with a stud finder or by probing \u2014 joists typically run 16 in. on center, perpendicular to the floorboards."
+    },
+    {
+      "cause": "Tongue-and-groove boards (hardwood or engineered) rubbing against each other at the seams as humidity shrinks them \u2014 a dry, high-pitched chirp that moves along a line rather than one fixed spot. This needs lubrication at the seam, not a screw into a joist.",
+      "likelihood": "common",
+      "quickCheck": "Step slowly across the area: if the squeak follows a board edge or a long line rather than staying over one point, it's board-on-board rub. Often worse in winter when indoor air is dry."
+    },
+    {
+      "cause": "You can't see the joists OR the screws, so a naive attempt either misses the joist entirely (screw spins in air, does nothing) or leaves an ugly screw head in a finished hardwood/laminate surface. Choosing the wrong product for your floor type is why most first attempts fail.",
+      "likelihood": "common",
+      "quickCheck": "Identify your top surface first: carpet, solid hardwood, engineered/laminate, or tile. Each has a different correct method \u2014 there is no single screw for all of them."
+    },
+    {
+      "cause": "Slab-on-grade floors have NO joists \u2014 the 'subfloor' is concrete. People buy joist screws and find nothing to bite into. The squeak is almost always laminate/engineered planks rubbing or a loose transition, not a subfloor-to-joist issue.",
+      "likelihood": "less common",
+      "quickCheck": "Is the floor on the ground level with no basement, on a concrete slab? Then skip every joist-screw method \u2014 there is nothing structural to screw into. Treat it as a board-rub or floating-floor problem."
+    }
+  ],
+  "fixes": [
+    "Pinpoint and mark the squeak. With a helper applying weight, locate the exact noisy point. Then find the joist nearest it with a stud finder (or drive a fine finish nail through carpet in an inconspicuous spot to probe). Mark the joist line with painter's tape. Most top-down fixes require landing a fastener in solid joist.",
+    "CARPET over wood subfloor \u2014 use a Squeeeak-No-More / Counter-Snap style kit. Push the kit's depth-control fixture down through the carpet onto the floor over the joist, drive the scored breakaway screw through the pile into the subfloor and into the joist, then rock the screw sideways with the fixture so the head snaps off below the carpet surface. The carpet pile hides the hole. Repeat along the joist as needed until the squeak is gone.",
+    "SOLID HARDWOOD (face-fixing, finished side) \u2014 predrill a pilot hole at the squeak over the joist, drive a trim-head or finish screw down through the board into the joist, countersink it slightly, then fill the tiny hole with a color-matched wood filler or wax stick. This is the only reliable top-down structural fix for nailed-down hardwood with no access below, and it leaves a small visible repair.",
+    "HARDWOOD/ENGINEERED that rubs at the seams (no joist needed) \u2014 work powdered graphite or a dedicated floor-squeak lubricant into the seam between the squeaking boards, then step on it repeatedly to drive it in and wipe the excess. (Talc is a weaker option and can attract moisture; graphite lasts longer.) This kills board-on-board chirps without any fastener. Reapply if the squeak returns in dry season.",
+    "LAMINATE or FLOATING floor \u2014 do NOT screw through it; you'll defeat the floating action and can crack planks. For an edge that rubs, puff powdered graphite into the seam. For a spot that flexes because the floor lost contact with the subfloor, the proper fix is lifting and re-laying with a gap/underlayment correction \u2014 limited top-down options, often a pro-level relay.",
+    "TILE over a squeaky wood subfloor \u2014 there is essentially no safe DIY top-down fix; drilling risks cracking tile and you still can't reach the joist cleanly. Call a pro, and accept that the real fix may mean opening the floor or ceiling below.",
+    "Re-test under load after each fix. Have your helper rock over the spot again. If a joist screw spun freely and the squeak persists, you missed the joist \u2014 move about 1 in. and try again rather than driving more screws into empty subfloor.",
+    "If the squeak is widespread, the floor sags or feels spongy, or you see cracking, separating, or bouncing across a large area, stop. That points to a structural problem (failed subfloor adhesive, undersized or damaged joists, or rot) \u2014 get a licensed contractor or structural assessment rather than chasing it with screws."
+  ],
+  "diyVsPro": "DIY is very reasonable for carpet (breakaway-screw kit) and for board-rub chirps in hardwood/engineered (graphite/powder) \u2014 these are low-risk, low-cost, and largely reversible. Face-screwing finished hardwood is DIY but cosmetically unforgiving; practice the fill step and accept a small visible repair. Call a pro when the floor is tile, when it's a floating/laminate floor that flexes (not just chirps), when the squeak is widespread or the floor feels spongy/bouncy (suggesting failed subfloor adhesive, undersized joists, or rot), when the home has radiant floor heat, or when there's a finished ceiling below that you'd rather open to fix properly than punch screws through your finish floor.",
+  "typicalCostUSD": "DIY: $20\u2013$30 for a carpet breakaway-screw kit; $8\u2013$15 for powdered graphite or floor-squeak lubricant; a few dollars for trim screws and color-matched filler. Pro: $150\u2013$400 for a handyman to chase several squeaks; $500\u2013$1,500+ if subfloor reattachment requires opening a finished ceiling below or pulling up tile.",
+  "timeEstimate": "15\u201345 minutes per squeak for the powder or carpet-kit methods; 30\u201360 minutes for a hardwood face-screw with proper fill and dry time.",
+  "safetyLevel": "caution",
+  "safetyNote": "Low physical risk, but real hazards: (1) Before driving any screw or nail into the floor, know what's under it \u2014 radiant-heat tubing, electrical, or plumbing in or under the subfloor can be punctured, which can mean an expensive leak or a shock hazard. If your home has radiant floor heat, do NOT drive fasteners; call a pro. (2) Wear eye protection \u2014 breakaway screw heads snap off under tension. (3) If the floor sags, feels spongy, or shows cracking across a wide area, that is a structural issue, not a simple squeak \u2014 stop and get a pro.",
+  "toolsParts": [
+    "Stud/joist finder",
+    "Carpet squeak-repair kit (breakaway scored screws + depth fixture), e.g. Squeeeak-No-More / Counter-Snap type",
+    "Cordless drill/driver",
+    "Powdered graphite or dedicated floor-squeak lubricant (for board-rub squeaks)",
+    "Trim-head / finish screws (for hardwood face-fixing)",
+    "Drill bit for pilot holes + countersink",
+    "Color-matched wood filler or wax fill stick",
+    "Painter's tape (to mark joist lines)",
+    "A helper to load the floor while you locate the squeak",
+    "Safety glasses"
+  ],
+  "searchTerms": [
+    "how to fix squeaky floor without access from below",
+    "stop floor squeak from above no basement crawlspace",
+    "squeaky hardwood floor repair top down no subfloor access",
+    "fix squeaky carpet floor without removing carpet breakaway screws",
+    "silence squeaky floor on concrete slab laminate",
+    "powdered graphite for squeaky hardwood floor seams"
+  ],
+  "sources": [
+    "Manufacturer instructions for top-down carpet squeak-repair kits (breakaway scored screw with depth-control fixture, e.g. O'Berry Squeeeak-No-More / Counter-Snap)",
+    "Standard residential framing convention: joists commonly 16 in. on center, running perpendicular to finish floorboards",
+    "Common DIY references on floor squeaks: subfloor-to-joist separation and board-on-board rub as the two primary mechanisms; graphite lubrication for seam squeaks"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for a licensed contractor's on-site assessment. Always verify what runs beneath your floor (heating tubing, wiring, plumbing) before driving any fastener, and follow your floor manufacturer's instructions. If you have radiant floor heat, do not penetrate the floor. A spongy, sagging, or widely cracking floor is a structural matter for a pro.",
+  "verified": true,
+  "verifierNote": "Confirmed methods/costs/times against standard US practice; corrected brand spelling to Squeeeak-No-More, added structural-failure escalation to a pro (spongy/sagging/widespread = stop), tempered talc recommendation (graphite preferred), softened \"16 in. OC\" to \"typically,\" and flagged hardwood face-screw as leaving a visible repair.",
+  "kind": "spoke"
+}

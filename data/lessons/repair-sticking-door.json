@@ -1,0 +1,84 @@
+{
+  "slug": "repair-sticking-door",
+  "system": "interior",
+  "title": "Interior Door Sticks and Rubs the Frame (Humidity or House Settling)",
+  "question": "My interior door has started sticking or rubbing against the frame and is hard to open or close. How do I figure out where it's binding and fix it without ruining the door?",
+  "summary": "A sticking door is almost always swollen from humidity, sagging on loose hinges, or rubbing because the house shifted slightly. Find the exact rub point first, tighten the hinges before you ever reach for sandpaper, and plane wood only as a last resort. This guide walks you through diagnosing where an interior door binds and fixing it in the right order so you don't over-cut a door that will shrink back in dry weather.",
+  "commonCauses": [
+    {
+      "cause": "Loose hinge screws letting the door sag \u2014 the single most common cause, and the easiest fix people skip. The door drops at the top hinge and rubs the latch-side top corner or drags the floor at the bottom.",
+      "likelihood": "most common",
+      "quickCheck": "Grab the knob and lift up gently. If the door visibly moves and the rubbing eases, the hinges are loose, not the wood. Also look for a hinge screw head that's backed out or stripped."
+    },
+    {
+      "cause": "Wood swelling from humidity (seasonal, or a damp room like a bathroom). The door binds in summer or wet months and works fine in winter. Cutting it now means gaps later when it dries.",
+      "likelihood": "most common",
+      "quickCheck": "Note WHEN it started. If it began in humid weather or only sticks in one room with moisture, it's swelling \u2014 wait it out or seal the edges rather than removing wood."
+    },
+    {
+      "cause": "House settling shifting the frame out of square, so the door and jamb no longer line up. The rub mark runs along one full edge rather than a single corner.",
+      "likelihood": "common",
+      "quickCheck": "Close the door slowly and watch the gap (the reveal) all the way around. An even gap that's just tight = swelling. A gap that's wide at top and pinched at bottom on one side = the frame racked out of square."
+    },
+    {
+      "cause": "Built-up paint on the door edge or jamb. Multiple repaint jobs add thickness until the edge finally drags.",
+      "likelihood": "common",
+      "quickCheck": "Run a fingernail or putty knife along the rub line. If you feel thick, ridged paint, the fix is scraping/sanding paint, not the wood underneath."
+    },
+    {
+      "cause": "The strike plate or latch misaligned so the door won't latch or pushes hard at the last inch \u2014 often confused with rubbing.",
+      "likelihood": "less common",
+      "quickCheck": "Does it swing freely until the very end, then resist or not catch? That's a strike-plate problem, not a binding door \u2014 look for a shiny worn mark on the strike plate."
+    }
+  ],
+  "fixes": [
+    "Find the exact rub point. Close the door slowly and watch where it touches, or slide a thin paper / dollar bill around the gap \u2014 where it drags is the binding spot. Mark it with a pencil. Common spots: top latch-side corner (sagging) or the full latch edge (swelling).",
+    "Tighten every hinge screw first. Open the door, support it on a shim or magazine, and snug each screw with a screwdriver (hand-tight; don't overdrive with a drill \u2014 you'll strip them). This alone fixes a large share of sticking doors, and it's reversible \u2014 do it before anything you can't undo.",
+    "If a screw just spins and won't bite (stripped hole), pull it, tap two or three wooden toothpicks or a golf tee dipped in wood glue into the hole, snap them flush, let dry, then drive the screw back in. For a sagging door, replace one of the top-hinge screws with a 3-inch screw that reaches the wall stud \u2014 this pulls the door up and back into the frame.",
+    "If hinges are tight but it still rubs at the top latch corner, shim the BOTTOM hinge: loosen the leaf, slip a thin cardboard shim behind it, retighten. This kicks the top of the door toward the latch side and lifts the binding corner. Work one shim at a time and re-test.",
+    "If it's clearly humidity swelling and the weather is wet, the smart move is to wait \u2014 don't cut. To stop future swelling, once the door dries out remove it, lightly sand the swollen edge, and seal all six edges (both faces, all four edges) with primer or paint so moisture can't soak in.",
+    "Paint buildup: scrape and sand the rubbing edge down to a smooth surface, wipe clean, and reseal with a thin coat of paint. Often removes just enough to clear the rub.",
+    "Last resort \u2014 remove wood. Mark the rub line clearly. For a small high spot, sand it with 80-grit on a block. For a longer bind, take the door off (tap out the hinge pins bottom pin first, then top, so the door doesn't drop), clamp it on edge, and plane in long strokes WITH the grain, taking paper-thin passes. Plane the hinge edge when you can (less visible, no latch to deal with); avoid planing more than about 1/8 inch off any edge. Check the fit often \u2014 you can always remove more, never add it back. Reseal the bare wood with primer/paint when done.",
+    "Re-hang, test the swing through the full range, and confirm it latches. If you removed wood, prime/paint the cut edge the same day so it doesn't absorb moisture and swell again."
+  ],
+  "diyVsPro": "This is a beginner-friendly DIY job \u2014 most sticking doors are fixed in 15 minutes with a screwdriver and a piece of cardboard, no special skill needed. Step up to a pro (handyman or carpenter) if: the frame is visibly racked out of square, doors AND windows in the room stick, or there are new cracks above the door \u2014 those can signal a foundation/structural problem and warrant a structural evaluation, not just trimming the door; the door is a solid-core or expensive slab you don't want to risk planing; or you've shimmed and planed and it still won't sit right. Replacing or rehanging a whole prehung door unit is also a reasonable point to call someone.",
+  "typicalCostUSD": "DIY: $0\u201325 (you likely already own a screwdriver; longer screws, toothpicks/golf tees, and sandpaper are a few dollars; a block plane is $25\u201345 if you don't have one). Handyman visit: $75\u2013200 for a simple adjustment or plane. Carpenter rehanging a prehung door: $200\u2013600+. Structural/foundation evaluation if settling is suspected: roughly $350\u2013800 for a structural engineer's assessment.",
+  "timeEstimate": "15\u201330 minutes for the hinge-tighten or shim fix. 1\u20132 hours if you take the door down to plane and repaint an edge (plus paint drying time).",
+  "safetyLevel": "caution",
+  "safetyNote": "Mostly low-risk, but two real cautions. First, lead paint: in any home built before 1978, old paint may contain lead \u2014 do NOT dry-sand or power-sand it. Test the paint first (or assume lead) and either use wet-sanding/lead-safe methods or hire an EPA-certified pro; clean up dust carefully and keep kids and pregnant people away. Wear eye protection and a dust mask/respirator when sanding or planing. Second, a door slab is heavier than it looks \u2014 have a helper or a shim under it when you pull the hinge pins so it doesn't fall on your foot. Finally, if the sticking comes with new cracks over the doorway, multiple stuck doors/windows, sloping floors, or a door that swings open on its own, stop trimming and get a professional structural look \u2014 that points to settling, not a door problem.",
+  "toolsParts": [
+    "Phillips and flathead screwdrivers",
+    "3-inch wood screws (to reach the stud behind a hinge)",
+    "Wooden toothpicks or golf tees + wood glue (for stripped screw holes)",
+    "Pencil and a thin paper / dollar bill (to find the rub point)",
+    "Cardboard or thin shim stock (for hinge shimming)",
+    "80- and 120-grit sandpaper + a sanding block",
+    "Block plane or jack plane (only if removing wood)",
+    "Hammer and a nail or nail set / punch (to tap out hinge pins)",
+    "Two clamps and a stable work surface or sawhorses",
+    "Primer or matching paint + small brush (to reseal cut/sanded edges)",
+    "Eye protection and dust mask or respirator",
+    "Lead-paint test kit (homes built before 1978)"
+  ],
+  "searchTerms": [
+    "interior door sticking and rubbing frame how to fix",
+    "door sticks at top corner won't close humidity",
+    "how to fix a sagging door with loose hinges",
+    "plane a door that rubs without removing it",
+    "door swollen from humidity sticking in summer",
+    "shim door hinge to stop rubbing",
+    "stripped hinge screw hole wood door fix",
+    "why does my door stick only in wet weather"
+  ],
+  "sources": [
+    "This Old House \u2014 how to fix a sticking or binding door",
+    "Family Handyman \u2014 door repair: fixing doors that stick",
+    "Bob Vila \u2014 how to fix a sticking door",
+    "EPA \u2014 Renovate Right / lead-safe practices for pre-1978 homes",
+    "Manufacturer guidance from prehung door makers (e.g., Masonite, JELD-WEN) on hinge adjustment and sealing door edges against moisture"
+  ],
+  "disclaimer": "General home-maintenance guidance for a typical US interior door. Your door, frame, and home construction may differ. If you suspect structural settling, lead paint, or anything beyond a simple adjustment, consult a qualified professional. Proceed at your own risk.",
+  "verified": true,
+  "verifierNote": "Confirmed the diagnosis-and-fix order (find rub point \u2192 tighten/long-screw hinges \u2192 shim \u2192 seal/plane last) matches standard US practice; corrected hinge-pin removal direction (pull bottom pin first, not \"bottom-to-top\"), added a max-material-removal limit for planing, escalated safetyLevel to \"caution\" with a proper EPA lead-paint warning (was understated at \"none\"), added a lead test kit, and nudged the structural-engineer cost to a realistic $350\u2013800.",
+  "kind": "spoke"
+}

@@ -1,0 +1,142 @@
+{
+  "app": "home",
+  "schema": 1,
+  "generatedAt": "2026-06-23T03:56:38Z",
+  "disclaimer": "General information compiled from public sources, for reference only — not professional advice and not reviewed by licensed experts. Verify before acting; Team AM is not liable.",
+  "source": "researched (see per-topic sources)",
+  "topics": [
+    {
+      "id": "hvac-air-filter",
+      "title": "Check your HVAC filter monthly",
+      "summary": "A dirty filter chokes airflow and makes your system work harder and wear out faster.",
+      "detail": "ENERGY STAR recommends inspecting your central AC, furnace, or heat pump filter once a month, especially during heavy-use winter and summer months. Change it when it looks dirty, and at a minimum every 3 months. If you have pets or dusty conditions, or the system runs constantly, check more often.",
+      "tags": ["hvac", "seasonal", "efficiency"],
+      "severity": "info",
+      "sources": [
+        { "name": "ENERGY STAR — HVAC Maintenance Checklist", "url": "https://www.energystar.gov/saveathome/heating-cooling/maintenance-checklist" }
+      ]
+    },
+    {
+      "id": "ac-annual-tuneup",
+      "title": "Get a professional AC tune-up before summer",
+      "summary": "Once-a-year service keeps coils clean and refrigerant charged so the system cools efficiently.",
+      "detail": "The U.S. Department of Energy advises regular maintenance of filters, coils, fins, and refrigerant lines for efficient performance. A qualified technician should inspect and clean the coil, measure airflow across the evaporator coil, check that refrigerant matches the manufacturer's specification, tighten electrical connections, and check belts and motors. Neglecting these tasks causes a steady decline in cooling performance.",
+      "tags": ["hvac", "cooling", "seasonal"],
+      "severity": "info",
+      "sources": [
+        { "name": "DOE — Maintaining Your Air Conditioner", "url": "https://www.energy.gov/energysaver/maintaining-your-air-conditioner" }
+      ]
+    },
+    {
+      "id": "water-heater-temp-120",
+      "title": "Set your water heater to 120°F",
+      "summary": "120°F prevents scalding, slows corrosion and mineral buildup, and cuts standby energy loss.",
+      "detail": "The U.S. Department of Energy notes most households only need their water heater set to 120°F, which also slows mineral buildup and corrosion in the tank and pipes. The Consumer Product Safety Commission recommends no more than 120°F to prevent scalding. A 140°F setting can waste roughly $36–$61 a year in standby heat loss.",
+      "tags": ["water-heater", "efficiency", "safety"],
+      "severity": "attention",
+      "sources": [
+        { "name": "DOE — Lower Water Heating Temperature", "url": "https://www.energy.gov/energysaver/do-it-yourself-savings-project-lower-water-heating-temperature" }
+      ]
+    },
+    {
+      "id": "water-heater-flush",
+      "title": "Flush sediment from your water heater tank",
+      "summary": "Periodic flushing clears mineral sediment that reduces efficiency and shortens tank life.",
+      "detail": "The U.S. Department of Energy advises periodically flushing storage water heaters to remove sediment. This matters most with hard water, where calcium and mineral deposits build up on heat-transfer surfaces and force the heater to work harder. Follow your unit's manual for the procedure, or have a professional do it.",
+      "tags": ["water-heater", "plumbing", "maintenance"],
+      "severity": "info",
+      "sources": [
+        { "name": "DOE — Solar Water Heating System Maintenance and Repair", "url": "https://www.energy.gov/energysaver/solar-water-heating-system-maintenance-and-repair" }
+      ]
+    },
+    {
+      "id": "winterize-pipes",
+      "title": "Protect pipes before a hard freeze",
+      "summary": "Insulate exposed pipes, let a faucet drip, and open cabinets so warm air reaches the plumbing.",
+      "detail": "The American Red Cross recommends insulating exposed pipes with pipe sleeves or UL-listed heat tape, and letting cold water drip from faucets served by exposed pipes during very cold weather — even a trickle helps prevent freezing. Open kitchen and bathroom cabinet doors so warm air can circulate around the plumbing. Frozen pipes can burst and cause major water damage.",
+      "tags": ["plumbing", "winterization", "seasonal"],
+      "severity": "attention",
+      "sources": [
+        { "name": "American Red Cross — Preventing & Thawing Frozen Pipes", "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html" }
+      ]
+    },
+    {
+      "id": "winterize-outdoor-faucets",
+      "title": "Drain outdoor faucets and hoses for winter",
+      "summary": "Disconnect hoses, shut the inside supply valve, and leave the outside bib open to drain.",
+      "detail": "Before freezing weather, the American Red Cross recommends removing, draining, and storing outdoor hoses, closing the inside valves that supply outdoor hose bibs, then opening the outside bibs to let water drain. Leave the outside valve open so any remaining water can expand without bursting the pipe.",
+      "tags": ["plumbing", "winterization", "seasonal"],
+      "severity": "attention",
+      "sources": [
+        { "name": "American Red Cross — Preventing & Thawing Frozen Pipes", "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html" }
+      ]
+    },
+    {
+      "id": "attic-insulation-rvalue",
+      "title": "Insulate your attic to the right R-value for your climate",
+      "summary": "Recommended attic R-value rises with how cold your climate zone is.",
+      "detail": "For an uninsulated attic, ENERGY STAR recommends roughly R30 in the warmest zone (1), R49 in zones 2–3, and R60 in zones 4 through 8 (most of the central and northern U.S.). Higher R-value means better thermal performance. Check your zone on the ENERGY STAR map, since adding insulation to an underinsulated attic is one of the most cost-effective upgrades.",
+      "tags": ["insulation", "efficiency", "weatherization"],
+      "severity": "info",
+      "sources": [
+        { "name": "ENERGY STAR — Recommended Home Insulation R-Values", "url": "https://www.energystar.gov/saveathome/seal_insulate/identify-problems-you-want-fix/diy-checks-inspections/insulation-r-values" }
+      ]
+    },
+    {
+      "id": "gutter-cleaning",
+      "title": "Clean gutters twice a year",
+      "summary": "Clear gutters in spring and fall to stop overflow that damages roof, walls, and foundation.",
+      "detail": "This Old House recommends clearing gutter debris at least twice a year, ideally once in spring and once in fall, which also lets you inspect for cracks or sagging. Clogged gutters can overflow and let water seep into walls, basements, or crawl spaces, leading to mold, foundation issues, and roof leaks. For multi-story homes or heavy clogs, consider hiring a professional for safety.",
+      "tags": ["gutters", "roof", "water-damage", "seasonal"],
+      "severity": "attention",
+      "sources": [
+        { "name": "This Old House — How to Clean Your Gutters Safely", "url": "https://www.thisoldhouse.com/gutters/how-to-clean-gutters" }
+      ]
+    },
+    {
+      "id": "roof-inspection",
+      "title": "Have your roof inspected once a year",
+      "summary": "An annual look catches small roof problems before they become expensive leaks.",
+      "detail": "This Old House notes experts recommend a roof inspection once a year to catch problems early, when they are easier and cheaper to fix. To protect the roof between inspections, trim back overhanging trees, remove snow buildup, keep gutters clean, and clear debris. Watch for water stains on exterior walls as a warning sign.",
+      "tags": ["roof", "maintenance", "seasonal"],
+      "severity": "info",
+      "sources": [
+        { "name": "This Old House — Guide to Roof Inspections", "url": "https://www.thisoldhouse.com/roofing/what-is-a-roof-inspection" }
+      ]
+    },
+    {
+      "id": "dryer-vent-fire-safety",
+      "title": "Clean the dryer lint trap and vent to prevent fires",
+      "summary": "Failure to clean dryers is the leading cause of dryer fires; lint is the top thing that ignites.",
+      "detail": "FEMA's U.S. Fire Administration and NFPA report that failure to clean accounts for about a third of home dryer fires, and dust, fiber, and lint are the leading items first ignited. Clean the lint filter before or after every load, and clean lint out of the vent pipe periodically (or hire a dryer-vent cleaning service). Have the dryer installed and serviced by a professional, and turn it off when you leave home or go to bed.",
+      "tags": ["fire-safety", "dryer", "safety"],
+      "severity": "safety",
+      "sources": [
+        { "name": "FEMA U.S. Fire Administration — Clothes Dryer Fire Safety", "url": "https://www.usfa.fema.gov/downloads/pdf/publications/clothes_dryer_fire_safety_flyer.pdf" },
+        { "name": "NFPA — Clothes Dryer Safety Tip Sheet", "url": "https://www.nfpa.org/downloadable-resources/safety-tip-sheets/clothes-dryer-safety-tip-sheet" }
+      ]
+    },
+    {
+      "id": "radon-testing",
+      "title": "Test your home for radon",
+      "summary": "Testing is the only way to know your radon level; EPA says fix homes at or above 4 pCi/L.",
+      "detail": "The EPA recommends fixing a home if the radon level is 4 pCi/L or more, and considering action between 2 and 4 pCi/L. Radon is the second leading cause of lung cancer in the U.S. Short-term tests run a minimum of 48 hours (some devices need longer). If levels are elevated, hire a contractor trained in radon mitigation to install a reduction system such as a vent fan and piping.",
+      "tags": ["radon", "indoor-air", "safety", "health"],
+      "severity": "safety",
+      "sources": [
+        { "name": "EPA — What is EPA's Action Level for Radon?", "url": "https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean" }
+      ]
+    },
+    {
+      "id": "smoke-co-alarms",
+      "title": "Test alarms monthly, replace smoke alarms every 10 years",
+      "summary": "Test smoke and CO alarms monthly, swap batteries yearly, and replace aging units.",
+      "detail": "NFPA recommends testing all smoke alarms at least once a month and replacing batteries at least once a year (unless the unit has a sealed 10-year battery). Replace smoke alarms 10 years after the manufacture date on the back label. Continued chirping after a fresh battery means the unit is at end of life and must be replaced; combination smoke/CO units often have a shorter rated life, so follow the manufacturer's label.",
+      "tags": ["fire-safety", "carbon-monoxide", "safety"],
+      "severity": "safety",
+      "sources": [
+        { "name": "NFPA — Installing and Maintaining Smoke Alarms", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/smoke-alarms/installing-and-maintaining-smoke-alarms" }
+      ]
+    }
+  ]
+}

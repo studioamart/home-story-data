@@ -1,0 +1,93 @@
+{
+  "slug": "interior-condensation-cold-wall",
+  "system": "interior",
+  "title": "Condensation and Mold on Cold Exterior Walls and Corners: How to Stop It",
+  "question": "My exterior walls and the corners of my rooms get damp, drip, and grow black mold in winter \u2014 how do I stop the condensation for good?",
+  "summary": "Warm, moist indoor air hits cold wall surfaces and condenses, then mold feeds on the moisture; you fix it by lowering indoor humidity, warming the cold surfaces, and improving air movement. This guide explains why corners and exterior walls are the cold spots, how to tell condensation from a hidden leak, and the ordered steps to dry it out and keep mold from coming back.",
+  "commonCauses": [
+    {
+      "cause": "Indoor humidity is too high (showers, cooking, drying laundry indoors, unvented gas/kerosene heaters, too many people in a tight house). Above ~50% RH in winter, condensation is almost guaranteed on cold surfaces.",
+      "likelihood": "most common",
+      "quickCheck": "Buy a $10-15 hygrometer and read the relative humidity in the affected room. In winter you want it roughly 30-50%. If it reads 55%+ you have a humidity problem, not just a wall problem."
+    },
+    {
+      "cause": "Cold surfaces from poor or missing insulation. Exterior corners are the classic spot because two cold walls meet there and air barely moves, so the surface runs several degrees colder than the open wall.",
+      "likelihood": "most common",
+      "quickCheck": "Touch the corner versus the middle of the wall on a cold day, or point a $25-40 infrared thermometer at both. A corner 5-10 degrees colder than the room air is a textbook condensation zone."
+    },
+    {
+      "cause": "Thermal bridges - studs, concrete, steel, or a slab edge that conducts cold straight through the wall, leaving cold stripes or patches where condensation lines up.",
+      "likelihood": "common",
+      "quickCheck": "Look for mold or damp in vertical stripes spaced ~16 or 24 inches apart (the studs) or along the floor edge of an exterior wall (slab/rim joist). An IR thermometer or thermal camera makes the cold lines obvious."
+    },
+    {
+      "cause": "Dead air behind furniture or inside closets on exterior walls. Blocking airflow lets the surface get cold and stay wet - this is why mold loves the wall behind a headboard, sofa, or wardrobe.",
+      "likelihood": "common",
+      "quickCheck": "Pull furniture off the exterior wall and look for mold or musty smell on the wall behind it. If the back of the furniture or the wall behind it is damp/spotted, trapped air is your culprit."
+    },
+    {
+      "cause": "No or unused ventilation - bath fan missing or not vented outside, no kitchen range hood, never opening windows. Moisture has nowhere to go.",
+      "likelihood": "common",
+      "quickCheck": "Run the bath fan with a square of toilet paper held to the grille; it should hold the paper. Then confirm the duct actually exits the building (check the soffit/wall/roof cap), not just dumps into the attic."
+    },
+    {
+      "cause": "Hidden water source masquerading as condensation - roof/flashing leak, plumbing leak, rising damp at a foundation, or bulk water getting into the wall. Condensation is seasonal and surface-level; a leak is often persistent, localized, or stains drywall from inside.",
+      "likelihood": "less common",
+      "quickCheck": "Note whether the damp only appears in cold weather (points to condensation) or persists/worsens in rain or all year (points to a leak). A $20 pin moisture meter reading high deep in the drywall, not just at the surface, suggests bulk water - get it assessed before sealing anything up."
+    }
+  ],
+  "fixes": [
+    "Measure first. Put a hygrometer in the worst room for a few days and note the readings, especially after showers and overnight. Aim for 30-50% RH in winter. This tells you whether your main lever is humidity, surface temperature, or both. Skipping this step is why naive fixes fail - people repaint over mold and it returns in weeks.",
+    "Cut the moisture you generate. Always run the bathroom fan during and 20-30 minutes after showers; cover pots and run the range hood when cooking; never dry laundry indoors on a rack; cover fish tanks; and stop using any unvented gas or kerosene heater - they pump huge amounts of water into the air and are a carbon-monoxide risk.",
+    "Ventilate to dump moist air. Crack windows for 10-15 minutes a couple times a day (or use trickle/window vents), confirm the bath fan actually exhausts outdoors (not into the attic), and add a kitchen range hood that vents outside if you lack one. In a leaky old house this alone can solve it; in a tight house you may need mechanical ventilation.",
+    "Run a dehumidifier in the problem room or season if ventilation can't get you under 50%. A decent portable unit ($150-300) holds humidity steady. This is the most reliable single fix for surface condensation while you address insulation.",
+    "Restore airflow at the cold spots. Move furniture 2-4 inches off exterior walls, leave closet doors cracked, and avoid stuffing closets on exterior walls. Air movement keeps the surface above the dew point and is free.",
+    "Warm the cold surfaces. Keep heat steady rather than letting rooms swing cold (cold surfaces re-condense fast). For a lasting fix, improve insulation on the exterior wall - the corner and stud-line cold spots come from thin or missing insulation. Get an energy audit or insulation contractor: drill-and-fill cavity insulation and exterior insulation during a re-side are pro jobs, not DIY. Be cautious with interior insulating board done by yourself - if air-sealing is wrong it can trap moisture behind the panel and create a hidden mold plane, so have a pro detail it.",
+    "Clean existing mold correctly. For small areas (under ~10 sq ft) of surface mold on a hard, non-porous wall: wear an N95 and gloves, scrub with detergent and water (or a dedicated mold cleaner), then let it dry fully. Skip the myth that bleach is required - on non-porous surfaces detergent works and the key is removing the mold plus the moisture feeding it. If drywall or insulation is soft, crumbling, or stained through, it is contaminated and needs replacement by a pro.",
+    "Only after the wall is dry and mold is gone, repaint. A mold-resistant or anti-condensation paint adds insurance, but it is a finish, not a cure - if you skip the humidity and insulation work, mold comes back through any paint.",
+    "Re-measure. After a couple of weeks, check the hygrometer and re-touch the corners. If RH is under 50% and corners no longer feel clammy, you've fixed the cause. If mold keeps returning despite dry air, you likely have a thermal-bridging/insulation problem or a hidden leak - call a pro."
+  ],
+  "diyVsPro": "Most condensation cases are solidly DIY: humidity control, ventilation habits, a dehumidifier, moving furniture, and cleaning small surface-mold patches. Call a pro when (1) mold covers more than ~10 square feet or is in drywall/insulation that must be removed, (2) the dampness persists in dry weather or worsens in rain, suggesting a roof, flashing, plumbing, or foundation leak rather than condensation, (3) you need insulation/thermal-bridge work, an energy audit, or any wiring beyond a simple like-for-like fan swap, or (4) anyone in the home has asthma, allergies, or is immunocompromised. For mold remediation, use a licensed mold remediation contractor; for the cold-wall cause, an insulation contractor or home-performance/energy auditor (BPI or RESNET certified); for leaks, a roofer/plumber/foundation specialist as appropriate.",
+  "typicalCostUSD": "DIY: hygrometer $10-15, IR thermometer $25-40, dehumidifier $150-300, mold cleaner/N95/gloves $20-40, anti-condensation paint $30-60/gal, simple like-for-like bath fan swap $50-150 in parts. Pro: energy/home audit $200-600, bath fan install $250-500, cavity/wall insulation $1-4/sq ft, small mold remediation $500-1,500, larger remediation $2,000-6,000+, leak and foundation repairs vary widely.",
+  "timeEstimate": "Humidity and ventilation habits: immediate, ongoing. Hygrometer reading: a few days to gather data. Dehumidifier setup: under an hour. Cleaning small mold: 1-2 hours plus drying. Like-for-like bath fan swap: 2-4 hours DIY. Insulation work: a half-day to several days depending on method. Seeing humidity drop and condensation stop: typically 1-3 weeks once causes are addressed.",
+  "safetyLevel": "caution",
+  "safetyNote": "Mold can trigger asthma and allergic reactions - wear an N95 respirator and gloves, ventilate while cleaning, and don't disturb large areas. Do not clean more than ~10 sq ft yourself; larger growth needs professional remediation with containment. Never run unvented gas or kerosene heaters to fight cold walls - they add moisture and pose a carbon-monoxide risk; keep a working CO alarm. If you suspect a hidden leak or the wall structure is wet, stop and get it assessed before sealing it up - trapping moisture worsens rot and mold. Treat roof, flashing, plumbing, and foundation leaks as pro work. Any electrical beyond a simple like-for-like fan swap on de-energized 120V wiring should be done by a licensed electrician, and insulating cavity, exterior, or interior-board work should be detailed by a pro so you don't create a hidden moisture trap.",
+  "toolsParts": [
+    "Digital hygrometer (humidity meter)",
+    "Infrared (non-contact) thermometer",
+    "Portable dehumidifier",
+    "Pin-type moisture meter (optional, to distinguish leak vs. condensation)",
+    "N95 respirator",
+    "Nitrile/rubber gloves",
+    "Detergent or dedicated mold cleaner",
+    "Stiff scrub brush and cloths",
+    "Bathroom exhaust fan and/or kitchen range hood (vented outdoors)",
+    "Mold-resistant / anti-condensation paint",
+    "Interior insulating board or panels (pro-detailed thermal upgrade)"
+  ],
+  "searchTerms": [
+    "condensation on cold exterior walls in winter",
+    "black mold in corner of bedroom wall",
+    "how to stop condensation on inside walls",
+    "mold on wall behind furniture exterior wall",
+    "why do corners of my house get damp and moldy",
+    "reduce indoor humidity to stop wall condensation",
+    "anti condensation paint vs insulation",
+    "dew point cold wall mold fix",
+    "bathroom condensation mold corner ceiling",
+    "how to lower humidity in house winter"
+  ],
+  "sources": [
+    "EPA: A Brief Guide to Mold, Moisture and Your Home",
+    "EPA: Mold Cleanup in Your Home (10 sq ft guidance)",
+    "U.S. Department of Energy / Energy Saver: insulation and air sealing guidance",
+    "ENERGY STAR: home ventilation and indoor humidity guidance",
+    "Building Science Corporation: dew point, thermal bridging, and condensation control",
+    "ASHRAE: recommended indoor relative humidity ranges",
+    "CDC: mold and health effects guidance"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional inspection, remediation, or medical advice. Conditions vary by home, climate, and construction. When mold is extensive, dampness persists in dry weather, or anyone in the home has health concerns, consult a qualified professional. Verify local building codes before electrical or structural work.",
+  "verified": true,
+  "verifierNote": "Confirmed dew-point physics, EPA 10 sq ft threshold, 30-50% winter RH, and \"bleach not required on non-porous surfaces\"; tightened unvented-only gas/kerosene wording, routed cavity/exterior/interior-board insulation, roof/foundation leaks, and non-trivial electrical to pros, and flagged the interior-board moisture-trap risk.",
+  "kind": "spoke"
+}

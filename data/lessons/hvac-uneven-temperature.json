@@ -1,0 +1,89 @@
+{
+  "slug": "hvac-uneven-temperature",
+  "system": "hvac",
+  "title": "Why Some Rooms Are Hotter or Colder Than Others \u2014 Causes & Fixes",
+  "question": "Why is one room in my house always hotter or colder than the rest?",
+  "summary": "Uneven room temperatures usually come from blocked or unbalanced airflow, a dirty filter, leaky ducts, or the single thermostat only reading one spot in the house. Most causes are cheap DIY fixes; persistent problems point to duct or system sizing issues that need a pro.",
+  "commonCauses": [
+    {
+      "cause": "Dirty air filter choking airflow to the whole system, so rooms farther from the air handler get starved first",
+      "likelihood": "most common",
+      "quickCheck": "Pull the filter and hold it up to a light. If you can't see light through it, it's clogged. Note the last time it was changed (most filters want every 1-3 months)."
+    },
+    {
+      "cause": "Closed, blocked, or unbalanced supply/return vents and dampers \u2014 furniture over a register, dampers set wrong for the season",
+      "likelihood": "most common",
+      "quickCheck": "Walk the house: are any registers closed, covered by rugs/furniture, or barely blowing air? Feel for airflow at each one with your hand."
+    },
+    {
+      "cause": "Single thermostat located in a spot that isn't representative (a hallway, a sunny wall, near a vent), so it satisfies before far rooms catch up",
+      "likelihood": "common",
+      "quickCheck": "Put a cheap thermometer in the problem room and another near the thermostat. A 3-8\u00b0F gap that tracks with sun or distance points here."
+    },
+    {
+      "cause": "Leaky or disconnected ducts, especially in attics/crawlspaces, dumping conditioned air into unconditioned space before it reaches far rooms",
+      "likelihood": "common",
+      "quickCheck": "In the attic/crawlspace, look for disconnected duct sections, crushed flex duct, or loose joints. Far rooms that are weak at every vent suggest duct loss."
+    },
+    {
+      "cause": "Poor insulation or air leaks in the problem room (rooms over garages, bonus rooms, rooms with many windows or west-facing sun)",
+      "likelihood": "common",
+      "quickCheck": "Is the worst room above a garage, on the top floor, an addition, or full of windows? Check for drafts at windows/doors and thin/missing insulation in that area."
+    },
+    {
+      "cause": "Long or undersized duct runs to the far room \u2014 the room is simply at the end of the line with too little duct capacity",
+      "likelihood": "less common",
+      "quickCheck": "Compare airflow at the far room's vent to a close room's. Much weaker flow that isn't explained by filter/dampers suggests a duct design limit."
+    },
+    {
+      "cause": "An oversized or undersized HVAC system, or a single-zone system trying to serve a multi-level home, so it short-cycles or can't balance floors",
+      "likelihood": "less common",
+      "quickCheck": "Does the system run very short cycles, or run constantly and still not even out? Multi-story homes on one zone almost always have a warm upstairs in summer."
+    }
+  ],
+  "fixes": [
+    "Change the air filter first \u2014 it's the cheapest fix and solves more uneven-temp complaints than anything else. Match the size printed on the old filter and avoid the densest 'allergen' filters if your system airflow is already weak.",
+    "Open and unblock every supply and return vent. Move furniture, rugs, and curtains off registers. Don't close vents in unused rooms hoping to push air elsewhere \u2014 on most systems this raises duct pressure, can worsen leaks, and on common PSC blowers can even freeze the coil; it makes balance worse, not better.",
+    "Balance the dampers. Many duct systems have lever or wing-nut dampers on the trunk lines (in the basement, attic, or near the air handler). Slightly closing the damper to over-served rooms pushes more air to the weak room. Make small changes, wait a few hours, and re-check \u2014 and mark the original positions first so you can undo it.",
+    "Adjust register louvers: aim more flow toward problem rooms and partially close registers in rooms that are already comfortable.",
+    "Seal accessible duct leaks with foil-backed mastic or UL 181 foil tape (never cloth 'duct tape' \u2014 it dries out and fails). Reconnect any duct sections you can safely reach and tighten loose joints.",
+    "Address the room's own losses: weatherstrip drafty doors/windows, add or top up insulation in the affected area, and use blackout or cellular shades on west/south-facing windows during cooling season.",
+    "Help the thermostat the easy way: run the fan in 'ON' (continuous) mode instead of 'AUTO' to mix air between rooms and even out temperatures, at a small energy cost. Physically relocating the thermostat means running new low-voltage wire and patching the wall \u2014 treat that as a bigger project, and have a pro do it if you're unsure about the wiring (including the C-wire).",
+    "If a single room still won't behave, consider a targeted add-on. Set expectations: a register or in-line duct booster fan can help a marginally weak run but won't overcome a system-wide airflow shortage, and some add noise \u2014 hardwired in-line models may need an electrician. For a chronically hot upstairs, a ductless mini-split or a professional zoning system with motorized dampers and multiple thermostats is the more reliable fix.",
+    "If the whole house is unbalanced and basic fixes don't work, get an HVAC contractor to perform a Manual J load calculation and a duct/airflow assessment to check for sizing or design problems."
+  ],
+  "diyVsPro": "DIY is fine for filters, opening/aiming vents, simple damper balancing, sealing reachable duct leaks with mastic/tape, weatherstripping, plug-in booster fans, and switching the fan to ON. Call a licensed HVAC pro (or electrician where noted) for thermostat relocation, hardwired booster fans, duct redesign or major sealing, adding a zoning system or mini-split, refrigerant or system-sizing problems, or a Manual J load calculation. Any work on gas furnaces or 240V wiring is pro-only.",
+  "typicalCostUSD": "DIY: filters $10-40; foil tape/mastic $10-25; weatherstripping $10-30; register booster fan $30-80; in-line duct booster $100-250. Pro: professional duct sealing $400-1,500 (Aeroseal commonly $1,500-3,000); adding a zoning system $2,000-4,000+; a single-zone ductless mini-split $3,500-6,000 installed; full duct rework or system replacement several thousand and up.",
+  "timeEstimate": "Filter swap and opening vents: 10-15 minutes. Damper balancing with re-checks: a few hours spread over a day. Duct sealing you can reach: 1-3 hours. Pro duct sealing or zoning: a half-day to a couple of days.",
+  "safetyLevel": "caution",
+  "safetyNote": "Most steps are low-risk, but attics and crawlspaces involve heights, fiberglass insulation, sharp sheet-metal edges, and possible electrical near the air handler \u2014 wear gloves, a dust mask, and watch your footing: step only on joists or laid decking, never on the drywall between them or you can fall through the ceiling. Turn the system off at the thermostat before reaching into return openings or near the blower. Do not open or modify a gas furnace cabinet or any 240V wiring yourself \u2014 that's a licensed pro's job. If you ever smell gas, leave the house first, then call your gas utility from outside.",
+  "toolsParts": [
+    "Replacement air filter (correct size)",
+    "Thermometer or two (to compare rooms)",
+    "Screwdriver (for register louvers/dampers)",
+    "Foil-backed mastic or UL 181 foil tape",
+    "Weatherstripping / door sweeps",
+    "Flashlight or headlamp",
+    "Work gloves and dust mask",
+    "Optional: register or in-line duct booster fan"
+  ],
+  "searchTerms": [
+    "one room hotter than rest of house",
+    "why is my upstairs so hot",
+    "uneven heating and cooling between rooms",
+    "HVAC airflow problem far room cold",
+    "how to balance HVAC dampers",
+    "duct booster fan for hot room",
+    "why is one bedroom always cold"
+  ],
+  "sources": [
+    "Manufacturer guidance (HVAC equipment and filter makers)",
+    "ENERGY STAR / DOE guidance on duct sealing and home airflow",
+    "Building-code and industry norms (ACCA Manual J load calculation, UL 181 duct sealing standards)",
+    "Reputable DIY references (This Old House, Family Handyman, Angi cost data)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for an on-site inspection by a licensed HVAC contractor. Building conditions, equipment, and local codes vary; when in doubt, consult a professional.",
+  "verified": true,
+  "verifierNote": "Confirmed causes, costs (incl. Aeroseal $1,500-3,000), and the \"don't close vents\" warning against current data; softened booster-fan claim to set realistic expectations, reframed thermostat relocation as a wiring/C-wire job (pro if unsure) vs. the DIY fan-ON tip, flagged hardwired in-line fans as needing an electrician, and strengthened safetyNote on joist footing and gas-leak evacuation.",
+  "kind": "pillar"
+}

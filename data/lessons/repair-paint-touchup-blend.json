@@ -1,0 +1,81 @@
+{
+  "slug": "repair-paint-touchup-blend",
+  "system": "interior",
+  "title": "How to Touch Up Paint So It Blends In Without Repainting the Whole Wall",
+  "question": "I have a few scuffs and nail-hole patches on my interior wall and I want to touch up the paint without it leaving an obvious shiny or different-colored spot. How do I make a paint touch-up actually blend in so I don't have to repaint the entire wall?",
+  "summary": "Touch-ups show up because of three things: wrong sheen, a slightly off color from age or a different batch, and how you apply the paint. Use the exact original paint, dab it on thin with a small piece of the same roller (not a brush), feather the edges, keep the patch small, and most touch-ups disappear once dry.",
+  "commonCauses": [
+    {
+      "cause": "Sheen mismatch \u2014 the touch-up dries shinier or flatter than the surrounding wall, so it 'flashes' under raking light even when the color is perfect.",
+      "likelihood": "most common",
+      "quickCheck": "Look at the wall from the side at a low angle (a flashlight held flat against the wall exaggerates it). If old touch-ups show as glossy or dull patches rather than color differences, sheen is your problem. Check the can label: flat/matte hides touch-ups best, satin/semi-gloss/gloss almost never blend."
+    },
+    {
+      "cause": "Color drift \u2014 the original paint on the wall has faded from sunlight, smoke, or cleaning, so even the identical can no longer matches the aged wall.",
+      "likelihood": "common",
+      "quickCheck": "Dab a test spot of your saved paint in an out-of-the-way area (behind a door or low in a corner) and let it dry fully. If it reads slightly brighter or different than the wall around it, the wall has aged and a small spot touch-up won't hide it."
+    },
+    {
+      "cause": "Application footprint \u2014 a brush, a thick coat, or a big swiped area leaves a ridge, a texture difference, or a 'halo' even with the right paint.",
+      "likelihood": "common",
+      "quickCheck": "Check how the existing wall was painted: if it has a fine stipple texture, it was rolled, and a brushed touch-up will look smooth and obvious. Run your hand over the wall to feel the texture you need to match."
+    },
+    {
+      "cause": "Wrong paint entirely \u2014 using 'close enough' paint, a color match from a chip, or leftover from a different room.",
+      "likelihood": "common",
+      "quickCheck": "Find the original can or the paint store formula sticker. If you only have a guessed/store-matched color, expect a visible patch \u2014 scanned matches are rarely perfect and the only reliable match is the original product and batch."
+    },
+    {
+      "cause": "Skipping spot-priming on a repair \u2014 bare patched spackle or stain bleed-through soaks up paint differently and dries dull or discolored.",
+      "likelihood": "less common",
+      "quickCheck": "Look at any filled nail holes or patched spots: if the filler is exposed (not primed), paint over it will flash flat. Press a fingernail \u2014 if the spot feels chalky/absorbent, it needs primer first."
+    }
+  ],
+  "fixes": [
+    "Find and verify the exact original paint. Locate the original can or the store formula sticker (brand, color name/code, and sheen). If the paint is more than a year or two old, take it to a paint store to re-shake or buy a fresh quart of the same formula and sheen. Do not substitute 'close' colors.",
+    "Clean the area first. Wipe scuffs and the surrounding wall with a damp microfiber cloth and a little dish soap, then let it dry completely. Touching up over grease, dust, or a marker scuff will flash or smear. A magic-eraser sponge removes many scuffs entirely \u2014 try that before you even paint.",
+    "Repair any damage before painting. Fill nail holes and dings with lightweight spackle, let dry, sand flush with fine (220-grit) sandpaper, wipe off dust, then spot-prime just the patch with a stain-blocking primer and let it dry. On bare patches, skipping primer is the main reason a spot dries dull.",
+    "Match the texture by matching the tool. If the wall was rolled (most walls are), apply with a small piece of the SAME nap roller \u2014 a 4-inch mini roller or even a chunk of roller cover. A brush leaves smooth strokes that won't match a rolled stipple. Only use a brush if the wall itself was brushed.",
+    "Apply thin, and feather the edges. Load the roller/applicator lightly (offload most paint onto a tray or cardboard first), then dab a thin coat over the spot, keeping it as small as the damage. Feather outward with a near-dry applicator so there's no hard edge \u2014 a 'dry-brush' fade-out, not a sharp border.",
+    "Keep the patch small and let it fully dry before judging. Resist covering a large area; bigger patches are harder to hide. Let it dry 2-4 hours (or overnight for color), then view it in daylight and from a low angle. Paint often looks off when wet and blends as it cures.",
+    "If it still flashes, expand to the nearest natural break. When sheen won't blend on a satin/semi-gloss wall, repaint the whole wall corner-to-corner (or to the nearest trim/break) rather than chasing spots. 'Painting to a corner' hides the transition where the eye expects an edge anyway.",
+    "Going forward, save labeled touch-up paint. Pour a small amount into a sealed jar labeled with the room and sheen. A matched batch saved from the original job is the single biggest factor in invisible future touch-ups."
+  ],
+  "diyVsPro": "This is firmly DIY for flat/matte and eggshell walls \u2014 it's cosmetic, low-risk, and the technique is the whole game. Call a painter when the wall is satin, semi-gloss, or high-gloss and the touch-up keeps flashing (those sheens essentially require recoating wall-to-wall), when the area is large or high on a stairwell, or when the color has drifted enough that the whole room needs repainting to look uniform. A pro is also worth it for textured walls (knockdown, orange peel, skip-trowel) where matching the texture is the hard part.",
+  "typicalCostUSD": "$0\u201325 if you already have the original paint (spackle, sandpaper, a mini roller, and a sample primer run about $15\u201325). A fresh quart to re-match runs $18\u201330. If you hire a painter to repaint one wall to fix flashing, expect roughly $150\u2013400 depending on wall size and region; a full small room is typically $300\u2013800.",
+  "timeEstimate": "15\u201330 minutes of active work for a few scuffs or nail holes, plus drying time (2\u20134 hours to judge sheen, overnight for full color cure). Repairs that need spackle and primer add a couple of hours of waiting between steps.",
+  "safetyLevel": "none",
+  "safetyNote": "This is a cosmetic task with no real hazard. Basic common sense only: ventilate the room, keep water-based paint and primer off skin and out of eyes, and use a stable step stool \u2014 not a chair \u2014 if reaching up. If your home was built before 1978 and you're sanding old paint, treat it as possible lead paint: don't dry-sand aggressively, wet-wipe the dust, and follow EPA RRP lead-safe guidance before disturbing large areas.",
+  "toolsParts": [
+    "Original leftover paint (exact color + sheen) or a fresh-matched quart",
+    "Paint store formula sticker / can label for matching",
+    "4-inch mini roller with the same nap as the wall (or a piece of roller cover)",
+    "Small angled brush (only if the wall was brush-applied)",
+    "Lightweight spackle and a putty knife",
+    "220-grit sandpaper or sanding sponge",
+    "Stain-blocking spot primer",
+    "Microfiber cloths and mild dish soap",
+    "Magic-eraser type melamine sponge (for scuffs)",
+    "Small paint tray or cardboard for offloading",
+    "Sealable jar to store labeled touch-up paint"
+  ],
+  "searchTerms": [
+    "how to touch up paint without it showing",
+    "paint touch up flashing different sheen fix",
+    "touch up wall paint blend without repainting whole wall",
+    "why does my paint touch up look shiny",
+    "best way to touch up nail holes paint blend",
+    "feather paint touch up edges",
+    "touch up satin paint won't blend",
+    "roller vs brush for paint touch up"
+  ],
+  "sources": [
+    "Manufacturer touch-up guidance (Sherwin-Williams, Benjamin Moore, Behr): use original batch, matching sheen, and matching applicator",
+    "General painting-trade best practice on 'painting to a corner' to hide sheen transitions",
+    "EPA Renovation, Repair and Painting (RRP) lead-safe guidance for pre-1978 homes"
+  ],
+  "disclaimer": "General home-maintenance guidance for a typical US interior wall. Results vary with paint type, wall texture, age, and lighting. Always follow the paint and primer manufacturer's label instructions, and test in an inconspicuous spot first.",
+  "verified": true,
+  "verifierNote": "Confirmed sheen/color/application causes, primer step, \"paint to a corner\" practice, costs, and pre-1978 lead-paint flag as accurate; softened the overstated \"#1 cause\" primer claim for consistency with its less-common ranking and tightened wording. safetyLevel \"none\" is correct (cosmetic, no gas/240V/structural/roof/mold).",
+  "kind": "spoke"
+}

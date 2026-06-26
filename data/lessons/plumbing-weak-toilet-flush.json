@@ -1,0 +1,88 @@
+{
+  "slug": "plumbing-weak-toilet-flush",
+  "system": "plumbing",
+  "title": "Why Your Toilet Won't Flush Properly \u2014 Causes & Fixes",
+  "question": "Why won't my toilet flush all the way (weak or incomplete flush)?",
+  "summary": "A weak toilet flush is usually a tank water-level, flapper, or clogged-jet problem before it's a real drain clog. Check the fill level and flapper first; most fixes are cheap and take under an hour.",
+  "commonCauses": [
+    {
+      "cause": "Tank water level set too low (float adjusted wrong or fill valve shutting off early), so there isn't enough water to power a full flush",
+      "likelihood": "most common",
+      "quickCheck": "Lift the tank lid. Water should sit about 1 inch below the top of the overflow tube. If it's well below that, the level is too low."
+    },
+    {
+      "cause": "Flapper closes too early or is warped/worn, letting water out before the bowl gets a full flush volume",
+      "likelihood": "most common",
+      "quickCheck": "Watch the flapper while you hold the handle down. If it drops shut before the tank empties, or looks warped/slimy/stiff, it's the culprit. A bowl level that slowly drops on its own also points to a leaking flapper."
+    },
+    {
+      "cause": "Clogged rim jets and siphon-jet holes (mineral/bacteria buildup) weakening the swirl and bowl-clearing power",
+      "likelihood": "common",
+      "quickCheck": "Look under the bowl rim for the small holes and check the larger jet hole at the bottom front of the bowl. White crust, rust, or dark gunk means clogged jets, especially with hard water."
+    },
+    {
+      "cause": "Partial drain clog (toilet paper, wipes, or an object) restricting the trap or drain line",
+      "likelihood": "common",
+      "quickCheck": "Pour a bucket (about 1.5 gallons) of water straight into the bowl. If it clears fine that way, the tank is the issue; if it's still sluggish or rises then drains slowly, suspect a clog."
+    },
+    {
+      "cause": "Disconnected or broken flush chain / handle linkage, so the flapper barely lifts",
+      "likelihood": "common",
+      "quickCheck": "Jiggle the handle and watch the chain. Too much slack, a detached chain, or a cracked handle arm means the flapper isn't opening fully."
+    },
+    {
+      "cause": "Clogged or blocked vent stack (slow gurgling drains, bubbles) reducing flush velocity",
+      "likelihood": "less common",
+      "quickCheck": "Listen for gurgling and look for bubbles in the bowl when other fixtures drain. Multiple slow drains across the house point to a vent or main-line issue."
+    },
+    {
+      "cause": "Early-generation low-flow (1.6 gpf) toilet or a design that simply flushes weakly",
+      "likelihood": "less common",
+      "quickCheck": "If the toilet has never flushed strongly and everything mechanical checks out, the design may be the limit. Modern pressure-assisted or well-rated gravity models flush far better."
+    }
+  ],
+  "fixes": [
+    "Adjust the water level first. For a float-cup (column) fill valve, pinch the clip and slide the float up; for an older float-ball, bend the arm up or turn the adjustment screw. Aim for water about 1 inch below the top of the overflow tube, then test-flush.",
+    "Check the flush chain: remove excess slack so the flapper opens fully but isn't held open. Leave only about a half-inch of slack. Re-hook or replace a broken chain or cracked handle arm.",
+    "Inspect and replace the flapper if it's warped, stiff, or coated in slime (about $5-$12, 10 minutes). Buy the type that matches your toilet brand/model. A clean, snug flapper that stays open long enough restores flush power; some flappers have an adjustable dial to lengthen the flush.",
+    "Clear the rim jets and siphon jet. Pour about a cup of white vinegar into the overflow tube (let it sit overnight) and scrub the jet holes with a small mirror and a piece of stiff wire or an old toothbrush. For heavy hard-water scale, a CLR-type cleaner helps. Never combine it with bleach, and avoid jamming anything hard enough to chip the porcelain.",
+    "Test for a drain clog with the bucket-pour. If it confirms a clog, use a flange (toilet) plunger with a good seal and firm strokes, then re-test. If plunging fails, use a toilet auger (closet auger, about $20-$35) \u2014 not a wire drain snake \u2014 feeding it gently to avoid scratching the bowl.",
+    "If drains gurgle or several fixtures are slow, the vent or main line is likely involved \u2014 stop here and call a plumber rather than chasing it from the toilet.",
+    "If the toilet is old and weak despite everything checking out, consider replacing it with a well-rated gravity or pressure-assisted WaterSense model."
+  ],
+  "diyVsPro": "Tank adjustments, flapper/chain swaps, jet cleaning, and plunging/augering a simple clog are all solid DIY jobs. Call a licensed plumber if a clog won't clear with a closet auger (it may be deep in the line or the main), if multiple fixtures drain slowly or gurgle (vent/main-line problem), if there's any sewage backup, or if you're replacing the toilet and aren't comfortable resetting the wax ring and water supply.",
+  "typicalCostUSD": "DIY parts: flapper $5-$12, fill valve $12-$20, closet auger $20-$35, cleaning supplies under $10. Pro: drain clearing $100-$275, vent/main-line snaking $150-$500+, toilet replacement $200-$600 labor plus $150-$700 for the new toilet.",
+  "timeEstimate": "15-30 minutes for tank/flapper/chain fixes; up to 1-2 hours including jet cleaning or augering a clog.",
+  "safetyLevel": "caution",
+  "safetyNote": "Shut off the toilet supply valve before swapping internal parts, and wear gloves when handling anything that contacts wastewater. Never mix cleaning chemicals \u2014 bleach plus vinegar or any acid (including CLR-type cleaners) releases toxic chlorine gas. If raw sewage backs up, treat it as a contamination hazard and call a pro.",
+  "toolsParts": [
+    "Replacement flapper (brand/model-matched)",
+    "Fill valve (if replacing)",
+    "Flange/toilet plunger",
+    "Toilet (closet) auger",
+    "White vinegar or CLR-type cleaner",
+    "Small mirror and stiff wire or old toothbrush",
+    "Rubber gloves",
+    "Adjustable wrench or channel-lock pliers",
+    "Bucket"
+  ],
+  "searchTerms": [
+    "toilet won't flush all the way",
+    "weak toilet flush fix",
+    "toilet flushes slowly not clogged",
+    "adjust toilet tank water level",
+    "toilet flapper replacement",
+    "clean toilet rim jets",
+    "toilet auger vs plunger"
+  ],
+  "sources": [
+    "Manufacturer guidance (toilet and fill-valve/flapper maker instructions)",
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila in spirit)",
+    "EPA WaterSense general guidance on efficient toilets",
+    "Plumbing-code norms on venting and drainage"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional plumbing advice. Conditions vary by fixture and home; when in doubt or if problems persist, consult a licensed plumber and follow your local building codes.",
+  "verified": true,
+  "verifierNote": "Confirmed causes, fixes, and US cost ranges as accurate; strengthened the chemical-safety warning to name bleach+acid (incl. CLR) chlorine-gas hazard explicitly, corrected the weak-flush model claim to \"early-generation 1.6 gpf,\" and tightened wording. No gas/electrical/roof/structural hazards present, so caution level is correct.",
+  "kind": "pillar"
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "plumbing-disposal-jammed",
+  "system": "plumbing",
+  "title": "Garbage Disposal Humming or Jammed \u2014 Causes & How to Fix It",
+  "question": "Why is my garbage disposal humming but not spinning, and how do I unjam it?",
+  "summary": "A humming disposal almost always means the motor has power but the grinding plate is stuck on something. The fix is usually free: cut the power, free the jam with the hex wrench from underneath, then hit the reset button. A disposal that's totally silent is a different problem (no power), not a jam.",
+  "commonCauses": [
+    {
+      "cause": "Something hard is jammed in the grinding chamber (fruit pit, bone, popcorn kernel, twist tie, bottle cap, or fibrous waste like celery or potato peels wrapped around the impellers).",
+      "likelihood": "most common",
+      "quickCheck": "Disposal hums for a few seconds then cuts out, or hums steadily without spinning. Shine a flashlight down the drain and you can often see the culprit lodged near the plate."
+    },
+    {
+      "cause": "Tripped internal overload protector (the motor shut itself off after the jam and needs the reset button pushed).",
+      "likelihood": "common",
+      "quickCheck": "After clearing a jam, the disposal still does nothing. Feel under the unit for a small red (sometimes black) reset button; if it has popped out, that's your issue."
+    },
+    {
+      "cause": "No power at all \u2014 tripped GFCI/breaker, dead wall switch, or unplugged unit (this is a SILENT disposal, not a humming one).",
+      "likelihood": "common",
+      "quickCheck": "Completely silent when switched on, no hum. Check the GFCI outlet under the sink (press Reset), the breaker panel, and that the unit is plugged in."
+    },
+    {
+      "cause": "Failed start capacitor or burned-out motor (older or heavily used unit).",
+      "likelihood": "less common",
+      "quickCheck": "It hums but the wrench turns freely with nothing stuck, meaning the plate isn't jammed yet the motor won't turn. Or you smell a burnt/electrical odor."
+    }
+  ],
+  "fixes": [
+    "FIRST, KILL THE POWER. Turn off the wall switch AND unplug the disposal under the sink (or flip its breaker). Never put your hand or any tool down the drain with power live. This is the one non-negotiable step.",
+    "Find the hex wrench. Most disposals (InSinkErator, Waste King, Moen) come with a 1/4-inch Allen/hex wrench, and there is a matching hex socket in the CENTER of the underside of the unit. If you lost it, a 1/4-inch Allen key from any hardware store fits most models.",
+    "Free the plate. Insert the wrench into the bottom center socket and crank it back and forth, both directions, until it turns a full free rotation. You are manually rotating the grinding plate to break the jam loose. If there's no bottom socket, rock the plate from the top with a wooden spoon or broom handle instead, never your hand.",
+    "Remove the object from the top. With power STILL off, use tongs, pliers, or a wooden spoon to fish out whatever was stuck; never your fingers. A flashlight helps you spot it. If the object is broken glass or anything that shatters, take extra care and consider a wet/dry vacuum rather than reaching in.",
+    "Press the reset button. On the underside of the unit, push the small red reset button back in until it clicks. If it won't stay in, wait about 10 minutes for the motor to cool, then try again.",
+    "Restore power and test. Plug it back in / switch the breaker on, run cold water, then flip the wall switch in short bursts. It should spin freely. Run water for 15-20 seconds after to flush.",
+    "If it's SILENT (no hum): press the GFCI outlet Reset under the sink, check the breaker, and confirm it's plugged in before assuming the unit is dead.",
+    "If it hums but the wrench turns freely with nothing stuck, or you smell burning: the motor or capacitor is likely shot. On an inexpensive unit, replacing the whole disposal ($80-200 for the unit) is usually cheaper than repairing it."
+  ],
+  "diyVsPro": "Unjamming and resetting is squarely a DIY job \u2014 no plumbing or electrical skill needed, just cut the power first. Replacing a disposal is also DIY-friendly if you're comfortable with basic wrench work and disconnecting a drain trap. Call a licensed plumber or electrician if: the unit is hardwired and you're not comfortable with the wiring, there's no GFCI protection and you need one added, the dishwasher drain line is involved and leaking, or you find the outlet/wiring is scorched.",
+  "typicalCostUSD": "Unjamming: $0 (you already own the wrench). New hex wrench if lost: about $5. Replacement disposal: $80-200 DIY for the unit; $200-500 installed by a plumber (unit plus 1-2 hours labor). Service call for a pro to just unjam it: $100-175 \u2014 rarely worth it since the DIY fix usually takes 10-20 minutes.",
+  "timeEstimate": "10-20 minutes to unjam and reset. 1-2 hours to replace the whole unit.",
+  "safetyLevel": "caution",
+  "safetyNote": "NEVER reach into a garbage disposal with your hand, and never stick a tool down it while it has power. Always switch off the wall switch AND unplug it (or flip the breaker) before touching the chamber. Use tongs or pliers to remove objects, not fingers. The impellers and broken debris can cause serious cuts even at low speed. If you smell burning, see scorched wiring, or the unit is hardwired and you're unsure, stop and call a pro.",
+  "toolsParts": [
+    "1/4-inch hex/Allen wrench (came with the disposal, or buy one)",
+    "Flashlight",
+    "Long-nose pliers or kitchen tongs",
+    "Wooden spoon or broom handle (to manually rock the plate from the top)",
+    "Replacement disposal unit (only if the motor is dead)"
+  ],
+  "searchTerms": [
+    "garbage disposal humming not spinning",
+    "garbage disposal jammed how to fix",
+    "disposal reset button location",
+    "garbage disposal won't turn on",
+    "how to unjam garbage disposal with allen wrench"
+  ],
+  "sources": [
+    "Manufacturer guidance (InSinkErator / Waste King / Moen disposal owner's manuals \u2014 jam-clearing and reset procedures)",
+    "Reputable DIY references (This Old House, Family Handyman style guidance)",
+    "Building-code norms (NEC GFCI requirements for kitchen receptacles)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional advice. Conditions in your home may differ. When power, wiring, or water connections are involved and you're unsure, consult a licensed plumber or electrician. Always follow your specific appliance's manual.",
+  "verified": true,
+  "verifierNote": "Confirmed power-off safety steps, 1/4\" wrench, and reset procedure; added handling for no-bottom-socket models and broken-glass caution, softened \"never worth repairing,\" and bumped pro install/service costs to realistic 2026 ranges.",
+  "kind": "pillar"
+}

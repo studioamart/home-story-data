@@ -1,0 +1,90 @@
+{
+  "slug": "appliances-washer-wont-spin",
+  "system": "appliances",
+  "title": "Washer Won't Spin or Drain \u2014 Causes & Fixes",
+  "question": "Why won't my washing machine spin or drain the water out?",
+  "summary": "A washer that won't spin or drain usually has a clogged drain filter or hose, an unbalanced or overloaded load, or a lid/door switch the machine thinks is open. Most causes are quick DIY checks; a dead pump or bad control board needs a tech.",
+  "commonCauses": [
+    {
+      "cause": "Clogged drain pump filter, drain hose, or trap (coins, lint, socks, hair) blocking water from leaving",
+      "likelihood": "most common",
+      "quickCheck": "Many front-loaders and some top-loaders have a small access panel at the front-bottom hiding a filter; check your manual. Lay a towel and shallow pan, open the filter cap slowly, and look for debris and dark, smelly water. Not every model has a user-serviceable filter."
+    },
+    {
+      "cause": "Unbalanced or overloaded load \u2014 the washer detects uneven weight and refuses to ramp up to spin",
+      "likelihood": "most common",
+      "quickCheck": "Open the lid: is everything bunched on one side, or is it one heavy item like a comforter? Redistribute and restart a spin/drain cycle."
+    },
+    {
+      "cause": "Lid switch (top-loaders) or door lock/latch (front-loaders) failed or not engaging \u2014 machine won't spin if it thinks the door is open",
+      "likelihood": "common",
+      "quickCheck": "Listen for a click when you close the lid/door. If a top-loader fills and drains but never spins with the lid shut, a failed lid switch is a likely suspect."
+    },
+    {
+      "cause": "Kinked, too-high, or pushed-in drain hose behind the machine restricting flow",
+      "likelihood": "common",
+      "quickCheck": "Pull the washer out and inspect the hose: no sharp kinks, and it shouldn't be jammed deep into the standpipe (which can siphon or block). Standpipe height should be within code, roughly 18\u201342 inches above the trap depending on local code."
+    },
+    {
+      "cause": "Broken drive belt or worn motor coupler (on belt/coupler-driven top-loaders) \u2014 agitates but won't spin, or spins weakly",
+      "likelihood": "common",
+      "quickCheck": "If the tub fills/drains but won't spin and you hear the motor hum or smell faint burning, suspect the belt or coupler. Requires opening the cabinet."
+    },
+    {
+      "cause": "Failed drain pump (motor burned out or jammed impeller) \u2014 water just sits there",
+      "likelihood": "less common",
+      "quickCheck": "After clearing the filter, run a drain cycle and listen at the pump: a humming-but-no-drain or total silence points to a dead pump."
+    },
+    {
+      "cause": "Control board, timer, or main electronics fault, or an error/fault code on the display",
+      "likelihood": "less common",
+      "quickCheck": "Note any blinking lights or error code, look it up for your model, and try a power-cycle (unplug 1\u20132 minutes) before assuming the worst."
+    }
+  ],
+  "fixes": [
+    "Start with a power-cycle: unplug the washer (or flip its breaker) for 1\u20132 minutes, plug back in, and run a drain/spin-only cycle. This clears many one-off electronic glitches.",
+    "Open the lid and rebalance the load \u2014 spread items evenly around the tub and remove giant single items (comforters, rugs) that throw off the balance. Make sure the machine is level; adjust the feet so it doesn't rock.",
+    "If water is standing in the tub, drain it first with the power off: lay towels down, then either lower the drain hose into a bucket set below the tub level, OR open the front pump-filter access panel (if your model has one) and let it drain slowly into a shallow pan before removing the filter.",
+    "Clean the drain pump filter (if accessible on your model): twist out the filter cap, pull lint/coins/debris, rinse it, check the cavity for a stuck object, and reseat it snugly so it doesn't leak.",
+    "Check the drain hose: pull the washer out, straighten any kinks, confirm it isn't shoved deep into the standpipe (a couple inches is enough), and verify the standpipe height is within code (roughly 18\u201342 in. above the trap; check local code). Flush the hose with water if it's gunked.",
+    "Check the lid switch / door lock: confirm you hear the latch click when closing. If a top-loader fills and drains but won't spin with the lid properly shut, the lid switch is the likely culprit \u2014 it's an inexpensive part. Do not bypass or hold the switch to run the machine with the lid open; that defeats a safety interlock and exposes a spinning tub.",
+    "If it drains but won't spin and you're comfortable opening the cabinet (power and water off), inspect the drive belt or motor coupler for wear/breakage and replace if cracked or stretched. If you're not comfortable, stop here.",
+    "If the filter is clean, the hose is clear, and it still won't pump out, the drain pump is likely dead \u2014 replace the pump (DIY-able on many models) or call a tech.",
+    "Look up any error code for your exact model and follow the manufacturer's guidance; a persistent code usually means a sensor, pump, or control-board fault for a pro to diagnose."
+  ],
+  "diyVsPro": "DIY is fine for power-cycling, rebalancing loads, cleaning the drain filter, clearing the drain hose, and replacing a lid switch or drain pump on most models \u2014 these are low-risk if you unplug the machine first. Call an appliance technician when the problem is a bad control board, a motor/transmission fault, a leaking tub seal, or any repair you can't confirm, and call a licensed electrician if the outlet/circuit itself is dead. Stop and get a pro if you smell burning, see scorching, or the machine trips its breaker.",
+  "typicalCostUSD": "DIY: $0 for cleaning/rebalancing; $10\u2013$40 for a lid switch or door latch; $25\u2013$90 for a drain pump or drive belt (brand-dependent). Pro repair: $150\u2013$400 typical (parts + labor), with control-board or transmission jobs running $400+ \u2014 at which point a new washer ($600\u2013$1,200) may be the better call.",
+  "timeEstimate": "10\u201320 minutes for power-cycle, rebalancing, and a basic filter/hose check; 30\u201360 minutes to replace a lid switch or drain pump.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always unplug the washer (or shut its breaker) before opening any panel or reaching into the pump \u2014 it runs on 120V and a moving spin tub or pump impeller can injure you. Never bypass the lid/door switch to run the machine with the lid open. Expect standing water when you open the drain filter; put down towels and a pan to avoid a slip hazard, and keep electrical cords away from puddles.",
+  "toolsParts": [
+    "Towels and a shallow pan or bucket",
+    "Flashlight",
+    "Pliers (for hose clamps and stuck debris)",
+    "Phillips and flathead screwdrivers",
+    "Nut driver or socket set (for some panels)",
+    "Replacement lid switch / door latch (if needed)",
+    "Replacement drain pump or drive belt (if needed)",
+    "Bubble level"
+  ],
+  "searchTerms": [
+    "washer won't spin or drain",
+    "washing machine not draining water",
+    "washer stuck full of water",
+    "washing machine won't spin clothes still wet",
+    "clean washer drain pump filter",
+    "washer lid switch not working",
+    "front load washer door won't lock",
+    "washer drain pump replacement cost"
+  ],
+  "sources": [
+    "Manufacturer use-and-care guides and troubleshooting/error-code charts (Whirlpool, LG, Samsung, GE, Maytag)",
+    "Reputable DIY repair references (This Old House, Family Handyman)",
+    "Appliance-repair parts retailers' diagnostic and cost guides",
+    "Plumbing code norms for laundry drain standpipe height (UPC/IPC)"
+  ],
+  "disclaimer": "This is general guidance, not a substitute for your appliance's manual or a licensed professional. Always unplug the washer before servicing, and consult a qualified appliance technician or electrician if you're unsure or the problem persists.",
+  "verified": true,
+  "verifierNote": "Corrected standpipe height (was \"30\u201348 in,\" which exceeds code and can block draining) to the code-accurate 18\u201342 in. above trap; added caveat that not all washers have a user-serviceable drain filter; strengthened the lid-switch warning to forbid bypassing the safety interlock; widened drain-pump part cost to $25\u2013$90 (Samsung pumps ~$85); confirmed causes, pro cost ranges, and \"caution\" safety level (120V cord-and-plug work, no gas/240V/roof tasks).",
+  "kind": "pillar"
+}

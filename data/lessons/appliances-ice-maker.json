@@ -1,0 +1,82 @@
+{
+  "slug": "appliances-ice-maker",
+  "system": "appliances",
+  "title": "Ice Maker Not Working \u2014 Causes & Fixes",
+  "question": "Why is my refrigerator ice maker not making ice?",
+  "summary": "A refrigerator ice maker usually stops because it's switched off, the water line is blocked or kinked, the water filter is clogged, or the freezer is too warm. Most of these fixes are quick and DIY-friendly.",
+  "commonCauses": [
+    {
+      "cause": "Ice maker is turned off, the wire feeler arm is stuck up, or the on/off paddle is raised",
+      "likelihood": "most common",
+      "quickCheck": "Open the freezer and look for the on/off switch or the metal/plastic feeler arm. If the arm is up (off) or a switch is set to off, that's it. Also confirm the bin isn't jammed with clumped ice holding the arm up."
+    },
+    {
+      "cause": "Frozen, kinked, or shut-off water supply line",
+      "likelihood": "most common",
+      "quickCheck": "Confirm the saddle/shutoff valve behind or under the fridge is fully open and the line isn't pinched against the wall. A line frozen solid at the inlet will stop fill water entirely."
+    },
+    {
+      "cause": "Clogged or overdue water filter restricting flow",
+      "likelihood": "common",
+      "quickCheck": "Check when the filter was last changed. Most brands recommend replacement about every 6 months. If it's overdue, weak or no ice flow is a classic symptom; a filter-status light may also be on."
+    },
+    {
+      "cause": "Freezer temperature too warm to form ice",
+      "likelihood": "common",
+      "quickCheck": "Verify the freezer is at or below 0 degrees F (about -18 C). Much above that the ice maker cycles slowly or not at all. Check for an overstuffed freezer or blocked vents."
+    },
+    {
+      "cause": "Failed water inlet valve (electric valve that lets water in)",
+      "likelihood": "less common",
+      "quickCheck": "If the line is open and unfrozen but no water fills the tray during a cycle, the inlet valve solenoid may be dead. This needs a multimeter test or a service call."
+    },
+    {
+      "cause": "Faulty ice maker module, thermostat, or control board",
+      "likelihood": "less common",
+      "quickCheck": "If water fills but ice never ejects, or nothing cycles at all with everything else fine, the module/motor or board is likely the culprit. It's often cheaper to replace the whole ice maker assembly than to chase the part."
+    }
+  ],
+  "fixes": [
+    "Confirm the ice maker is ON: locate the on/off switch or lower the wire feeler arm. Many units have a small slider, toggle, or a paddle that must hang down.",
+    "Clear any jammed or clumped ice from the bin so the feeler arm can move and the auger can turn. Dump and break up old clumped ice.",
+    "Replace the water filter if it's overdue (most brands say about every 6 months), then run 2-3 gallons of water through the dispenser to purge air, and reset the filter indicator light.",
+    "Check the water supply: trace the line to the shutoff valve (under sink, behind fridge, or basement) and make sure it's fully open. Straighten any kinks in the tubing.",
+    "Thaw a frozen fill line: unplug the fridge, pull it out, and aim a hair dryer on low at the inlet line and valve area, or simply leave the freezer empty with the door open for a few hours. Use low heat only and keep it moving so you don't melt plastic.",
+    "Set the freezer to 0 degrees F and give it 24 hours. Don't block interior vents; a too-full freezer chokes airflow.",
+    "Do a forced cycle / reset: some models have a test button on the ice maker (check your manual before pressing it), or unplug the fridge for 5 minutes to reset the control. Wait up to 24 hours for the first batch of ice.",
+    "If water still never fills the tray, test or replace the water inlet valve. If water fills but ice never ejects, replace the ice maker module/assembly (often sold as one part) or call for service."
+  ],
+  "diyVsPro": "Turning it on, clearing jams, swapping the filter, opening the valve, thawing a frozen line, and adjusting temperature are all safe DIY tasks. Replacing a drop-in water inlet valve or a bolt-in ice maker assembly is doable for a confident DIYer who can shut off the water and unplug the unit first. Call an appliance tech if the control board is suspected, if the sealed cooling system can't get cold enough to freeze ice (a refrigerant problem only a licensed/EPA-certified tech can address), or if you're not comfortable working behind the appliance with water connections.",
+  "typicalCostUSD": "DIY: water filter $15-60; water inlet valve $20-60; ice maker assembly $50-150. Pro repair: $150-350 typical including parts and labor; sealed-system refrigerant work can run $400+ and may not be worth it on an older fridge.",
+  "timeEstimate": "10-30 minutes for switch/filter/valve/temperature checks; 1-3 hours to thaw a frozen line; 30-60 minutes to swap an inlet valve or ice maker assembly. Allow up to 24 hours to confirm ice production after any fix.",
+  "safetyLevel": "caution",
+  "safetyNote": "Unplug the refrigerator before working on electrical parts or pulling it out, and shut off the water supply before disconnecting any line to avoid leaks. Use only low heat (hair dryer, never a heat gun or open flame) to thaw lines so you don't melt plastic tubing or fittings or risk a fire. Clean up water promptly to prevent slips and floor damage. Leave sealed refrigerant work to a licensed technician.",
+  "toolsParts": [
+    "Replacement water filter (model-specific)",
+    "Replacement water inlet valve or ice maker assembly if needed",
+    "Multimeter (to test the inlet valve)",
+    "Hair dryer (to thaw a frozen line)",
+    "Nut driver or screwdriver set",
+    "Towels and a shallow pan for water",
+    "Refrigerator/freezer thermometer"
+  ],
+  "searchTerms": [
+    "ice maker not making ice",
+    "refrigerator ice maker stopped working",
+    "ice maker no water",
+    "how to reset ice maker",
+    "frozen ice maker water line",
+    "ice maker feeler arm",
+    "replace refrigerator water filter no ice"
+  ],
+  "sources": [
+    "Manufacturer use-and-care guides (Whirlpool, GE, Samsung, LG, Frigidaire)",
+    "Appliance repair references and parts retailers (e.g., RepairClinic, Sears PartsDirect)",
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "FDA/USDA guidance on safe freezer temperature (0 degrees F)"
+  ],
+  "disclaimer": "This is general guidance, not a substitute for your appliance's manual or a licensed technician. Procedures and part names vary by brand and model. Always unplug the unit and shut off the water before servicing, and consult a professional if you're unsure.",
+  "verified": true,
+  "verifierNote": "Confirmed causes, fixes, 0\u00b0F target, and US cost ranges as accurate and safe; rebalanced likelihoods (water-supply issues are as common as a clogged filter), softened the 6-month filter rule and the \"above ~10\u00b0F\" claim to brand-dependent wording, added a \"check your manual before pressing the test button\" caveat, and reinforced that sealed-system/refrigerant work needs a licensed tech.",
+  "kind": "pillar"
+}

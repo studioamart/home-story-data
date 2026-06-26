@@ -1,0 +1,68 @@
+{
+  "slug": "appliances-dryer-vent-cleaning",
+  "system": "appliances",
+  "title": "How to Clean a Dryer Vent \u2014 Step-by-Step Guide",
+  "question": "how do I clean my dryer vent",
+  "summary": "A clogged dryer vent traps heat and lint, which makes clothes take forever to dry and is the leading contributing factor in dryer fires. Clean it about once a year by disconnecting the duct and running a brush through it from the wall to the outside.",
+  "commonCauses": [
+    {
+      "cause": "Normal lint buildup over months/years \u2014 lint slips past the lint screen and packs into the duct and exterior hood",
+      "likelihood": "most common",
+      "quickCheck": "Go outside while the dryer runs; weak or no airflow at the exterior vent flap means the duct is clogged."
+    },
+    {
+      "cause": "Long, kinked, or crushed flexible foil/plastic transition hose behind the dryer trapping lint at every bend",
+      "likelihood": "common",
+      "quickCheck": "Pull the dryer out and look at the hose behind it \u2014 sharp kinks, sagging loops, or a smashed section collect lint fast."
+    },
+    {
+      "cause": "Exterior vent flap stuck, painted shut, or blocked by a bird/rodent nest",
+      "likelihood": "common",
+      "quickCheck": "Look at the outside hood \u2014 a flap that won't open, twigs, or debris means air can't escape."
+    },
+    {
+      "cause": "Duct that is too long or has too many elbows for the dryer to push air through",
+      "likelihood": "less common",
+      "quickCheck": "Trace the run; the 2021 IRC caps the duct at 35 ft, minus about 5 ft per 90-degree elbow (2.5 ft per 45). A run near or over that limit clogs repeatedly even after cleaning."
+    }
+  ],
+  "fixes": [
+    "Unplug the dryer (electric). For a gas dryer, turn off the gas shutoff valve behind the unit and unplug it \u2014 do not disturb the gas line itself, only the vent hose. Pull the unit a couple feet from the wall so you can reach behind it.",
+    "Loosen the clamp and disconnect the flexible transition hose from both the dryer outlet and the wall duct. Clear lint out of this hose by hand or with the brush \u2014 it's usually the worst offender.",
+    "Vacuum the lint trap slot inside the dryer and the area around the blower with a crevice tool or shop vac.",
+    "Feed a dryer-vent cleaning brush (a long flexible rod kit, often drill-attachable) into the wall duct and push it the full length of the run, twisting as you go, to knock lint loose toward the exterior. If using a drill, run it at low speed and forward only so rod sections don't unscrew inside the duct.",
+    "Go outside, open or remove the exterior vent hood, and brush/vacuum from that end too. Remove any nest or debris and make sure the flap swings freely. Skip this end if it exits through the roof or above ground-floor reach \u2014 that's pro work.",
+    "Reconnect the transition hose snugly with the clamps, avoiding sharp kinks; use a rigid or semi-rigid metal elbow if space is tight. Push the dryer back, leaving a few inches of clearance.",
+    "Restore power (and gas), run the dryer on a timed/air cycle for a few minutes, and confirm strong airflow at the outside vent."
+  ],
+  "diyVsPro": "An electric dryer with an accessible, reasonably short, ground-level vent is a straightforward DIY job. Call a pro (HVAC or dryer-vent cleaning service) if the vent exits through the roof, runs very long or through multiple floors/walls, if you smell gas, or if it re-clogs within a few months (a sign the duct run or material is wrong and may need to be re-routed or replaced). Leave any gas-line or electrical-supply work to a licensed pro.",
+  "typicalCostUSD": "DIY: $15\u2013$40 for a vent brush kit. Professional cleaning: roughly $100\u2013$200 for a standard run (2026 average around $130\u2013$150); $150\u2013$250+ for long or roof-vented runs.",
+  "timeEstimate": "30\u201360 minutes for a typical accessible vent",
+  "safetyLevel": "caution",
+  "safetyNote": "Always unplug an electric dryer before working on it. For a GAS dryer, do not disconnect, move, or flex the gas line \u2014 only the flexible vent hose; shut off the gas valve first, and if you ever smell gas, stop, leave the area, and call your gas utility from outside. Replace any plastic or vinyl transition hose with rigid or semi-rigid metal, since the plastic kind is flammable and traps lint. Do not clean a roof vent or any vent you can't reach from the ground \u2014 leave roof/ladder-height work and any gas-line or electrical repairs to a licensed pro.",
+  "toolsParts": [
+    "Dryer-vent cleaning brush/rod kit (flexible, drill-compatible)",
+    "Shop vac or vacuum with crevice attachment",
+    "Screwdriver or nut driver for hose clamps",
+    "Replacement hose clamps (if old ones are worn)",
+    "Semi-rigid or rigid metal transition duct (if current one is plastic/foil or kinked)",
+    "Work gloves and a dust mask"
+  ],
+  "searchTerms": [
+    "how to clean dryer vent",
+    "dryer takes too long to dry clothes",
+    "dryer vent cleaning brush",
+    "clogged dryer vent symptoms",
+    "dryer vent lint fire prevention"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House / Family Handyman / Bob Vila in spirit)",
+    "Fire-safety guidance (NFPA / U.S. Fire Administration on dryer fire prevention)",
+    "Manufacturer guidance (dryer owner's manuals on venting and clearance)",
+    "Building-code norms (2021 IRC M1502 duct length and material guidelines)"
+  ],
+  "disclaimer": "General guidance for typical US homes; your dryer model and local building codes may differ. When in doubt, follow your manufacturer's manual and consult a licensed professional \u2014 especially for gas appliances, electrical supply, or roof venting.",
+  "verified": true,
+  "verifierNote": "Confirmed steps, gas/electric safety, and cost ranges; corrected the duct-length code figure from 25 ft to the 2021 IRC 35 ft (minus ~5 ft per 90 elbow), reworded \"leading cause\" to \"leading contributing factor,\" and added explicit warnings to keep gas-line/electrical/roof work pro-only plus a drill-direction note.",
+  "kind": "pillar"
+}

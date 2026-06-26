@@ -1,0 +1,83 @@
+{
+  "slug": "plumbing-drain-stopper",
+  "system": "plumbing",
+  "title": "How to Fix or Replace a Sink or Tub Drain Stopper That Won't Hold Water",
+  "question": "My bathroom sink (or tub) drain stopper won't hold water \u2014 it slowly drains even when closed. How do I fix or replace it myself?",
+  "summary": "A stopper that won't hold water is almost always gunk on the sealing surface, a worn seal, or a misadjusted linkage \u2014 not a broken drain. Clean and adjust first, then replace the stopper or seal if that fails. Covers pop-up sinks, lift-and-turn and toe-touch tub stoppers, and trip-lever tub drains.",
+  "commonCauses": [
+    {
+      "cause": "Hair, soap scum, or pipe gunk on the seal seat \u2014 the stopper seats fine but the film breaks the watertight contact",
+      "likelihood": "most common",
+      "quickCheck": "Pull the stopper, run a finger around the rubber seal and the drain opening lip; if it feels slimy or you see hair wrapped at the base, that's likely your leak."
+    },
+    {
+      "cause": "Worn or cracked rubber/silicone seal (gasket) on the stopper itself \u2014 they harden and shrink with age",
+      "likelihood": "most common",
+      "quickCheck": "Hold the stopper to the light and flex the seal; cracks, flat spots, or a brittle hardened ring means it can't compress to seal."
+    },
+    {
+      "cause": "Sink pop-up out of adjustment \u2014 the pivot rod/clevis is set so the stopper doesn't drop all the way down",
+      "likelihood": "common",
+      "quickCheck": "Look under the sink: with the lift rod pushed down, the stopper should sit flush and tight. If it's held slightly up, the clevis screw needs loosening and the rod lowered."
+    },
+    {
+      "cause": "Tub trip-lever (plunger or pop-up) linkage out of adjustment \u2014 the internal plunger/spring sits too high to block flow",
+      "likelihood": "common",
+      "quickCheck": "Remove the overflow plate (2 screws); the linkage rod has a threaded adjuster. If water leaks past when closed, the plunger needs to ride lower."
+    },
+    {
+      "cause": "Wrong stopper type or a mismatched replacement \u2014 universal stoppers don't fit every drain bore, so they sit loose",
+      "likelihood": "less common",
+      "quickCheck": "Measure the drain opening diameter and identify your style (lift-and-turn, toe-touch, push-pull, trip-lever) before buying; a loose rattle when seated means wrong size."
+    },
+    {
+      "cause": "Corroded or scratched drain flange seat \u2014 the metal lip the seal presses against is pitted",
+      "likelihood": "less common",
+      "quickCheck": "Wipe the drain lip clean and feel for roughness or pitting; a gouged seat won't seal against any new stopper and may need the drain flange replaced."
+    }
+  ],
+  "fixes": [
+    "Identify your stopper type first. Sink: a pop-up linked to the rod behind the faucet, or a lift-and-turn/push-pull you grab directly. Tub: lift-and-turn, toe-touch (foot), push-pull, or trip-lever (the lever on the overflow plate). The fix differs by type, so confirm before buying parts.",
+    "Clean before you replace. Pull or unscrew the stopper, remove all hair and soap scum from the seal and the drain seat with an old toothbrush and white vinegar. Reinstall and test \u2014 this alone fixes a large share of 'won't hold water' cases.",
+    "Sink pop-up: adjust the linkage. Under the sink, find the horizontal pivot rod going into the drain tailpiece and the perforated clevis strap it clips to. Loosen the clevis screw, push the stopper fully down, then retighten so the lift rod has slack to seat the stopper tight. Test; the stopper should drop down and hold.",
+    "Sink pop-up: replace the stopper or its seal. Most lift out after you disconnect the pivot rod (unscrew the retaining nut on the side of the tailpiece, or squeeze the spring clip, and pull the rod out, then lift the stopper). Match the new stopper's length and seal style at the hardware store. Re-insert the pivot rod, re-clip the clevis, adjust per the step above.",
+    "Lift-and-turn / toe-touch / push-pull tub stopper: unscrew it. Many lift-and-turn types have a small setscrew under the knob (loosen it, then lift off); others unscrew counterclockwise from the drain crossbar. Toe-touch and push-pull types usually unscrew by holding the base and turning the cap. Clean threads, then install a universal replacement sized to your drain \u2014 hand-tight, with the new seal seated.",
+    "Trip-lever tub drain: adjust the linkage. Remove the two overflow-plate screws, pull the plate and lift the linkage out of the overflow tube. Lengthen the linkage by turning the threaded brass adjuster (loosen the locknut first) so the plunger/seal sits lower and blocks the drain, then retighten the locknut. Reinstall and test; lower it more if it still seeps.",
+    "Scratched or corroded drain flange: replace the flange. This is the metal drain body itself. For a tub, a drain key (or pliers braced against the crossbars) backs out the old flange; scrape off the old plumber's putty, lay a fresh rope of putty under the new flange, thread it in, wipe the squeeze-out. You can test right away \u2014 putty seals on contact and does not need to cure.",
+    "Test by filling and waiting. Close the stopper, fill 2\u20133 inches of water, and watch the level for 10\u201315 minutes. If it holds, you're done; if it still creeps down, recheck the seal seat and linkage adjustment before assuming a bigger problem."
+  ],
+  "diyVsPro": "Strongly DIY for nearly all of these \u2014 cleaning, swapping a stopper, and adjusting linkage need no special skill and no soldering. Call a plumber only if the drain flange is seized and won't unthread, or if you find water leaking onto the cabinet floor or the ceiling below a tub \u2014 that points to a drain-shoe gasket or P-trap leak, not the stopper, and a hidden leak can rot framing. If the area below shows staining, soft drywall, or any sign of rot, have a pro assess it.",
+  "typicalCostUSD": "DIY: $6\u2013$20 for a universal stopper or replacement seal; $10\u2013$25 for a trip-lever linkage kit; $8\u2013$15 for a tub drain flange plus plumber's putty. Pro service call if needed: $125\u2013$300.",
+  "timeEstimate": "15\u201330 minutes to clean and adjust; 30\u201360 minutes to replace a stopper; up to 1\u20132 hours if you replace a corroded tub drain flange.",
+  "safetyLevel": "caution",
+  "safetyNote": "Low risk, but a few cautions: don't overtighten plastic stoppers or flanges \u2014 you can crack them. Use plumber's putty (not silicone) under a metal drain flange unless the part says otherwise; on plastic or stone/composite sinks use a putty rated as non-staining or the silicone the maker specifies. If you find water leaking onto the cabinet floor or the ceiling below a tub, stop \u2014 a hidden drain leak can rot framing, and any soft, stained, or musty wood or drywall (or mold spreading past roughly 10 sq ft) should be assessed by a pro. Wear gloves; drain gunk carries bacteria.",
+  "toolsParts": [
+    "Replacement stopper or seal/gasket matched to your drain type and size",
+    "Channel-lock / slip-joint pliers",
+    "Phillips screwdriver (for clevis and overflow-plate screws)",
+    "Small Allen wrench / hex key (for lift-and-turn setscrews)",
+    "Old toothbrush and white vinegar (for cleaning the seal seat)",
+    "Plumber's putty (only if replacing a drain flange)",
+    "Drain key or smart-dumbbell wrench (only for tub flange removal)",
+    "Flashlight and rubber gloves"
+  ],
+  "searchTerms": [
+    "bathroom sink stopper won't hold water fix",
+    "tub drain stopper not holding water replace",
+    "pop-up sink stopper leaks slowly when closed",
+    "how to adjust pop-up drain stopper linkage",
+    "lift and turn tub stopper replacement",
+    "trip lever tub drain won't hold water adjust",
+    "replace bathtub drain stopper that drains slowly",
+    "sink stopper rubber seal worn out replace"
+  ],
+  "sources": [
+    "Manufacturer installation/adjustment guides for pop-up and tub drain assemblies (e.g., Moen, Delta, Kohler, Watco)",
+    "General plumbing reference guidance on drain stopper types and plumber's putty use (reputable DIY home-repair references)",
+    "Common building-trade practice for tub/sink drain flange and trip-lever linkage service"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional plumbing advice. Your fixtures may differ; follow the instructions for your specific stopper and drain. If you're unsure or encounter hidden leaks or corrosion, consult a licensed plumber.",
+  "verified": true,
+  "verifierNote": "Confirmed steps/costs as sound; fixed the putty claim (plumber's putty seals on contact and needs no cure \u2014 removed \"let set before testing\"), added the lift-and-turn setscrew method + hex key, corrected pivot-rod removal (retaining nut, not just a clip), added non-staining-putty/silicone caution for plastic/stone sinks, routed hidden moisture/rot and mold >10 sq ft to a pro, and widened pro cost to $125\u2013$300.",
+  "kind": "spoke"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "electrical-led-dimmer-compatibility",
+  "system": "electrical",
+  "title": "Why Your LED Bulbs Buzz or Flicker on a Dimmer \u2014 Causes & Fixes",
+  "question": "Why do my LED bulbs buzz or flicker when I dim them?",
+  "summary": "LEDs usually buzz or flicker on a dimmer because of a mismatch: a non-dimmable LED, an old dimmer built for incandescent bulbs, or too little load. Swapping to a dimmable LED plus a modern LED/CFL-rated dimmer fixes most cases.",
+  "commonCauses": [
+    {
+      "cause": "You are using a non-dimmable LED bulb. Many cheap LEDs are not rated to dim, and they buzz, flicker, or strobe when put on any dimmer.",
+      "likelihood": "most common",
+      "quickCheck": "Read the bulb box or the print on the bulb base for the word \"Dimmable.\" If it does not say dimmable, that is your answer."
+    },
+    {
+      "cause": "An old incandescent-era dimmer (leading-edge / TRIAC) driving low-wattage LEDs. It was designed for a large incandescent load and chops the waveform in a way LED drivers handle poorly, causing buzz and flicker.",
+      "likelihood": "most common",
+      "quickCheck": "Look at the dimmer's printed rating. If it lists only an incandescent/halogen wattage range (e.g., 600W) and makes no mention of LED or CFL, it is likely not LED-rated."
+    },
+    {
+      "cause": "Total LED load is below the dimmer's minimum load. Many dimmers need a minimum wattage; three 9W LEDs (27W) can fall under a dimmer with, say, a 40W minimum, causing flicker or dropout at the low end.",
+      "likelihood": "common",
+      "quickCheck": "Add up the wattage of all bulbs on the circuit and compare to the dimmer's minimum-load spec (in the manual or on the dimmer body)."
+    },
+    {
+      "cause": "Mixing bulb brands/models on one dimmer, or mixing dimmable and non-dimmable bulbs. Different LED drivers respond differently and can beat against each other.",
+      "likelihood": "common",
+      "quickCheck": "Check the fixture: are all bulbs the same brand and model? Mismatched bulbs are a frequent cause."
+    },
+    {
+      "cause": "A cheap or failing LED driver in the bulb itself. Bargain bulbs use minimal smoothing and can hum even on a compatible dimmer.",
+      "likelihood": "less common",
+      "quickCheck": "Try a known-good name-brand dimmable LED in the same fixture. If the buzz disappears, the original bulbs were the problem."
+    },
+    {
+      "cause": "A loose wire connection, a bad neutral, or an overloaded/shared circuit. This produces flicker that is not limited to the dimmed light and can be a safety issue.",
+      "likelihood": "less common",
+      "quickCheck": "Notice whether other lights or outlets on the same circuit flicker too, especially when a large appliance kicks on. If so, suspect wiring, not the bulb \u2014 and call an electrician."
+    }
+  ],
+  "fixes": [
+    "Confirm every bulb is labeled \"Dimmable\" and replace any that are not. This alone solves most buzz/flicker complaints. Cost: about $3\u20138 per bulb.",
+    "Make all bulbs on the dimmer the same brand and model. Manufacturers tune their bulbs to work together, so mixing is a common cause of trouble.",
+    "Replace an old incandescent dimmer with a modern LED/CFL-rated dimmer (look for \"LED\" or \"CFL\" on the box). A standard LED-rated dimmer like the Lutron Diva CL or Leviton Decora runs about $20\u201335; smart dimmers (e.g., Lutron Caseta) cost more, around $50\u201370, and often require a neutral wire in the box. This is a minor wiring job \u2014 read the safety note first.",
+    "Check the dimmer's minimum-load rating against your total bulb wattage. If you are below it, add a bulb, use slightly higher-wattage LEDs, or pick a dimmer rated for very low loads (some modern LED dimmers go down to roughly 5\u201310W).",
+    "Use the dimmer's low-end trim if it has one. Many LED-rated dimmers have a small dial, DIP switch, or app setting that raises the minimum brightness so the bulbs do not flicker or cut out at the bottom of the range.",
+    "Consult the bulb maker's compatibility chart. Lutron, Leviton, and most LED brands publish lists of which bulbs work with which dimmers, which removes the guesswork.",
+    "If flicker affects multiple fixtures or worsens when an appliance turns on, stop swapping bulbs and have a licensed electrician check for a loose connection, bad neutral, or overloaded circuit."
+  ],
+  "diyVsPro": "Swapping bulbs and reading compatibility charts is fully DIY with no risk. Replacing a wall dimmer is reasonable for a careful homeowner only if you shut off the breaker first and verify the wires are dead \u2014 but if you find more wires than expected, no ground, aluminum wiring, scorching, or anything you do not recognize, stop and hire a licensed electrician. Any flicker that spreads beyond the one dimmed fixture (especially when big appliances start) points to a wiring or panel issue and should go straight to a licensed electrician.",
+  "typicalCostUSD": "DIY: $3\u20138 per dimmable LED bulb; $20\u201335 for a standard LED-rated dimmer, or about $50\u201370 for a smart dimmer. Pro: $100\u2013200 for an electrician to swap a dimmer; $150\u2013400+ to diagnose and repair a wiring or circuit fault.",
+  "timeEstimate": "5 minutes to swap bulbs; 20\u201340 minutes to replace a dimmer.",
+  "safetyLevel": "caution",
+  "safetyNote": "Replacing a dimmer is line-voltage (120V) work. Turn off the circuit at the breaker, then confirm the wires are dead with a non-contact voltage tester before touching anything \u2014 the switch being off is not enough. If you see aluminum wiring, no ground wire, scorching, or wiring you do not recognize, stop and call a licensed electrician. Persistent flicker on multiple fixtures can indicate a loose neutral or overloaded circuit, which is a fire risk and a job for a pro, not a bulb swap.",
+  "toolsParts": [
+    "Dimmable LED bulbs (matched brand and model)",
+    "LED/CFL-rated dimmer switch (e.g., Lutron Diva CL, Leviton Decora)",
+    "Non-contact voltage tester",
+    "Flathead and Phillips screwdrivers",
+    "Wire nuts (if replacing the dimmer)",
+    "Manufacturer LED-dimmer compatibility chart"
+  ],
+  "searchTerms": [
+    "LED bulbs buzzing on dimmer",
+    "why do LED lights flicker when dimmed",
+    "best dimmer switch for LED lights",
+    "dimmable LED minimum load flicker",
+    "LED dimmer compatibility chart",
+    "replace incandescent dimmer for LED"
+  ],
+  "sources": [
+    "Manufacturer guidance (Lutron and Leviton LED dimmer compatibility charts and minimum-load specs)",
+    "Bulb manufacturer dimmable-LED labeling and compatibility lists",
+    "Reputable DIY references (This Old House, Family Handyman)",
+    "General electrical/building-code norms for 120V dimmer replacement"
+  ],
+  "disclaimer": "This guide is general home-maintenance information, not professional electrical advice. Electrical codes and conditions vary; when in doubt, consult a licensed electrician. Always de-energize circuits and verify they are dead before working on them.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes and the \"caution\" safety level (single dimmer swap is careful-DIY; multi-fixture/neutral flicker correctly escalated to a pro); fixed the misleading cost framing (Lutron Caseta is a ~$50\u201370 smart dimmer, not $20\u201335) and added a neutral-wire note for smart dimmers; softened the loose \"predates 2015\" age heuristic.",
+  "kind": "pillar"
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "electrical-led-ghost-glow",
+  "system": "electrical",
+  "title": "New LED Bulbs Glow Faintly After the Switch Is Off: Why It Happens and How to Stop It",
+  "question": "I just replaced my old incandescent bulbs with LEDs, and now they glow dim even when the wall switch is off. Is this dangerous, and how do I make it stop?",
+  "summary": "LEDs need so little power that tiny leftover current from a lighted/dimmer switch, shared wiring, or capacitive coupling is enough to make them glow faintly when \"off.\" It's almost always harmless, and a simple fix (swap a lighted switch, an LED-rated dimmer, or an anti-flicker/bleeder load) usually clears it. This guide explains each cause and the exact order to fix it.",
+  "commonCauses": [
+    {
+      "cause": "Illuminated/lighted wall switch (the switch has a tiny pilot lamp or locator LED). The trickle current that lights that indicator passes through the bulb and keeps a modern LED glowing.",
+      "likelihood": "most common",
+      "quickCheck": "Look at the switch in a dark room: does the toggle/rocker have a small glowing dot or backlight when off? If yes, this is your culprit."
+    },
+    {
+      "cause": "Dimmer switch leaking current. Many dimmers (especially older or non-LED-rated ones) pass a small standby current through the load even at 'off,' which an efficient LED converts to a faint glow.",
+      "likelihood": "common",
+      "quickCheck": "Is the switch a dimmer (slider/knob/rotary)? Swap in a plain on/off switch temporarily; if the glow stops, the dimmer is leaking."
+    },
+    {
+      "cause": "No-neutral smart switch, timer, or occupancy/motion sensor that draws standby power through the bulb to keep its own electronics alive. (A smart switch wired to a neutral usually does NOT cause this.)",
+      "likelihood": "common",
+      "quickCheck": "Is it a smart switch, timer, or motion sensor with no neutral connected? These pass small current through the fixture when off."
+    },
+    {
+      "cause": "Induced (capacitive/inductive) voltage where the hot and the switched wire share the same long cable run or conduit. The cable acts like a capacitor and 'phantom' voltage rides onto the off wire. Common in long runs and 3-way circuits.",
+      "likelihood": "common",
+      "quickCheck": "Long wire run, or many circuits in the same conduit? A non-contact tester may beep on the 'off' wire even with the switch off (these testers are very sensitive and beep on tiny phantom voltage)."
+    },
+    {
+      "cause": "Switch wired on the neutral instead of the hot ('switched neutral'). The bulb stays connected to hot at all times, so leakage has a constant path to glow. This is a wiring/code defect.",
+      "likelihood": "less common",
+      "quickCheck": "With switch OFF, a multimeter on the fixture wires still reads near 120V between them. This needs a meter and is a wiring-correctness issue for a pro."
+    },
+    {
+      "cause": "Cheap or low-quality LED bulb with no bleeder circuit, so it lights up on almost nothing. A better-built name-brand LED tolerates the same small leakage without glowing.",
+      "likelihood": "less common",
+      "quickCheck": "Try a known-good name-brand LED in the same socket. If the glow disappears, the original bulb was the weak link."
+    }
+  ],
+  "fixes": [
+    "First, confirm it's the ghost-glow phenomenon and not a real fault: turn the wall switch OFF and watch the bulb. A steady, very faint glow (or a slow pulse every few seconds) is classic phantom power. A bright glow, flicker that comes and goes, buzzing, or any warmth at the fixture means stop and investigate the wiring instead.",
+    "Identify the switch type. In a dark room, check whether the switch has a lighted/locator indicator, is a dimmer, or is a smart/timer/motion switch. This single observation points to most cases.",
+    "If it's a LIGHTED switch: the cheapest fix is to replace it with a standard non-illuminated switch. Turn off the breaker first, confirm the switch wires are dead with a non-contact tester, then swap. Cost is a few dollars and about 15 minutes.",
+    "If it's a DIMMER: replace it with a dimmer specifically rated 'LED/CFL compatible' and matched to your bulbs' total wattage. LED-rated dimmers leak far less. Also confirm your bulbs are labeled 'dimmable,' or they will buzz, flicker, or glow.",
+    "If it's a no-neutral SMART/TIMER/MOTION switch: either replace it with a model that uses a neutral wire, or install the manufacturer's bypass/load capacitor at the fixture. These switches are designed to trickle power through the bulb, so the bypass is the intended fix.",
+    "Universal hardware fix that works for most causes: install an 'anti-flicker' / 'LED bleeder' load module (e.g., Lutron LUT-MLC) wired in parallel with the bulb at the fixture, per the maker's instructions. It harmlessly absorbs the small leakage current so the LED can't light. Roughly $6 to $20.",
+    "Low-effort alternative: put one old incandescent or halogen bulb in the same fixture/circuit. Its filament provides enough load to soak up the leakage and kill the glow on the LEDs. Crude but free if you have one, and a quick way to confirm the diagnosis.",
+    "If none of the above applies, or a multimeter reads near 120V across the fixture wires with the switch off, suspect a switched-neutral or other wiring error. Have a licensed electrician verify the switch interrupts the HOT conductor, not the neutral. This is a code-correctness item, not just a nuisance.",
+    "After any fix, restore power, test the switch in both positions, and confirm the bulb is fully dark when off and fully bright when on."
+  ],
+  "diyVsPro": "DIY-friendly for the common cases: swapping a lighted switch for a plain one, upgrading to an LED-rated dimmer, adding a bleeder/load module, or dropping in one incandescent bulb are all homeowner-level jobs if you're comfortable turning off the breaker and confirming the wires are dead first. Call a licensed electrician if a meter reads voltage across the fixture wires with the switch off (possible switched-neutral or miswire), if you can't identify a hot vs. neutral, if the glow is bright or there's any warmth or buzzing, or if the wiring in the box looks unfamiliar or has no ground.",
+  "typicalCostUSD": "$0 (reuse an incandescent bulb) to about $25 for a bleeder/load module or a standard switch; $20 to $60 for an LED-rated dimmer or no-neutral smart switch; $100 to $250 if an electrician investigates a suspected switched-neutral or miswire (typically a one-hour minimum service call).",
+  "timeEstimate": "15 to 45 minutes for a DIY switch swap or load-module install; under 5 minutes to test the incandescent-bulb trick.",
+  "safetyLevel": "caution",
+  "safetyNote": "This involves 120V line-voltage wiring. Always switch off the correct breaker and verify the wires are dead with a non-contact voltage tester before touching any switch or fixture wiring. The faint glow itself is almost never dangerous, but a bulb that gets warm, glows brightly, or buzzes, or a meter that reads near 120V across the fixture when 'off,' can indicate a miswired switched-neutral; stop and call a licensed electrician for that.",
+  "toolsParts": [
+    "Non-contact voltage tester",
+    "Insulated screwdriver",
+    "Standard non-illuminated wall switch (if replacing a lighted one)",
+    "LED/CFL-rated dimmer (if replacing a dimmer)",
+    "LED bleeder/anti-flicker load module (e.g., Lutron LUT-MLC)",
+    "Wire nuts / electrical tape",
+    "One incandescent or halogen bulb (for the quick test/fix)",
+    "Multimeter (for confirming hot vs. neutral / a suspected switched-neutral)"
+  ],
+  "searchTerms": [
+    "new LED bulb glows faintly when switch is off",
+    "LED light glowing dim after turning off the switch",
+    "why do my LED bulbs glow when off lighted switch",
+    "LED bulb ghost glow phantom power fix",
+    "stop LED bulb glowing off dimmer switch",
+    "Lutron LUT-MLC LED anti-flicker load module"
+  ],
+  "sources": [
+    "Manufacturer guidance from major LED and lighting-control makers (Lutron, Signify/Philips, GE) on LED ghosting/flicker and bleeder/load accessories",
+    "Lutron application notes on LED-compatible dimmers and the LUT-MLC load capacitor",
+    "NFPA 70 (National Electrical Code) requirement that the ungrounded 'hot' conductor, not the neutral, be the switched conductor",
+    "Reputable DIY references (Family Handyman, This Old House) on LED phantom glow and lighted-switch leakage"
+  ],
+  "disclaimer": "General home-maintenance information, not professional electrical advice. Codes and conditions vary; when in doubt or when working beyond simple device replacement, consult a licensed electrician and follow local code and permit requirements.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes/costs against US practice; tightened the smart-switch cause (only NO-neutral switches glow), clarified non-contact testers beep on harmless phantom voltage, corrected the switched-neutral quick-check to a multimeter reading across fixture wires (not \"120V on the screw shell\"), and added buzzing/warmth as escalation triggers.",
+  "kind": "spoke"
+}

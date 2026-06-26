@@ -1,0 +1,93 @@
+{
+  "slug": "plumbing-no-hot-water",
+  "system": "plumbing",
+  "title": "No Hot Water? Causes & Fixes for Gas and Electric Water Heaters",
+  "question": "Why do I have no hot water in my house?",
+  "summary": "No hot water usually traces to a dead pilot/burner or failed igniter on a gas heater, a tripped breaker or failed heating element on an electric one, or a tank that's just undersized for the demand. Most causes have a quick check you can do safely before calling a pro.",
+  "commonCauses": [
+    {
+      "cause": "Electric heater: tripped breaker or tripped high-temperature reset (the red ECO button on the upper thermostat)",
+      "likelihood": "most common",
+      "quickCheck": "Check the breaker panel for a tripped or half-off breaker labeled 'water heater.' Then, with the breaker OFF, remove the upper access panel and press the red reset button; if it clicks, it had tripped. A tripped ECO means the water got dangerously hot, so if it trips again, stop and call a pro."
+    },
+    {
+      "cause": "Gas heater: pilot light is out (standing-pilot units) or the igniter/thermocouple has failed",
+      "likelihood": "most common",
+      "quickCheck": "On a standing-pilot unit, look through the small window at the base of the tank: no flame means the pilot is out, so try relighting per the label. Many newer units have a sealed chamber with an electronic igniter and no visible flame; for those, follow the label's lighting/diagnostic steps. A pilot that won't stay lit usually points to the thermocouple."
+    },
+    {
+      "cause": "Failed heating element (electric) \u2014 a 'lukewarm only' or 'runs out fast' symptom often means the lower element is dead",
+      "likelihood": "common",
+      "quickCheck": "If you get a little warm water that quickly goes cold, suspect the lower element. Confirming requires a multimeter continuity test with the breaker off."
+    },
+    {
+      "cause": "Failed thermostat (gas control valve, or electric thermostat)",
+      "likelihood": "common",
+      "quickCheck": "If the elements/pilot check out but water stays cold, the thermostat or gas control valve may not be calling for heat. First confirm the setting is around 120F, not on 'Vacation/Off.'"
+    },
+    {
+      "cause": "Demand simply exceeds tank size, or the temperature dial got bumped down",
+      "likelihood": "common",
+      "quickCheck": "Confirm the temp dial reads about 120F. If hot water only runs out after long or back-to-back uses, the tank may be undersized rather than broken."
+    },
+    {
+      "cause": "Sediment buildup in the tank reducing capacity and efficiency",
+      "likelihood": "less common",
+      "quickCheck": "Listen for popping or rumbling when the heater runs, and note if the tank is old (8+ yrs) and never flushed. Heavy sediment steals heating capacity."
+    },
+    {
+      "cause": "Tank failure / leak, or for tankless: a fault code or scale buildup",
+      "likelihood": "less common",
+      "quickCheck": "Look for water pooling under the tank (means replacement, not repair). On a tankless unit, read the error code on the display and check the manual."
+    }
+  ],
+  "fixes": [
+    "First, confirm it's the heater and not a single fixture: try hot water at two or three different faucets. If only one is cold, the problem is that fixture's valve or cartridge, not the heater.",
+    "ELECTRIC, no hot water at all: open the breaker panel and reset the water-heater breaker (push fully off, then on). If it trips again immediately, stop and call an electrician or plumber.",
+    "ELECTRIC, still cold: turn the breaker OFF, remove the upper access panel and insulation, and press the red high-temp reset (ECO) button. If it clicks, restore power and wait 30-60 min. Repeated tripping means a failed thermostat or element and should not be reset over and over: call a pro.",
+    "GAS, no flame or no heat: follow the lighting/diagnostic instructions printed on the tank's label. If a standing pilot lights but won't stay lit after you release the knob, the thermocouple is likely bad (an inexpensive part, but gas work is best left to a pro).",
+    "GAS, smell gas at any point: stop, do not flip switches or relight anything, leave the house, and call your gas utility's emergency line from outside.",
+    "Check the temperature setting: it should be about 120F. Make sure no one bumped the dial to 'Vacation/Pilot/Low.'",
+    "Lukewarm or runs out fast (electric): this points to a failed heating element. Testing and swapping an element is a moderate DIY job (breaker OFF and verified dead, tank drained, multimeter to confirm) but call a pro if you're unsure.",
+    "If the tank is 8+ years old and never flushed, drain and flush it to clear sediment (turn off power/gas and the cold inlet, attach a hose to the drain valve, run until clear).",
+    "Water pooling under the tank means the tank itself has failed; it needs replacement, not repair. Shut off the cold-water inlet and call a plumber.",
+    "Tankless unit: note the error code on the display, power-cycle the unit, and check the manual; scale buildup often needs a vinegar descale (annual maintenance) or a service call."
+  ],
+  "diyVsPro": "DIY-friendly: relighting a gas pilot per the tank label, resetting a breaker, pressing the electric ECO reset once, checking/adjusting the temperature dial, and flushing sediment. Call a licensed plumber for: replacing a thermocouple, gas valve, thermostat, or heating element if you're not confident; any gas leak or repeated breaker/ECO trips; tank replacement; and tankless faults beyond a basic descale. Anything involving the 240V wiring or the gas supply line is pro territory.",
+  "typicalCostUSD": "DIY parts: thermocouple $10-30, heating element $15-40, thermostat $20-40, plus a multimeter (~$20). Pro repair (element, thermostat, thermocouple, or gas valve): $150-400 typical. Sediment flush by a pro: $100-200. Full water-heater replacement: $1,200-2,500 installed for a standard tank, $2,500-4,500+ for tankless.",
+  "timeEstimate": "Quick checks and resets: 10-20 minutes. Relighting a pilot: ~15 minutes. Replacing an element or thermocouple: 1-2 hours. Tank flush: 30-60 minutes. Full replacement (pro): half a day.",
+  "safetyLevel": "call-a-pro",
+  "safetyNote": "Gas and 240V electric water heaters are both hazardous. If you ever smell gas, do not touch switches or relight anything: leave and call the gas utility's emergency line from outside. Always shut OFF the breaker and verify it's dead before opening an electric heater's panel; the elements run on 240V and can be lethal. A tripped ECO reset means the water overheated, so don't keep resetting it. Never run a gas heater with the venting disconnected (carbon monoxide risk). Set the thermostat no higher than 120F to avoid scald burns. When in doubt, hire a licensed plumber.",
+  "toolsParts": [
+    "Flashlight",
+    "Multimeter (for electric element/thermostat testing)",
+    "Non-contact voltage tester (to confirm power is off before opening an electric heater)",
+    "Screwdrivers (flat and Phillips)",
+    "Garden hose (for flushing the tank)",
+    "Replacement part as needed: thermocouple, heating element, or thermostat",
+    "Element wrench (1-1/2 in., for electric element swap)",
+    "Adjustable wrench / channel-lock pliers"
+  ],
+  "searchTerms": [
+    "no hot water in house",
+    "water heater no hot water",
+    "electric water heater reset button",
+    "gas water heater pilot light won't stay lit",
+    "water heater lukewarm only",
+    "hot water runs out fast",
+    "water heater thermocouple replacement",
+    "how to relight water heater pilot",
+    "water heater breaker tripped",
+    "tankless water heater no hot water error code"
+  ],
+  "sources": [
+    "Water heater manufacturer lighting/operating instructions (label on tank)",
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila in spirit)",
+    "Building-code norms for water-heater temperature (120F to prevent scalding)",
+    "Gas utility emergency-response guidance"
+  ],
+  "disclaimer": "This is general guidance, not a substitute for professional inspection. Water heaters involve gas and high-voltage electricity; if you're unsure at any step, or if work touches the gas line or panel wiring, hire a licensed plumber or electrician. Codes and equipment vary by region and model.",
+  "verified": true,
+  "verifierNote": "Fixed \"gas gas-control valve\" typo; scoped the gas-flame-window check to standing-pilot units and added newer sealed/electronic-igniter case; emphasized verifying power is dead before opening electric panel and not repeatedly resetting a tripped ECO; added non-contact voltage tester to tools. Costs, safetyLevel (call-a-pro), and core diagnostics confirmed accurate.",
+  "kind": "pillar"
+}

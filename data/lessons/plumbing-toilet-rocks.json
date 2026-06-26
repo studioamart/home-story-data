@@ -1,0 +1,78 @@
+{
+  "slug": "plumbing-toilet-rocks",
+  "system": "plumbing",
+  "title": "Toilet Rocks Back and Forth at the Base: Why It Happens and How to Stop It",
+  "question": "My toilet wobbles and rocks when I sit on it or push it side to side. How do I stop a toilet from rocking at the base, and is the wobble going to cause a leak?",
+  "summary": "A rocking toilet usually means the bowl isn't sitting flush on an uneven floor, not that anything is broken \u2014 the fix is almost always shims plus snugging the bolts, not a new toilet. Stop a toilet from rocking at the base by shimming the gaps, gently tightening the closet bolts, and recaulking; only suspect a rotten flange or subfloor if water is involved.",
+  "commonCauses": [
+    {
+      "cause": "Uneven or tiled floor leaves a gap under part of the porcelain base, so the toilet pivots on its high spots \u2014 the single most common reason, especially over tile, sheet-vinyl seams, or a floor that isn't perfectly flat.",
+      "likelihood": "most common",
+      "quickCheck": "Push the bowl side to side and watch where it lifts; slide a stiff plastic card or a coin under the base around the perimeter and see where it slips into a gap. Those gap spots are where shims go."
+    },
+    {
+      "cause": "Closet (flange) bolts are loose, were never tightened, or one snapped \u2014 so nothing is holding the bowl down to the flange.",
+      "likelihood": "common",
+      "quickCheck": "Pop off the two oval caps at the base and check the nuts. If a nut spins freely, the bowl lifts when you pull up on it, or a bolt just turns without snugging, the bolt or nut is the problem."
+    },
+    {
+      "cause": "Bolts are overtightened and have started to crack the porcelain, or the toilet was rocked so long it hairline-cracked the base \u2014 tightening more only makes it worse.",
+      "likelihood": "less common",
+      "quickCheck": "Look around each bolt hole and the foot of the bowl for spider-web cracks or chips. If you see cracks, stop tightening \u2014 a cracked base can fail under weight."
+    },
+    {
+      "cause": "The closet flange is broken, sitting below the finished floor, or corroded so the bolts can't grip \u2014 the bowl was never properly anchored.",
+      "likelihood": "less common",
+      "quickCheck": "With the toilet pulled (advanced), check the flange: it should sit on top of the finished floor, be intact, and hold both bolts upright. Cracked ears or a sunken flange means a flange repair, not just shims."
+    },
+    {
+      "cause": "A soft, water-damaged subfloor under the toilet flexes when you sit \u2014 the rocking is a symptom of rot, often from a long-running seal leak.",
+      "likelihood": "less common",
+      "quickCheck": "Smell for must or sewage, look for discoloration, lifting flooring, or a spongy feel in the floor around the toilet. If the floor itself gives, this is structural \u2014 stop and get a pro."
+    }
+  ],
+  "fixes": [
+    "Confirm it's just a wobble, not a leak. Wipe the floor around the base bone dry, lay a ring of paper towel around it, and use the toilet a few times. If the paper stays dry but the toilet still rocks, you have a stability problem (shim it). If the paper gets wet at the base, the wax seal may be compromised \u2014 that's a pull-and-reset job, not a simple shim.",
+    "Check the bolts first. Pry off the two decorative caps at the base. Hand-snug each nut with a wrench just until it stops the rock \u2014 alternate sides, a quarter turn at a time. STOP the instant it feels tight; cranking past snug cracks the porcelain. If snugging the bolts alone removes the wobble, you may be done.",
+    "If it still rocks, shim the gaps. While someone presses down on the bowl, slide rigid toilet shims (plastic horseshoe shims made for this, not wood that rots) into the gaps you found \u2014 usually the back corners. Tap them in only until the rock is gone and the bowl sits solid. Don't lift the bowl off the floor with shims; just fill the void.",
+    "Re-snug the bolts after shimming. Once shims are in and the toilet is stable, recheck the nuts and bring them to firm-snug again, alternating sides. Confirm zero rock by pushing the bowl in all four directions.",
+    "Trim the shims flush. Score the exposed shim with a utility knife and snap it off flush with the base, or cut it so it tucks just under the porcelain edge so it won't show after caulking.",
+    "Caulk the base to lock it in and keep water out. Run a bead of white tub-and-tile (silicone or siliconized) caulk around the front and sides of the base, but leave a 2-3 inch gap at the very back unsealed. That gap lets a leak escape where you can see it if the seal ever fails, instead of hiding water under the bowl. Smooth the bead and let it cure per the tube.",
+    "Re-cap the bolts and do a final test. Snap the caps back on, then sit and shift your weight hard in every direction. It should feel rock-solid. Re-check after a day of normal use; shims can settle slightly.",
+    "If it still rocks after shims and bolts, or the bowl moves up and down (not just side to side), don't keep tightening. That points to a broken or sunken flange, a snapped bolt, a cracked base, or soft subfloor \u2014 pull the toilet to inspect (which means a new wax ring on reset) or call a plumber."
+  ],
+  "diyVsPro": "A simple wobble on a solid floor is a beginner-friendly DIY: shims, a wrench, and caulk fix the vast majority of rocking toilets in under an hour with no plumbing disconnection. Call a pro (or be ready to pull the toilet yourself) when the bolts won't snug because the flange is broken or sunk, the porcelain is cracked, the base leaks water (failed wax seal), or the floor under the toilet feels soft or smells \u2014 those involve flange repair, subfloor replacement, or a full reset that the average homeowner shouldn't improvise.",
+  "typicalCostUSD": "DIY shim-and-caulk fix: $10-$25 (toilet shims ~$5, caulk ~$6; you likely already own the wrench). New closet bolts if needed: ~$5-$10. Plumber to reset the toilet with a new wax ring: ~$130-$300. Flange repair: ~$150-$350. Subfloor repair from rot: $300-$1,000+ depending on damage.",
+  "timeEstimate": "15-45 minutes for shimming and tightening; add 24 hours of cure time before heavy use if you recaulk.",
+  "safetyLevel": "caution",
+  "safetyNote": "Low physical risk, but a rocking toilet you ignore can break the wax seal and leak sewage water under the floor, rotting the subfloor over time \u2014 so fix the wobble promptly, don't live with it. Never overtighten the bolts: porcelain cracks easily and a cracked toilet can fail suddenly under someone's weight. If you find water at the base, a soft or spongy floor, or a sewage smell, treat it as a hidden leak and stop DIYing \u2014 that can involve mold and structural rot best handled by a pro.",
+  "toolsParts": [
+    "Rigid plastic toilet shims (horseshoe-shaped, sold as a set)",
+    "Adjustable wrench or a socket/box wrench that fits the closet-bolt nuts",
+    "Utility knife (to trim shims flush)",
+    "White silicone or siliconized tub-and-tile caulk (plus a caulk gun if using a cartridge)",
+    "Paper towels and a flashlight (for the leak/gap check)",
+    "Replacement closet bolts and plastic caps (only if existing ones are stripped or snapped)",
+    "Flat-head screwdriver or putty knife (to pop off the bolt caps)"
+  ],
+  "searchTerms": [
+    "how to stop a toilet from rocking at the base",
+    "toilet wobbles when I sit on it fix",
+    "toilet rocks back and forth uneven floor shim",
+    "do I caulk around a toilet base after shimming",
+    "toilet rocking is it a leak or just loose",
+    "how to shim a wobbly toilet on tile floor",
+    "tighten toilet bolts without cracking porcelain",
+    "toilet moves side to side how to fix"
+  ],
+  "sources": [
+    "General plumbing-fixture installation guidance (toilet/closet bolt and shim practice)",
+    "Common building-code norm that a closet flange sits on top of the finished floor",
+    "Widely published DIY plumbing references on shimming and caulking a toilet base",
+    "Manufacturer install instructions for residential toilets (do-not-overtighten guidance)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional plumbing advice for your specific home. Codes, fixtures, and conditions vary; if you're unsure, you find water or rot, or the fix exceeds your comfort level, consult a licensed plumber.",
+  "verified": true,
+  "verifierNote": "Confirmed accurate: shim-then-snug-then-caulk sequence, flange-on-top-of-floor norm, do-not-overtighten warning, leave-back-gap caulk practice, and cost/time ranges all match US practice; routed rot/structural and failed-seal cases to a pro. Tightened wording only.",
+  "kind": "spoke"
+}

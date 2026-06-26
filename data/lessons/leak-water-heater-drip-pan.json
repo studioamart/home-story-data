@@ -1,0 +1,83 @@
+{
+  "slug": "leak-water-heater-drip-pan",
+  "system": "plumbing",
+  "title": "How to Install a Water Heater Drip Pan and Leak Alarm",
+  "question": "How do I set up a drip pan and a leak alarm under my water heater to catch a leak before it floods?",
+  "summary": "Slide a drain pan under the tank, route the pan's drain to a safe spot (or use a deep alarm-only pan), and set a battery leak sensor at the lowest part of the pan. The catch: a full water heater is too heavy to tilt safely, the pan must be sized right, and an undrained pan only buys time if something is actually listening for the alarm.",
+  "commonCauses": [
+    {
+      "cause": "The tank is full (40-50 gal water alone = ~330-415 lbs, plus the tank's own weight) and can't be tilted to slide a pan under it",
+      "likelihood": "most common",
+      "quickCheck": "Look at the clearance below the tank's base ring; if it sits flat on the floor or platform, you'll likely need to drain and disconnect to lift it"
+    },
+    {
+      "cause": "Pan is the wrong diameter or too shallow for the tank and its fittings",
+      "likelihood": "most common",
+      "quickCheck": "Measure tank diameter at the base; pan inside diameter should be about 2 in larger (commonly a 24 in or 26 in pan for 40-50 gal tanks); a deeper 2.5 in pan holds more if you are not draining it"
+    },
+    {
+      "cause": "No drain line, so the pan overflows in a real leak instead of carrying water away",
+      "likelihood": "common",
+      "quickCheck": "Check for a 3/4 in or 1 in threaded side fitting on the pan and whether a floor drain or exterior wall is within reach; if not, plan on an alarm-only or auto-shutoff pan"
+    },
+    {
+      "cause": "Code requires a pan plus a drain where a leak would cause damage (attic, upper floor, finished space)",
+      "likelihood": "common",
+      "quickCheck": "If the heater is above living space or on a wood subfloor, a drained pan (per IRC P2801) is effectively mandatory, not optional"
+    },
+    {
+      "cause": "A passive alarm chirps into an empty basement and nobody hears it",
+      "likelihood": "common",
+      "quickCheck": "Decide now whether a $10 local-beep sensor is enough or you need a Wi-Fi/smart sensor that pushes a phone alert; place the sensor at the pan's LOW point, not the center"
+    },
+    {
+      "cause": "The leak sensor probe is mounted too high or stuck to a dry spot",
+      "likelihood": "less common",
+      "quickCheck": "Set the sensor flat in the pan so its metal contacts touch the pan floor; test by bridging the contacts with a few drops of water"
+    }
+  ],
+  "fixes": [
+    "Turn off the heater first if you'll move it: gas control to PILOT or OFF, or the breaker OFF for electric. Close the cold-water inlet valve. This protects you and prevents dry-firing an electric element.",
+    "Measure the tank base diameter and your side clearance. Buy a pan with an inside diameter about 2 in larger than the tank, in galvanized steel or heavy plastic. Pick a 1.5 in deep pan if you'll drain it, or a 2.5 in deep pan for alarm-only.",
+    "Decide on draining. If a floor drain, sump, or exterior wall is within a few feet, choose a pan with a threaded drain port. Otherwise plan for an alarm-only (ideally auto-shutoff) setup, since an undrained pan only catches small drips before it overflows.",
+    "Get the pan under the tank. With enough lift clearance, drain a few gallons from the tank's drain valve, gently tilt the tank, and slide the pan under one side at a time with a helper. If it won't lift safely, fully drain and disconnect the supply lines first, or have a plumber do the lift.",
+    "If draining: thread a 3/4 in or 1 in PVC or CPVC line into the pan's drain port, slope it continuously downhill (about 1/4 in per foot) to a floor drain or to daylight outside. Do not connect it directly to a sewer line, and do not create traps that hold water.",
+    "Place the leak sensor flat on the pan floor at its lowest point, where water collects first. For battery sensors, install a fresh battery and note the replacement date.",
+    "Test the alarm: drip a tablespoon of water onto the sensor contacts and confirm it beeps. For a smart sensor, confirm the phone notification actually arrives, then dry the contacts.",
+    "Optional upgrade: install an automatic water-shutoff valve kit (sensor triggers a motorized valve on the cold inlet). This is the only setup that stops a leak while you're away.",
+    "Write the install date and battery type on tape on the tank, and set a calendar reminder to test the alarm twice a year."
+  ],
+  "diyVsPro": "The pan and alarm are a confident DIY job IF you can get the pan under the tank without lifting a full heater. The risky part is moving the tank: a full 50-gallon tank is over 400 lbs, and tilting it can rupture supply lines, crack fittings, or hurt your back. If the heater is gas, sits flat with no lift clearance, or is in an attic, upper floor, or closet over finished space, hire a plumber for the lift and drain routing (often bundled with the pan). The leak sensor itself is always DIY. Also stop and call a pro if pulling the heater reveals soft/rotted subfloor, framing damage, or mold larger than about 10 sq ft \u2014 that is past a maintenance job.",
+  "typicalCostUSD": "$25-80 DIY (pan $20-40, basic alarm $10-15, drain pipe and fittings $10-25). Smart Wi-Fi sensor adds $20-50. Auto-shutoff valve kit $150-300. Plumber to lift the tank and add a pan plus drain: $150-350 labor.",
+  "timeEstimate": "30-45 minutes for pan plus alarm if there's lift clearance; 1.5-3 hours if you must drain and disconnect the tank to slide the pan under it.",
+  "safetyLevel": "caution",
+  "safetyNote": "Water heaters are heavy and hot. For a GAS heater, do not disconnect the gas line yourself \u2014 a mistake risks a gas leak; call a plumber for the lift and let them handle the gas connection and pilot relight. For ELECTRIC, the 240V supply must be OFF at the breaker before you touch anything, and never run an element dry. Always close the cold inlet before moving the tank, and get a helper for the lift to avoid back injury and burst lines. If the heater is in an attic or above finished space, treat the lift as a pro job. Pan-drain water must never be plumbed directly into a sewer. If you find rotted subfloor, framing damage, or mold over ~10 sq ft, stop and bring in a pro.",
+  "toolsParts": [
+    "Water heater drain/drip pan (galvanized steel or heavy plastic, inside diameter ~2 in larger than tank)",
+    "Battery or Wi-Fi water leak sensor (or auto-shutoff valve kit)",
+    "Adjustable wrench / channel-lock pliers",
+    "Garden hose (to drain the tank if needed)",
+    "3/4 in or 1 in PVC/CPVC pipe, fittings, and PVC cement (if routing a drain)",
+    "Teflon tape",
+    "Tape measure",
+    "Towels/bucket",
+    "Flashlight"
+  ],
+  "searchTerms": [
+    "how to install drip pan under existing water heater",
+    "water heater leak alarm sensor placement in pan",
+    "water heater pan drain line where to route",
+    "best size drain pan for 50 gallon water heater",
+    "slide pan under full water heater without lifting",
+    "smart water leak detector for water heater pan"
+  ],
+  "sources": [
+    "International Residential Code (IRC) P2801 \u2014 water heater drain pan and pan drain requirements",
+    "Water heater manufacturer installation manuals (Rheem, A.O. Smith, Bradford White) \u2014 pan and clearance guidance",
+    "Manufacturer documentation for leak sensors and automatic water-shutoff valve kits"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for professional inspection. Local plumbing codes vary; verify pan/drain requirements with your local building department. If your heater is gas, or in an attic or above finished space, consult a licensed plumber.",
+  "verified": true,
+  "verifierNote": "Confirmed pan sizing (ID ~2 in over tank), IRC P2801 drain requirement, 1/4 in/ft slope, no-sewer-connection rule, and sensor low-point placement; corrected the weight figure (water-only vs. total), routed gas line disconnect firmly to a pro instead of optional DIY, hardened the 240V/attic language, and added a structural-rot/mold-over-10-sq-ft stop-and-call-a-pro trigger.",
+  "kind": "spoke"
+}

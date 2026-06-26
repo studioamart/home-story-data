@@ -1,0 +1,80 @@
+{
+  "slug": "electrical-switch-to-dimmer",
+  "system": "electrical",
+  "title": "How to Replace a Standard Light Switch With a Dimmer (and Why the Wires and Bulbs Trip People Up)",
+  "question": "I want to swap a regular on/off wall switch for a dimmer. How do I do it safely, and what do I need to check about my wires and bulbs first?",
+  "summary": "Swapping a standard switch for a dimmer is a manageable 30-minute DIY job: kill the breaker, confirm power is off with a tester, note where the wires go, and transfer them to the matching dimmer screws/leads. The catches that bite people are needing a neutral wire for smart dimmers, whether it's a 3-way circuit, and buying a dimmer actually rated for your LED bulbs.",
+  "commonCauses": [
+    {
+      "cause": "Single-pole vs. 3-way circuit \u2014 a light controlled by two switches needs a special 3-way dimmer, and a standard dimmer will fail or behave erratically if installed on one.",
+      "likelihood": "most common",
+      "quickCheck": "Is this light controlled by only one switch, or by two (e.g., top and bottom of a staircase)? Count the wires on the old switch: a single-pole has 2 brass screws plus a green/bare ground; a 3-way has 3 screws (two same-colored 'travelers' plus one darker 'common') plus ground."
+    },
+    {
+      "cause": "No neutral wire in the box \u2014 older homes often route only hot and switched-hot to the switch, but most smart/Wi-Fi dimmers (and some others) require a neutral to power their electronics.",
+      "likelihood": "common",
+      "quickCheck": "Look at the back of the box. Is there a bundle of white wires capped together (neutral) that the switch is NOT using? If you only see black wires and a ground, you likely have no neutral and need a no-neutral-required dimmer."
+    },
+    {
+      "cause": "Dimmer not rated for your LED bulbs / wattage \u2014 pairing a non-dimmable LED or a mismatched dimmer causes flicker, buzzing, limited dimming range, or bulbs that won't turn fully off.",
+      "likelihood": "common",
+      "quickCheck": "Are your bulbs marked 'dimmable'? An LED dimmer's LED rating is much lower than the incandescent rating printed first on the box (e.g., 150W LED vs. 600W incandescent), so add up your bulb wattages and confirm the total is under the LED rating."
+    },
+    {
+      "cause": "Identifying line vs. load and the traveler wire \u2014 standard on/off switches don't care which screw gets which hot wire, but 3-way dimmers and some electronic dimmers do, so blindly reconnecting can cause malfunction.",
+      "likelihood": "common",
+      "quickCheck": "Before disconnecting anything, take a clear phone photo of the existing wiring and tag the 'common' wire (the one on the darker/odd-colored screw on a 3-way) with tape so you can match it on the new dimmer."
+    },
+    {
+      "cause": "Box too crowded or too shallow for the dimmer \u2014 dimmers are bulkier and run warmer than a flat toggle, and stuffing one into a packed shallow box risks overheating.",
+      "likelihood": "less common",
+      "quickCheck": "After wiring, does the dimmer body fold back into the box without forcing the wires? Is there room, or is the box jammed? Standard dimmers also lose capacity ('derate') when ganged side-by-side with others \u2014 check the box for the derating chart."
+    }
+  ],
+  "fixes": [
+    "Buy the right dimmer FIRST. Decide single-pole vs. 3-way (count the switches and screws), confirm whether you have a neutral wire, verify your bulbs are dimmable, and total the bulb wattage so the dimmer's LED rating covers it. When in doubt, a single-pole, no-neutral-required dimmer rated for LED is the most forgiving choice.",
+    "Turn off the breaker for that circuit at the panel. Don't rely only on the wall switch. Turn the light on first so you can watch it go dark when you flip the correct breaker.",
+    "Verify power is actually off at the switch with a non-contact voltage tester \u2014 test it first on a known-live outlet to confirm the tester works, then check the switch wires before you touch them. This is the single most important step; never skip it.",
+    "Remove the cover plate, then the two screws holding the old switch to the box. Pull the switch straight out without yet loosening any wires.",
+    "Photograph the wiring, then note connections: on a single-pole, two hot wires on the two brass screws and a green/bare ground on the green screw. On a 3-way, mark the 'common' wire (the one on the darker/odd-colored screw) with tape.",
+    "Disconnect the old switch one wire at a time. If the new dimmer uses pre-attached wire leads instead of screws, connect them to your house wires with the supplied wire nuts: ground to ground, and the dimmer's hot leads to your hot wires (match the tagged common on a 3-way).",
+    "Gently fold the wires back and tuck the dimmer into the box, then screw it to the box. Don't force it; if it won't seat, redo the wire folding rather than cramming.",
+    "Attach the cover plate, restore the breaker, and test. Cycle the light on/off and run the dimmer through its full range to check for flicker or buzz.",
+    "If you get flicker, buzzing, or bulbs that won't fully dim, the usual fix is a bulb/dimmer mismatch \u2014 try genuinely dimmable LEDs or a different LED-rated dimmer, not more force on the wiring."
+  ],
+  "diyVsPro": "Confidently DIY for a standard single-pole switch in a box that clearly has a ground and (for smart dimmers) a neutral. Call a licensed electrician if you find aluminum wiring (dull silver, common in mid-1960s-to-mid-1970s homes), no ground in the box, a maze of wires you can't trace, a 3-way/4-way setup you're unsure about, scorch marks or melted insulation, or you simply aren't comfortable verifying power is off. The job touches line-voltage wiring, so \"when unsure, hire it out\" is the right call.",
+  "typicalCostUSD": "DIY: $15-$30 for a standard LED-rated dimmer, $25-$60 for a smart/Wi-Fi dimmer, plus a $15-$25 non-contact voltage tester you'll reuse forever. Pro install: roughly $100-$200 per switch including the part, more in high-cost metro areas or if box/wiring work is needed.",
+  "timeEstimate": "About 20-40 minutes for a straightforward single-pole swap once you have the right dimmer; add time for a first-timer or a 3-way circuit.",
+  "safetyLevel": "caution",
+  "safetyNote": "This is line-voltage (120V) work that can shock or start a fire if done wrong. Always shut off the breaker and confirm power is dead with a non-contact voltage tester (verified working on a known-live outlet first) before touching wires \u2014 the wall switch alone is not enough. If you find aluminum wiring, no ground, scorched insulation, or a circuit you can't confidently trace, stop and call a licensed electrician.",
+  "toolsParts": [
+    "Replacement dimmer (single-pole or 3-way, LED-rated, neutral or no-neutral as needed)",
+    "Non-contact voltage tester",
+    "Flathead and Phillips screwdrivers",
+    "Needle-nose pliers",
+    "Wire nuts (often included with the dimmer)",
+    "Wire strippers (if you need to re-strip leads)",
+    "Phone for photographing the existing wiring",
+    "Electrical tape for tagging the common wire"
+  ],
+  "searchTerms": [
+    "replace light switch with dimmer",
+    "how to install a dimmer switch",
+    "single pole vs 3 way dimmer switch",
+    "dimmer switch no neutral wire",
+    "why does my LED light flicker with dimmer",
+    "do I need a neutral wire for a dimmer",
+    "dimmer switch wiring 2 wires plus ground",
+    "LED dimmer switch buzzing fix"
+  ],
+  "sources": [
+    "NEC (NFPA 70) general wiring and box-fill requirements",
+    "Lutron dimmer compatibility, LED load ratings, and multi-gang derating charts",
+    "Leviton single-pole and 3-way dimmer wiring instruction sheets",
+    "Manufacturer LED bulb dimmable ratings and dimmer wattage derating notes"
+  ],
+  "disclaimer": "General guidance for typical US residential wiring, not a substitute for a licensed electrician or your local electrical code. Codes and conditions vary by home and jurisdiction; if anything looks unfamiliar or unsafe, stop and consult a pro.",
+  "verified": true,
+  "verifierNote": "Confirmed steps, costs, and the 3-way/neutral/LED-rating cautions against Lutron/Leviton practice; sharpened the LED-vs-incandescent wattage point (LED rating is far lower, e.g. 150W vs 600W), added the \"tag the travelers/common correctly\" and \"test the NCVT on a known-live outlet first\" specifics, and fixed aluminum-wiring era to mid-1960s\u2013mid-1970s.",
+  "kind": "spoke"
+}

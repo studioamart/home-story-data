@@ -1,0 +1,78 @@
+{
+  "slug": "airseal-outlets-exterior",
+  "system": "interior",
+  "title": "How to Air-Seal Drafty Electrical Outlets and Switches on Exterior Walls",
+  "question": "I feel cold air coming out of the electrical outlets and light switches on my outside walls in winter. How do I air-seal around them safely without causing an electrical hazard?",
+  "summary": "Cold air leaks because the outlet box is a hole punched into the insulated wall cavity, and outside air bypasses around the box edges and through the device openings. The fix is foam gaskets behind the cover plate plus safety plugs in unused slots, and for a tighter seal, caulk where the box meets the drywall and around cable holes inside the box. A cheap, DIY-friendly afternoon job once you know the air paths.",
+  "commonCauses": [
+    {
+      "cause": "The biggest leak is usually the gap between the box and the drywall cutout, not the device itself. Wall-cavity air pours through that perimeter slot, then out around the device and plate.",
+      "likelihood": "most common",
+      "quickCheck": "With the cover plate off (breaker off is safest; if on, never touch the terminals), hold a lit incense stick near the box edges on a windy day and watch the smoke move."
+    },
+    {
+      "cause": "Air comes straight out the device openings: the plug slots in a receptacle and the gaps around a switch. A foam gasket seals behind the plate but the open slots still leak.",
+      "likelihood": "most common",
+      "quickCheck": "Hold the back of your hand at the plug slots; if you feel air there, you need safety plugs in the unused outlets, not just a gasket."
+    },
+    {
+      "cause": "The wire-entry holes inside the box (where the cable enters) open straight into the wall cavity and sometimes the attic or basement beyond.",
+      "likelihood": "common",
+      "quickCheck": "With the breaker OFF and the device pulled out an inch, look at the back of the box for cable holes with no sealant around the wires."
+    },
+    {
+      "cause": "Missing or compressed insulation behind the box leaves a cold spot, so even a sealed box stays cold.",
+      "likelihood": "common",
+      "quickCheck": "If the wall around the outlet feels noticeably colder than the rest of the wall, insulation behind the box is likely thin or missing."
+    },
+    {
+      "cause": "Using the wrong sealant or overstuffing the box. Standard expanding foam or random caulk crammed around live wiring is a code and heat concern; foam can also bind the device.",
+      "likelihood": "less common",
+      "quickCheck": "If you were about to grab a generic gap-filler can, stop; only low-expansion or fire-rated sealant belongs at the box edges, never packed around the device."
+    }
+  ],
+  "fixes": [
+    "Turn OFF the circuit breaker for that outlet or switch, then confirm it is dead with a non-contact voltage tester (test the tester on a known-live outlet first) or by plugging in a lamp. Do not skip this for anything touching the box interior.",
+    "Remove the cover plate (one or two screws). Inspect: note the gap around the box edges, any open wire-entry holes at the back of the box, and whether insulation is present behind it.",
+    "Install a foam outlet/switch gasket: peel the precut foam pad, line its openings up over the device, then screw the cover plate back over it. They come in receptacle, switch, and blank styles in cheap multipacks.",
+    "Add UL-listed childproof safety plugs in every unused outlet slot (or swap to tamper-resistant receptacles, which is an electrician task). Plugs close the largest remaining direct air path and are the highest-impact cheap step.",
+    "For a tighter seal, with power still OFF and the device pulled out an inch (don't disconnect the wires), apply a small bead of fire-rated caulk or minimal low-expansion (window-and-door) foam where the box meets the drywall and around the cable holes at the back of the box. Keep all sealant off the terminals and bare conductors, and do not fill the box or bury the device.",
+    "If there's a visible gap where the box face meets the drywall from the front, run a thin bead of paintable acrylic latex caulk along the cover-plate footprint so the plate hides it.",
+    "Reseat the device flush, screw the cover plate back on, turn the breaker on, and re-test with a lamp or a plug-in outlet tester.",
+    "Optional bigger win: if the wall itself feels cold, the cavity is under-insulated. Address insulation during a remodel, or have an insulation contractor dense-pack the wall; sealing the box alone won't warm a poorly insulated cavity."
+  ],
+  "diyVsPro": "DIY for nearly everyone: foam gaskets, safety plugs, and caulking around the plate need no wiring work and are low risk as long as you kill the breaker first. Step up to a pro if you find scorched or melted parts, aluminum wiring, a loose box, or anything you don't understand. Call a licensed electrician for any rewiring or to swap in tamper-resistant receptacles, and an insulation or energy-audit contractor for whole-wall thermal fixes.",
+  "typicalCostUSD": "$8-$25 for foam gaskets plus safety plugs for a whole house; $5-$12 for a tube of fire-rated caulk or a can of low-expansion foam. A pro insulation job or electrician visit runs $100-$400+.",
+  "timeEstimate": "About 5 minutes per outlet for gaskets and plugs; 15-20 minutes per box if you also caulk or foam the box. A typical house of exterior-wall outlets is a 1-3 hour afternoon.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always turn off the breaker and verify the box is dead before touching anything inside it. Never use standard expanding foam or random caulk around live conductors, and never pack the box full; use only fire-rated or low-expansion sealant at the box edges and cable holes, kept off the terminals. If you see burn marks, melted plastic, aluminum wiring, or anything you don't understand, stop and call a licensed electrician.",
+  "toolsParts": [
+    "Foam outlet/switch sealing gaskets (receptacle, switch, and blank)",
+    "UL-listed childproof safety plugs",
+    "Non-contact voltage tester",
+    "Flat and Phillips screwdrivers",
+    "Fire-rated (intumescent) caulk or low-expansion window-and-door foam",
+    "Paintable acrylic latex caulk and caulk gun",
+    "Incense stick for draft detection",
+    "Plug-in outlet tester (to re-verify after)"
+  ],
+  "searchTerms": [
+    "cold air coming out of electrical outlets on exterior wall",
+    "how to air seal around outlets and switches",
+    "foam gasket for drafty wall outlet",
+    "seal electrical box air leak winter",
+    "stop draft from light switch on outside wall",
+    "child safety plugs to stop outlet drafts",
+    "fire rated caulk electrical box exterior wall"
+  ],
+  "sources": [
+    "U.S. Department of Energy / Energy Saver: air sealing and electrical outlet gaskets",
+    "ENERGY STAR home sealing guidance",
+    "National Electrical Code (NFPA 70) general practice on box fill and sealants",
+    "Manufacturer instructions for foam outlet gaskets and fire-rated caulk"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional electrical advice. Local codes vary; when in doubt, turn off power and consult a licensed electrician.",
+  "verified": true,
+  "verifierNote": "Confirmed the air paths, gasket/safety-plug/caulk approach, costs, and times against DOE/ENERGY STAR and NEC box-fill practice; removed the unsafe \"wet/damp hand near the box\" draft-check, dropped the moisture-condensation claim, made breaker-off the default before any box-interior work, and clarified that tamper-resistant receptacle swaps are an electrician task.",
+  "kind": "spoke"
+}

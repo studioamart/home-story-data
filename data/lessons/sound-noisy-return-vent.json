@@ -1,0 +1,81 @@
+{
+  "slug": "sound-noisy-return-vent",
+  "system": "interior",
+  "title": "How to Quiet a Noisy Return-Air Vent or Rattling Register",
+  "question": "My return-air vent or supply register makes a loud whooshing, rattling, or whistling sound every time the furnace or AC kicks on. How do I make it quieter without messing up the airflow?",
+  "summary": "Most vent noise is air being forced through a passage that's too small for the volume the blower is moving, so it either rattles loose metal or roars/whistles past restrictions. Fix the easy restrictions first (dirty filter, closed dampers, undersized or clogged return), then damp the rattle, and only resize ductwork as a last resort. Learn the real causes and the ordered DIY fixes to quiet a noisy return-air vent or rattling supply register.",
+  "commonCauses": [
+    {
+      "cause": "Clogged or overly restrictive air filter. A dirty filter, or a high-MERV filter on a system not designed for it, starves the return and forces the blower to pull harder, creating a loud whoosh/roar at the return grille.",
+      "likelihood": "most common",
+      "quickCheck": "Pull the filter and hold it to a light. If you can't see light through it, it's clogged. Also check the MERV rating printed on the frame; a dense high-MERV filter (13+, or a thin 1-inch filter at MERV 11+) can choke airflow on a system not built for it."
+    },
+    {
+      "cause": "Undersized or too-few return-air openings. Many homes have one central return that's too small for the blower's CFM. High air velocity through a tight grille is a leading source of return roar and whistling, and no amount of damping fully fixes it.",
+      "likelihood": "most common",
+      "quickCheck": "Hold a tissue near the return with the blower running. If it slams flat and the noise is a steady roar (not a rattle), the opening is moving air too fast and is likely undersized."
+    },
+    {
+      "cause": "Loose or vibrating register/grille and thin sheet-metal duct. The metal louvers, the grille against the wall, or a flat duct section flexes and buzzes when air pressure hits it (this is the rattle, not the roar).",
+      "likelihood": "common",
+      "quickCheck": "With the system running, press firmly on the grille and on the duct boot with your hand. If the noise stops or changes, you've found a vibration/rattle, not an airflow restriction."
+    },
+    {
+      "cause": "Closed or crushed dampers, or too many supply registers closed off. Closing supply vents (a common mistake) raises static pressure across the whole system, which shows up as noise at the return and the remaining open vents.",
+      "likelihood": "common",
+      "quickCheck": "Walk the house and count how many supply registers are closed or blocked by furniture/rugs. Open them all and check the damper handles on accessible duct trunk lines."
+    },
+    {
+      "cause": "Sharp duct transitions, a closed filter-grille door, or debris in the duct. Tight elbows, a partially shut return filter door, or a stuck balancing damper create turbulence and whistling at a specific spot.",
+      "likelihood": "less common",
+      "quickCheck": "Run the system and move your ear along the duct/grille to locate exactly where the whistle originates; a single high-pitched whistle usually means air squeezing past one small gap or partly closed damper."
+    }
+  ],
+  "fixes": [
+    "Start with the filter. Replace it with a clean one of the correct size, and use a MERV 8 to 11 filter rather than the densest 'allergen' filter unless your system was specifically designed for high-MERV. This alone resolves a large share of return-roar complaints.",
+    "Open everything up. Open all supply registers, move furniture and rugs off them, and check that any duct-mounted balancing dampers on accessible trunk lines are open (handle parallel to the duct = open). Never run the system with many vents closed.",
+    "Locate the noise type by hand. With the blower running, press on the grille, the louvers, and the duct boot. If pressing stops a buzz/rattle, it's vibration (steps 4 to 6). If you only hear a steady roar/whoosh that pressing doesn't change, it's an airflow/velocity problem (steps 7 to 8).",
+    "Tighten the register. Set the fan to OFF first, remove the grille screws, and reseat it. Add self-adhesive foam weatherstrip or thin felt tape around the back flange of the grille so metal no longer buzzes against the wall/ceiling, then snug the screws (don't overtighten and bow the grille).",
+    "Damp a buzzing register's louvers. If the adjustable louvers vibrate, set them fully open and place a small dab of clear silicone or a strip of foam at the pivot points so they can't chatter.",
+    "Stiffen rattling sheet-metal duct. For a flat duct section that 'oil-cans' (pops/booms), add a cross-brake by gently bending a slight ridge, or screw on a stiffening strut, or apply mass-loaded vinyl / mastic to the flat panel. For accessible duct, a short section of insulated flex duct or a lined plenum/duct silencer near the grille reduces transmitted noise.",
+    "Reduce velocity if it's a roar. Replace a restrictive return grille with a larger free-area grille (more open louver area), and ask an HVAC tech about adding a second return or a transfer grille/jumper duct between rooms. A bigger return opening lowers air speed, which is the actual cure for return roar.",
+    "Address whistling at a gap. If you traced a whistle to a partly closed damper, set it fully open; if it's air squeezing past the filter-grille door, make sure the door seats flush and the filter is the right size so air isn't forced through a side gap.",
+    "If noise persists after filter + openings + damping, have an HVAC contractor measure total external static pressure. Readings well above the blower's rated max (commonly around 0.5 in. w.c. for residential, but check your unit's spec) confirm the duct/return system is undersized and needs resizing, which is a pro job."
+  ],
+  "diyVsPro": "DIY covers nearly all of this: filters, opening vents, foam-gasketing and tightening registers, damping louvers, and stiffening accessible duct are safe, low-tool fixes. Call a pro when the problem is a steady roar that survives all the easy fixes (it points to undersized returns or excessive static pressure), when adding a second return or jumper duct requires cutting into walls/ducts, or when you'd need to measure static pressure to diagnose. Resizing ductwork and any blower speed/CFM changes are HVAC-tech territory (the control board and wiring carry line voltage and the settings are model-specific).",
+  "typicalCostUSD": "DIY: $0 to $40 (filter $10 to $25, foam weatherstrip/felt tape $5 to $15, silicone $5). A larger high-free-area return grille: $20 to $60. Pro static-pressure diagnosis / service call: $90 to $200. Adding a return run, transfer grille, or jumper duct: $300 to $1,200+ depending on access and number of openings.",
+  "timeEstimate": "15 to 30 minutes for filter, opening vents, and gasketing/tightening a register. 1 to 2 hours if you stiffen accessible duct or swap a grille. Pro return-duct work is typically a half to full day.",
+  "safetyLevel": "caution",
+  "safetyNote": "Before removing any grille or reaching into a return, set the thermostat fan to OFF and kill power at the furnace/air-handler switch so the blower can't start while your hands are inside. Never permanently close off or block a return: starving the return raises static pressure and can overheat a gas furnace's heat exchanger (a cracked exchanger is a carbon-monoxide hazard) or freeze an AC coil. Do not open the furnace cabinet or touch blower wiring or the control board: that is line-voltage, pro-only work. Any ductwork cutting, blower-speed changes, or static-pressure diagnosis goes to a licensed HVAC pro. Use basic ladder safety for ceiling registers.",
+  "toolsParts": [
+    "Correctly sized HVAC filter (MERV 8 to 11)",
+    "Screwdriver (usually Phillips)",
+    "Self-adhesive foam weatherstrip or felt gasket tape",
+    "Clear silicone sealant (for chattering louvers)",
+    "Larger free-area return grille (optional, if reducing velocity)",
+    "Mass-loaded vinyl, duct mastic, or a stiffening strut (optional, for oil-canning duct)",
+    "Step ladder (for ceiling/high registers)",
+    "Flashlight"
+  ],
+  "searchTerms": [
+    "how to quiet a noisy return air vent",
+    "return air vent loud whooshing sound when furnace turns on",
+    "rattling supply register how to stop vibration",
+    "why is my return vent so loud roaring noise",
+    "fix whistling air vent HVAC",
+    "undersized return air duct too noisy",
+    "stop metal register buzzing rattle",
+    "add second return air vent reduce noise"
+  ],
+  "sources": [
+    "ENERGY STAR / DOE guidance on duct sealing, airflow, and not closing supply vents",
+    "ACCA Manual D and Manual J principles on return-air sizing and air velocity",
+    "Furnace and air-handler manufacturer installation manuals (rated external static pressure, ~0.5 in. w.c. residential norm)",
+    "Filter manufacturer MERV guidance on airflow restriction at high MERV ratings",
+    "Reputable HVAC trade references on duct vibration, oil-canning, and noise control (lined plenums, duct silencers)"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for an on-site inspection by a licensed HVAC professional. Costs are rough US estimates and vary by region, system, and access. Verify your specific furnace/air-handler's rated static pressure and filter requirements before changing filters or grilles.",
+  "verified": true,
+  "verifierNote": "Confirmed causes, ordered fixes, and costs against ACCA/DOE practice; tightened the high-MERV claim (the original \"11+ chokes any residential system\" was overstated), raised safetyLevel none\u2192caution, and added explicit gas-furnace CO / cracked-heat-exchanger and line-voltage blower/board warnings.",
+  "kind": "spoke"
+}

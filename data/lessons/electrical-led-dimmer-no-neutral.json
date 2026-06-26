@@ -1,0 +1,80 @@
+{
+  "slug": "electrical-led-dimmer-no-neutral",
+  "system": "electrical",
+  "title": "How to Install an LED-Compatible Dimmer Switch (Including No-Neutral-Wire Options)",
+  "question": "I want to replace a regular light switch with a dimmer for my LED bulbs, but I'm not sure if my switch box has a neutral wire or which dimmer to buy. How do I do this safely and stop the flicker/buzz?",
+  "summary": "Most LED flicker and buzz comes from pairing the wrong dimmer with your bulbs, and many older boxes have no neutral wire, which limits which smart dimmers you can use. Match an LED-rated dimmer to your bulbs and box, and the install itself is a straightforward 30-minute swap with the breaker off.",
+  "commonCauses": [
+    {
+      "cause": "Your old dimmer was made for incandescent bulbs, so LEDs flicker, buzz, hum, or won't dim to low levels. LEDs draw a tiny fraction of the wattage a legacy dimmer expects, so the dimmer can't 'see' a proper load.",
+      "likelihood": "most common",
+      "quickCheck": "Read the dimmer's box or face for the words 'LED' or 'CFL/LED'. A plain dimmer rated only '600W incandescent' is the problem."
+    },
+    {
+      "cause": "No neutral wire in the switch box. Standard dimmers don't need a neutral, but most WiFi/smart dimmers do because they need constant power to run their radio. This is the single biggest gotcha for smart upgrades in older homes.",
+      "likelihood": "common",
+      "quickCheck": "Turn off the breaker, pull the switch out, and look for a bundle of white wires capped together in the back of the box (neutral). If you only see black/hot wires and a ground, you have no neutral."
+    },
+    {
+      "cause": "Total LED wattage is below the dimmer's minimum load. A dimmer rated for, say, 5 to 150W LED may misbehave with a single 9W bulb on the circuit, causing flicker or 'ghosting' (faint glow when off).",
+      "likelihood": "common",
+      "quickCheck": "Add up the wattage of every bulb on that switch and compare to the dimmer's stated LED minimum and maximum load range."
+    },
+    {
+      "cause": "Forward-phase vs reverse-phase mismatch. Cheaper dimmers are forward-phase (leading edge); many quality LED drivers run better on reverse-phase (trailing edge, often labeled ELV). Wrong type can mean buzz, poor low-end dimming, or shortened bulb life.",
+      "likelihood": "less common",
+      "quickCheck": "Check whether the dimmer says 'trailing edge / reverse phase / ELV' or 'leading edge / forward phase'. If your LEDs buzz on one type, try the other (confirm the bulb's spec sheet for its preferred dimming method)."
+    },
+    {
+      "cause": "3-way circuit (two switches control one light). A normal single-pole dimmer won't work here, and miswiring it leaves the light dead or stuck on.",
+      "likelihood": "less common",
+      "quickCheck": "Is the light controlled from two locations? If yes, you need a dimmer labeled '3-way' and must identify the single common wire (on the dark/common screw) versus the two travelers."
+    }
+  ],
+  "fixes": [
+    "Buy LED-dimmable bulbs first. Confirm every bulb on the circuit says 'dimmable' on the package. Non-dimmable LEDs will flicker or fail no matter how good the dimmer is.",
+    "Decide neutral vs no-neutral. A standard (non-smart) dimmer does not need a neutral. For a smart/WiFi dimmer, check for a neutral first; if there's none, buy a smart dimmer explicitly sold as 'no neutral required' (Lutron Caseta is the well-known example; the dimmer wires standalone, and full smart control adds a Smart Bridge hub plus optional Pico remote) rather than a generic WiFi dimmer that demands a neutral.",
+    "Match the load. Pick a dimmer whose LED load range covers your total bulb wattage, with the minimum well below your smallest expected load. Note single-pole vs 3-way and whether you want leading- or trailing-edge.",
+    "Kill power at the breaker, not just the wall switch. Flip the breaker for that circuit off.",
+    "Verify it's dead. Use a non-contact voltage tester at the switch wires before touching anything. The tester should stay silent/dark. This step is non-negotiable.",
+    "Photograph the existing wiring before disconnecting, then unscrew the old switch from the box and pull it forward.",
+    "Connect the new dimmer per its diagram. For a single-pole: the two black leads go to line and load (some smart units mark which is which), and the bare/green ground goes to ground. For a 3-way: connect the dimmer's common lead to the wire on the old switch's common (dark) screw, and the two traveler leads to the remaining travelers. Use the included wire nuts and the pre-strip lengths shown.",
+    "Tuck wires neatly back, screw the dimmer to the box, add the faceplate.",
+    "Restore power and test. Run it through the full range. If it buzzes or flickers, the fix is almost always a bulb-or-dimmer-type mismatch, not the wiring; swap the edge type (leading vs trailing) or the bulbs before reopening the box.",
+    "If you have no neutral and the smart dimmer still won't work or flickers, some no-neutral dimmers need a minimum bulb load; add one more LED bulb to the circuit or install the manufacturer's bypass (LUT-MLC-style capacitor) at the fixture per the instructions."
+  ],
+  "diyVsPro": "A single-pole dimmer swap with the breaker off is a reasonable DIY job for a careful homeowner. Call an electrician if you find no ground wire, aluminum wiring (dull silver, common pre-1975), a 3-way you can't trace, scorched/melted wires or burnt insulation, an overfull box, or if you're simply not confident testing for dead. Smart no-neutral installs that still misbehave after correct wiring are also worth a pro's eyes.",
+  "typicalCostUSD": "Standard LED dimmer $15-30; smart no-neutral dimmer $50-80 (plus ~$60-80 for a Lutron Smart Bridge hub if you want app/voice control); dimmable LED bulbs $3-8 each; bypass capacitor ~$10. Electrician install $100-200 per switch if hired out.",
+  "timeEstimate": "30-45 minutes for a single-pole swap; add 15-30 minutes for a 3-way or smart-dimmer hub setup.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always shut off the circuit at the breaker and confirm the wires are dead with a non-contact voltage tester before touching them. Working a switch live risks shock. If you see aluminum wiring, no ground, burnt insulation, or you're unsure which breaker controls the box, stop and call a licensed electrician.",
+  "toolsParts": [
+    "Dimmable LED bulbs",
+    "LED-rated dimmer (single-pole, 3-way, or no-neutral smart as needed)",
+    "Non-contact voltage tester",
+    "Flathead and Phillips screwdrivers",
+    "Wire strippers",
+    "Wire nuts (usually included)",
+    "Smartphone for wiring photos",
+    "Optional: smart-dimmer hub and bypass capacitor"
+  ],
+  "searchTerms": [
+    "LED dimmer switch no neutral wire install",
+    "best dimmer for LED bulbs flicker buzz",
+    "how to tell if switch box has neutral wire",
+    "Lutron Caseta no neutral dimmer setup",
+    "LED dimmer minimum load flicker fix",
+    "replace single pole switch with LED dimmer",
+    "smart dimmer without neutral wire older house",
+    "trailing edge vs leading edge LED dimmer"
+  ],
+  "sources": [
+    "Lutron LED dimmer and Caseta no-neutral installation guidance",
+    "NEC / standard residential switch-wiring conventions (including 3-way common vs traveler)",
+    "Manufacturer dimmer load-range and compatibility specifications"
+  ],
+  "disclaimer": "General home-maintenance information, not a substitute for a licensed electrician or local code review. Electrical codes vary by jurisdiction and some areas require permits or licensed work. Verify against your dimmer's instructions and local rules before proceeding.",
+  "verified": true,
+  "verifierNote": "Fixed a wiring error that called the 3-way common a \"traveler\" (it's distinct: one common on the dark screw, two travelers); clarified ELV=reverse/trailing edge; corrected the misleading \"won't behave\" minimum-load claim to \"may misbehave\"; clarified Caseta needs a Smart Bridge hub for smart control; confirmed costs, tools, and caution-level safety routing (aluminum/no-ground to a pro).",
+  "kind": "spoke"
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "sound-upstairs-footsteps",
+  "system": "interior",
+  "title": "How to Reduce Footstep and Impact Noise From the Apartment Unit Upstairs",
+  "question": "My upstairs neighbor's footsteps, dropped items, and heavy walking are coming through my ceiling and driving me crazy. What can I actually do from my own unit to reduce the impact and footstep noise?",
+  "summary": "Footstep noise is \"impact noise\" \u2014 vibration traveling through the building's structure, not air \u2014 so plugging gaps or hanging soft things barely helps; you need mass plus decoupling on the ceiling, or ideally a rug-and-pad fix on the floor above. This guide covers what works, what wastes money, and when it's a building/landlord problem.",
+  "commonCauses": [
+    {
+      "cause": "It's impact noise (structure-borne), not airborne noise \u2014 vibration enters the joists directly when a foot or object hits the floor above, so it bypasses gaps and sound-absorbing fluff entirely. Treating it like you'd treat voices or TV (foam panels, weatherstripping, white noise) does almost nothing for the thud.",
+      "likelihood": "most common",
+      "quickCheck": "Is the noise a dull THUD/BOOM you feel as much as hear, especially with walking or dropped items? That's impact noise. If instead it's voices/music/TV bleeding through, that's airborne and a different fix."
+    },
+    {
+      "cause": "The single most effective fix is on the floor ABOVE you (a thick rug + a dense rug pad, or carpet), but that floor isn't yours \u2014 so the cheap, high-impact solution requires the neighbor's or landlord's cooperation. Everything you can do from below is more work for less result.",
+      "likelihood": "most common",
+      "quickCheck": "Is the unit above hard flooring (laminate, hardwood, tile, LVP)? Bare hard floors transmit impact dramatically more than carpet. Ask the neighbor (politely) whether they'd add an area rug \u2014 it's the biggest single win and costs them little."
+    },
+    {
+      "cause": "Acoustic foam / egg-crate panels on your ceiling are a trap \u2014 they absorb echo within a room but add almost no mass and don't decouple anything, so they do essentially nothing for footsteps. People spend hundreds here and hear no change.",
+      "likelihood": "common",
+      "quickCheck": "Are you about to buy foam panels or 'soundproof' wall art for the ceiling? Stop \u2014 that product fixes echo/reverb, not transmission. Mass (drywall, mass-loaded vinyl) and decoupling (isolation clips/channel) are what move the needle."
+    },
+    {
+      "cause": "Flanking paths \u2014 sound also travels down walls, through light fixtures, recessed-can cutouts, and the wall-ceiling joint \u2014 so even a perfectly treated ceiling field leaves leaks if you don't seal penetrations and address the perimeter.",
+      "likelihood": "common",
+      "quickCheck": "Do you have recessed (can) lights or a ceiling fan in the affected room? Those holes are direct sound bridges. Also press your ear near where the wall meets the ceiling \u2014 noise often flanks in at that joint."
+    },
+    {
+      "cause": "Adding a second layer of drywall WITHOUT decoupling underperforms \u2014 mass alone helps airborne noise but a rigidly-attached layer still lets the joists vibrate the new drywall. The big gains for impact noise come from decoupling (resilient isolation clips + hat channel, or at minimum resilient channel) so the joists can't directly drive your ceiling.",
+      "likelihood": "less common",
+      "quickCheck": "Is your plan 'just screw another sheet of drywall to the ceiling'? Expect modest results. To meaningfully cut footsteps you need clips/channel + a Green Glue damping layer between two drywall sheets \u2014 that's a real ceiling rebuild."
+    }
+  ],
+  "fixes": [
+    "Confirm it's impact noise. Listen for low thuds tied to walking/dropping vs. higher-frequency voices/music. Impact noise needs mass + decoupling; airborne noise needs sealing + mass. This determines everything below.",
+    "Try the people fix first \u2014 it's free and the most effective. Talk to the upstairs neighbor calmly: ask if they'd add a large area rug with a dense pad in their main walking areas, or wear soft slippers. In a rental, also loop in the landlord/HOA; many leases and condo rules require a percentage of hard floors to be carpeted specifically to limit impact noise.",
+    "If you're in a rental or condo, check the rules before spending. Many condo CC&Rs and leases set a minimum IIC (Impact Insulation Class) rating or require rugs over hard floors. A documented violation can force the upstairs owner to fix the floor \u2014 far cheaper and more effective than rebuilding your ceiling. Keep a noise log (dates/times) for your case.",
+    "Seal the obvious flanking leaks (cheap, do this regardless). Replace open recessed-can lights with airtight/IC-rated sealed fixtures or add airtight covers, caulk the wall-ceiling joint with acoustic sealant, and gasket any ceiling penetrations. This won't kill footsteps but stops easy side-channel leakage and is low cost.",
+    "If you control the ceiling and want a real reduction, do a proper decoupled rebuild (this is the only DIY ceiling approach that meaningfully cuts footsteps): mount sound isolation clips to the joists, snap hat channel into the clips, then hang two layers of 5/8\" drywall with a layer of Green Glue damping compound sandwiched between them. The clips keep the joists from directly vibrating your new ceiling \u2014 that decoupling, not the drywall alone, is what cuts the thud. Note this drops your finished ceiling height about 1.5-3 inches.",
+    "Mass-loaded vinyl (MLV) is an optional add for the rebuild, layered above the drywall \u2014 it adds limp mass. It helps somewhat but is heavy, expensive, and far less important than the clips/channel decoupling. Don't rely on MLV alone stapled to a ceiling; it's not a standalone footstep fix.",
+    "Manage your expectations and consider non-construction relief. Even a good ceiling rebuild typically reduces, not eliminates, footsteps. If a rebuild isn't feasible (you rent, or the ceiling drop isn't acceptable), a white/brown-noise machine or low background sound makes the remaining thuds less noticeable \u2014 it masks rather than blocks, but it genuinely helps livability.",
+    "Call a pro (acoustic contractor) if the noise is severe, the ceiling rebuild involves moving electrical/HVAC, or you want a guaranteed IIC improvement. They can assess flanking paths you can't see and spec the right clip/channel system for your joist type."
+  ],
+  "diyVsPro": "Sealing leaks, swapping in airtight light fixtures, talking to neighbors/landlord, and adding rugs (above) or a noise machine (below) are all DIY. A full decoupled ceiling rebuild (isolation clips + hat channel + double drywall with Green Glue) is doable by a confident DIYer but is heavy, dusty, lowers the ceiling 1.5\u20133 inches, and usually requires relocating ceiling lights/fixtures \u2014 hire a licensed acoustic or general contractor if electrical/HVAC must move or if you want a warrantied IIC result.",
+  "typicalCostUSD": "Rug + dense pad for the unit above: $150\u2013$500. Sealing leaks / airtight can covers + acoustic caulk: $50\u2013$150. Noise machine: $25\u2013$60. DIY decoupled ceiling rebuild: roughly $3\u2013$6 per sq ft in materials (clips, channel, double 5/8\\\" drywall, Green Glue) \u2014 about $600\u2013$1,800 for a typical room, plus finishing. Contractor-installed: commonly $3,000\u2013$10,000+ per room depending on size, fixtures moved, and finish.",
+  "timeEstimate": "Neighbor conversation + rug: an afternoon. Sealing leaks: 2\u20134 hours. Noise machine: 5 minutes. DIY decoupled ceiling rebuild: a full weekend or more per room (demo, clips/channel, hanging, Green Glue cure, mud/tape/sand, paint).",
+  "safetyLevel": "caution",
+  "safetyNote": "A ceiling rebuild means working overhead on a ladder with heavy 5/8\\\" drywall \u2014 use a drywall lift and a helper; dropped sheets cause injury. The decoupled assembly adds real dead weight; if you're unsure your joists can carry it, have a pro confirm before adding double drywall. If you remove or relocate recessed lights or fixtures, turn off the circuit at the breaker and verify it's dead before touching wiring; if you're not comfortable with that, hire an electrician (any 240V/panel work is pro-only). Watch for asbestos in pre-1980s textured/popcorn ceilings \u2014 do not sand or demo it without testing; abatement is a licensed-pro job.",
+  "toolsParts": [
+    "Large area rug + dense rug pad (for the unit above \u2014 the highest-leverage item)",
+    "Sound isolation clips (resilient clips) and hat channel",
+    "5/8\" drywall (two layers for the rebuild)",
+    "Green Glue noiseproofing/damping compound",
+    "Acoustic sealant/caulk",
+    "Airtight / IC-rated recessed light covers or sealed fixtures",
+    "Mass-loaded vinyl (MLV) \u2014 optional add-on",
+    "Drywall lift and a helper",
+    "Stud finder, screw gun, utility knife, T-square",
+    "Voltage tester (if touching any fixture wiring)",
+    "White/brown-noise machine (for masking)"
+  ],
+  "searchTerms": [
+    "how to reduce footstep noise from upstairs apartment",
+    "soundproof ceiling from upstairs neighbor stomping",
+    "impact noise vs airborne noise ceiling",
+    "sound isolation clips hat channel ceiling footsteps",
+    "green glue double drywall ceiling soundproofing",
+    "stop hearing upstairs neighbor walking thumping",
+    "IIC rating condo hard floor rug requirement",
+    "does acoustic foam stop footstep noise ceiling"
+  ],
+  "sources": [
+    "Green Glue Company / Saint-Gobain noiseproofing installation guidance (double-drywall damped assemblies)",
+    "ASTM E492 / IIC (Impact Insulation Class) standard for rating floor-ceiling impact noise",
+    "Typical condo CC&R and residential lease floor-covering provisions (minimum carpet / IIC requirements)",
+    "Acoustic isolation clip + hat channel (resilient decoupling) manufacturer installation references",
+    "General building-acoustics references on structure-borne vs. airborne noise and flanking paths"
+  ],
+  "disclaimer": "General home-maintenance information, not professional acoustic, structural, or legal advice. Verify local building codes, condo/HOA rules, and lease terms before construction. When in doubt about wiring, structure, or pre-1980s ceiling materials, consult a licensed professional.",
+  "verified": true,
+  "verifierNote": "Fixed nonsense line (\"lower the joists\" \u2192 corrected to dropping finished ceiling height by 1.5-3 in); added a structural dead-load caution for the heavy decoupled assembly; confirmed impact-vs-airborne framing, the clips+hat-channel+Green-Glue+double-5/8\" assembly, IIC/ASTM E492, costs, and 240V/asbestos safety routing are all accurate.",
+  "kind": "spoke"
+}

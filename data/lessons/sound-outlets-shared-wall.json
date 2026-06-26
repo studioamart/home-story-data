@@ -1,0 +1,81 @@
+{
+  "slug": "sound-outlets-shared-wall",
+  "system": "interior",
+  "title": "How to stop sound coming through electrical outlets on a wall I share with my neighbor",
+  "question": "I can hear my neighbor's voices and TV coming right through the electrical outlets on the wall we share. How do I block the sound passing through the outlets without rewiring the whole wall?",
+  "summary": "Outlets leak sound because the electrician cut a hole in the drywall for the box, and on a shared wall the boxes are often back-to-back or share the same stud cavity, so there's almost no material between you and your neighbor. The fix is to seal the air gaps with foam outlet gaskets, acoustic putty pads, and acoustic caulk so sound can't ride the air path through the opening. A simple how-to for cutting noise through electrical outlets on a shared or party wall.",
+  "commonCauses": [
+    {
+      "cause": "Back-to-back outlet boxes in the same stud cavity. The biggest offender: your box and the neighbor's box are mounted in nearly the same spot, sometimes only inches apart with little but air between them, so sound travels almost straight through.",
+      "likelihood": "most common",
+      "quickCheck": "Turn off the breaker, confirm the outlet is dead, pull the receptacle forward, and shine a flashlight into the box gaps. If you can see into the cavity or feel a strong draft, the boxes likely share the cavity."
+    },
+    {
+      "cause": "It's an air-leak problem, not a wall-mass problem. Sound is following the air gap around the box and through the cover-plate openings, not vibrating through the drywall. People wrongly assume they need to tear out the wall.",
+      "likelihood": "most common",
+      "quickCheck": "Hold a lit incense stick or a tissue near the outlet edges with the HVAC off. If smoke pulls toward the outlet or the tissue flutters, air (and sound) is leaking through that path."
+    },
+    {
+      "cause": "The box is plastic and thin-walled, or has open knockouts. Plastic 'new-work' boxes transmit sound easily and often have unused knockout holes or cable-entry gaps left open into the cavity.",
+      "likelihood": "common",
+      "quickCheck": "With power off and verified dead, look at the back and sides of the box for round/oval punch-out holes not filled by a cable, and gaps where wires enter."
+    },
+    {
+      "cause": "Gap between the drywall and the box edge. The drywall cutout is usually slightly oversized, leaving a continuous slot around the box that the cover plate doesn't fully seal.",
+      "likelihood": "common",
+      "quickCheck": "With power off, verified dead, and plate removed, run a thin card around the box-to-drywall seam. If it slips into a visible gap, that slot is leaking sound."
+    },
+    {
+      "cause": "Outlets aren't truly back-to-back but share the cavity. Even offset by a foot, two boxes in the same uninsulated stud bay let sound bounce through the empty cavity from one opening to the other.",
+      "likelihood": "less common",
+      "quickCheck": "Compare your outlet locations to where the neighbor's outlets sit (or where you hear the most leakage). If they line up horizontally, they likely share a bay."
+    }
+  ],
+  "fixes": [
+    "SAFETY FIRST: switch off the circuit breaker for that outlet and confirm it's dead with a non-contact voltage tester (test the tester on a known-live outlet first) before touching anything. Do this for every outlet you treat. If you're not comfortable working in an electrical box, stop here and hire an electrician or handyman for the box work.",
+    "Remove the cover plate and the two screws holding the receptacle to the box. Gently pull the receptacle forward a couple inches without disconnecting the wires so you can see into the box.",
+    "Inspect for the air path: look for open knockout holes in a metal box, oversized cable-entry gaps, gaps between the box and drywall, and whether you can see into the shared cavity.",
+    "Seal open knockouts and cable gaps with a UL-listed firestop/acoustic sealant (intumescent fire-rated caulk) or non-hardening duct-seal putty rated for electrical use. Keep sealant clear of the receptacle's live terminals and screws. Do NOT pack ordinary expanding foam or loose fiberglass into the box.",
+    "Apply an electrical-rated acoustic/fire putty pad over the back and sides of the box. Code-compliant pads (e.g. 3M and similar UL-listed products) are designed to be installed on the outside of the box in the cavity; follow the product instructions for placement.",
+    "Re-mount the receptacle. Place a foam outlet gasket (precut sealing gaskets sold in multipacks at any hardware store) over the receptacle so it sits between the device and the cover plate.",
+    "Reinstall the cover plate snugly over the foam gasket so it compresses and closes the slot around the device.",
+    "Run a thin bead of acoustic (non-hardening) caulk around the box-to-drywall gap before the plate goes on, or around the outside seam where the plate meets the wall, to kill the perimeter air leak. Acoustic caulk stays flexible and won't crack.",
+    "For outlets you never use, add child-safety plug caps in the sockets \u2014 the slots are small air paths too.",
+    "Turn the breaker back on and confirm the outlet works with a plug-in tester or a lamp. Then re-test the noise: have someone talk or play music near the neighbor wall and listen at the outlet before and after.",
+    "If sound still comes through strongly after sealing, the path is through the wall mass or the open cavity, not just the outlets. That needs bigger work: filling the stud bay with mineral wool (drywall must come off) or adding a layer of 5/8 drywall with a damping compound. That's a remodel-level job involving electrical, drywall, and possibly permits, not a DIY outlet fix."
+  ],
+  "diyVsPro": "DIY-friendly if you're comfortable shutting off a breaker, verifying the outlet is dead, and pulling a receptacle a few inches. The gaskets, putty pads, and acoustic caulk are cheap and simple to install. Call a pro if: the wiring looks scorched, brittle, or is aluminum (silver-colored solid wire, common in homes wired in the mid-1960s to mid-1970s and a known fire hazard); you find the boxes truly back-to-back and want one relocated or a fire-rated barrier added; or you decide to open the wall for insulation, which mixes electrical, drywall, and likely permit work. Never leave electrical work half-finished in a live box.",
+  "typicalCostUSD": "$15-$40 for foam gaskets, acoustic caulk, and a couple of putty pads to do several outlets yourself. $25-$60 more if you add fire-rated sealant and a voltage tester. $150-$350 if you hire a handyman or electrician to seal and treat boxes on a wall; relocating a back-to-back box runs $200-$500+ per box. Opening the wall to add insulation/extra drywall is a remodel job, often $1,000+ depending on wall size.",
+  "timeEstimate": "About 15-25 minutes per outlet once you have the materials; an afternoon for a whole shared wall.",
+  "safetyLevel": "caution",
+  "safetyNote": "You're working inside a live electrical box: always shut off the correct breaker and verify the outlet is dead with a non-contact voltage tester (proven on a known-live outlet) before touching wires. Use only electrical-rated, UL-listed acoustic putty pads and fire-rated sealant; never stuff ordinary expanding foam, fiberglass, or flammable material into the box or against terminals, and never pack a box so tight that wires can overheat. If you see damaged, scorched, or aluminum wiring, stop and call a licensed electrician.",
+  "toolsParts": [
+    "Non-contact voltage tester",
+    "Flathead and Phillips screwdrivers",
+    "Foam outlet sealing gaskets (precut, for receptacles and switches)",
+    "Electrical-rated acoustic/fire putty pads",
+    "Acoustic (non-hardening) caulk and caulk gun",
+    "UL-listed fire-rated / intumescent sealant for open knockouts",
+    "Plug-in outlet tester or a lamp to confirm power",
+    "Child-safety plug caps for unused sockets",
+    "Flashlight or headlamp"
+  ],
+  "searchTerms": [
+    "stop noise coming through electrical outlets shared wall",
+    "soundproof outlet on party wall with neighbor",
+    "foam gasket vs putty pad for soundproofing outlets",
+    "hear neighbor through electrical outlet how to block",
+    "back to back outlet boxes sound transmission fix",
+    "acoustic putty pad electrical box installation"
+  ],
+  "sources": [
+    "General electrical-safety practice: de-energize and verify with a voltage tester before working in a box (NFPA 70 / NEC norms and standard electrician guidance)",
+    "Manufacturer guidance for acoustic/fire-rated electrical box putty pads (e.g. 3M Fire Barrier Putty Pad and similar UL-listed products)",
+    "Common acoustic-isolation practice: seal the air path with gaskets and acoustic sealant before adding mass (widely documented in reputable DIY/soundproofing references)",
+    "Foam outlet/switch gasket usage as sold at major US hardware retailers for air and sound sealing"
+  ],
+  "disclaimer": "This is general home-maintenance information, not professional electrical advice. Working in electrical boxes carries shock and fire risk; codes and conditions vary. When in doubt, hire a licensed electrician and follow local code and product instructions.",
+  "verified": true,
+  "verifierNote": "Confirmed the air-seal approach (gaskets, putty pads, acoustic caulk) and costs as sound US practice; tightened the live-box safety steps (test the tester on a known-live source, keep sealant off terminals, putty pads go outside the box per product instructions), added an aluminum-wiring identifier/date range, removed the questionable \"line the inside back wall of the box\" suggestion, and clarified the remodel-only escalation.",
+  "kind": "spoke"
+}

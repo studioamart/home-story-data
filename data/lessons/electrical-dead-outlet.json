@@ -1,0 +1,80 @@
+{
+  "slug": "electrical-dead-outlet",
+  "system": "electrical",
+  "title": "Outlet Not Working? Why a Dead Receptacle Happens & How to Fix It",
+  "question": "why is my outlet not working",
+  "summary": "A dead outlet is usually a tripped GFCI or breaker, not a major failure. Reset those first, then check for a switched outlet or a loose wire before calling an electrician.",
+  "commonCauses": [
+    {
+      "cause": "A GFCI outlet has tripped \u2014 and it may be a different outlet on the same circuit (often in a bathroom, kitchen, garage, basement, or outdoors) that feeds this one.",
+      "likelihood": "most common",
+      "quickCheck": "Walk to every GFCI outlet in the house (the ones with TEST and RESET buttons) and press RESET. One firm click usually brings several outlets back to life."
+    },
+    {
+      "cause": "The circuit breaker tripped or is in a half-tripped (middle) position.",
+      "likelihood": "most common",
+      "quickCheck": "Open the breaker panel and look for a handle that's off or sitting between ON and OFF. Push it fully OFF, then firmly back ON."
+    },
+    {
+      "cause": "The outlet is controlled by a wall switch (a 'switched' or 'half-hot' outlet, common in living rooms and bedrooms).",
+      "likelihood": "common",
+      "quickCheck": "Flip nearby light switches. If a lamp plugged into the top or bottom half turns on/off with a switch, the outlet is working as designed."
+    },
+    {
+      "cause": "A loose or backstabbed wire behind the outlet, or a loose wire on an upstream outlet feeding it.",
+      "likelihood": "common",
+      "quickCheck": "After killing power, pull the outlet and check that wires are tight under the screws. A scorched smell, melted plastic, or warmth at the cover is a red flag \u2014 stop and call a pro."
+    },
+    {
+      "cause": "The outlet itself has worn out or failed internally (loose contacts from years of plugging in heavy loads).",
+      "likelihood": "less common",
+      "quickCheck": "If plugs fall out easily or the outlet only works when you wiggle the plug, the receptacle is worn and should be replaced."
+    },
+    {
+      "cause": "A blown fuse (in older homes with a fuse box instead of breakers).",
+      "likelihood": "less common",
+      "quickCheck": "Look at the fuse panel for a fuse with a broken metal strip or cloudy/discolored window; replace with the same amperage \u2014 never a higher one."
+    }
+  ],
+  "fixes": [
+    "Test the outlet with something you know works (a phone charger or a plug-in lamp) at both the top and bottom sockets, so you're sure the outlet is actually dead and not the device.",
+    "Press RESET on every GFCI outlet in the home \u2014 bathrooms, kitchen, garage, basement, laundry, and exterior outlets. One tripped GFCI commonly kills several downstream outlets, so check them all even if they look fine.",
+    "Go to the breaker panel and find the breaker for that room. Switch it fully OFF, then firmly back ON. A tripped breaker often rests in the middle and needs a full reset, not just a nudge.",
+    "Rule out a switched outlet: flip every wall switch in the room and watch whether the outlet powers on. Many living-room and bedroom outlets are wired to a switch by design.",
+    "If resets don't help, turn OFF the breaker for that circuit, then confirm power is truly off before touching any wires. A non-contact voltage tester can read falsely 'dead,' so back it up: test it first on a known-live outlet to confirm it works, then check both slots of the outlet you're opening. Once verified dead, unscrew and pull the outlet to check for loose, backstabbed, or burnt wires. Tighten loose screw terminals; if you see scorching or melted insulation, stop and call an electrician.",
+    "If the outlet is simply worn (plugs fall out, intermittent), replace it with a matching receptacle \u2014 with the breaker off and power verified \u2014 moving one wire at a time so you don't mix them up.",
+    "If everything tests fine but the outlet is still dead, the break is likely upstream (a failed wire connection in another box or the panel). That tracing work is best left to a licensed electrician."
+  ],
+  "diyVsPro": "Resetting GFCIs and breakers, checking for a switched outlet, and swapping a worn-out receptacle are reasonable DIY tasks if you kill the power and verify it's off with a tester first. Call a licensed electrician if you smell burning, see scorch marks or melted plastic, the breaker trips again immediately after resetting, multiple outlets are dead with no GFCI to reset, or you're dealing with aluminum wiring, knob-and-tube, or anything inside the panel.",
+  "typicalCostUSD": "DIY: $0 to reset a GFCI/breaker; $3-$25 for a replacement receptacle (standard ~$3, GFCI ~$15-$25). Pro: $120-$250 for a service call to diagnose and replace an outlet; $200-$500+ if they have to trace and repair a hidden wiring fault.",
+  "timeEstimate": "5-15 minutes for resets and basic checks; 20-40 minutes to replace an outlet.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always turn off the circuit breaker and confirm power is off before removing a cover plate or touching wires \u2014 voltage can still be present even when an outlet seems dead. Don't trust a single non-contact voltage tester reading: these give false 'no voltage' results if the battery is weak or the tip doesn't get close enough, so first confirm the tester lights up on a known-live outlet, then verify the outlet you're working on. If you smell burning, see scorch marks, feel heat at the outlet, or the breaker trips again right after you reset it, stop and call a licensed electrician \u2014 these point to a fault that can cause a fire.",
+  "toolsParts": [
+    "Plug-in lamp or phone charger (to test for power)",
+    "Non-contact voltage tester (and ideally a plug-in outlet tester as a backup)",
+    "Flat-head and Phillips screwdrivers",
+    "Replacement receptacle (standard or GFCI, matching the original)",
+    "Flashlight or headlamp",
+    "Replacement fuse of matching amperage (older fuse-box homes only)"
+  ],
+  "searchTerms": [
+    "outlet not working",
+    "dead outlet no power",
+    "gfci outlet reset",
+    "outlet stopped working suddenly",
+    "why is my outlet dead",
+    "outlet won't work but breaker not tripped",
+    "half the outlets in room not working",
+    "replace dead electrical outlet"
+  ],
+  "sources": [
+    "Manufacturer guidance (GFCI receptacle test/reset instructions, e.g. Leviton/Eaton)",
+    "National Electrical Code norms for GFCI protection and receptacle wiring",
+    "Reputable DIY references (This Old House, Family Handyman)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed electrician. Electrical work carries shock and fire risk, and local codes vary \u2014 when in doubt, hire a professional and follow all applicable codes and permit requirements.",
+  "verified": true,
+  "verifierNote": "Confirmed causes, costs, and the kill-power-first DIY scope as accurate; strengthened the safety guidance to warn about non-contact voltage tester false negatives (verify on a known-live outlet first) and added a backup plug-in tester to the tools.",
+  "kind": "pillar"
+}

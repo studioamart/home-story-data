@@ -1,0 +1,86 @@
+{
+  "slug": "plumbing-dripping-faucet",
+  "system": "plumbing",
+  "title": "Why Your Faucet Drips \u2014 Causes & How to Fix It",
+  "question": "Why does my faucet keep dripping and how do I stop it?",
+  "summary": "A dripping faucet almost always means a worn internal part \u2014 a washer, O-ring, or cartridge \u2014 has hardened or torn and no longer seals. Most fixes are a cheap, 30-to-60-minute DIY repair once you shut off the water.",
+  "commonCauses": [
+    {
+      "cause": "Worn-out cartridge (most common on single-handle and many modern faucets). The plastic/brass cartridge that controls flow wears or cracks and stops sealing.",
+      "likelihood": "most common",
+      "quickCheck": "Single lever or modern two-handle faucet that drips no matter how hard you turn it off \u2014 points to the cartridge."
+    },
+    {
+      "cause": "Worn rubber washer or seat (classic compression faucet, common in older homes). The washer gets compressed and brittle from being pressed against the valve seat.",
+      "likelihood": "common",
+      "quickCheck": "Two separate hot/cold handles you have to twist hard to shut. If the spout drips with only one handle's water on, that side's washer is the likely culprit \u2014 but check both, since either can feed the same spout."
+    },
+    {
+      "cause": "Damaged or hardened O-rings. Small rubber rings dry out and crack, causing drips at the spout or leaks around the handle base.",
+      "likelihood": "common",
+      "quickCheck": "Water seeping around the handle or base when you turn it on, in addition to or instead of a spout drip."
+    },
+    {
+      "cause": "Corroded or pitted valve seat. Mineral buildup and corrosion roughen the seat so a new washer still won't seal.",
+      "likelihood": "less common",
+      "quickCheck": "You replaced the washer and it still drips \u2014 the seat itself is rough. Probe gently inside with a fingertip; it feels gritty or pitted."
+    },
+    {
+      "cause": "High water pressure or water hammer. Pressure above ~80 psi can stress seals and cause intermittent dripping, especially at night when overall demand is low.",
+      "likelihood": "less common",
+      "quickCheck": "Multiple faucets drip, or drips come and go. Test with a ~$10-15 hose-bib pressure gauge \u2014 a steady reading over 80 psi points here."
+    },
+    {
+      "cause": "Worn rubber seals/springs in a ball-type faucet (older single-handle Delta-style). The seats and springs under the ball wear out.",
+      "likelihood": "less common",
+      "quickCheck": "Single-handle faucet with a rounded ball cap under the lever that drips from the spout."
+    }
+  ],
+  "fixes": [
+    "Shut off the water first. Turn the two shutoff valves under the sink clockwise until snug; if there are none or they don't fully stop the flow, shut off the main. Open the faucet to drain pressure and plug the drain so small parts can't fall in.",
+    "Identify your faucet type: compression (two handles you twist hard), cartridge (single or two-handle that turns smoothly ~90 degrees), ball (single handle with a rounded cap), or ceramic-disc. The repair part depends on this.",
+    "Pop off the decorative handle cap with a flathead, remove the handle screw, and pull the handle. Take a photo at each step so reassembly is easy.",
+    "For a compression faucet: unscrew the packing nut, lift out the stem, and replace the rubber washer at the bottom and the O-ring on the stem. Bring the old parts to the hardware store to match size.",
+    "For a cartridge faucet: remove the retaining clip/nut, pull the cartridge straight out with pliers (or a brand-specific puller), and drop in an identical replacement. Match the brand and model \u2014 Moen, Delta, Kohler, etc. each differ.",
+    "For a ball or ceramic-disc faucet: buy the manufacturer's repair kit (springs/seats for ball, or seals for disc) and swap the worn parts following the kit diagram.",
+    "While it's apart, clean mineral buildup off metal parts with white vinegar and a rag. Lightly coat new O-rings with plumber's silicone grease \u2014 never petroleum jelly, which degrades rubber.",
+    "If a new washer still drips, the valve seat is bad. Smooth it with an inexpensive seat-dressing/reseating tool, or replace the seat if it unscrews.",
+    "Reassemble in reverse, turn the water back on slowly, and run the faucet to check for drips and base leaks. Snug any connection that weeps; don't overtighten.",
+    "If the whole faucet is corroded or parts are discontinued, replacing the entire faucet (fixture often $40-$200) is usually smarter than chasing repairs."
+  ],
+  "diyVsPro": "A standard washer, O-ring, or cartridge swap is well within reach for a careful homeowner with basic tools \u2014 this is one of the most beginner-friendly plumbing repairs. Call a licensed plumber if: the shutoff valves are seized or leak when you touch them, the faucet body or valve seat is badly corroded, you have to repair from inside the wall (tub/shower valves behind tile), you suspect a whole-house pressure problem needing a pressure-reducing valve, or you simply can't get a clean seal after replacing parts.",
+  "typicalCostUSD": "DIY: $5-$15 for washers/O-rings, $10-$50 for a replacement cartridge or repair kit. Pro: roughly $125-$350 for a service call and faucet repair; $150-$450+ installed if a full faucet replacement is needed (higher in high-cost metros).",
+  "timeEstimate": "30-60 minutes for a typical DIY washer or cartridge replacement; add time if shutoffs are stuck or parts must be matched at the store.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always shut off the water and relieve pressure before disassembly, and plug the drain so parts don't fall in. Confirm the water is actually off at the faucet before opening anything. Don't force corroded shutoff valves \u2014 if one won't budge or starts leaking, stop and call a plumber rather than snapping it. A small drip wastes thousands of gallons a year and can rot the cabinet, so don't ignore it.",
+  "toolsParts": [
+    "Adjustable wrench",
+    "Slip-joint or channel-lock pliers",
+    "Flathead and Phillips screwdrivers",
+    "Allen/hex key set (for set screws)",
+    "Replacement washers, O-rings, or brand-matched cartridge/repair kit",
+    "Plumber's silicone grease",
+    "White vinegar for descaling",
+    "Rag and small bowl for parts",
+    "Cartridge puller and seat-dressing tool (only if needed)"
+  ],
+  "searchTerms": [
+    "faucet dripping fix",
+    "how to fix a leaky faucet",
+    "replace faucet cartridge",
+    "faucet drips from spout",
+    "single handle faucet dripping",
+    "kitchen faucet leaking",
+    "bathroom faucet won't stop dripping",
+    "faucet washer replacement"
+  ],
+  "sources": [
+    "Manufacturer repair guidance (Moen, Delta, Kohler cartridge/washer documentation)",
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila in spirit)",
+    "Plumbing-code water-pressure norm (\u226480 psi, per IPC/UPC)"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional plumbing advice. Faucet designs and local codes vary; when in doubt or when shutoffs/valve bodies are compromised, consult a licensed plumber.",
+  "verified": true,
+  "verifierNote": "Confirmed causes, fixes, costs, and water-only \"caution\" safety level are sound; softened the overconfident \"drip side is the bad side\" claim, added a \"confirm water is off / shutoffs may not fully stop flow\" safety check, clarified the 80 psi pressure norm, and noted fixture-vs-installed cost and HCOL variance.",
+  "kind": "pillar"
+}

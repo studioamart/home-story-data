@@ -1,0 +1,85 @@
+{
+  "slug": "hvac-furnace-short-cycling",
+  "system": "hvac",
+  "title": "Why Your Furnace Short Cycles \u2014 Causes & Fixes",
+  "question": "Why does my furnace keep turning on and off every few minutes?",
+  "summary": "Furnace short cycling \u2014 turning on and off every few minutes instead of running full heating cycles \u2014 is most often caused by a dirty air filter or an overheating limit switch, but can also signal a thermostat, flame-sensor, or oversizing problem. Start with the filter; escalate to a licensed pro for anything involving the gas burner or repeated safety lockouts.",
+  "commonCauses": [
+    {
+      "cause": "Clogged or dirty air filter restricting airflow, causing the heat exchanger to overheat and trip the high-limit switch",
+      "likelihood": "most common",
+      "quickCheck": "Pull the filter and hold it up to a light \u2014 if you can't see light through it, it's too dirty. Check the date; most 1-inch filters need changing every 1-3 months."
+    },
+    {
+      "cause": "Overheating that trips the high-limit safety switch (from blocked airflow: dirty filter, closed/blocked supply or return vents, or a failing blower motor)",
+      "likelihood": "most common",
+      "quickCheck": "Walk the house and confirm supply registers and return grilles are open and unblocked by furniture or rugs. Listen for the blower \u2014 if the burner fires but little air moves, the blower may be failing."
+    },
+    {
+      "cause": "Dirty flame sensor \u2014 the burner lights, then shuts off after a few seconds because the sensor can't confirm flame",
+      "likelihood": "common",
+      "quickCheck": "Watch the burners through the inspection window: if they ignite and then go out within a few seconds, repeatedly, a dirty or corroded flame sensor is the classic symptom."
+    },
+    {
+      "cause": "Thermostat problem \u2014 bad location (in a draft, near a vent, or in direct sun), low batteries, loose wiring, or a too-fast 'cycle rate' (digital stats) or mis-set heat anticipator (older mechanical stats)",
+      "likelihood": "common",
+      "quickCheck": "Check that the thermostat isn't above a supply vent or in sunlight, replace its batteries, and confirm it reads a steady room temperature."
+    },
+    {
+      "cause": "Blocked or restricted flue / exhaust venting, or a failing pressure switch / induced-draft motor tripping the safety",
+      "likelihood": "less common",
+      "quickCheck": "Look outside for a blocked PVC exhaust/intake (snow, leaves, nest) on high-efficiency units. Listen for the small induced-draft motor running before ignition."
+    },
+    {
+      "cause": "Oversized furnace \u2014 too much capacity heats the space fast and satisfies the thermostat before a full cycle completes",
+      "likelihood": "less common",
+      "quickCheck": "If short cycling has happened since the unit was installed (not a new problem), and the filter/sensor are clean, oversizing is a likely culprit \u2014 needs a pro load calculation to confirm."
+    },
+    {
+      "cause": "Corroded or cracked heat exchanger, or a faulty high-limit switch itself",
+      "likelihood": "less common",
+      "quickCheck": "Repeated lockouts after the filter and flame sensor are clean point to a control or heat-exchanger issue \u2014 stop DIY and call a pro; a cracked heat exchanger is a carbon-monoxide hazard."
+    }
+  ],
+  "fixes": [
+    "Replace the air filter with the correct size and a matching MERV rating (most systems do best with MERV 8-11; very high MERV can itself choke airflow). This alone fixes a large share of short-cycling cases.",
+    "Open every supply register and clear furniture, rugs, and boxes away from supply and return vents so the furnace can move air freely.",
+    "Set the thermostat to 'Heat,' replace its batteries, and make sure it isn't mounted in sun, a draft, or above a vent. On programmable models, set the cycle-rate/cycles-per-hour to the gas-furnace setting (usually the slowest, often labeled for gas or 'slow').",
+    "Power the furnace off at its switch, then back on, to clear a one-time safety lockout. If it locks out again quickly, stop and diagnose rather than repeatedly resetting \u2014 the safety control is tripping for a reason.",
+    "Clean the flame sensor (an intermediate DIY): turn OFF the furnace power AND the gas first, remove the single screw holding the sensor rod, and lightly polish the metal rod with fine emery cloth, fine (400-grit) sandpaper, or a Scotch-Brite pad \u2014 do NOT use coarse abrasives or heavy pressure, which can damage the rod. Avoid steel wool, which sheds conductive fibers. Wipe clean, reseat, and restore power. If you're not comfortable working near the burner assembly, have a pro do it.",
+    "On high-efficiency units, check the outside PVC intake/exhaust pipes for snow, leaves, ice, or nests and clear any blockage.",
+    "If short cycling persists after a clean filter, open vents, and clean flame sensor \u2014 call a licensed HVAC tech. Persistent overheating, pressure-switch faults, or suspected oversizing/heat-exchanger issues need professional diagnosis."
+  ],
+  "diyVsPro": "DIY is fine for the airflow basics: changing the filter, opening vents, replacing thermostat batteries, clearing exterior flue blockages, and a single power-cycle reset. Cleaning the flame sensor is an intermediate DIY only if you shut off both power and gas first and are comfortable near the burner. Call a licensed HVAC pro for anything involving the gas valve, burner repairs, pressure switch, induced-draft motor, control board, a suspected cracked heat exchanger, or repeated safety lockouts \u2014 and for any oversizing problem, which requires a Manual J load calculation and possibly equipment replacement.",
+  "typicalCostUSD": "Filter: $10-40. Thermostat batteries: ~$5. DIY flame-sensor cleaning: ~$0 (or a $15-25 replacement sensor). Pro service call/diagnostic: $80-200. Flame sensor replacement by a pro: $80-250. Pressure switch or limit switch: $150-400. Blower motor: $300-700. Control board: $300-600. Cracked heat exchanger usually means furnace replacement: $3,000-7,000+.",
+  "timeEstimate": "Filter swap, opening vents, thermostat batteries: 5-15 minutes. Flame-sensor cleaning: 20-40 minutes. A pro diagnostic visit: 1-2 hours.",
+  "safetyLevel": "call-a-pro",
+  "safetyNote": "This is a gas-appliance issue, so treat it cautiously. A furnace that repeatedly overheats or short cycles can involve a cracked heat exchanger, which leaks carbon monoxide \u2014 make sure you have working CO detectors. Do NOT keep resetting a furnace that locks out again and again; the safety controls are tripping for a reason. Before touching the flame sensor or anything inside, shut OFF both the electrical power (furnace switch or breaker) and the gas supply at the valve. If you smell gas, do not flip switches \u2014 leave immediately and call your gas utility from outside. Burner, gas-valve, control-board, and heat-exchanger work should be left to a licensed HVAC technician.",
+  "toolsParts": [
+    "Correctly sized replacement air filter (MERV 8-11)",
+    "Fresh thermostat batteries (usually AA or AAA)",
+    "Fine emery cloth, 400-grit sandpaper, or a Scotch-Brite pad (for the flame sensor)",
+    "1/4-inch nut driver or screwdriver",
+    "Flashlight",
+    "Working carbon monoxide detector"
+  ],
+  "searchTerms": [
+    "furnace short cycling",
+    "furnace turns on and off every few minutes",
+    "furnace keeps shutting off",
+    "furnace cycling on and off",
+    "why does my furnace short cycle",
+    "furnace overheating limit switch",
+    "dirty flame sensor symptoms",
+    "furnace clicks on then off"
+  ],
+  "sources": [
+    "Manufacturer furnace operation and troubleshooting guidance",
+    "Reputable DIY home-maintenance references (This Old House, Family Handyman, and similar)",
+    "Building-code and HVAC norms (filter maintenance intervals, Manual J sizing, carbon-monoxide safety practice)"
+  ],
+  "disclaimer": "This guide is general home-maintenance information, not professional advice for your specific equipment. Furnaces vary by make and model \u2014 always follow your unit's manual and local codes. Because this involves natural gas and combustion, when in doubt, stop and call a licensed HVAC professional. Maintain working carbon monoxide detectors in your home.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/costs/safety are accurate and correctly set to call-a-pro for this gas appliance; replaced the steel-wool flame-sensor advice (sheds conductive fibers) with fine emery cloth/400-grit/Scotch-Brite plus a no-coarse-abrasive warning, clarified cycle-rate vs. anticipator, and strengthened the \"don't flip switches if you smell gas\" and gas-shutoff wording.",
+  "kind": "pillar"
+}

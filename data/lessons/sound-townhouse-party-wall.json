@@ -1,0 +1,79 @@
+{
+  "slug": "sound-townhouse-party-wall",
+  "system": "interior",
+  "title": "How to Soundproof a Shared Townhouse or Condo Party Wall Without Opening It Up",
+  "question": "I can hear my neighbors talking and their TV through the shared wall in my townhouse (or condo). How do I soundproof this common wall without demolishing it and opening up the studs?",
+  "summary": "You can cut a noisy party wall noticeably quieter by building a second layer over the existing drywall: damped drywall plus Green Glue, sealing every gap, and decoupling outlets and trim. Soundproofing a shared townhouse/condo wall without demo means adding mass and an air seal on your side, knowing voices and bass are the hardest to stop.",
+  "commonCauses": [
+    {
+      "cause": "Flanking paths: sound goes around the wall, not through it (through shared floor joists, the ceiling, a back-to-back outlet, an HVAC chase, or a continuous baseboard) \u2014 so even a perfect wall treatment underperforms if you ignore them.",
+      "likelihood": "most common",
+      "quickCheck": "At night, put your ear near outlets, the ceiling/floor junction, and any wall vent on the shared wall. If a specific spot is much louder than the open field of wall, that's a flanking leak."
+    },
+    {
+      "cause": "Air gaps act like open windows for sound: unsealed outlet boxes, the floor-to-drywall gap behind the baseboard, and the top of the wall leak high frequencies (voices, TV).",
+      "likelihood": "most common",
+      "quickCheck": "Pull off an outlet cover plate (breaker off) and look for a gap around the metal box, or shine a flashlight along the baseboard at night and have someone watch from the other room \u2014 light leaks where sound leaks."
+    },
+    {
+      "cause": "Existing wall has too little mass and is rigidly coupled. A typical single-layer 1/2\" drywall party wall (sometimes no insulation in older builds) passes low/mid frequencies easily because both sides are screwed to the same studs.",
+      "likelihood": "common",
+      "quickCheck": "Knock on the wall. A thin, hollow, drum-like sound means single-layer drywall with little or no decoupling; a dead thud suggests it's already double-layer or masonry/block."
+    },
+    {
+      "cause": "Expecting to block bass by adding mass alone. Mass+damping kills voices and TV well; deep bass (subwoofer, home theater, loud music) needs decoupling that you usually can't get without opening the wall.",
+      "likelihood": "common",
+      "quickCheck": "Identify the noise: if it's conversation/TV, a surface treatment works well. If it's thumping bass you feel in the floor, manage expectations \u2014 partial reduction only."
+    },
+    {
+      "cause": "HOA / condo bylaws and the fact that the party wall is often shared or a 'common element.' Altering or attaching to it, or any work touching a fire-rated assembly, can require approval.",
+      "likelihood": "less common",
+      "quickCheck": "Check your condo declaration/HOA rules for 'common elements' and 'alterations,' and confirm the wall isn't load-bearing or a designated fire separation before you add layers."
+    }
+  ],
+  "fixes": [
+    "Diagnose first. Spend one evening with the neighbor noise happening and pinpoint where it's loudest: open wall field, outlets, baseboard gap, ceiling, or a vent. Treat the leaks you find, not just the broad wall \u2014 a sealed wall with one open outlet box is still loud.",
+    "Seal the easy air leaks (biggest bang for the buck, do this even if you do nothing else). Turn off the breaker and confirm it's dead with a voltage tester, pull outlet/switch cover plates, and apply acoustical putty pads around the boxes (or pack with non-hardening acoustical sealant), then reinstall. Run a bead of acoustical sealant (Green Glue Noiseproofing Sealant, OSI SC-175, or equal \u2014 it stays flexible, unlike regular caulk) along the top and bottom of the wall and around any penetrations.",
+    "Seal the floor/baseboard gap. Pry off the baseboard, run acoustical sealant in the gap between the bottom of the drywall and the floor, then reinstall trim with a bead of sealant behind it. This gap is a common voice/TV leak.",
+    "Add a decoupled, damped layer over the existing drywall (the main treatment). Locate studs. Mount resilient sound-isolation clips and hat channel to the studs (best \u2014 decouples the new layer), or if you want simpler, screw a new layer directly through into the studs. Then hang one or two layers of 5/8\" drywall \u2014 for serious results use a damped panel (QuietRock) OR standard 5/8\" drywall with a full coat of Green Glue Noiseproofing Compound (about 2 tubes per 4x8 sheet) sandwiched between the old wall and the new sheet. Mass plus the damping layer is what stops mid frequencies.",
+    "Stagger and seal all new seams. Offset new drywall joints from the old wall's joints, don't land new seams over outlets, and keep the new layer from touching the side walls, floor, and ceiling \u2014 leave a 1/8\"-1/4\" perimeter gap and fill it with acoustical sealant, not joint compound. Any rigid contact short-circuits the isolation.",
+    "Re-extend electrical safely. The new drywall layer(s) leave boxes recessed. Add UL-listed box extenders so outlets/switches sit flush with the new surface and the box stays enclosed per code, and putty-pad the extended boxes too. If you're not comfortable working in boxes, have an electrician do this part.",
+    "Finish: tape, mud, and paint the new surface, reinstall baseboard over a sealant bead, and add door/transition seals if the noise also comes around a nearby shared-wall doorway. Re-test at night to confirm the improvement and catch any remaining leak."
+  ],
+  "diyVsPro": "A motivated DIYer with drywall experience can do the sealing and a single added/damped layer over one wall in a weekend or two \u2014 the sealing steps alone are squarely DIY and give real results. Hire a pro (acoustic contractor or experienced drywall crew) if you need clips-and-channel decoupling done right, if the wall is fire-rated or a designated common element, if you're chasing bass/home-theater noise, or if you're not comfortable working inside electrical boxes. For condos, confirm HOA approval before any pro starts.",
+  "typicalCostUSD": "DIY materials for one ~12 ft wall: roughly $400-$900 (Green Glue ~$20-25/tube, 5/8\" drywall ~$15-20/sheet, putty pads ~$5-8 each, sealant, plus clips/channel ~$150-300 if used). QuietRock damped panels instead push materials to ~$700-$1,400. Pro installation of a decoupled, double-layer wall typically runs ~$2,000-$5,000+ per wall depending on size and clips vs. direct.",
+  "timeEstimate": "Sealing-only pass: 2-4 hours. Full added-layer treatment on one wall (clips/channel, drywall, Green Glue, mud, paint): 1-2 weekends DIY, plus drying/cure time before re-testing.",
+  "safetyLevel": "caution",
+  "safetyNote": "Shut off the breaker before opening any outlet or switch \u2014 confirm it's dead with a voltage tester. Box extenders are required by code when drywall is added so the box stays enclosed and flush; if you're unsure, use an electrician for that step. Don't block, bury, or cover any HVAC return/vent on the wall. Confirm the wall is not load-bearing and not a required fire-rated separation before altering it \u2014 if it is fire-rated, only add code-compliant fire-rated assemblies and use a pro. In a condo, get HOA/board approval first since party walls are often common elements. Wear a dust mask and eye protection when cutting drywall.",
+  "toolsParts": [
+    "5/8\" drywall sheets (or QuietRock damped panels)",
+    "Green Glue Noiseproofing Compound (damping) + Green Glue Noiseproofing Sealant",
+    "Acoustical putty pads for outlet/switch boxes",
+    "Sound-isolation clips + 25-gauge hat channel (for decoupling, optional)",
+    "Non-hardening acoustical sealant (OSI SC-175 or equal) + caulk gun",
+    "UL-listed electrical box extenders",
+    "Drywall screws (long enough for added layers), screw gun/drill",
+    "Stud finder, utility knife, T-square, tape measure",
+    "Pry bar (baseboard removal), voltage tester",
+    "Joint tape, joint compound, sanding block, primer/paint",
+    "Dust mask/respirator and safety glasses"
+  ],
+  "searchTerms": [
+    "soundproof shared townhouse party wall without removing drywall",
+    "reduce noise from neighbor through condo common wall existing wall",
+    "add layer drywall green glue over existing wall to block neighbor noise",
+    "putty pads outlet soundproofing party wall",
+    "resilient clips hat channel over existing drywall noise reduction",
+    "how to soundproof condo wall i can hear neighbor talking tv"
+  ],
+  "sources": [
+    "Manufacturer installation guidance for Green Glue Noiseproofing Compound and Sealant",
+    "QuietRock soundproof drywall product and installation literature",
+    "General IBC/IRC and NEC norms for fire-rated party walls and electrical box enclosure/extenders (NEC 314.20)",
+    "Established acoustic-construction references on mass, damping, decoupling, and flanking paths (STC concepts)"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional engineering, electrical, or legal advice. Party walls in townhouses/condos are frequently shared common elements and may be fire-rated assemblies \u2014 verify ownership, code requirements, and HOA rules before altering. Results vary with the existing wall and noise type; deep bass is hard to stop without opening the wall.",
+  "verified": true,
+  "verifierNote": "Confirmed Green Glue coverage (~2 tubes/sheet), box-extender code requirement, and cost ranges; added explicit voltage-tester verification, a fire-rated-assembly pro routing in the safety note, and minor wording fixes.",
+  "kind": "spoke"
+}

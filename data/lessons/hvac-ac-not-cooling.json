@@ -1,0 +1,92 @@
+{
+  "slug": "hvac-ac-not-cooling",
+  "system": "hvac",
+  "title": "AC Running But Not Cooling? Causes & Fixes",
+  "question": "why is my AC not cooling the house",
+  "summary": "An AC that runs but won't cool is usually a dirty filter, a blocked or iced-up coil, or a tripped/clogged outdoor unit \u2014 most of which you can check yourself. Low refrigerant or a failed compressor needs a licensed pro.",
+  "commonCauses": [
+    {
+      "cause": "Clogged air filter choking airflow, often causing the coil to ice over",
+      "likelihood": "most common",
+      "quickCheck": "Pull the filter \u2014 if you can't see light through it, it's the problem. Check for frost on the indoor coil or refrigerant lines."
+    },
+    {
+      "cause": "Dirty outdoor condenser coil or blocked airflow (grass, leaves, debris) around the unit",
+      "likelihood": "most common",
+      "quickCheck": "Look at the outside unit \u2014 if the fins are caked with dirt/grass or vegetation is crowding it, airflow is choked."
+    },
+    {
+      "cause": "Thermostat set wrong (on 'fan' instead of 'cool/auto') or dead batteries",
+      "likelihood": "common",
+      "quickCheck": "Confirm mode = COOL, fan = AUTO, and setpoint is well below room temp. Replace thermostat batteries."
+    },
+    {
+      "cause": "Frozen evaporator coil from low airflow or low refrigerant",
+      "likelihood": "common",
+      "quickCheck": "Look for ice on the indoor coil or the copper line at the air handler. If iced, the AC will blow warm."
+    },
+    {
+      "cause": "Tripped breaker or blown fuse to the outdoor unit (the fan/compressor won't run)",
+      "likelihood": "common",
+      "quickCheck": "Stand by the outside unit \u2014 is the big fan spinning? If not, check the breaker panel and the disconnect box by the unit."
+    },
+    {
+      "cause": "Low refrigerant from a leak",
+      "likelihood": "common",
+      "quickCheck": "Warm air + ice on lines + hissing/bubbling, or system never reaches setpoint on hot days. Requires a pro with gauges \u2014 refrigerant doesn't get 'used up,' so low charge means a leak."
+    },
+    {
+      "cause": "Clogged condensate drain line tripping the safety float switch (shuts AC off)",
+      "likelihood": "less common",
+      "quickCheck": "Check for standing water in the drain pan; a full pan can shut the system down."
+    },
+    {
+      "cause": "Failed capacitor, contactor, or compressor",
+      "likelihood": "less common",
+      "quickCheck": "Outdoor fan hums but won't spin, or unit clicks and trips the breaker. Pro diagnosis needed."
+    }
+  ],
+  "fixes": [
+    "Set the thermostat to COOL, fan to AUTO, and a setpoint 5+ degrees below room temperature; replace the thermostat batteries if it's blank or unresponsive.",
+    "Check and replace the air filter. A clogged filter is the #1 cause \u2014 swap it for the correct size and MERV rating, and recheck monthly in cooling season.",
+    "If you see ice on the coil or refrigerant lines, turn cooling OFF but set the fan to ON to help thaw, and let it fully melt (often a few hours; thick ice can take longer). Then run again with a clean filter. If it re-freezes, you likely have a refrigerant or airflow problem \u2014 call a pro.",
+    "Inspect the outdoor condenser: shut it off at the disconnect first, clear leaves/grass/weeds, keep at least 1-2 ft of clearance, and gently rinse the fins straight through with a garden hose at normal pressure (never a pressure washer, and don't bend the fins or open the unit).",
+    "Check the breaker panel and the outdoor disconnect box. Reset a tripped breaker ONCE. If it trips again immediately, stop and call a pro \u2014 that signals an electrical fault.",
+    "Check the condensate drain pan; if there's standing water, the float switch may have shut the system off. Clear the drain line (a wet/dry vac on the outdoor drain end clears most clogs).",
+    "Confirm all supply registers are open and return vents aren't blocked by furniture or rugs.",
+    "If the unit still blows warm after these checks, or you suspect low refrigerant / a bad capacitor or compressor, call a licensed HVAC tech \u2014 refrigerant work is EPA-regulated and not DIY."
+  ],
+  "diyVsPro": "DIY is fine for filters, thermostat settings, clearing and rinsing the outdoor unit, thawing a frozen coil, clearing the drain line, and a single breaker reset. Call a licensed HVAC pro for anything involving refrigerant (recharging or leak repair \u2014 it's EPA-regulated and needs gauges), a breaker that keeps tripping, a humming fan that won't spin (capacitor/contactor), or a suspected failed compressor. Do not open the electrical or fan compartment of the outdoor unit \u2014 the capacitor can hold a dangerous charge even with power off.",
+  "typicalCostUSD": "DIY: $15-40 filter, $5 thermostat batteries, $10-30 coil cleaner. Pro: $75-200 diagnostic/service call; capacitor $150-400; contactor $150-350; refrigerant leak repair + recharge $200-1,500+; compressor replacement $1,500-3,500; new condenser/full system $4,000-9,000+.",
+  "timeEstimate": "15-30 minutes for filter, thermostat, and outdoor cleanup; several hours if you must thaw a frozen coil before retesting.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always cut power at the outdoor disconnect or breaker before touching the condenser \u2014 the fan and capacitor can injure you. Capacitors hold a dangerous charge even after power is off, so never open the unit's electrical or fan compartment unless you're trained. Reset a tripped breaker only once; repeated tripping means an electrical fault \u2014 call a pro. Never add refrigerant yourself; it's EPA-regulated and the wrong charge damages the system. Don't use a pressure washer on the coil or bend the fins.",
+  "toolsParts": [
+    "Replacement air filter (correct size/MERV)",
+    "Thermostat batteries (usually AA or AAA)",
+    "Garden hose",
+    "No-rinse coil cleaner or mild detergent",
+    "Soft brush or fin comb",
+    "Flashlight",
+    "Wet/dry shop vac (for drain line)",
+    "Screwdriver or nut driver (for disconnect/access panels)"
+  ],
+  "searchTerms": [
+    "AC not cooling",
+    "air conditioner running but not cold",
+    "AC blowing warm air",
+    "frozen AC coil",
+    "outside AC unit not turning on",
+    "AC blowing hot air house won't cool",
+    "central air not cooling"
+  ],
+  "sources": [
+    "manufacturer guidance (HVAC equipment maintenance manuals)",
+    "EPA Section 608 refrigerant-handling rules and general building-code norms",
+    "reputable DIY references (This Old House, Family Handyman, Bob Vila)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for professional diagnosis. HVAC systems vary by make and model. When in doubt, or for any refrigerant or electrical work, hire a licensed HVAC technician and follow your equipment's manual and local codes.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes/safety are sound; fixed coil-rinse advice (spray straight through fins, no disassembly), softened \"2 ft\" to 1-2 ft and thaw timing, added capacitor-charge and no-pressure-washer warnings, raised compressor/full-system cost ranges to 2026 reality, and added that low charge means a leak.",
+  "kind": "pillar"
+}

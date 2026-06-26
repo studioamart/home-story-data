@@ -1,0 +1,71 @@
+{
+  "slug": "plumbing-high-water-pressure",
+  "system": "plumbing",
+  "title": "My House Water Pressure Is Too High \u2014 How to Lower It to Protect Pipes and Appliances",
+  "question": "My faucets blast water hard, pipes bang, and I'm worried about damaging my appliances. How do I test my home's water pressure and turn it down to a safe level myself?",
+  "summary": "High water pressure (above 80 psi) silently wears out faucets, water heaters, washing machines, and pipe joints \u2014 the fix is usually adjusting or installing a pressure-reducing valve where the main line enters the house. Test with a $12 gauge first, then turn the PRV's screw down to land in the safe 50\u201360 psi range.",
+  "commonCauses": [
+    {
+      "cause": "You have no pressure-reducing valve (PRV) at all \u2014 the city main is feeding the house directly at street pressure, which can run 100\u2013150+ psi in hilly or pump-fed areas.",
+      "likelihood": "most common",
+      "quickCheck": "Look on the main water line right after it enters the house (near the meter or main shutoff). A PRV is a bell- or pear-shaped brass valve with an adjustment screw on top. If you only see straight pipe and the main shutoff, you have none."
+    },
+    {
+      "cause": "You have a PRV but it's set too high or has failed \u2014 old PRVs drift or stick over 10\u201315 years and stop regulating, letting full street pressure through.",
+      "likelihood": "common",
+      "quickCheck": "With a gauge on a hose bib, watch the reading: if it sits high (90+) and the screw does nothing when you turn it, the PRV is likely failed, not just misadjusted."
+    },
+    {
+      "cause": "Thermal expansion is spiking pressure even though the baseline is fine \u2014 a closed system (PRV or check valve present) with no expansion tank lets the water heater push pressure up sharply when it heats.",
+      "likelihood": "common",
+      "quickCheck": "Take a gauge reading right after the water heater has run a cycle and no water has been used. If it reads far higher than your normal static reading, that's thermal expansion, and you need an expansion tank, not just a PRV adjustment."
+    },
+    {
+      "cause": "You're reading pressure at the wrong time or spot and chasing a number that isn't the real problem \u2014 pressure varies by time of day and by floor.",
+      "likelihood": "less common",
+      "quickCheck": "Test at an outside hose bib closest to where the main enters, with all water off in the house, and check both midday and late night. Compare readings before deciding anything is wrong."
+    }
+  ],
+  "fixes": [
+    "Confirm the problem with a gauge. Buy a screw-on water pressure gauge (~$12). Thread it onto an outside hose bib or the laundry cold-water valve, shut off ALL water in the house, then open that single valve fully. Because the gauge dead-ends the line, this reads true static pressure. Above 80 psi is over code and risky; 50\u201360 psi is the target. Note the number.",
+    "Find your PRV. Trace the main line from the meter/main shutoff into the house. The PRV is a brass bell-shaped valve with a bolt or screw sticking out the top, usually within a few feet of where the line enters. If there's no such valve, skip to step 6.",
+    "Leave the gauge on while you adjust. Keep the gauge attached and a faucet barely cracked so you get a live reading. Find the adjustment screw/nut on top of the PRV and loosen the lock nut around it if there is one.",
+    "Turn the screw down slowly. Clockwise = more pressure, counter-clockwise = less. Make a quarter-turn counter-clockwise, wait 10\u201315 seconds, briefly open and close a faucet to let pressure settle, then read the gauge. Repeat in small steps until you land at ~55 psi. Don't over-turn; PRVs respond with a delay.",
+    "Re-tighten the lock nut and re-verify. Snug the lock nut without moving the screw, then re-read static pressure with everything off. Confirm it holds at 50\u201360 psi over a few minutes. Watch over the next day to make sure it doesn't creep back up (creep = failing PRV, replace it).",
+    "If you have no PRV, or yours is failed: this is the call-a-pro point. A plumber installs or replaces a PRV on the main line (Watts/Zurn/Cash Acme are standard brands). It requires cutting into the main, soldering or pressing fittings, and shutting off house water \u2014 and it's where a mistake floods the house.",
+    "If pressure spikes only after the water heater runs, add a thermal expansion tank. On a closed system this is required by most codes. A pro mounts a small tank on the cold inlet of the water heater and pre-charges it to match your supply pressure. DIY only if you're comfortable draining and working on water-heater plumbing."
+  ],
+  "diyVsPro": "Testing pressure and adjusting an EXISTING, working PRV is a confident-DIY job \u2014 it's a screwdriver and a gauge, no pipe cutting. Installing a new PRV, replacing a failed one, or adding a thermal expansion tank means cutting into the live main line and is a call-a-pro job unless you solder or press copper regularly. If your reading is below 80 psi and stable, you may not need to do anything at all.",
+  "typicalCostUSD": "Gauge: $10\u201315. DIY PRV adjustment: $0. Pro PRV replacement: $250\u2013450 (valve $50\u2013100 + 1\u20132 hrs labor). New PRV install where none exists: $350\u2013600. Thermal expansion tank installed: $150\u2013350.",
+  "timeEstimate": "Testing: 5 minutes. Adjusting an existing PRV: 15\u201330 minutes. Pro PRV replacement or expansion tank: 1\u20133 hours.",
+  "safetyLevel": "caution",
+  "safetyNote": "Adjusting a PRV is low-risk, but cutting into the main water line is not \u2014 know where your main shutoff is before any work, and shut it off before opening any pipe. Never let static pressure stay above 80 psi: it voids many appliance and water-heater warranties and can burst supply hoses. If you see water dripping from the water heater's T&P relief valve, that's a pressure/thermal-expansion warning sign \u2014 address it, don't ignore it.",
+  "toolsParts": [
+    "Screw-on water pressure test gauge (with hose-thread fitting)",
+    "Flathead or hex screwdriver / wrench for the PRV adjustment screw",
+    "Adjustable wrench for the lock nut",
+    "Replacement PRV (if installing \u2014 pro)",
+    "Thermal expansion tank (if needed \u2014 pro)",
+    "Knowledge of your main water shutoff location"
+  ],
+  "searchTerms": [
+    "how to lower house water pressure too high",
+    "where is the water pressure reducing valve in my house",
+    "how to adjust PRV water pressure",
+    "test home water pressure with gauge",
+    "water pressure 90 psi how to reduce",
+    "water hammer banging pipes high pressure fix",
+    "pressure reducing valve adjustment direction",
+    "do I need a thermal expansion tank water heater"
+  ],
+  "sources": [
+    "EPA / plumbing code guidance: residential water pressure should not exceed 80 psi (Uniform Plumbing Code 608.2 & International Plumbing Code 604.8)",
+    "Watts and Zurn/Wilkins pressure-reducing valve installation and adjustment instructions",
+    "Manufacturer water-heater manuals on closed systems and thermal expansion tank requirements",
+    "Standard licensed-plumber field practice for PRV setpoint of 50\u201360 psi"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for a licensed plumber's on-site assessment. Local plumbing codes vary, and work on the main line or water heater may require a permit or professional installation. Verify your specific equipment's instructions before adjusting anything.",
+  "verified": true,
+  "verifierNote": "Confirmed 80 psi code limit (UPC 608.2/IPC 604.8), 50\u201360 psi setpoint, CW/CCW adjustment direction, closed-system thermal expansion logic, and cost ranges; clarified step 1 to read true static pressure and that pro routing for main-line cutting and water-heater work is correct.",
+  "kind": "spoke"
+}

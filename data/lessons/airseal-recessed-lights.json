@@ -1,0 +1,73 @@
+{
+  "slug": "airseal-recessed-lights",
+  "system": "interior",
+  "title": "How to Stop Cold Air Falling From Recessed Can Lights in the Ceiling",
+  "question": "Cold air keeps dropping down out of my recessed (can) lights into the room below the attic. How do I air-seal them so the draft stops without creating a fire hazard?",
+  "summary": "The cold \"falling\" air is attic air pouring through gaps around and inside your can lights; you stop it by air-sealing the housing from the attic side (or swapping to airtight/LED units), but only with fixture-rated methods so you don't trap heat against a hot fixture. Learn the safe, code-correct way to seal recessed lights and kill the draft for good.",
+  "commonCauses": [
+    {
+      "cause": "Old non-IC, non-airtight cans act like open chimneys. Older recessed housings have vent slots and a loose trim-to-ceiling gap, so attic air drops straight through the fixture into the room. This is the single biggest source of the draft.",
+      "likelihood": "most common",
+      "quickCheck": "On a windy or cold day, hold a lit incense stick or tissue just under the trim with the light OFF; if smoke pulls down or the tissue flutters, the can is leaking."
+    },
+    {
+      "cause": "The gap is around the housing, not just the trim. Even an 'okay' fixture leaks where the metal can passes through the drywall and where wires enter. Sealing only the visible trim ring from below misses the real leak path above.",
+      "likelihood": "common",
+      "quickCheck": "From the attic (if accessible), look for a daylight/dust halo or feel for moving air around the can body and at the wire knockout with the HVAC fan running."
+    },
+    {
+      "cause": "Stack effect is driving it. Warm air leaking out high in the house (upper floors, attic bypasses) creates suction that pulls cold air in through any low/ceiling penetration, so the cans 'pour' even with no wind. Sealing one can helps; whole-house leakage is the system.",
+      "likelihood": "common",
+      "quickCheck": "If multiple cans and other ceiling penetrations all feel drafty on cold still days, you have stack effect, not just one bad fixture."
+    },
+    {
+      "cause": "IC vs non-IC confusion makes a naive fix dangerous. The intuitive move (stuff insulation or caulk against the housing, or screw a foam gasket over a hot can) can trap heat against a non-IC fixture rated to stay clear of insulation, which is a documented fire risk.",
+      "likelihood": "less common",
+      "quickCheck": "Look for a label inside the can: 'IC' or 'Type IC' = insulation-contact safe; non-IC requires 3 in. clearance from insulation and combustibles, and must be sealed only with fire-rated covers, not packed insulation."
+    }
+  ],
+  "fixes": [
+    "Turn the affected circuit OFF at the breaker before touching any fixture, trim, or wiring. Let bulbs cool fully (incandescent/halogen cans run hot for several minutes after switch-off).",
+    "Identify each can's type. Pop the trim down (it's held by spring clips or coil springs) and read the label inside: IC or non-IC, and whether it says 'airtight' or 'ASTM E283'. This decides which method is legal and safe.",
+    "Easiest high-impact fix from below: replace the bulb-and-trim with an airtight LED recessed retrofit module (the disc/canless 'wafer' or screw-in unit with an integral foam gasket). It threads into the existing socket, seals against the ceiling, and runs cool. This converts a leaky can into a near-airtight LED in about 10-20 minutes per light and is the best DIY option for most people.",
+    "If you keep the existing trim, add a foam light-cover gasket between the trim flange and the ceiling, or run a thin bead of fire-rated/high-temp sealant where the trim flange meets the drywall. Do NOT seal the bulb area or block fixture vents on a non-IC can.",
+    "Best long-term fix, from the attic: if your cans are IC-rated and airtight, you can air-seal the housing exterior with fire-rated caulk at the drywall penetration and the wire knockout, then insulate over it normally.",
+    "From the attic with NON-IC or non-airtight cans: do not pack insulation against them. Build or buy a fire-rated recessed-light cover (an airtight box keeping 3 in. clearance to the housing), seal the cover's base to the drywall with fire-rated caulk, then insulate over the cover.",
+    "Restore power and verify: turn the breaker back on, confirm the light works, then re-run the incense/tissue test under the trim. The draft should be gone or drastically reduced.",
+    "If several cans leak, expect stack effect and seal them all, plus obvious attic bypasses (top plates, plumbing/wiring penetrations) so you're not just chasing one hole."
+  ],
+  "diyVsPro": "DIY-friendly from below: swapping to airtight LED retrofit modules and adding trim gaskets is a confident-homeowner job with the breaker off. The attic side gets trickier. If your cans are non-IC, if the attic is cramped or has loose-fill insulation you'd disturb, or if you find aluminum/old wiring, knob-and-tube, or scorched fixtures, bring in a licensed electrician or insulation/weatherization contractor. A pro energy audit (blower-door + IR) is worth it if many fixtures leak.",
+  "typicalCostUSD": "DIY: airtight LED retrofit modules $12-30 each; foam trim gaskets $5-10 for a multi-pack; fire-rated caulk $8-15/tube; fire-rated/IC airtight can covers $20-45 each. Pro: electrician/weatherization $300-800 for a handful of cans; blower-door energy audit $200-500.",
+  "timeEstimate": "About 10-20 minutes per light from below for an LED retrofit or gasket; 20-45 minutes per light from the attic for sealing or installing a cover. A whole room of 6-8 cans is a half-day project.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always kill the breaker and let bulbs cool before working on a fixture. The real hazard here is heat: never pack insulation or caulk against a non-IC housing, never block a fixture's vents, and use only fire-rated/high-temp sealants and IC-rated covers. If you find non-IC cans buried in insulation, scorching, or old/knob-and-tube wiring, stop and call a licensed electrician. If your attic has vermiculite insulation, do not disturb it (possible asbestos) and call a pro. Hardwiring a new fixture or any 240V/junction-box work is an electrician's job.",
+  "toolsParts": [
+    "Airtight LED recessed retrofit modules (wafer/disc or screw-in, sized to your can)",
+    "Foam recessed-light trim gaskets",
+    "Fire-rated / high-temperature sealant or caulk",
+    "IC-rated airtight recessed-light covers (for attic-side sealing of leaky/non-IC cans)",
+    "Voltage tester / non-contact tester",
+    "Incense stick or tissue (for the draft test)",
+    "Step ladder, work gloves, dust mask or respirator (attic work), headlamp",
+    "Caulk gun, utility knife"
+  ],
+  "searchTerms": [
+    "cold air coming out of recessed lights how to stop",
+    "air seal can lights from attic without fire hazard",
+    "draft from recessed lights in ceiling fix",
+    "IC vs non-IC recessed light insulation sealing",
+    "airtight LED retrofit to stop can light draft",
+    "fire rated recessed light cover for attic insulation"
+  ],
+  "sources": [
+    "U.S. DOE / Energy Star guidance on air-sealing recessed lights and IC-rated airtight fixtures",
+    "ENERGY STAR Home Sealing and attic air-sealing recommendations",
+    "Manufacturer instructions for IC-rated airtight recessed housings and LED retrofit kits",
+    "ASTM E283 air-leakage standard referenced on airtight fixture labels",
+    "International Residential Code provisions on recessed luminaires and insulation clearance"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional electrical or code advice. Verify fixture ratings and local code before working, and consult a licensed electrician or weatherization pro when in doubt.",
+  "verified": true,
+  "verifierNote": "Confirmed core physics (attic air via stack effect, not the fixture making cold), IC vs non-IC fire logic, the 3 in. clearance rule, costs, and times against DOE/Energy Star and IRC practice; tightened the non-IC cover description (a true 5-sided enclosure can itself be IC/airtight \u2014 the key constraint is the 3 in. clearance), added that non-IC cans stay hot after switch-off, noted clearance applies to combustibles too, and added an explicit pro-routing line for hardwiring/240V/junction-box work in the safety note.",
+  "kind": "spoke"
+}

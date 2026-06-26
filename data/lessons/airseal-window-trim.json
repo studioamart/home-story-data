@@ -1,0 +1,79 @@
+{
+  "slug": "airseal-window-trim",
+  "system": "interior",
+  "title": "How to Seal Drafts Around Interior Window and Door Trim",
+  "question": "I feel cold air leaking in around the wood trim (casing) of my windows and doors. How do I find and seal those drafts myself?",
+  "summary": "Cold air around trim almost always comes from the hidden gap behind the casing, where the window/door frame meets the rough opening, not from the visible trim joints. Seal that perimeter gap with the right product (caulk for hairline cracks, foam backer rod plus caulk for wider gaps, low-expansion foam behind removed trim for the worst cases) and the draft stops. This guide shows how to locate the leak path and seal window and door trim drafts the right way.",
+  "commonCauses": [
+    {
+      "cause": "The real leak is the hidden gap between the window/door frame and the wood framing of the rough opening, behind the trim \u2014 the visible trim just covers it. Air travels through that cavity and sneaks out at the edge of the casing.",
+      "likelihood": "most common",
+      "quickCheck": "On a windy or cold day, run a wet hand or a lit incense stick along the inside edge of the casing where it meets the wall and where it meets the window/door frame. Drift or a cold streak means air is coming through the gap behind the trim."
+    },
+    {
+      "cause": "The thin joint where the casing meets the wall (or the frame) has separated or was never caulked \u2014 seasonal wood movement opens hairline cracks you can see.",
+      "likelihood": "common",
+      "quickCheck": "Look closely at the joint lines. Any visible crack, especially at the top corners (miters) and along the long edges, is an air path you can caulk directly."
+    },
+    {
+      "cause": "The rough-opening cavity behind the trim was never insulated, or was over-stuffed with batt insulation that got compressed and now passes air. Compressed fiberglass does not stop air movement.",
+      "likelihood": "common",
+      "quickCheck": "Pop off one piece of trim (interior casing pries off easily) and look at the gap. If you see bare cavity, loose batt jammed in, or daylight, that cavity is the source."
+    },
+    {
+      "cause": "You caulked the wrong spot \u2014 sealing only the outer trim-to-wall joint while leaving the inner frame-to-trim gap open (or vice versa) leaves a path for air to still enter the room.",
+      "likelihood": "common",
+      "quickCheck": "After sealing, re-run the incense/hand test. If you still feel drift, you sealed one side of the path but not the other."
+    },
+    {
+      "cause": "The draft is actually coming from the window or door itself (worn weatherstripping, a gap at the sash or sweep), not the trim \u2014 easy to misdiagnose.",
+      "likelihood": "less common",
+      "quickCheck": "Test the moving parts separately: close on a dollar bill and tug \u2014 if it slides out easily the seal is bad. Feel along the sash/sweep, not the trim, to tell them apart."
+    }
+  ],
+  "fixes": [
+    "Diagnose first. On a cold or windy day, slowly move a lit incense stick (or a damp hand) around the full perimeter of the casing: the trim-to-wall joint, the trim-to-frame joint, and the top corners. Mark every spot where the smoke drifts or you feel cold. This tells you whether you have hairline-crack leaks (caulk-only) or a behind-the-trim cavity leak (needs trim removed).",
+    "Clean and prep the joints you'll caulk. Wipe dust with a dry rag, scrape out any old cracked caulk with a putty knife or a caulk-removal tool, and let the surface dry. Caulk does not stick to dust or loose paint.",
+    "For hairline cracks at the trim-to-wall and trim-to-frame joints: run a bead of paintable acrylic-latex caulk (or siliconized acrylic) along the joint. Apply steadily, then tool it smooth with a wet fingertip or a caulk-finishing tool so it fills the crack rather than sitting on top. Wipe excess immediately. This product is right because it is paintable and flexes with normal wood movement.",
+    "For visible gaps wider than about 1/4 inch: push closed-cell foam backer rod into the gap first with a putty knife, leaving room for caulk on top, then caulk over it. Caulk alone in a wide gap sags, cracks, and fails \u2014 the backer rod gives it the right depth and shape.",
+    "For a confirmed behind-the-trim cavity leak (the most effective fix): gently pry off the interior casing. Slip a thin putty knife behind the trim to break the paint/caulk line, then work a flat pry bar behind it and lift evenly so you don't crack the wood. Pull and save the trim and its nails.",
+    "With the trim off, seal the cavity between the window/door frame and the rough framing with minimal-expansion (door-and-window) spray foam \u2014 the can is specifically labeled for windows and doors so it won't bow the frame. Apply a thin bead; it expands to fill. For very thin gaps, stuff backer rod or use caulk instead of foam. Let foam cure fully (per the can, usually a few hours), then trim any overflow flush with a utility knife.",
+    "Reinstall the trim into its original nail holes, then caulk the trim-to-wall and trim-to-frame joints as in steps 3-4 to seal the visible lines. Touch up paint.",
+    "Re-test with the incense stick on the next cold day. If you still feel drift, you missed part of the path \u2014 recheck the opposite joint (frame side vs. wall side) and the top corners, which leak most often.",
+    "Do not seal the small weep holes on the exterior bottom of vinyl/aluminum windows \u2014 those are drains, not drafts. Sealing them traps water inside the frame."
+  ],
+  "diyVsPro": "Fully DIY for the vast majority of homeowners. Caulking joints and adding backer rod is beginner-level. Removing and reinstalling interior casing and adding window-and-door foam is intermediate but very approachable \u2014 the main skill is prying trim off without cracking it. Call a pro only if: the trim is delicate/historic and you don't want to risk it, you open the cavity and find rot, mold, or water damage (that's a moisture problem, not a draft \u2014 and any mold over roughly 10 square feet needs professional remediation), or the leaking is so severe it points to a failed window installation that needs flashing or replacement.",
+  "typicalCostUSD": "$10-40 in materials for a whole house (caulk $5-9/tube, backer rod $5-8, a can of window-and-door foam $7-12, a caulk gun $8-15 if you don't own one). $0 extra if you already have a caulk gun. A handyman doing it for you typically runs $150-400 depending on the number of openings.",
+  "timeEstimate": "About 15-30 minutes per opening for caulk-only sealing. 45-90 minutes per opening if you remove trim, foam the cavity, reinstall, and repaint (plus foam cure time between steps).",
+  "safetyLevel": "caution",
+  "safetyNote": "Low-risk air-sealing work, but a few real cautions. Use the incense/flame test away from curtains and combustibles, or just use a damp hand. Ventilate when using spray foam and caulk \u2014 fumes can irritate. Wear gloves with spray foam; it is extremely hard to remove from skin and clothing. If your home was built before 1978, assume paint may contain lead \u2014 don't sand it dry, pry trim gently to avoid dust, and follow EPA RRP lead-safe practices if paint is chipping. If you open a cavity and find dampness, rot, or mold, stop and fix the moisture source first; mold over roughly 10 square feet, or any structural rot, needs a professional, not a caulk gun. This is interior trim only \u2014 do not attempt exterior flashing or window replacement yourself.",
+  "toolsParts": [
+    "Paintable acrylic-latex or siliconized-acrylic caulk",
+    "Caulk gun",
+    "Closed-cell foam backer rod (for gaps over ~1/4 inch)",
+    "Minimal-expansion window-and-door spray foam (for cavity sealing)",
+    "Putty knife and a flat pry bar (for removing trim)",
+    "Utility knife (to trim cured foam)",
+    "Caulk-finishing tool or just a wet finger",
+    "Incense stick or candle (draft detection) or a damp hand",
+    "Rag, gloves, painter's tape, touch-up paint"
+  ],
+  "searchTerms": [
+    "how to seal drafts around window trim from inside",
+    "cold air coming in around door casing how to fix",
+    "caulk gap between window frame and trim",
+    "spray foam behind window trim draft",
+    "stop draft around interior window molding",
+    "backer rod and caulk window trim gap"
+  ],
+  "sources": [
+    "ENERGY STAR / DOE air-sealing guidance for windows and doors",
+    "Manufacturer instructions for minimal-expansion window-and-door spray foam (e.g., Great Stuff Window & Door)",
+    "Standard caulk manufacturer application guidance (acrylic-latex/siliconized-acrylic)",
+    "EPA Renovation, Repair and Painting (RRP) lead-safe practices for pre-1978 homes"
+  ],
+  "disclaimer": "General home-maintenance guidance for a typical US home, not a substitute for professional inspection. Conditions vary; if you find water damage, mold, rot, or signs of a failed window installation, consult a qualified contractor before sealing.",
+  "verified": true,
+  "verifierNote": "Confirmed approach, products, and costs against US practice; fixed garbled text in cause #2, added explicit ~10 sq ft mold threshold and exterior-work boundary, raised safetyLevel to caution to match the lead/foam/moisture cautions present.",
+  "kind": "spoke"
+}

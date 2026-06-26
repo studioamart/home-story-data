@@ -1,0 +1,77 @@
+{
+  "slug": "safety-replace-detectors",
+  "system": "safety",
+  "title": "When and How to Replace Smoke & CO Detectors \u2014 A Homeowner's Guide",
+  "question": "How do I replace my smoke and carbon monoxide detectors?",
+  "summary": "Smoke and CO detectors expire \u2014 replace smoke alarms by their 10-year mark and CO alarms per the manufacturer (commonly 7, anywhere from 5 to 10 years), going by the date stamped on the back, and test them yearly. Most are a simple DIY twist-off; hardwired interconnected units need a same-brand replacement and care around the 120V wiring.",
+  "commonCauses": [
+    {
+      "cause": "The detector has reached its expiration date \u2014 smoke sensors are rated for ~10 years; CO sensors typically 5-10 years (7 is common). Every unit has a manufacture date stamped on the back, and many now print an actual 'replace by' date.",
+      "likelihood": "most common",
+      "quickCheck": "Take the unit off the mount and read the date on the back. If it's past 10 years (smoke) or past the printed replace-by / manufacturer interval (CO), it's expired regardless of how it looks."
+    },
+    {
+      "cause": "Chirping every 30-60 seconds from a low or dead battery \u2014 the most frequent reason people touch a detector at all.",
+      "likelihood": "most common",
+      "quickCheck": "Listen for a single chirp at a regular interval (not a continuous alarm). That's the low-battery warning. On non-sealed units, replace the battery first before assuming the unit is bad."
+    },
+    {
+      "cause": "Persistent chirping or trouble light even after a fresh battery \u2014 the sensor has failed or the unit has hit its end-of-life signal (most chirp at end-of-life and cannot be reset).",
+      "likelihood": "common",
+      "quickCheck": "If a brand-new battery doesn't stop the chirp, or the unit keeps chirping, check the date and look for an 'End'/'Err' code on digital models. End-of-life means replace the whole unit, not the battery."
+    },
+    {
+      "cause": "Frequent nuisance alarms from an aging unit, dust, or a sensor too close to a kitchen or bathroom that's grown oversensitive with age.",
+      "likelihood": "common",
+      "quickCheck": "If an old detector false-alarms repeatedly even after gently vacuuming the vents, and it's near its age limit, replace it rather than fight it."
+    },
+    {
+      "cause": "You want to upgrade \u2014 e.g., from separate smoke and CO units to a combination alarm, or to interconnected / 10-year sealed-battery models.",
+      "likelihood": "less common",
+      "quickCheck": "Count your current alarms and locations; decide on combo units or interconnection before buying."
+    }
+  ],
+  "fixes": [
+    "FIRST identify what you have. Twist the alarm counterclockwise off its mounting bracket. Look at the back: note whether it's battery-only (9V or sealed) or hardwired (a wire harness plugs into the back), and read the manufacture / replace-by date.",
+    "Buy the right replacement. For battery units, any UL-listed smoke (UL 217) or CO (UL 2034) alarm works. For hardwired units, replace with the SAME brand and a model its manual lists as interconnect-compatible \u2014 NFPA prohibits mixing different manufacturers on one interconnected circuit unless specifically listed as compatible (adapters exist but verify them in the manual). Bring the old unit or photograph the back when shopping.",
+    "For a battery unit: insert a fresh battery (10-year sealed models have none to change), align the alarm on the bracket, twist clockwise to lock, then hold the TEST button until it sounds.",
+    "For a hardwired unit: turn OFF the circuit breaker feeding the alarms and confirm the unit goes dead before touching it. Unclip the wire harness from the back of the old alarm by squeezing the connector tabs \u2014 do not pull on the wires. Plug the new same-brand alarm onto that harness (the connector is keyed so it only seats one way; if your new alarm came with its own harness, match wire colors exactly \u2014 black/hot, white/neutral, red or yellow/interconnect). Insert the backup battery, mount, restore the breaker, and press TEST. If the old harness is wired to the house wiring with wire nuts (no quick-connect), that's electrician territory \u2014 see below.",
+    "Replace ALL units of the same age at once. If one hardwired alarm is 10 years old, the rest on the circuit are too \u2014 staggering replacements just puts you back on a ladder in a few months.",
+    "Confirm placement meets current guidance: one alarm on every level (including the basement), inside each bedroom and outside each sleeping area, and CO alarms on each level and near (not inside) sleeping areas. Mount smoke alarms on the ceiling or high on the wall and follow the manufacturer's distance-from-corner and distance-from-kitchen rules. Check your local code \u2014 requirements vary.",
+    "Write the install date on the new unit with a marker, and set a yearly reminder to test every alarm and replace any non-sealed batteries (many people tie this to a daylight-saving time change)."
+  ],
+  "diyVsPro": "Battery-powered and 10-year sealed alarms are firmly DIY \u2014 a twist-off swap and a battery, no tools beyond a step stool. Replacing an existing hardwired alarm is also reasonable DIY for a careful homeowner IF you shut off the breaker first, confirm it's dead, and the unit uses a quick-connect harness (most do) \u2014 you're just unplugging a keyed connector, not touching bare house wiring. Call a licensed electrician if: there's no harness and the wires are joined directly with wire nuts in the box, you're adding NEW hardwired/interconnected alarms where none existed (new wiring run), the existing wiring looks damaged, scorched, or aluminum, or the alarms are on high ceilings or stairwells needing tall-ladder work.",
+  "typicalCostUSD": "DIY: $15-25 per basic battery smoke alarm, $20-40 per CO alarm, $35-65 for a 10-year sealed combo smoke/CO unit, $30-55 per hardwired interconnect unit. A whole-house set of 5-8 alarms runs roughly $150-450 in parts. Pro install (electrician) adds about $75-150/hour or $50-100 per unit installed; running new hardwired/interconnected wiring can run $200-400+ per location.",
+  "timeEstimate": "5-10 minutes per battery unit; 15-20 minutes per hardwired unit. A full-house swap of 6-8 alarms is about 1-2 hours.",
+  "safetyLevel": "caution",
+  "safetyNote": "For hardwired alarms, ALWAYS turn off the circuit breaker and confirm the unit is fully dead before unclipping it \u2014 these run on 120V house current. Use the keyed quick-connect harness; never cut, splice, or join bare wires with wire nuts unless you're qualified \u2014 that's electrician work. Working overhead means ladder safety: have someone steady it on high ceilings or stairwells. Never paint over or remove an alarm to silence a chirp \u2014 a missing or disabled detector is a deadly gap. If a CO alarm is sounding a loud, continuous alarm (not the slow end-of-life chirp) and anyone feels dizzy, headachy, nauseous, or confused, get everyone outside to fresh air immediately and call 911 \u2014 that is an emergency, not a replacement job.",
+  "toolsParts": [
+    "Replacement smoke alarm(s) \u2014 UL 217 listed",
+    "Replacement CO alarm(s) \u2014 UL 2034 listed (or combo smoke/CO unit)",
+    "Fresh batteries (9V or AA, unless using 10-year sealed units)",
+    "Step stool or ladder",
+    "Marker (to date-stamp the new unit)",
+    "Vacuum with soft brush attachment (to gently clean the mounting area)",
+    "For hardwired: a non-contact voltage tester is a smart check to confirm power is off; the harness itself is quick-connect, so no other tools needed"
+  ],
+  "searchTerms": [
+    "how often to replace smoke detectors",
+    "smoke detector expiration date",
+    "replace hardwired smoke alarm",
+    "carbon monoxide detector lifespan",
+    "smoke detector chirping won't stop",
+    "how to replace smoke and CO detector",
+    "combination smoke CO alarm",
+    "smoke alarm placement code"
+  ],
+  "sources": [
+    "Manufacturer guidance (First Alert, Kidde alarm manuals and replacement-interval recommendations)",
+    "NFPA 72 / NFPA smoke and CO alarm placement, interconnection, and 10-year replacement guidance",
+    "UL 217 (smoke) and UL 2034 (carbon monoxide) listing standards",
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila) on alarm replacement and placement"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional advice. Local building codes vary \u2014 check your jurisdiction's requirements for alarm type, placement, and interconnection. When in doubt about wiring or placement, consult a licensed electrician or your local fire department. If you suspect a carbon monoxide leak or fire, leave immediately and call 911.",
+  "verified": true,
+  "verifierNote": "Corrected CO lifespan (was a too-narrow \"5-7 yrs\"; modern units are 5-10, commonly 7 \u2014 now follow the printed date/manufacturer interval); strengthened the brand-mixing warning to match NFPA's prohibition on mismatched interconnected units; fixed the wire-color/harness step (added the wire-nut = electrician caveat and corrected interconnect color to red/yellow); confirmed costs, \"caution\" safety level, and the CO-emergency 911 guidance are accurate.",
+  "kind": "pillar"
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "exterior-deck-sealing",
+  "system": "exterior",
+  "title": "How to Seal and Stain a Deck: A Step-by-Step Homeowner Guide",
+  "question": "How do I seal and stain my wood deck?",
+  "summary": "Clean the deck, let it dry fully, then brush or roll on a stain-sealer in thin, even coats along the wood grain. Done on dry, mild-weather days, a good finish protects against water, UV, and rot \u2014 typically 1-3 years before it needs a refresh.",
+  "commonCauses": [
+    {
+      "cause": "Deck never sealed, or last finish has worn off (water soaks in instead of beading)",
+      "likelihood": "most common",
+      "quickCheck": "Sprinkle water on the boards: if it soaks in and darkens the wood within seconds instead of beading up, it needs sealing."
+    },
+    {
+      "cause": "Graying, faded, or weathered wood from UV exposure",
+      "likelihood": "common",
+      "quickCheck": "Look for silvery-gray surface color; scratch lightly with a coin to see if fresh brown wood is underneath."
+    },
+    {
+      "cause": "Old finish is peeling, flaking, or blotchy (common with film-forming solid stains)",
+      "likelihood": "common",
+      "quickCheck": "Run your hand over the boards; flaking or rough patches mean the old coating is failing and needs stripping/sanding."
+    },
+    {
+      "cause": "Mildew, algae, or dirt buildup keeping a finish from bonding",
+      "likelihood": "common",
+      "quickCheck": "Black or green spotting that smears when wiped usually points to mildew/algae; a dedicated deck cleaner or wash will lift it before you seal."
+    },
+    {
+      "cause": "Wrong product or applied over a damp/incompatible surface, so it won't cure or adhere",
+      "likelihood": "less common",
+      "quickCheck": "Sticky, tacky, or never-drying finish days later usually means it went on too thick, over moisture, or over an incompatible old coat."
+    }
+  ],
+  "fixes": [
+    "Pick a 2-3 day dry weather window: no rain forecast for 24-48 hours after, temps roughly 50-90F, and avoid direct hot sun on the boards while applying (it dries the finish too fast and leaves lap marks). Always check your product label, since cure temps and rain windows vary by brand.",
+    "Clear and prep: remove furniture, planters, and grills. Sweep, then clear any debris between boards. Set protruding nails/screws and replace badly rotted boards before finishing.",
+    "Inspect the structure first. Before you put effort into the surface, check the framing: probe for soft/rotted wood, look for a loose ledger board where the deck attaches to the house, and check for rusted or pulling-away joist hangers. A failing ledger is the leading cause of deck collapses \u2014 if anything is soft, loose, or wobbly, stop and get a pro before using or finishing the deck.",
+    "Clean the wood: apply a deck cleaner or brightener (oxygen-bleach-based is gentle and safe for most wood and plants) with a pump sprayer or stiff synthetic brush, let it dwell per the label, scrub, and rinse thoroughly. A pressure washer helps but keep it low (roughly 500-1200 PSI on softwood) with a wide fan tip held 12+ inches away to avoid gouging the wood.",
+    "If the old finish is peeling or filming, strip it (deck stripper) and/or sand with 60-80 grit, then vacuum/wipe off dust. On decks painted or solid-stained before 1978, assume lead may be present: do not dry-sand aggressively, wet the surface to control dust, wear an N95/P100, and look up EPA lead-safe practices first. Penetrating stains can usually go over a clean, sound previous coat of the same type; film-forming solid stains generally cannot go over a failing coat.",
+    "Let it dry completely: typically 24-48 hours of dry weather (longer after pressure washing or in humidity). Confirm with the water-drop test (water should soak in, not bead) before staining; a moisture meter reading under ~15% is ideal.",
+    "Stir the stain thoroughly (do not shake) and combine multiple cans into one bucket (\"boxing\") so color stays consistent. Test on a hidden board first to confirm the color.",
+    "Apply thin, even coats with a brush, stain pad, or roller, working with the grain and doing 2-3 boards end-to-end at a time to keep a wet edge and avoid lap marks. Back-brush rolled areas to push stain into the wood.",
+    "Do the railings, posts, and stairs too; coat the spindles and handrail (the most-touched, most weathered parts). Wipe up puddles and drips before they get tacky.",
+    "Follow the label on coats: most penetrating semi-transparent stains want one coat (a second only while the first is still wet); solid/film stains often want two. Avoid over-applying, which causes a sticky, peeling finish.",
+    "Let it cure before use: keep foot traffic off for ~24-48 hours and furniture off for a few days per the label. Going forward, refresh penetrating stains every 1-3 years (sooner on high-sun, high-traffic, or horizontal surfaces)."
+  ],
+  "diyVsPro": "This is a DIY-friendly weekend job for a ground-level or low deck; the main skill is patience with prep and weather. Call a pro if the deck is elevated/second-story where you'd be working at height, or \u2014 more importantly \u2014 if you find any soft/rotted wood, a loose ledger board, wobbly framing, or rusted/failing joist hangers. Those are structural and life-safety issues (deck collapses cause serious injuries), and they must be fixed by a qualified contractor before the deck is used or finished. Structural repair is not a finishing task. A large deck you want done fast and flawlessly is also fair to hand off.",
+  "typicalCostUSD": "DIY: about $50-200 in cleaner, stain/sealer, brushes, and a roller for a typical deck (stain runs ~$30-60/gallon, ~200-300 sq ft per gallon, so a large deck trends toward the upper end). Pro: roughly $2-5 per sq ft for clean-and-stain, commonly $500-1,500+ for an average deck, more if stripping or board repair is needed.",
+  "timeEstimate": "A weekend: 2-4 hours to clean, a full drying day (24-48 hours), then 3-6 hours to stain depending on deck size.",
+  "safetyLevel": "caution",
+  "safetyNote": "Wear eye protection and gloves with cleaners, strippers, and bleach, and never mix bleach with other cleaners (toxic chlorine gas). Stain-soaked and oil-soaked rags can spontaneously combust: lay them flat outdoors to dry fully or submerge in water before disposal, never ball them up in a trash can. On finishes from before 1978, assume lead paint is possible \u2014 wet the surface to suppress dust, wear an N95/P100, and follow EPA lead-safe practices instead of dry-sanding. Pressure washers can injure you or gouge wood, so keep the spray off skin and use a wide fan tip; use a GFCI outlet for power tools. Wet finish is slippery \u2014 let it cure before walking on it. Most critically: if you find structural problems (rot, a loose ledger, wobbly framing, failing hangers) or need to work at height, stop and call a licensed contractor \u2014 deck collapses cause serious injury.",
+  "toolsParts": [
+    "Deck cleaner or brightener (oxygen-bleach based)",
+    "Wood/deck stain or sealer (penetrating semi-transparent is the common all-around choice)",
+    "Pump sprayer or watering can for cleaner",
+    "Stiff synthetic-bristle scrub brush on a pole",
+    "Pressure washer (optional, low PSI with fan tip)",
+    "Stain brush, stain pad, or roller with extension pole",
+    "5-gallon bucket for boxing stain plus a stir stick",
+    "Painter's tape and plastic/drop cloths to protect siding and plants",
+    "60-80 grit sandpaper or sander and a deck stripper (only if old finish is failing)",
+    "Safety gear: gloves, eye protection, knee pads, N95/P100 respirator for sanding",
+    "Moisture meter (optional but helpful)"
+  ],
+  "searchTerms": [
+    "how to stain a deck",
+    "best deck sealer",
+    "deck cleaner before staining",
+    "how often to seal a deck",
+    "semi-transparent vs solid deck stain",
+    "how long to let deck dry before staining"
+  ],
+  "sources": [
+    "Manufacturer application guidance (deck stain/sealer product labels and how-to guides)",
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila in spirit)",
+    "Wood-finishing and deck-care best practices from building/home-maintenance norms",
+    "EPA lead-safe practices for sanding/stripping pre-1978 finishes"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional inspection or contracting advice. Always follow your specific product's label instructions and local building codes. If you find structural damage (rot, loose framing, failing ledger or hangers) or need to work at height, consult a licensed contractor.",
+  "verified": true,
+  "verifierNote": "Confirmed methods/costs as accurate; added a structural-inspection step plus stronger ledger/collapse life-safety warnings, a pre-1978 lead-dust caution for sanding/stripping, softened the bleach-test wording to avoid implying casual bleach use, and tightened PSI guidance.",
+  "kind": "pillar"
+}

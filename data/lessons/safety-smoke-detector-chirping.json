@@ -1,0 +1,81 @@
+{
+  "slug": "safety-smoke-detector-chirping",
+  "system": "safety",
+  "title": "Why Your Smoke Detector Keeps Chirping \u2014 Causes & Fixes",
+  "question": "Why does my smoke detector keep chirping every minute?",
+  "summary": "A smoke detector that chirps once every 30\u201360 seconds is almost always telling you its battery is low \u2014 replace the battery first. If it keeps chirping after a fresh battery, the unit is likely at end of life (about 10 years old) and the whole alarm needs to be replaced.",
+  "commonCauses": [
+    {
+      "cause": "Low battery \u2014 the single most common cause. A short chirp every 30\u201360 seconds means the battery needs replacing, including in hardwired alarms that use a battery backup.",
+      "likelihood": "most common",
+      "quickCheck": "Note the chirp interval: a lone chirp every ~30\u201360 sec almost always = low battery. Pressing the test button may give a weak response if the battery is dying."
+    },
+    {
+      "cause": "End of life \u2014 smoke alarms expire roughly 10 years after their manufacture date and chirp to signal you to replace the whole unit (fresh batteries won't stop it).",
+      "likelihood": "common",
+      "quickCheck": "Take the alarm off the bracket and read the manufacture date stamped on the back. If it's about 10 years old or older, the sensor is done."
+    },
+    {
+      "cause": "Dust, debris, or insects inside the sensor chamber causing erratic chirps or nuisance signals.",
+      "likelihood": "common",
+      "quickCheck": "Look for visible dust around the vents; recall whether recent construction, cooking, or bugs preceded the chirping."
+    },
+    {
+      "cause": "Loose, wrong-type, or improperly seated battery, or a leftover pull-tab or a battery drawer not fully closed.",
+      "likelihood": "common",
+      "quickCheck": "Open the compartment, confirm the battery is the correct type, fully seated, correct polarity, and the drawer clicks shut."
+    },
+    {
+      "cause": "Temperature or humidity swings (cold garage, steamy bathroom) can trigger intermittent chirps in some units.",
+      "likelihood": "less common",
+      "quickCheck": "Notice if chirps coincide with very cold rooms or right after hot showers; relocating the alarm away from such spots may help."
+    },
+    {
+      "cause": "On hardwired interconnected systems, a fault or low backup battery in ONE unit can make others chirp or sound.",
+      "likelihood": "less common",
+      "quickCheck": "Walk the house to find which specific alarm is the source; the LED on the faulting unit often blinks differently."
+    }
+  ],
+  "fixes": [
+    "Start with the battery. Twist or slide the alarm off its mounting bracket, open the compartment, and install a fresh battery (usually a 9V or two AAs \u2014 check the unit). Confirm polarity is correct and the drawer snaps fully shut.",
+    "For sealed 10-year lithium-battery alarms, the battery is NOT replaceable \u2014 chirping on these means the whole unit has reached end of life and must be replaced.",
+    "Check the manufacture date on the back of the unit. If it's about 10 years old or older, replace the entire alarm regardless of the battery \u2014 the sensor degrades and becomes unreliable.",
+    "Clean the alarm: gently vacuum the vents with a soft brush attachment or use short bursts of canned air to clear dust from the sensor chamber, then re-test.",
+    "After a battery swap, reset the alarm per its manual (many units want you to press and hold the test button until it beeps). This clears a low-battery chirp that some units 'remember.'",
+    "For a hardwired/interconnected alarm: first replace each unit's backup battery. If chirping persists and you choose to replace a unit yourself, shut off the alarm circuit at the breaker, verify it's dead, then unclip the plug-in harness and swap a like-for-like model. If you're not fully comfortable working in a ceiling junction box on line-voltage wiring, have a licensed electrician do it.",
+    "If you can't identify which alarm is chirping in an interconnected system, suspect the oldest units first, or replace the whole set at once (they're typically all the same age).",
+    "When replacing, write the install date on the new unit with a marker so you know when the next ~10-year swap is due."
+  ],
+  "diyVsPro": "Battery swaps, cleaning, and replacing a standalone battery-powered alarm are easy DIY jobs. Replacing a single hardwired alarm with a like-for-like model using the existing plug-in harness is something a homeowner who is comfortable with line-voltage wiring can do \u2014 but only after shutting off the circuit breaker and confirming the wires are dead. Call a licensed electrician if there's no existing wiring and you need to ADD a hardwired/interconnected alarm, if the wiring is damaged or the harness doesn't match, if your local code requires permitted/professional installation, or if you're at all unsure about working in the junction box.",
+  "typicalCostUSD": "Battery: $2\u2013$15. Standalone replacement alarm: $15\u2013$45 (smoke), $30\u2013$60 (combo smoke/CO). Sealed 10-year lithium alarm: $20\u2013$40. Electrician to replace or add a hardwired interconnected unit: roughly $100\u2013$250 per alarm including labor, often with a service-call minimum if it's a single visit.",
+  "timeEstimate": "5\u201310 minutes for a battery swap or cleaning; 20\u201340 minutes to replace a hardwired unit with the breaker off.",
+  "safetyLevel": "caution",
+  "safetyNote": "Never remove an alarm and leave it off just to silence chirping \u2014 a missing smoke alarm is a serious fire risk; replace it the same day. Use a stable step stool or ladder, never a chair, to reach ceiling units. For hardwired alarms, always shut off the correct circuit breaker before touching the wiring harness and verify the wires are dead with a tester; if you're not confident doing this, stop and call a licensed electrician. Replace combo smoke/CO alarms on schedule too (CO sensors typically expire in 5\u201310 years). If an alarm sounds a continuous, loud alarm (not a single chirp), treat it as a real emergency \u2014 get everyone out and call 911.",
+  "toolsParts": [
+    "Fresh batteries (9V or AA \u2014 match your unit)",
+    "Step stool or short ladder",
+    "Vacuum with soft brush attachment or a can of compressed air",
+    "Replacement smoke alarm (if end of life)",
+    "Screwdriver (for some mounting brackets or units)",
+    "Non-contact voltage tester (if working on a hardwired unit)",
+    "Marker (to date the new unit)"
+  ],
+  "searchTerms": [
+    "smoke detector chirping every minute",
+    "how to stop smoke alarm chirping",
+    "smoke detector beeping with new battery",
+    "hardwired smoke alarm keeps chirping",
+    "smoke detector end of life chirp",
+    "why does my smoke alarm chirp at night"
+  ],
+  "sources": [
+    "Manufacturer guidance (First Alert / Kidde alarm manuals on low-battery and end-of-life chirp signals)",
+    "NFPA (National Fire Protection Association) recommendation to replace smoke alarms about every 10 years",
+    "Building-code norms (IRC and NFPA 72 on hardwired interconnected alarm placement)",
+    "Reputable DIY references (This Old House, Family Handyman)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for professional inspection. Smoke alarms are life-safety devices \u2014 when in doubt, replace the unit and consult a licensed electrician or your local fire department. Codes and product instructions vary; always follow your alarm manufacturer's manual and local building codes.",
+  "verified": true,
+  "verifierNote": "Confirmed chirp diagnostics, 10-year end-of-life, and cleaning advice; softened the hardwired-replacement DIY framing toward \"only if comfortable with line voltage, else call an electrician,\" added a voltage-tester step, reworded the dubious \"clear residual charge\" claim to \"reset per manual,\" corrected CO sensor life to 5\u201310 yrs, nudged electrician cost to $100\u2013250/unit with service minimum, and made the continuous-alarm note say call 911.",
+  "kind": "pillar"
+}

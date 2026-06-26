@@ -1,0 +1,1188 @@
+{
+  "schema": 1,
+  "version": 2,
+  "tasks": [
+    {
+      "id": "hvac-filter",
+      "task": "Replace HVAC Filter",
+      "system": "hvac",
+      "monthInterval": 3,
+      "season": null,
+      "estimatedCost": [
+        10,
+        40
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Swap the furnace/air-handler filter; monthly in heavy-use or pet households."
+    },
+    {
+      "id": "hvac-service-cool",
+      "task": "AC / Cooling System Tune-up",
+      "system": "hvac",
+      "monthInterval": 12,
+      "season": "spring",
+      "estimatedCost": [
+        90,
+        220
+      ],
+      "diy": false,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo"
+      ],
+      "description": "Professional check of refrigerant, coils, and condensate drain before cooling season."
+    },
+    {
+      "id": "hvac-service-heat",
+      "task": "Furnace / Heating Tune-up",
+      "system": "hvac",
+      "monthInterval": 12,
+      "season": "fall",
+      "estimatedCost": [
+        90,
+        250
+      ],
+      "diy": false,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo"
+      ],
+      "description": "Burner, heat exchanger, and safety-control inspection before heating season."
+    },
+    {
+      "id": "duct-inspection",
+      "task": "Ductwork Inspection",
+      "system": "hvac",
+      "monthInterval": 36,
+      "season": null,
+      "estimatedCost": [
+        0,
+        150
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Check accessible ducts for leaks, loose joints, and insulation gaps."
+    },
+    {
+      "id": "mini-split-clean",
+      "task": "Clean Mini-Split Filters & Coils",
+      "system": "hvac",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        150
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Wash filters and wipe the indoor unit coil; pro deep-clean every few years."
+    },
+    {
+      "id": "humidifier-pad",
+      "task": "Replace Furnace Humidifier Pad",
+      "system": "hvac",
+      "monthInterval": 12,
+      "season": "fall",
+      "estimatedCost": [
+        10,
+        60
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Swap the evaporator pad and clean mineral buildup before heating season."
+    },
+    {
+      "id": "ceiling-fans",
+      "task": "Reverse & Dust Ceiling Fans",
+      "system": "hvac",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        0
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Dust blades and flip rotation: down-draft summer, up-draft winter."
+    },
+    {
+      "id": "water-heater-flush",
+      "task": "Flush Water Heater",
+      "system": "plumbing",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        0,
+        150
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo"
+      ],
+      "description": "Drain sediment from the tank; extends element and tank life."
+    },
+    {
+      "id": "water-heater-anode",
+      "task": "Check Water Heater Anode Rod",
+      "system": "plumbing",
+      "monthInterval": 36,
+      "season": null,
+      "estimatedCost": [
+        20,
+        200
+      ],
+      "diy": false,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo"
+      ],
+      "description": "Inspect and replace the sacrificial anode to prevent tank corrosion."
+    },
+    {
+      "id": "sump-pump-test",
+      "task": "Test Sump Pump",
+      "system": "plumbing",
+      "monthInterval": 3,
+      "season": null,
+      "estimatedCost": [
+        0,
+        0
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Pour a bucket of water into the pit; confirm the float triggers and it drains."
+    },
+    {
+      "id": "sump-backup",
+      "task": "Test Sump Battery Backup",
+      "system": "plumbing",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        30
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Unplug primary pump and confirm the backup runs; replace battery ~every 3 yrs."
+    },
+    {
+      "id": "water-softener",
+      "task": "Top Up Water Softener Salt",
+      "system": "plumbing",
+      "monthInterval": 2,
+      "season": null,
+      "estimatedCost": [
+        5,
+        15
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Keep the brine tank at least half full; break up salt bridges."
+    },
+    {
+      "id": "drain-clean",
+      "task": "Clean Slow Drains & Traps",
+      "system": "plumbing",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        30
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Clear hair and buildup from bathroom traps; enzyme treatment if needed."
+    },
+    {
+      "id": "supply-hoses",
+      "task": "Inspect Washer & Sink Supply Hoses",
+      "system": "plumbing",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        0,
+        40
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Look for bulges or corrosion; replace rubber hoses with braided ~every 5 yrs."
+    },
+    {
+      "id": "toilet-check",
+      "task": "Check Toilets for Leaks",
+      "system": "plumbing",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        0,
+        25
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Food-dye test in the tank; replace flapper if color reaches the bowl."
+    },
+    {
+      "id": "main-shutoff",
+      "task": "Exercise Main Water Shut-off",
+      "system": "plumbing",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        0,
+        0
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo"
+      ],
+      "description": "Close and reopen the main valve so it works when you actually need it."
+    },
+    {
+      "id": "septic-pump",
+      "task": "Pump Septic Tank",
+      "system": "plumbing",
+      "monthInterval": 48,
+      "season": null,
+      "estimatedCost": [
+        300,
+        600
+      ],
+      "diy": false,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Pump and inspect the tank; interval varies with household size."
+    },
+    {
+      "id": "well-test",
+      "task": "Test Well Water",
+      "system": "plumbing",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        25,
+        150
+      ],
+      "diy": false,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Annual bacteria/nitrate test; full mineral panel every few years."
+    },
+    {
+      "id": "hose-bibs",
+      "task": "Winterize Outdoor Faucets",
+      "system": "plumbing",
+      "monthInterval": 12,
+      "season": "fall",
+      "estimatedCost": [
+        0,
+        30
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse"
+      ],
+      "description": "Disconnect hoses, drain bibs, and shut interior valves before first freeze."
+    },
+    {
+      "id": "water-pressure",
+      "task": "Check Water Pressure",
+      "system": "plumbing",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        0,
+        10
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Gauge on a hose bib: 40-80 psi is healthy; high pressure wears fixtures."
+    },
+    {
+      "id": "smoke-test",
+      "task": "Test Smoke & CO Detectors",
+      "system": "safety",
+      "monthInterval": 1,
+      "season": null,
+      "estimatedCost": [
+        0,
+        0
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Press-test every unit; they protect you only if they beep."
+    },
+    {
+      "id": "smoke-batteries",
+      "task": "Replace Detector Batteries",
+      "system": "safety",
+      "monthInterval": 12,
+      "season": "fall",
+      "estimatedCost": [
+        10,
+        30
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Fresh batteries in every smoke/CO unit; do it when clocks change."
+    },
+    {
+      "id": "detector-replace",
+      "task": "Replace Smoke Detectors (10 yr)",
+      "system": "safety",
+      "monthInterval": 120,
+      "season": null,
+      "estimatedCost": [
+        60,
+        200
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo"
+      ],
+      "description": "Sensors expire: replace units 10 years from their manufacture date."
+    },
+    {
+      "id": "gfci-test",
+      "task": "Test GFCI Outlets",
+      "system": "safety",
+      "monthInterval": 1,
+      "season": null,
+      "estimatedCost": [
+        0,
+        0
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Press TEST/RESET on every GFCI in kitchen, baths, garage, and exterior."
+    },
+    {
+      "id": "panel-inspect",
+      "task": "Inspect Electrical Panel",
+      "system": "electrical",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        0,
+        150
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo"
+      ],
+      "description": "Look for rust, heat marks, or buzzing; torque check by a pro every few years."
+    },
+    {
+      "id": "extinguisher",
+      "task": "Check Fire Extinguisher",
+      "system": "safety",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        80
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Confirm the gauge is green and pin intact; replace or recharge if not."
+    },
+    {
+      "id": "dryer-vent",
+      "task": "Clean Dryer Vent Duct",
+      "system": "safety",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        0,
+        150
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Clear lint from the full duct run \u2014 the #1 preventable house-fire source."
+    },
+    {
+      "id": "emergency-kit",
+      "task": "Refresh Emergency Kit",
+      "system": "safety",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        20,
+        80
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Rotate water, food, batteries, and meds; check flashlights."
+    },
+    {
+      "id": "radon-test",
+      "task": "Test for Radon",
+      "system": "safety",
+      "monthInterval": 24,
+      "season": null,
+      "estimatedCost": [
+        15,
+        200
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Cheap charcoal kit or digital monitor, especially with a finished basement."
+    },
+    {
+      "id": "gutters-spring",
+      "task": "Clean Gutters & Downspouts",
+      "system": "exterior",
+      "monthInterval": 12,
+      "season": "spring",
+      "estimatedCost": [
+        0,
+        250
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse"
+      ],
+      "description": "Clear debris and confirm downspouts discharge away from the foundation."
+    },
+    {
+      "id": "gutters-fall",
+      "task": "Clean Gutters (After Leaf Drop)",
+      "system": "exterior",
+      "monthInterval": 12,
+      "season": "fall",
+      "estimatedCost": [
+        0,
+        250
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse"
+      ],
+      "description": "Second pass once trees are bare; clogged gutters cause ice dams."
+    },
+    {
+      "id": "roof-inspect",
+      "task": "Inspect Roof",
+      "system": "exterior",
+      "monthInterval": 12,
+      "season": "spring",
+      "estimatedCost": [
+        0,
+        250
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse"
+      ],
+      "description": "From the ground with binoculars: lifted shingles, flashing gaps, moss."
+    },
+    {
+      "id": "chimney-sweep",
+      "task": "Chimney Sweep & Inspection",
+      "system": "exterior",
+      "monthInterval": 12,
+      "season": "fall",
+      "estimatedCost": [
+        150,
+        350
+      ],
+      "diy": false,
+      "appliesTo": [
+        "house",
+        "townhouse"
+      ],
+      "description": "Required annually for wood burners; every few years for gas flues."
+    },
+    {
+      "id": "siding-wash",
+      "task": "Wash Siding / Check Paint",
+      "system": "exterior",
+      "monthInterval": 12,
+      "season": "summer",
+      "estimatedCost": [
+        0,
+        300
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse"
+      ],
+      "description": "Rinse grime and inspect caulk and paint; touch up bare spots."
+    },
+    {
+      "id": "caulk-windows",
+      "task": "Re-caulk Windows & Doors",
+      "system": "exterior",
+      "monthInterval": 24,
+      "season": "fall",
+      "estimatedCost": [
+        10,
+        200
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse"
+      ],
+      "description": "Seal exterior gaps; biggest cheap win for drafts and water intrusion."
+    },
+    {
+      "id": "foundation-check",
+      "task": "Inspect Foundation & Grading",
+      "system": "exterior",
+      "monthInterval": 12,
+      "season": "spring",
+      "estimatedCost": [
+        0,
+        0
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Walk the perimeter: new cracks, pooling water, soil sloping toward the house."
+    },
+    {
+      "id": "driveway-seal",
+      "task": "Seal Driveway",
+      "system": "exterior",
+      "monthInterval": 36,
+      "season": "summer",
+      "estimatedCost": [
+        50,
+        400
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Sealcoat asphalt every 2-4 years; fill concrete joints."
+    },
+    {
+      "id": "deck-seal",
+      "task": "Clean & Seal Deck",
+      "system": "exterior",
+      "monthInterval": 24,
+      "season": "summer",
+      "estimatedCost": [
+        50,
+        500
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse"
+      ],
+      "description": "Wash, brighten, and re-seal wood decking; check ledger fasteners."
+    },
+    {
+      "id": "pest-perimeter",
+      "task": "Pest Perimeter Check",
+      "system": "exterior",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        150
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse"
+      ],
+      "description": "Look for ant trails, wasp nests, rodent droppings, and termite tubes."
+    },
+    {
+      "id": "window-screens",
+      "task": "Repair & Reinstall Screens",
+      "system": "exterior",
+      "monthInterval": 12,
+      "season": "spring",
+      "estimatedCost": [
+        0,
+        50
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Patch tears before bug season; store screens over winter if removed."
+    },
+    {
+      "id": "garage-door",
+      "task": "Service Garage Door",
+      "system": "exterior",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        0,
+        120
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse"
+      ],
+      "description": "Lubricate rollers/springs and test the auto-reverse safety stop."
+    },
+    {
+      "id": "hvac-vents",
+      "task": "Vacuum Vents & Returns",
+      "system": "interior",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        0
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Dust supply registers and return grilles; keep furniture clear."
+    },
+    {
+      "id": "windows-clean",
+      "task": "Deep-Clean Windows & Tracks",
+      "system": "interior",
+      "monthInterval": 12,
+      "season": "spring",
+      "estimatedCost": [
+        0,
+        200
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Wash glass and clear weep holes in the tracks."
+    },
+    {
+      "id": "grout-seal",
+      "task": "Re-seal Tile Grout",
+      "system": "interior",
+      "monthInterval": 24,
+      "season": null,
+      "estimatedCost": [
+        15,
+        150
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo"
+      ],
+      "description": "Seal bathroom/kitchen grout to block moisture and staining."
+    },
+    {
+      "id": "caulk-bath",
+      "task": "Refresh Tub & Shower Caulk",
+      "system": "interior",
+      "monthInterval": 24,
+      "season": null,
+      "estimatedCost": [
+        10,
+        120
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Cut out failing caulk and re-bead; prevents hidden wall rot."
+    },
+    {
+      "id": "water-leaks",
+      "task": "Under-Sink & Appliance Leak Check",
+      "system": "interior",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        0
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Flashlight check under every sink and behind the fridge/washer."
+    },
+    {
+      "id": "door-hardware",
+      "task": "Tighten & Lubricate Door Hardware",
+      "system": "interior",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        0,
+        20
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Hinges, locks, and sliding-door tracks; graphite for locks."
+    },
+    {
+      "id": "attic-check",
+      "task": "Inspect Attic",
+      "system": "interior",
+      "monthInterval": 12,
+      "season": "fall",
+      "estimatedCost": [
+        0,
+        0
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Look for daylight, wet insulation, pest signs, and blocked vents."
+    },
+    {
+      "id": "basement-humidity",
+      "task": "Check Basement Humidity",
+      "system": "interior",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        30
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Keep below ~55% RH; service the dehumidifier filter."
+    },
+    {
+      "id": "carpet-clean",
+      "task": "Deep-Clean Carpets",
+      "system": "interior",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        30,
+        300
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Machine clean high-traffic areas; extends carpet life."
+    },
+    {
+      "id": "fridge-coils",
+      "task": "Vacuum Refrigerator Coils",
+      "system": "appliances",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        0
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Dusty coils make the compressor work harder; pull the kick plate."
+    },
+    {
+      "id": "fridge-filter",
+      "task": "Replace Fridge Water Filter",
+      "system": "appliances",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        20,
+        60
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Swap the inline filter; flush a few liters after."
+    },
+    {
+      "id": "dishwasher-clean",
+      "task": "Clean Dishwasher Filter & Seals",
+      "system": "appliances",
+      "monthInterval": 3,
+      "season": null,
+      "estimatedCost": [
+        0,
+        15
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Rinse the basket filter and wipe door gaskets; run a cleaner cycle."
+    },
+    {
+      "id": "disposal-clean",
+      "task": "Freshen Garbage Disposal",
+      "system": "appliances",
+      "monthInterval": 3,
+      "season": null,
+      "estimatedCost": [
+        0,
+        10
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Ice + citrus peel grind; check the splash guard."
+    },
+    {
+      "id": "range-hood",
+      "task": "Degrease Range Hood Filter",
+      "system": "appliances",
+      "monthInterval": 3,
+      "season": null,
+      "estimatedCost": [
+        0,
+        20
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Soak metal mesh filters; replace charcoal filters on recirculating hoods."
+    },
+    {
+      "id": "washer-clean",
+      "task": "Clean Washing Machine",
+      "system": "appliances",
+      "monthInterval": 3,
+      "season": null,
+      "estimatedCost": [
+        5,
+        15
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Tub-clean cycle and door-gasket wipe; leave the door cracked open."
+    },
+    {
+      "id": "oven-clean",
+      "task": "Deep-Clean Oven",
+      "system": "appliances",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        50
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Self-clean or manual degrease; check the door seal."
+    },
+    {
+      "id": "dryer-lint",
+      "task": "Deep-Clean Dryer Lint Path",
+      "system": "appliances",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        0,
+        0
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Vacuum the lint-trap cavity, not just the screen."
+    },
+    {
+      "id": "water-filter-house",
+      "task": "Replace Whole-House Water Filter",
+      "system": "appliances",
+      "monthInterval": 6,
+      "season": null,
+      "estimatedCost": [
+        20,
+        80
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Swap sediment/carbon cartridges; date the new one."
+    },
+    {
+      "id": "lawn-spring",
+      "task": "Spring Lawn Care",
+      "system": "yard",
+      "monthInterval": 12,
+      "season": "spring",
+      "estimatedCost": [
+        20,
+        200
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Rake, overseed bare spots, and first fertilization."
+    },
+    {
+      "id": "lawn-winterize",
+      "task": "Winterize Lawn & Equipment",
+      "system": "yard",
+      "monthInterval": 12,
+      "season": "fall",
+      "estimatedCost": [
+        10,
+        100
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Final mow, fall fertilizer, drain fuel from mower/trimmer."
+    },
+    {
+      "id": "sprinkler-start",
+      "task": "Start Up Irrigation System",
+      "system": "yard",
+      "monthInterval": 12,
+      "season": "spring",
+      "estimatedCost": [
+        0,
+        150
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Pressurize slowly, check heads and zone coverage."
+    },
+    {
+      "id": "sprinkler-blowout",
+      "task": "Winterize Irrigation (Blow-out)",
+      "system": "yard",
+      "monthInterval": 12,
+      "season": "fall",
+      "estimatedCost": [
+        50,
+        150
+      ],
+      "diy": false,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Compressed-air blow-out before first freeze to prevent burst lines."
+    },
+    {
+      "id": "tree-trim",
+      "task": "Trim Trees & Shrubs",
+      "system": "yard",
+      "monthInterval": 12,
+      "season": "winter",
+      "estimatedCost": [
+        0,
+        500
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Cut back branches near the roof and siding; remove deadwood."
+    },
+    {
+      "id": "mulch",
+      "task": "Refresh Mulch Beds",
+      "system": "yard",
+      "monthInterval": 12,
+      "season": "spring",
+      "estimatedCost": [
+        30,
+        200
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "2-3 inch layer, kept off the siding and trunks."
+    },
+    {
+      "id": "fence-check",
+      "task": "Inspect Fence & Gates",
+      "system": "yard",
+      "monthInterval": 12,
+      "season": "spring",
+      "estimatedCost": [
+        0,
+        100
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house"
+      ],
+      "description": "Tighten hardware, check post rot, re-stain as needed."
+    },
+    {
+      "id": "appliances-dryer-vent",
+      "task": "Clean Dryer Vent",
+      "system": "appliances",
+      "monthInterval": 12,
+      "season": null,
+      "estimatedCost": [
+        0,
+        30
+      ],
+      "diy": true,
+      "appliesTo": [
+        "house",
+        "townhouse",
+        "condo",
+        "apartment"
+      ],
+      "description": "Clear lint from the dryer duct and exhaust hood \u2014 a top home fire-safety task."
+    }
+  ]
+}

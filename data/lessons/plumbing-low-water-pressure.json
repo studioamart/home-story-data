@@ -1,0 +1,93 @@
+{
+  "slug": "plumbing-low-water-pressure",
+  "system": "plumbing",
+  "title": "Why Your Water Pressure Is Low \u2014 Causes & Fixes",
+  "question": "Why is my water pressure so low and how do I fix it?",
+  "summary": "Low water pressure usually traces to a clogged aerator or fixture, a partly closed shutoff valve, a failing pressure regulator, or buildup in old galvanized pipes. Start with the cheap, single-fixture checks before assuming a whole-house problem.",
+  "commonCauses": [
+    {
+      "cause": "Clogged faucet aerator or showerhead \u2014 mineral scale and debris choke the tiny screens at the tip of the fixture. This is the #1 cause of low flow at one specific faucet.",
+      "likelihood": "most common",
+      "quickCheck": "Is it only one faucet/shower? Unscrew the aerator or showerhead; if flow jumps when removed, the screen is clogged."
+    },
+    {
+      "cause": "Partially closed shutoff valve \u2014 the main shutoff, the meter valve, or a fixture's angle-stop got bumped or was never fully reopened after a repair.",
+      "likelihood": "most common",
+      "quickCheck": "Find the main shutoff (near where water enters the house) and any under-sink stops; make sure each is turned fully open (counterclockwise / handle inline with the pipe)."
+    },
+    {
+      "cause": "Failing or misadjusted pressure-reducing valve (PRV) \u2014 the bell-shaped regulator near the main line drifts over time and can drop whole-house pressure. Typical lifespan is roughly 10\u201315 years.",
+      "likelihood": "common",
+      "quickCheck": "Is the WHOLE house weak? Screw a $10 pressure gauge onto an outdoor hose bib; normal is 45\u201360 psi. Below ~40 psi house-wide points at the PRV (or the city supply)."
+    },
+    {
+      "cause": "Clogged or corroded galvanized steel pipes \u2014 older homes (commonly pre-1970) build up internal rust/scale that narrows the pipe bore and slowly strangles flow.",
+      "likelihood": "common",
+      "quickCheck": "Old house with steel pipes and pressure that's been declining for years, worst at the farthest fixtures? Likely internal corrosion."
+    },
+    {
+      "cause": "Municipal supply issue or shared peak demand \u2014 utility work, a water main break, or everyone in the neighborhood using water at the same time.",
+      "likelihood": "common",
+      "quickCheck": "Ask a neighbor if theirs is low too, or check the utility's outage page. If it's the whole street, it's not your house."
+    },
+    {
+      "cause": "Clogged whole-house water filter or softener \u2014 a spent cartridge or fouled softener resin restricts flow to everything downstream.",
+      "likelihood": "less common",
+      "quickCheck": "Got a filter housing or softener? Note the install date; put it on bypass temporarily \u2014 if pressure returns, the filter/softener is the choke point."
+    },
+    {
+      "cause": "Water heater issue \u2014 only hot-water pressure is weak, from sediment, a partly closed heater shutoff, or clogged hot-side aerators.",
+      "likelihood": "less common",
+      "quickCheck": "Is only the HOT side weak at multiple fixtures? Points at the heater or its supply valve."
+    },
+    {
+      "cause": "Hidden leak in a supply line \u2014 a slab or wall leak bleeds off pressure and wastes water.",
+      "likelihood": "less common",
+      "quickCheck": "Shut every fixture, then watch the water meter for 30\u201360 min. If the dial moves with everything off, you likely have a leak."
+    }
+  ],
+  "fixes": [
+    "Isolate the problem first: is it one fixture or the whole house, hot-only or both? This single question tells you whether to clean a fixture (cheap) or chase a system issue.",
+    "Clean the aerator: unscrew it from the faucet tip by hand (or wrap with tape and use pliers to avoid scratching), rinse the screens, soak in white vinegar for a few hours to dissolve scale, then reassemble. Do the same for a showerhead.",
+    "Verify every shutoff is fully open: the main shutoff near the meter or where the line enters the house, plus the angle-stops under each affected sink/toilet. Turn fully counterclockwise.",
+    "Test whole-house pressure with a screw-on gauge at an outdoor hose bib. 45\u201360 psi is the healthy range; above 80 psi is too high and damages fixtures, below ~40 is too low.",
+    "If a PRV is present and pressure is low everywhere, you can try adjusting it: loosen the lock nut and turn the top bolt clockwise a little to raise pressure, re-checking the gauge after each small turn \u2014 never go above 80 psi. If turning it does nothing, the PRV has failed and needs replacement (a pro job in many areas).",
+    "Replace or bypass a spent whole-house filter cartridge per the manufacturer's schedule (typically every 3\u20136 months).",
+    "Flush the water heater only if the hot side alone is weak: first cut power (electric breaker) or set gas to pilot, then let the tank cool and shut off its cold-water supply before draining a few gallons from the drain valve \u2014 draining a powered or full-hot tank risks a burned-out element and scalding. Follow your heater's manual; if unsure, leave it to a pro.",
+    "Do the meter test for hidden leaks: with all water off, a moving meter means a leak \u2014 call a plumber to locate it.",
+    "If old galvanized pipes are the cause, there's no lasting DIY fix \u2014 re-piping the house in copper or PEX is the real solution and is a licensed-plumber job."
+  ],
+  "diyVsPro": "DIY is fine for cleaning aerators and showerheads, opening shutoff valves, swapping a whole-house filter, testing pressure with a gauge, and the meter leak test. Call a licensed plumber for replacing a failed pressure-reducing valve, diagnosing/repairing hidden or slab leaks, repiping corroded galvanized lines, and any water-heater work you're not comfortable with \u2014 these involve soldering, gas, electrical, or risk of flooding.",
+  "typicalCostUSD": "DIY: aerator cleaning $0; new aerator/showerhead $8\u2013$30; pressure gauge $10\u2013$15; filter cartridge $15\u2013$40. Pro: PRV replacement $350\u2013$600; hidden leak detection $150\u2013$400 plus repair; water heater flush $100\u2013$200; whole-house repipe $4,000\u2013$15,000+ depending on size and material.",
+  "timeEstimate": "15\u201330 minutes for aerator cleaning and valve checks; about an hour for a pressure test and leak check; a PRV replacement or repipe is a half-day to multi-day pro job.",
+  "safetyLevel": "caution",
+  "safetyNote": "Plumbing work risks water damage: know where your main shutoff is and use it before opening any line. Never set whole-house pressure above 80 psi \u2014 it stresses fixtures, hoses, and the water heater's relief valve. Before flushing a water heater, turn off its power at the breaker (electric) or set the gas control to pilot, then let it cool and shut the cold supply \u2014 draining while powered can dry-fire and ruin the element, and the water is hot enough to scald. Stop and call a pro if you find a hidden leak, are working near a gas line, or aren't comfortable with the water heater.",
+  "toolsParts": [
+    "Adjustable wrench or channel-lock pliers",
+    "White vinegar (for soaking scale)",
+    "Old toothbrush or small brush",
+    "Screw-on water pressure gauge",
+    "Plumber's tape (Teflon tape)",
+    "Replacement aerator/showerhead or filter cartridge (if needed)",
+    "Flashlight"
+  ],
+  "searchTerms": [
+    "low water pressure in house",
+    "how to clean faucet aerator",
+    "low water pressure one faucet",
+    "pressure reducing valve adjustment",
+    "water pressure gauge test hose bib",
+    "low hot water pressure only",
+    "galvanized pipe low pressure",
+    "whole house low water pressure fix"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila in spirit)",
+    "Manufacturer guidance for faucets, pressure-reducing valves, and water heaters",
+    "Plumbing-code norms for residential service pressure (typical 45-60 psi, 80 psi max)"
+  ],
+  "disclaimer": "This is general guidance, not a substitute for professional diagnosis. Plumbing systems and local codes vary; when in doubt or when work involves gas, electrical, hidden leaks, or repiping, consult a licensed plumber.",
+  "verified": true,
+  "verifierNote": "Confirmed pressure ranges (45-60 normal/80 max/40 low), PRV adjust direction, and aerator/leak-test guidance; rewrote the water-heater flush step to cut power and shut the cold supply and let it cool before draining (scald/dry-fire risk), added the never-exceed-80-psi caution to PRV adjustment, broadened galvanized to pre-1970, and raised PRV replacement cost to $350-600.",
+  "kind": "pillar"
+}

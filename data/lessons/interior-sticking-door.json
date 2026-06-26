@@ -1,0 +1,77 @@
+{
+  "slug": "interior-sticking-door",
+  "system": "interior",
+  "title": "Door Sticks or Won't Latch \u2014 Causes & Easy Fixes",
+  "question": "Why does my interior door stick or won't latch shut?",
+  "summary": "A sticking or non-latching door usually means something shifted out of alignment \u2014 loose hinge screws, seasonal wood swelling, or settling that moved the latch off the strike plate. Most fixes are quick and cost only a few dollars.",
+  "commonCauses": [
+    {
+      "cause": "Loose hinge screws letting the door sag \u2014 the top corner drops and the door rubs the frame or the latch sits below the strike hole",
+      "likelihood": "most common",
+      "quickCheck": "Grab the knob and gently lift; if the door moves up/down or you feel play, screws are loose. Look for a hinge with a stripped or backed-out screw."
+    },
+    {
+      "cause": "Seasonal humidity swelling the wood so the door binds against the frame (worst in humid months, eases when dry)",
+      "likelihood": "common",
+      "quickCheck": "Note where it rubs \u2014 shiny or scuffed wood marks the spot. If the sticking comes and goes with the seasons, it's moisture, not damage."
+    },
+    {
+      "cause": "Latch no longer lines up with the strike plate (door won't catch even when fully closed) due to settling or a repainted/swollen door",
+      "likelihood": "common",
+      "quickCheck": "Close the door slowly and watch the latch bolt. Rub lipstick or marker on the bolt, close it, and see where it marks the strike plate \u2014 high, low, or short of the hole."
+    },
+    {
+      "cause": "Built-up paint on the door edge or jamb adding thickness so the door drags",
+      "likelihood": "common",
+      "quickCheck": "Run a finger along the sticking edge; thick, lumpy paint or paint bridging the gap is the culprit."
+    },
+    {
+      "cause": "House settling or foundation movement throwing the whole frame out of square",
+      "likelihood": "less common",
+      "quickCheck": "Check the gap (reveal) around the door \u2014 if it's clearly wedge-shaped and uneven top to bottom, and several doors stick, the frame may be racked. Pair that with wall cracks or sloping floors and treat it as possible structural movement."
+    }
+  ],
+  "fixes": [
+    "Tighten every hinge screw first \u2014 it fixes the majority of sticking doors. Use a hand screwdriver, not a drill, so you don't strip the heads or overdrive them.",
+    "For a stripped screw hole: replace one or two screws in the TOP hinge with longer 3-inch wood screws that reach through the jamb into the wall framing. This pulls the door up and back into alignment, often curing both the sticking and the latch at once.",
+    "Or fix a stripped hole the old-school way: dab wood glue on a few wooden toothpicks or a golf tee, tap them into the hole, snap off flush, let dry, then redrive the original screw into the fresh wood.",
+    "If the latch is only slightly off, adjust the strike plate: file the plate opening a little with a flat metal file for a small miss, or move the plate up/down by filling the old screw holes (toothpicks + glue) and re-drilling. For a large miss, the real fix is realigning the door (hinge screws above), not removing lots of metal.",
+    "For a swollen/rubbing edge: find the rub mark, then sand or plane only that spot. Light cases \u2014 medium-grit sandpaper on a block. Heavier \u2014 a few light passes with a hand plane held flat. Take off a little at a time and re-test so you don't over-cut.",
+    "Seal any bare wood you sanded or planed with primer/paint, especially the top and bottom edges, so moisture stops swelling it again.",
+    "Scrape and sand off thick paint buildup on the binding edge, then repaint thinly.",
+    "If the door binds only in humid months and the gap is tight all around, wait for drier weather before planing \u2014 otherwise you may leave a gap when the wood shrinks back."
+  ],
+  "diyVsPro": "Tightening screws, swapping in long screws, adjusting the strike plate, sanding, and light planing are all solidly DIY \u2014 no special skill needed. Call a carpenter or handyman if the door is badly out of square, the frame itself is racked, or a hollow-core door is damaged. If multiple doors stick alongside sticking windows, wall cracks, or sloping floors, hold off on cosmetic fixes and have a structural pro or engineer assess for foundation movement first.",
+  "typicalCostUSD": "DIY: $0\u201315 (long screws, toothpicks, sandpaper; a hand plane runs $20\u201340 if you don't already own one). Pro handyman: $75\u2013200 for a typical alignment or plane-and-rehang. Structural assessment if the frame has moved: $300+.",
+  "timeEstimate": "15\u201330 minutes for screw tightening or a strike-plate adjustment; 1\u20132 hours if you need to plane and repaint an edge.",
+  "safetyLevel": "caution",
+  "safetyNote": "Mostly low-risk cosmetic work. Wear eye protection and a dust mask when sanding or planing, and keep cords clear if using a power sander. Heavy solid-core doors are awkward \u2014 get a helper if one must come off the hinges, to avoid pinched fingers or a dropped door. The one thing NOT to DIY: if doors and windows stick together with wall cracks or sloping floors, that points to structural/foundation movement \u2014 get a licensed pro before doing cosmetic fixes.",
+  "toolsParts": [
+    "Phillips and flat-head screwdrivers",
+    "3-inch wood screws (matching the hinge)",
+    "Wooden toothpicks or golf tees + wood glue",
+    "Flat metal file (for the strike plate)",
+    "Medium-grit sandpaper and a sanding block",
+    "Hand plane (for heavier binding)",
+    "Pencil/marker or lipstick (to mark the latch contact point)",
+    "Primer and matching paint for sealing bare wood"
+  ],
+  "searchTerms": [
+    "door sticks won't close",
+    "interior door won't latch",
+    "door rubbing top of frame",
+    "sagging door fix",
+    "door latch not catching strike plate",
+    "how to fix a door that sticks in humidity",
+    "longer hinge screws to fix sagging door"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila in spirit)",
+    "General carpentry and door-hanging best practices",
+    "Door hardware manufacturer installation guidance (strike plate and hinge adjustment)"
+  ],
+  "disclaimer": "General guidance for typical US interior doors; your situation may differ. If sticking is widespread or paired with wall cracks, sticking windows, or sloping floors, consult a licensed contractor or structural engineer before making cosmetic fixes.",
+  "verified": true,
+  "verifierNote": "Confirmed all causes, fixes, and costs against standard US practice; softened \"almost always,\" clarified that filing the strike plate only suits small misalignment (large miss needs door realignment, not removing metal), strengthened the structural-movement warning, and bumped safetyLevel none\u2192caution for the tool-injury and heavy-door risk.",
+  "kind": "pillar"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "plumbing-flush-water-heater",
+  "system": "plumbing",
+  "title": "How to Flush a Water Heater \u2014 Step-by-Step Guide",
+  "question": "How do I flush my water heater?",
+  "summary": "Flushing drains sediment that builds up at the bottom of the tank, which can restore efficiency and help the heater last longer. Done once or twice a year, it takes about an hour with a garden hose and basic tools.",
+  "commonCauses": [
+    {
+      "cause": "Hard-water mineral sediment settling at the tank bottom \u2014 the main reason flushing is needed (you may hear popping or rumbling as water bubbles up through the sediment layer)",
+      "likelihood": "most common",
+      "quickCheck": "Listen for popping/rumbling while heating, or note if hot water runs out faster than it used to."
+    },
+    {
+      "cause": "Reduced efficiency and higher gas/electric bills as sediment insulates the burner or element from the water",
+      "likelihood": "common",
+      "quickCheck": "Compare recent utility bills; a creeping rise with no usage change can point to sediment buildup (rule out rate hikes and seasonal use first)."
+    },
+    {
+      "cause": "Slow recovery or lukewarm water because sediment buries the lower electric element or absorbs gas-burner heat",
+      "likelihood": "common",
+      "quickCheck": "On electric units, a buried lower element often fails early \u2014 note if hot water is weak or short-lived."
+    },
+    {
+      "cause": "Cloudy, rusty, or sandy-looking hot water at the faucets",
+      "likelihood": "less common",
+      "quickCheck": "Fill a glass from a hot tap only and look for grit, rust tint, or cloudiness; if cold taps look the same, the problem is upstream of the heater."
+    }
+  ],
+  "fixes": [
+    "Turn off the heat source. GAS: turn the gas control knob to 'Pilot' (or 'Off'). ELECTRIC: switch OFF the heater's dedicated breaker at the panel \u2014 never run electric elements dry. If you are not sure which breaker feeds the heater, stop and have it confirmed before draining.",
+    "Shut off the cold-water supply valve on the cold inlet line at the top of the tank.",
+    "For safety, let the tank cool several hours (ideally overnight) before draining \u2014 stored water sits at 120-140F or higher and will scald. Then open a hot-water faucet somewhere in the house and leave it open to relieve pressure and let air in.",
+    "Connect a garden hose to the drain valve at the bottom of the tank and run the other end to a floor drain, gravel area, or outside \u2014 somewhere that can take hot water and the sediment without damage (avoid lawns and finished surfaces).",
+    "Open the drain valve and let the tank empty. Watch the runoff; it will carry sand, grit, and rusty sediment.",
+    "Once drained, briefly open the cold-water supply valve to stir up and rinse out remaining sediment. Repeat short bursts until the water from the hose runs clear.",
+    "Close the drain valve, disconnect the hose, and reopen the cold-water supply. Leave the hot faucet open until water (not sputtering air) flows steadily, then close it \u2014 this confirms the tank has refilled completely. Never re-energize before the tank is full.",
+    "Restore power/gas: ELECTRIC \u2014 flip the breaker back on only after confirming the tank is full. GAS \u2014 return the control knob to its normal setting and relight the pilot per the on-unit label if needed.",
+    "If the drain valve drips afterward, hand-snug it or fit a garden-hose cap. A cheap plastic valve that clogs or weeps can be swapped for a brass one, but only with the tank fully drained and supply off."
+  ],
+  "diyVsPro": "A standard annual flush is a reasonable DIY job for most homeowners \u2014 it's a hose and two valves. Call a licensed plumber if: the drain valve is seized or snaps off, sediment is so packed the tank won't drain (years of neglect), the tank shows rust streaks or leaks at the seams (that's replacement territory, not a flush), you smell gas or aren't comfortable with the gas control, or it's a tankless unit \u2014 those need a descaling pump-and-vinegar flush, not a gravity drain. Note: many newer tanks discourage or skip flushing in their manuals; check yours, because an aggressive flush on an old, heavily corroded tank can sometimes start a leak.",
+  "typicalCostUSD": "DIY: $0-25 (you likely own a garden hose; a brass replacement drain valve is ~$10-20). Pro flush: $100-250, often bundled with an inspection or anode-rod check.",
+  "timeEstimate": "45-90 minutes of work, plus several hours of cooling time beforehand",
+  "safetyLevel": "caution",
+  "safetyNote": "Stored water is 120-140F or hotter and will cause serious scald burns \u2014 let the tank cool for several hours before draining, wear gloves, and route the drain water somewhere that can take heat safely. ELECTRIC: always cut the breaker first and never restore power until the tank is completely refilled, or you will burn out the elements in seconds (dry-firing); if you are not certain you've killed power to the elements, treat it as a pro job. GAS: set the control to Pilot/Off \u2014 if you ever smell gas, stop, leave the area, and call your gas utility from outside; do not relight. Do not over-tighten or force a plastic drain valve, which can crack. Any panel/wiring work beyond flipping the breaker, or a leaking tank, needs a licensed pro.",
+  "toolsParts": [
+    "Garden hose",
+    "Adjustable wrench or pliers (for the drain valve, if needed)",
+    "Work gloves",
+    "Bucket (to sample/inspect runoff)",
+    "Flathead screwdriver (some drain valves)",
+    "Replacement brass drain valve and Teflon tape (optional, only if the old valve is bad)"
+  ],
+  "searchTerms": [
+    "how to flush a water heater",
+    "drain sediment from water heater",
+    "water heater making popping noise",
+    "annual water heater maintenance",
+    "water heater not enough hot water",
+    "how often to flush water heater"
+  ],
+  "sources": [
+    "Manufacturer owner's manuals (Rheem, A.O. Smith, Bradford White draining/flushing instructions)",
+    "Reputable DIY references (This Old House, Family Handyman)",
+    "General plumbing best-practice and building-code norms for water heater servicing"
+  ],
+  "disclaimer": "This is general guidance, not a substitute for your specific model's manual or professional advice. Water heaters vary by brand, fuel type, and age. If anything seems off \u2014 a stuck valve, leaks, gas odor, or no water flow \u2014 stop and consult a licensed plumber. Your unit's printed instructions take precedence.",
+  "verified": true,
+  "verifierNote": "Confirmed steps/causes are sound; strengthened cooling guidance (several hrs/overnight, not \"work near 120-140F\"), fixed refill step to reopen cold supply, added dry-fire and gas-odor warnings, flagged that aggressive flushing an old tank can start a leak and that some new tanks skip flushing, and bumped pro cost to $100-250.",
+  "kind": "pillar"
+}

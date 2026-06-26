@@ -1,0 +1,83 @@
+{
+  "slug": "plumbing-running-toilet",
+  "system": "plumbing",
+  "title": "Why Your Toilet Keeps Running \u2014 Causes & Easy Fixes",
+  "question": "Why does my toilet keep running and how do I make it stop?",
+  "summary": "A toilet that won't stop running almost always comes down to a worn flapper, and sometimes a misadjusted float or a worn fill valve \u2014 most are cheap, sub-30-minute fixes you can do yourself. Stopping the leak can save thousands of gallons of water a month.",
+  "commonCauses": [
+    {
+      "cause": "Worn, warped, or dirty flapper not sealing the flush valve, so water leaks from the tank into the bowl and the fill valve keeps topping it off",
+      "likelihood": "most common",
+      "quickCheck": "Put a few drops of food coloring in the tank, wait 15 minutes without flushing; if color shows up in the bowl, the flapper is leaking."
+    },
+    {
+      "cause": "Water level (float) set too high, so water spills over the top of the overflow tube and drains continuously into the bowl",
+      "likelihood": "common",
+      "quickCheck": "Lift the tank lid and look: if water is trickling into the top of the overflow tube (the open vertical pipe), the level is too high."
+    },
+    {
+      "cause": "Flapper chain too short or tangled, holding the flapper slightly open after each flush",
+      "likelihood": "common",
+      "quickCheck": "Check the chain between the flush lever and flapper; if it's taut or caught under the flapper, it can't seal."
+    },
+    {
+      "cause": "Fill valve worn out or stuck, so it never fully shuts off (often a hissing or trickling sound)",
+      "likelihood": "common",
+      "quickCheck": "If the dye test stays clean but you still hear water, lift the float up by hand; if the running stops, the fill valve isn't shutting off properly (worn valve or level set too high)."
+    },
+    {
+      "cause": "Mineral buildup or a cracked/calcified flush valve seat that prevents a good seal",
+      "likelihood": "less common",
+      "quickCheck": "Run a finger around the flush valve seat (where the flapper rests); grit, pitting, or scale means it won't seal even with a new flapper."
+    },
+    {
+      "cause": "Overflow tube cracked or too tall/short for the tank, letting water escape",
+      "likelihood": "less common",
+      "quickCheck": "Inspect the overflow tube for cracks; water level should sit about 1 inch below its top rim."
+    }
+  ],
+  "fixes": [
+    "Turn off the water at the shut-off valve under the toilet (turn clockwise), then flush to empty the tank before working.",
+    "Do the food-coloring (dye) test first to confirm whether the leak is at the flapper (color reaches the bowl) or elsewhere (no color but still running).",
+    "Fix #1 \u2014 Flapper: Unhook the old flapper from the overflow tube pegs and chain, take it to the hardware store to match it, and snap the new one on. Universal flappers fit most toilets; brand-matched ones (Korky, Fluidmaster) seal best.",
+    "Fix #2 \u2014 Chain: Adjust so there's about 1/2 inch of slack when the flapper is closed. Too tight holds it open; too loose can tangle. Trim excess chain so it can't get caught.",
+    "Fix #3 \u2014 Water level/float: Lower the water so it sits about 1 inch below the top of the overflow tube. On a modern column-style fill valve, pinch the clip and slide the float down; on an old ball-float, turn the adjustment screw on top counterclockwise or gently bend the float arm down.",
+    "Fix #4 \u2014 Fill valve: If it still hisses or won't shut off, replace the whole fill valve. A universal Fluidmaster 400A is about $12-15 and installs in 15-20 minutes \u2014 shut off water, disconnect the supply line, unscrew the lock-nut under the tank, swap it in, and reconnect hand-tight plus a slight turn (don't overtighten plastic nuts).",
+    "Fix #5 \u2014 Flush valve seat: If a new flapper still leaks, clean the seat with a sponge and white vinegar to remove scale. If it's pitted or cracked, install a flush-valve seal repair kit, or replace the flush valve (this requires removing the tank \u2014 see DIY vs Pro).",
+    "Turn the water back on slowly, let the tank refill, and re-run the dye test to confirm the leak is gone."
+  ],
+  "diyVsPro": "Flapper, chain, float, and fill-valve swaps are all confidently DIY \u2014 no special skill, just a sponge and maybe a wrench. Call a licensed plumber if a full flush-valve replacement means pulling the tank and the bolts are corroded, if the tank or bowl is cracked, if the shut-off valve itself leaks or won't turn, or if you've replaced the flapper and fill valve and it still runs (could be a hidden hairline crack or a bad supply line).",
+  "typicalCostUSD": "DIY parts: flapper $5-12, fill valve $10-20, complete tank repair kit $20-35. Plumber visit: $100-250 for a typical flapper or fill-valve job, $150-350+ if the flush valve or tank work is involved.",
+  "timeEstimate": "10-20 minutes for a flapper or float adjustment; 20-40 minutes to replace a fill valve.",
+  "safetyLevel": "caution",
+  "safetyNote": "Low risk, but always shut off the supply valve before disconnecting anything to avoid a flood, and never overtighten plastic lock-nuts or the supply line \u2014 cross-threading or cranking too hard can crack the tank or fitting. If the shut-off valve won't close, shut off the home's main water before proceeding. Tank water is clean, but wear gloves if working in the bowl. No gas or electrical work is involved.",
+  "toolsParts": [
+    "Replacement flapper (universal or brand-matched)",
+    "Fill valve (e.g., Fluidmaster 400A) if needed",
+    "Food coloring or dye tablet for leak test",
+    "Adjustable wrench or channel-lock pliers",
+    "Sponge and towels",
+    "White vinegar (for cleaning the valve seat)",
+    "Bucket (to catch residual tank water)"
+  ],
+  "searchTerms": [
+    "toilet keeps running fix",
+    "how to replace toilet flapper",
+    "toilet running after flush",
+    "toilet water won't stop running",
+    "how to adjust toilet float",
+    "replace toilet fill valve",
+    "toilet tank leaking into bowl",
+    "toilet phantom flushing"
+  ],
+  "sources": [
+    "Manufacturer guidance (Fluidmaster, Korky flapper and fill-valve instructions)",
+    "Reputable DIY references (This Old House, Family Handyman)",
+    "EPA WaterSense guidance on leaky toilets and water waste",
+    "General plumbing-trade best practices"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional plumbing advice. Toilet designs vary by brand and age; always confirm against your specific fixture and any manufacturer instructions. If you're unsure, the shut-off won't close, or water damage is a risk, contact a licensed plumber.",
+  "verified": true,
+  "verifierNote": "Fixed a backwards diagnostic (push the float DOWN \u2192 corrected to lift the float UP to confirm fill-valve shutoff); downgraded \"float too high\" from most-common to common (flapper is the true #1); softened overstated summary and the \"Bob Vila in spirit\" source; added overtighten/no-gas-or-electrical safety wording. Costs, caution level, and clockwise shut-off all confirmed accurate.",
+  "kind": "pillar"
+}

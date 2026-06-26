@@ -1,0 +1,76 @@
+{
+  "slug": "interior-squeaky-floor",
+  "system": "interior",
+  "title": "Why Your Floor Squeaks \u2014 Causes & How to Fix It",
+  "question": "How do I stop my floor from squeaking?",
+  "summary": "Floors squeak when wood moves against a nail, the subfloor, or a joist and rubs \u2014 usually because something worked loose with age and seasonal humidity. Most squeaks are harmless and fixable in an afternoon by re-securing the subfloor to the joist below.",
+  "commonCauses": [
+    {
+      "cause": "Subfloor has separated slightly from the floor joist, so it flexes and rubs against the nails when you step on it (the classic 'nail squeak').",
+      "likelihood": "most common",
+      "quickCheck": "Have a helper walk the area while you listen; squeaks that move with footsteps and feel 'bouncy' point to subfloor-to-joist separation."
+    },
+    {
+      "cause": "Seasonal humidity swings make wood expand and contract; in dry winter months boards shrink, gaps open, and tongue-and-groove or floorboards rub together.",
+      "likelihood": "common",
+      "quickCheck": "Note whether squeaks come and go with the seasons or worsen when the heat is running and indoor air is dry."
+    },
+    {
+      "cause": "Hardwood floorboards rubbing against each other or against loose finish nails at the seams.",
+      "likelihood": "common",
+      "quickCheck": "Squeak is localized to a single board edge or a butt joint, not a wide area, and you can sometimes feel one board move under foot."
+    },
+    {
+      "cause": "Missing, loose, or warped subfloor \u2014 gaps between subfloor and joist, or panels that were under-nailed when the house was built.",
+      "likelihood": "less common",
+      "quickCheck": "From an unfinished basement/crawlspace below, look for visible gaps between the subfloor and the top of the joist when someone steps above."
+    },
+    {
+      "cause": "A joist problem (twisted, shrunken, or cracked joist, or a loose joist-to-beam connection).",
+      "likelihood": "less common",
+      "quickCheck": "Widespread squeaking plus noticeable floor sag, sloping, or bounce across a whole room \u2014 this is the one that may not be cosmetic and warrants a professional look."
+    }
+  ],
+  "fixes": [
+    "Pinpoint the squeak first: have a helper rock their weight over the spot while you listen and watch, both from above and (if possible) from the basement/crawlspace below. Mark the exact spot with painter's tape.",
+    "If you have access from below (unfinished basement or crawlspace): have your helper step on the squeak so you can see the subfloor flex away from the joist. Dab carpenter's glue on a wood shim and slide it into the gap between the joist and subfloor \u2014 snug, just kissing the gap. Do NOT drive it hard; forcing a shim can lift the floor and make things worse. This is the cleanest, most durable fix.",
+    "Also from below, for a longer gap: run a bead of construction adhesive along the joist and screw a length of 2x4 tight against the underside of the subfloor to brace it. Use screws short enough that they cannot poke through the finished floor above.",
+    "From above on a carpeted floor: use a joist-locating squeak kit (e.g., Squeeeeak No More). Find the joist with the kit's depth-control fixture, drive the special breakaway screws through the carpet into the joist, then snap off the heads below the surface.",
+    "From above on hardwood: locate the joist or solid subfloor first, then drive a trim-head or finish screw at an angle into it; pre-drill to avoid splitting and fill the hole with matching wood filler. Before driving anything from above, confirm what is in the cavity below \u2014 wiring, water lines, or (rarely) gas can run through a floor \u2014 so you do not hit it.",
+    "For minor hardwood seam squeaks, a dry lubricant can quiet the rub as a temporary measure: work powdered graphite or a powdered dry-lube into the gap between boards. It does not re-secure anything, so the squeak often returns; treat it as a stopgap, not a permanent fix. Skip talcum powder.",
+    "If the floor sags, slopes, or bounces over a wide area, or squeaks return no matter what you try, stop DIY and get a contractor or structural engineer to inspect the joists and framing."
+  ],
+  "diyVsPro": "Most squeaks are an easy DIY job \u2014 locating the spot and adding a shim, screw, or squeak kit from above or below. Call a licensed contractor or structural engineer if the floor visibly sags, slopes, feels spongy across a whole room, or if squeaks keep returning, since those point to a framing or joist issue rather than a simple loose subfloor.",
+  "typicalCostUSD": "DIY: $10-$30 for shims, screws, glue, or graphite; $20-$30 for a carpet squeak-elimination kit. Pro: $150-$400 for a handyman to fix a few spots; $1,000+ if joist repair or floor leveling is needed.",
+  "timeEstimate": "15-30 minutes per squeak for a simple shim or screw fix; 1-3 hours for several spots or a squeak-kit job across a room.",
+  "safetyLevel": "caution",
+  "safetyNote": "The repair itself is low-risk, but two things deserve care. First, never drive screws or nails blindly from above without knowing what is in the floor cavity below \u2014 electrical wiring, water lines, and occasionally gas can run there, and hitting one is a shock, flood, or fire risk. Locate the joist and verify the path is clear first. Second, if you work in a crawlspace or basement, watch for low clearance, exposed nails, and overhead electrical, and wear eye protection and a dust mask.",
+  "toolsParts": [
+    "Helper to walk/rock over the squeak",
+    "Painter's tape to mark spots",
+    "Wood shims and carpenter's glue (fix from below)",
+    "Trim-head or finish screws and a drill/driver",
+    "Carpet squeak-elimination kit (Squeeeeak No More or similar)",
+    "Powdered graphite or dry-lube (temporary lubricant fix)",
+    "Stud/joist finder",
+    "Wood filler matching the floor",
+    "Eye protection and dust mask (if working in a crawlspace)"
+  ],
+  "searchTerms": [
+    "how to fix a squeaky floor",
+    "stop floor from squeaking",
+    "squeaky floor under carpet fix",
+    "squeaky hardwood floor repair",
+    "fix squeaky subfloor from below",
+    "why does my floor squeak"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila) on squeak diagnosis and repair",
+    "Manufacturer guidance for squeak-elimination kits (e.g., O'Berry Squeeeeak No More)",
+    "General residential building-code and framing norms for subfloor and joist construction"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for professional inspection. Conditions in your home may differ; if you suspect a structural problem or are unsure, consult a licensed contractor or structural engineer.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes/costs against standard US practice; bumped safetyLevel none\u2192caution and expanded the safetyNote to lead with the buried hazard of driving fasteners blindly into a floor cavity (wiring/water/gas); reframed graphite as a temporary stopgap, dropped talcum (asbestos concern), and added shim/screw-length cautions so a novice can't lift the floor or punch a screw through it.",
+  "kind": "pillar"
+}

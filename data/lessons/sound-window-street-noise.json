@@ -1,0 +1,80 @@
+{
+  "slug": "sound-window-street-noise",
+  "system": "interior",
+  "title": "How to Reduce Street and Traffic Noise Through Apartment Windows (Renter-Friendly, No Drilling)",
+  "question": "I rent an apartment on a busy street and traffic noise comes right through my windows. What can I actually do to make it quieter without damaging anything or losing my deposit?",
+  "summary": "Most window noise leaks through air gaps and thin single-pane glass, so seal the gaps first, then add mass and a dead-air layer in front of the glass. Renters can get a real, noticeable drop with weatherstripping, a magnetic or press-fit interior insert, and heavy curtains, all removable at move-out.",
+  "commonCauses": [
+    {
+      "cause": "Air gaps around the sash, frame, and where the window meets the wall \u2014 sound follows air, so even tiny gaps leak a lot of noise (the single biggest and most overlooked path)",
+      "likelihood": "most common",
+      "quickCheck": "On a windy or loud day, run your hand slowly around the window edges and the sash where it closes and feel for moving air, or shine a flashlight from outside at night and look for light leaking through from inside."
+    },
+    {
+      "cause": "Thin single-pane glass with low mass \u2014 light glass vibrates easily and passes mid/high-frequency traffic noise (engines, tires, voices); single-pane is roughly STC mid-20s vs. high-20s/30s for dual-pane",
+      "likelihood": "most common",
+      "quickCheck": "Tap the glass: a single thin pane sounds tinny and flexes slightly. Look at the edge of the glass for a metal spacer bar \u2014 that means two panes (dual-pane); none means single-pane."
+    },
+    {
+      "cause": "Low-frequency rumble (buses, trucks, motorcycles) \u2014 long sound waves that thin add-ons and curtains barely touch; this is the hardest part to kill and why a naive 'just hang a curtain' attempt disappoints",
+      "likelihood": "common",
+      "quickCheck": "Notice whether what bothers you is a low rumble you feel as much as hear (hard to block) versus higher-pitched tire/voice noise (much easier to block)."
+    },
+    {
+      "cause": "Flanking paths \u2014 noise coming in around the window through the wall, trim gaps, an old AC sleeve, a mail slot, or vents, not strictly through the glass",
+      "likelihood": "common",
+      "quickCheck": "With the window fully treated and covered, is it still loud? If yes, listen along the wall, outlets, and any vent or AC unit near the window to find the bypass."
+    },
+    {
+      "cause": "Expecting 'soundproof' instead of 'quieter' \u2014 no renter-friendly fix makes a busy street silent, and choosing the wrong product for your noise type wastes money",
+      "likelihood": "less common",
+      "quickCheck": "Decide your goal: knocking the edge off and helping sleep (realistic) vs. near-silence (needs replacement windows / a pro, usually not allowed in a rental)."
+    }
+  ],
+  "fixes": [
+    "Seal the air gaps first \u2014 cheap, and the biggest bang for the buck. Use removable foam or rubber weatherstripping tape along the sash where the window closes, and a peelable caulk strip or temporary rope caulk around the frame edges. Both peel off cleanly at move-out. Make sure the latch fully closes and pulls the sash tight against the seal.",
+    "Add a dead-air layer and mass over the glass with a renter-safe window insert. Magnetic acrylic inserts (Magnetite/Climate Seal-style) or compression press-fit acrylic inserts (Indow-style) mount inside the existing frame with no drilling and create a sealed air gap in front of the glass \u2014 the single most effective removable upgrade, and it can cut noise meaningfully. Measure your frame opening precisely; most are made to order.",
+    "Hang heavy, dense curtains floor-to-ceiling and wall-to-wall, mounted as high and wide as possible so they trap an air pocket and overlap the window generously. Mass matters: choose genuinely heavy velvet-weight 'soundproof'/blackout panels, not thin decorative ones. Use a tension rod or a no-drill bracket if you can't drill. Curtains mainly tame mid/high frequencies and echo, not low rumble.",
+    "For a budget removable insert, cut a panel of rigid foam board or an acrylic/polycarbonate sheet to press snugly into the window opening at night, framed with foam weatherstrip around the edges for a tight seal. It blocks light and noise well, but you lose the view while it's in \u2014 good for sleeping.",
+    "Plug the worst leak points: stuff any old AC sleeve, mail slot, or gap with mineral wool or a draft stopper, and cover unused wall vents temporarily if allowed. Check outlets on the exterior wall \u2014 foam outlet gaskets are cheap.",
+    "Re-test after each step at the times the noise bothers you most, and add layers only where you still hear leaks. Stack mass (insert) + seal (weatherstrip) + absorption (curtain) rather than relying on any one.",
+    "If rumble still dominates after all of the above, accept that low frequencies need real mass or replacement windows. Ask your landlord in writing whether they'll add storm windows or replace single-pane units \u2014 sometimes they'll split the cost, and the upgrade stays with the unit."
+  ],
+  "diyVsPro": "Every step here is renter-DIY: no drilling, no tools beyond a tape measure and scissors, and everything is removable at move-out. The only \\\"pro\\\" move is replacing the windows or adding permanent storm windows, which a renter can't do without landlord approval \u2014 that's a landlord/contractor job, not something to attempt yourself.",
+  "typicalCostUSD": "$15\u201340 for weatherstripping and removable caulk; $40\u2013120 per window for heavy soundproof curtains; $20\u201360 for a DIY foam/acrylic press-in panel; $300\u2013800+ per window for a custom magnetic or compression acrylic insert (the most effective removable option). A full quiet-the-room treatment for one window runs roughly $60\u2013150 DIY, or $400\u2013900 if you add a custom insert.",
+  "timeEstimate": "Sealing gaps: 30\u201360 min per window. Hanging curtains: 30\u201345 min. A DIY press-in panel: 1\u20132 hours to measure, cut, and fit. A custom insert is mostly waiting for it to be made; install is 10\u201315 min.",
+  "safetyLevel": "none",
+  "safetyNote": "These are all cosmetic, removable, non-structural fixes \u2014 no electrical, gas, or structural work. Two real cautions: don't seal or block a bedroom window that's your required emergency egress \u2014 inserts and curtains must come out fast in a fire; and never block a window or vent that a fuel-burning appliance or AC relies on for makeup air. Check your lease before using any adhesive, and test removable caulk/tape on a hidden spot first.",
+  "toolsParts": [
+    "Tape measure",
+    "Removable foam/rubber weatherstripping tape",
+    "Peelable/removable caulk strip or rope caulk",
+    "Heavy blackout or 'soundproof' curtain panels (velvet-weight)",
+    "Tension curtain rod or no-drill curtain bracket",
+    "Custom magnetic acrylic insert (Magnetite/Climate Seal-style) or compression acrylic insert (Indow-style)",
+    "Rigid foam board or acrylic/polycarbonate sheet (for DIY press-in panel)",
+    "Utility knife or scissors",
+    "Mineral wool or draft stopper for gaps/AC sleeves",
+    "Foam outlet gaskets (for exterior-wall outlets)"
+  ],
+  "searchTerms": [
+    "reduce traffic noise through apartment windows renter",
+    "soundproof windows without replacing them rental",
+    "no drill window insert for street noise",
+    "best soundproof curtains for traffic noise",
+    "how to block street noise in bedroom window apartment",
+    "magnetic window insert vs Indow for noise",
+    "cheap DIY soundproof window panel renter",
+    "weatherstripping to reduce outside noise window"
+  ],
+  "sources": [
+    "U.S. Department of Energy energy.gov \u2014 weatherization and window air-sealing guidance",
+    "ASTM E90 / STC (Sound Transmission Class) ratings for windows and glazing",
+    "Manufacturer guidance from interior window insert makers (Indow, Magnetite/Climate Seal)",
+    "General building-science references on flanking noise and air-gap sound transmission"
+  ],
+  "disclaimer": "General home-maintenance information for a typical US rental, not professional acoustic-engineering or legal advice. Results vary with your building, window type, and noise source \u2014 no removable treatment makes a busy street silent. Always check your lease before applying adhesives or making changes, and never block a required fire-escape (egress) window or a vent serving a fuel-burning appliance.",
+  "verified": true,
+  "verifierNote": "Confirmed STC ranges, insert products (Indow/Magnetite), costs, and acoustics (seal-first, low-freq hardest); fixed the doubled summary, kept egress/makeup-air safety, tightened wording. Safety level correctly \"none\" \u2014 no gas/240V/structural/roof/mold involved.",
+  "kind": "spoke"
+}

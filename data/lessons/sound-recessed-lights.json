@@ -1,0 +1,76 @@
+{
+  "slug": "sound-recessed-lights",
+  "system": "interior",
+  "title": "How to Soundproof Recessed Can Lights So Noise Stops Leaking Between Floors and Rooms",
+  "question": "Sound (footsteps, voices, TV) is leaking through my recessed can lights between floors or rooms \u2014 how do I block it without creating a fire hazard?",
+  "summary": "Each recessed light is a hole punched through your ceiling's sound barrier, so noise pours through the open fixture and the gaps around it. The fix is sealing the air leaks and adding mass over the can \u2014 but only with fire-rated materials and proper clearances, because covering a non-IC can with insulation is a genuine fire risk. This guide explains why can lights leak sound and how to quiet them safely.",
+  "commonCauses": [
+    {
+      "cause": "The can itself is a hole in the ceiling drywall \u2014 sound travels through the open fixture body and the thin trim, bypassing all the drywall mass around it (this is the dominant path).",
+      "likelihood": "most common",
+      "quickCheck": "At night, turn off the light and put your ear near the trim \u2014 if voices/footsteps are noticeably louder right at the fixture than 2 feet away on the ceiling, the can is the leak path."
+    },
+    {
+      "cause": "Air gaps around the can housing and at the trim-to-drywall seam let sound (which rides on air) flow freely; sound and air leaks share the same paths.",
+      "likelihood": "most common",
+      "quickCheck": "Hold a lit incense stick (not an open flame) or your hand near the trim edge with the HVAC running \u2014 visible smoke movement or a draft means an unsealed air gap that's also passing sound."
+    },
+    {
+      "cause": "The can is a non-IC-rated housing, which cannot be touched by insulation or covered \u2014 so the naive fix (stuff insulation on top) is both a code violation and a fire hazard.",
+      "likelihood": "common",
+      "quickCheck": "Look inside the can for a label: 'IC' or 'Type IC' means insulation-contact OK; 'Non-IC' or no IC marking means it needs 3 in. clearance from insulation and cannot be buried."
+    },
+    {
+      "cause": "Flanking paths \u2014 the noise is actually coming through the joist bays, shared ductwork, or other ceiling penetrations, not mainly the light, so soundproofing the can alone disappoints.",
+      "likelihood": "common",
+      "quickCheck": "Compare loudness at the can vs. at a wall register or a ceiling smoke detector; if they're similar, the light is only one of several paths and you won't get a dramatic result from the light alone."
+    },
+    {
+      "cause": "Recessed cans displace ceiling insulation, leaving a thin, hollow spot above the fixture even apart from the hole itself.",
+      "likelihood": "less common",
+      "quickCheck": "From the attic (if accessible), look for bare, uninsulated zones around each can housing."
+    }
+  ],
+  "fixes": [
+    "Identify the housing type FIRST. Kill the breaker, drop the trim, and read the label inside the can. 'IC'/'Type IC' = insulation can touch it. 'Non-IC' = needs 3 in. clearance and must never be buried \u2014 this determines every step below. If unsure, treat it as Non-IC.",
+    "Plug the open can mouth: swap to an airtight retrofit LED canless trim. Pull the old trim/bulb, screw an Edison-base LED retrofit module into the socket, and seat its gasketed trim tight to the ceiling with the included foam/clips. This seals the air/sound leak through the fixture and is the easiest first step \u2014 but it adds almost no mass, so on its own it cuts hollow voice/TV transfer far more than low-frequency footstep noise from above.",
+    "Seal the trim-to-ceiling seam from below. Run a thin bead of acoustical sealant (non-hardening acoustic caulk) or paintable latex caulk around where the trim meets the drywall. This closes the air/sound gap you can reach without going into the attic.",
+    "If you have attic access and the can is IC-rated and airtight (look for 'IC AT'): cap it from above with a UL-listed, fire-rated recessed-light cover, then bury the cover with loose-fill or batt insulation. Adding mass over the hole is what actually starts to reduce low-frequency footstep noise. Follow the cover's instructions; do not improvise a cover for an IC can without one.",
+    "If the can is Non-IC: do NOT bury it and do NOT let insulation touch it. Adding a code-compliant 3 in.-clearance enclosure is a job most homeowners should hand to a pro or electrician \u2014 get the housing swapped to an IC-AT unit, or build the enclosure to code. This is the step to stop and get help on rather than guess.",
+    "For a between-floors noise problem with no attic access, accept that the light alone is a limited fix \u2014 do the canless retrofit and caulk (steps 2-3) for the air-leak portion, and if footstep noise still bothers you, the real cure is a ceiling-assembly upgrade (resilient channel, an added drywall layer, Green Glue), which is a contractor job.",
+    "Re-energize and verify. Restore the breaker, confirm the fixture works and the trim seats flush, and re-do the ear/incense test \u2014 you should hear a clear drop at the fixture and feel no draft."
+  ],
+  "diyVsPro": "DIY-friendly for the high-value air-sealing steps: swapping to gasketed canless LED retrofits and caulking the trim seam. With safe attic access and confirmed IC-AT cans, dropping UL-listed fire-rated covers and adding insulation is also DIY. Call a pro if the cans are Non-IC (have them swapped to IC-AT or have a code-compliant 3 in.-clearance enclosure built \u2014 don't guess at fire clearances), if you find aluminum or unfamiliar wiring, or if the real goal is serious between-floor sound isolation (a ceiling-assembly job \u2014 resilient channel, double drywall, Green Glue \u2014 best scoped by a contractor or acoustic specialist).",
+  "typicalCostUSD": "DIY: $15-$40 per light for a gasketed canless LED retrofit, plus ~$10-$15 for acoustical caulk; UL-listed fire-rated recessed-light cover boxes run ~$15-$30 each. A pro retrofitting cans, swapping Non-IC housings, or adding covers typically runs $75-$200 per fixture; a full sound-isolating ceiling rebuild is $8-$25 per sq ft.",
+  "timeEstimate": "About 20-40 minutes per light for the canless-retrofit-plus-caulk approach; add 30-60 minutes per light if you're dropping covers and adding insulation from the attic.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always shut off the breaker for the circuit and confirm it's dead with a voltage tester before touching any fixture \u2014 this is line-voltage work. The bigger hazard is fire: covering or insulating a Non-IC recessed can, or letting any insulation touch a non-IC housing, can ignite. Maintain 3 in. clearance from non-IC cans, use only UL-listed fire-rated covers, and never block the fixture's heat dissipation. If you find old, hot-running incandescent cans already buried in insulation, that's an existing hazard \u2014 fix the clearance, don't add to it. When in doubt about clearances or wiring, stop and call a licensed electrician.",
+  "toolsParts": [
+    "Voltage tester / non-contact voltage detector",
+    "Gasketed canless LED retrofit modules (with Edison-base adapter) sized to your can",
+    "Acoustical sealant or paintable latex caulk + caulk gun",
+    "UL-listed fire-rated recessed-light cover boxes (IC-AT cans only)",
+    "Loose-fill or batt insulation (for adding mass above IC cans)",
+    "Tape measure, utility knife, screwdriver, work gloves, dust mask",
+    "Ladder"
+  ],
+  "searchTerms": [
+    "soundproof recessed can lights between floors",
+    "stop noise coming through recessed lights",
+    "fire rated cover for recessed light soundproofing",
+    "IC vs non-IC recessed light insulation clearance",
+    "airtight canless LED retrofit to block sound",
+    "acoustical caulk around recessed light trim",
+    "reduce footstep noise through ceiling can lights"
+  ],
+  "sources": [
+    "NEC / IRC requirements for recessed luminaire clearances (IC vs. non-IC ratings)",
+    "ENERGY STAR guidance on airtight (AT) recessed fixtures and air sealing",
+    "Manufacturer instructions for IC-AT recessed housings and canless LED retrofit modules",
+    "Reputable acoustic/soundproofing references on mass, air sealing, and flanking paths"
+  ],
+  "disclaimer": "General guidance for a typical US home; your fixtures, wiring, and local building code may differ. Verify your can's IC rating and follow manufacturer and local code requirements. When in doubt about fire clearances or line-voltage wiring, consult a licensed electrician.",
+  "verified": true,
+  "verifierNote": "Confirmed IC/Non-IC 3 in. clearance rule, costs, and methods against US practice; tempered the canless-retrofit \"highest-leverage\" claim (seals air leaks but adds little mass, so weak on footstep noise), routed the Non-IC enclosure to a pro instead of DIY, specified UL-listed covers, and added voltage-tester confirmation.",
+  "kind": "spoke"
+}

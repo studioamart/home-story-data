@@ -1,0 +1,79 @@
+{
+  "slug": "electrical-exterior-outlet-cover",
+  "system": "electrical",
+  "title": "How to Add or Fix Weatherproofing on an Outdoor Outlet (In-Use Bubble Cover + Gasket)",
+  "question": "My exterior outlet's flip-up cover is cracked, won't stay closed, or gets water inside when something is plugged in. How do I add or fix proper weatherproofing on an outdoor outlet so it passes code and stays dry?",
+  "summary": "Swap the flimsy flip-lid for a bubble-style \"in-use\" cover with a fresh gasket, and make sure the receptacle is a weather-resistant (WR) type that's GFCI-protected. This keeps rain out whether or not a cord is plugged in. The cover-and-gasket swap is a quick 20-30 minute DIY job once you kill the breaker.",
+  "commonCauses": [
+    {
+      "cause": "You only have a flat flip-up cover (snap lid), which leaves a gap and lets water in whenever a cord is plugged in. Code (NEC 406.9(B)) requires an 'in-use'/bubble cover for outdoor receptacles in wet locations.",
+      "likelihood": "most common",
+      "quickCheck": "Plug something in and look: if the lid props open and the slots are exposed to the sky, it's the wrong cover."
+    },
+    {
+      "cause": "Missing, hardened, or torn gasket behind the cover plate, so water wicks in behind the plate even when nothing is plugged in.",
+      "likelihood": "common",
+      "quickCheck": "Pop the cover and look for a foam/rubber gasket; if it's brittle, flattened, or absent you've found the leak path."
+    },
+    {
+      "cause": "The receptacle is a standard indoor outlet, not a weather-resistant (WR) one, and/or it isn't GFCI-protected. Outdoor outlets must be WR and GFCI-protected.",
+      "likelihood": "common",
+      "quickCheck": "Look at the outlet face for the letters 'WR' and a TEST/RESET button (or a GFCI device/breaker upstream)."
+    },
+    {
+      "cause": "Wrong cover orientation. A cover installed so the lid opens upward or sideways can funnel water toward the slots instead of shedding it down and away.",
+      "likelihood": "less common",
+      "quickCheck": "Check that the lid and any drain opening let water run down and out, not pool toward the receptacle slots."
+    },
+    {
+      "cause": "Cover is mounted but the box behind it isn't sealed to the siding, so water gets in behind the whole box.",
+      "likelihood": "less common",
+      "quickCheck": "Look for an existing caulk line on the top and sides of the box; the bottom should stay open to drain."
+    }
+  ],
+  "fixes": [
+    "Turn off power at the breaker for that outlet, then confirm it's dead with a non-contact voltage tester or plug-in tester. Do not skip this. The outlet stays live until you verify zero voltage.",
+    "Unscrew and remove the old cover plate and gasket. Note the box orientation (vertical vs. horizontal) and count the gangs (single-gang is most common).",
+    "Buy a matching in-use (bubble) weatherproof cover, sized for 1-gang or 2-gang and marked 'extra duty' (NEC requires the 'extra duty' marking for in-use covers on outdoor walls). Kits include the right gasket.",
+    "While power is off, check the receptacle. If it isn't marked 'WR' or isn't GFCI-protected, replace it with a weather-resistant, tamper-resistant GFCI receptacle. Match wires to the same terminals as the old one: black (hot) to brass, white (neutral) to silver, bare/green to ground; on a GFCI, wire the always-hot supply to the LINE terminals. If wiring is unfamiliar, stop here and call an electrician.",
+    "Install the new gasket against the box, then mount the in-use cover. Orient it so the lid sheds water downward and the cord opening points down. Drive the screws snug, not cracking-tight.",
+    "Route any cord through the cover's notched opening at the bottom and confirm the bubble lid fully closes over a plugged-in cord.",
+    "Seal the box-to-siding gap with exterior-grade silicone or polyurethane caulk on the TOP and SIDES only \u2014 leave the bottom edge unsealed so any water that gets in can weep out.",
+    "Restore power, press RESET on the GFCI, and test with a GFCI outlet tester: the test should trip it and cut power; RESET restores it."
+  ],
+  "diyVsPro": "Replacing a cracked cover and gasket is solidly DIY \u2014 no wiring touched, just a breaker-off swap. Swapping the receptacle to a WR GFCI is intermediate DIY if you're comfortable matching wires after verifying the power is dead. Call a licensed electrician if there's no GFCI protection anywhere on the circuit, the box has unfamiliar or aluminum wiring (aluminum needs special CO/ALR-rated devices and connectors), the box is loose or rotted into the siding, or you can't confirm the circuit is de-energized.",
+  "typicalCostUSD": "$8-$20 for an in-use 'extra duty' bubble cover with gasket; $15-$30 for a WR tamper-resistant GFCI receptacle if you replace it; ~$5 for a tube of exterior caulk. DIY total roughly $15-$55. An electrician doing the receptacle plus cover typically runs $120-$250 including a service-call minimum.",
+  "timeEstimate": "20-30 minutes for a cover/gasket swap; 45-60 minutes if you also replace the receptacle with a WR GFCI.",
+  "safetyLevel": "caution",
+  "safetyNote": "This is 120V line voltage. Always shut the breaker off and verify the outlet is dead with a tester before removing the cover or touching wires \u2014 outdoor outlets often share a circuit with other things, so a nearby switch isn't enough. Outdoor receptacles must be GFCI-protected; if yours isn't, treat it as a real shock/electrocution hazard and prioritize fixing it. If you see scorching, melted plastic, aluminum wiring, or water actively inside a live box, leave the breaker off and call an electrician.",
+  "toolsParts": [
+    "Non-contact voltage tester or plug-in outlet tester",
+    "Flathead and #2 Phillips screwdrivers",
+    "In-use (bubble) weatherproof cover, 'extra duty' rated, sized to your box (1-gang or 2-gang)",
+    "Replacement gasket (usually included in the cover kit)",
+    "Weather-resistant (WR) tamper-resistant GFCI receptacle (only if replacing the outlet)",
+    "Exterior-grade silicone or polyurethane caulk plus caulk gun",
+    "GFCI outlet tester (to confirm it trips)"
+  ],
+  "searchTerms": [
+    "exterior outlet flip cover won't stay closed fix",
+    "add in-use bubble cover to outdoor outlet",
+    "outdoor outlet leaking water when plugged in",
+    "replace cracked weatherproof outlet cover",
+    "extra duty in-use cover outdoor receptacle code",
+    "do outdoor outlets need WR GFCI and in-use cover",
+    "outdoor outlet gasket replacement waterproof",
+    "horizontal vs vertical weatherproof outlet cover"
+  ],
+  "sources": [
+    "NEC 406.9(B) \u2014 receptacles in wet locations require a weatherproof enclosure that stays weatherproof with an attachment plug inserted (in-use/bubble cover)",
+    "NEC 406.9(B)(1) \u2014 in-use covers in wet locations must be marked 'extra duty'",
+    "NEC 210.8(A) \u2014 GFCI protection required for outdoor receptacles",
+    "NEC 406.9(A)/406.4 \u2014 outdoor receptacles must be a listed weather-resistant (WR) type",
+    "Manufacturer installation instructions for in-use weatherproof covers (e.g., TayMac/Hubbell, Leviton)"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for a licensed electrician or your local building code. Electrical codes (NEC adoption and local amendments) vary by jurisdiction and edition; verify requirements with your local building department and permit office before doing electrical work.",
+  "verified": true,
+  "verifierNote": "Confirmed NEC cites (406.9(B), 406.9(B)(1) extra-duty, 210.8(A), WR requirement) and DIY/cost/time ranges; fixed GFCI LINE wiring to specify the supply/always-hot side (not just \"black to LINE\"), added aluminum-wiring pro routing in DIY/safety, and removed the inaccurate \"weep hole/drain\" claims (in-use covers seal rather than drain).",
+  "kind": "spoke"
+}

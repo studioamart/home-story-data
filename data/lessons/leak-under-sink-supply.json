@@ -1,0 +1,88 @@
+{
+  "slug": "leak-under-sink-supply",
+  "system": "plumbing",
+  "title": "How to Prevent Leaks at Under-Sink Supply Lines and Shutoff Valves",
+  "question": "How do I stop my under-sink water supply lines and shutoff valves from leaking, and what's the right way to make those connections so they don't drip?",
+  "summary": "Most under-sink leaks come from over-tightening, mismatched connection types, or aged hoses and valves \u2014 not from \"not tight enough.\" Learn the right way to seat compression nuts, thread faucet connectors, and replace tired shutoffs so the cabinet under your sink stays dry. A practical guide to making drip-free under-sink water connections and catching small leaks before they rot your cabinet.",
+  "commonCauses": [
+    {
+      "cause": "Over-tightening the connection \u2014 the #1 mistake. Cranking a compression nut or supply-line coupling too hard deforms the brass ferrule or cracks the plastic faucet shank, creating a leak that gets worse the harder you tighten.",
+      "likelihood": "most common",
+      "quickCheck": "If a joint still weeps after you've torqued it hard, stop. Back it off and reseat \u2014 more force is making it worse, not better."
+    },
+    {
+      "cause": "Wrong sealant on the wrong joint. Tapered pipe threads (NPT) need PTFE tape or pipe dope; compression and faucet-coupling threads (the rubber-gasketed flexible connectors) need NO tape at all \u2014 the gasket or ferrule does the sealing.",
+      "likelihood": "most common",
+      "quickCheck": "Look at the fitting end. A flat rubber washer inside the nut = no tape, hand-tight plus a quarter turn. Bare male threads going into a valve body = tape/dope."
+    },
+    {
+      "cause": "Old braided or vinyl supply hoses past their service life. Vinyl risers harden and split; cheap braided lines fail at the crimped collar. Many manufacturers suggest replacing braided stainless supply lines roughly every 5-10 years.",
+      "likelihood": "common",
+      "quickCheck": "Squeeze the hose and inspect the metal crimp at each end for rust stains, bulging, or a green/white crust \u2014 replace if you see any."
+    },
+    {
+      "cause": "Worn multi-turn (gate-style) shutoff valves. Old valves seep at the packing nut (the stem) or won't fully close. Quarter-turn ball valves are far more reliable and are the modern standard.",
+      "likelihood": "common",
+      "quickCheck": "Open and close the valve. If water seeps from around the stem/handle when you turn it, snug the packing nut a sixth-turn; if it still seeps or won't shut off fully, replace the valve."
+    },
+    {
+      "cause": "Cross-threaded or crooked nut start. Starting a nut at an angle chews the threads and guarantees a slow leak no matter how tight you go.",
+      "likelihood": "common",
+      "quickCheck": "Every nut should spin on freely by hand for several turns. If it binds in the first turn, back it all the way off and restart straight."
+    },
+    {
+      "cause": "Old ferrule reused on a new valve, or an over-bent/kinked supply line stressing the joint. A line bent too sharply to reach the faucet puts constant side-load on the nut.",
+      "likelihood": "less common",
+      "quickCheck": "Check that the supply line makes a smooth gentle curve, not a kink, and isn't pulling sideways on either connection."
+    }
+  ],
+  "fixes": [
+    "Shut off water and depressurize. Close the under-sink shutoffs (clockwise / handle perpendicular to the pipe), then open the faucet to release pressure. If a shutoff is what's leaking or won't hold, close the home's main shutoff instead. Put a towel and a small pan or bucket in the cabinet.",
+    "Identify each joint and its sealing method before touching anything. Trace from the wall valve up to the faucet: valve-to-supply-line nut (compression or gasketed coupling = no tape), and supply-line-to-faucet nut (gasketed coupling = no tape). Only bare tapered male pipe threads get tape or dope.",
+    "For a weeping compression or coupling nut, first try a gentle snug \u2014 hand-tight, then 1/4 to 1/2 turn with a wrench, no more. Wipe the joint bone-dry, restore pressure, and watch for 10-15 minutes. If it still weeps, do NOT keep tightening.",
+    "If it still leaks, take the joint apart. On a gasketed flexible connector, check the rubber washer is present, seated flat, and not pinched or torn \u2014 replace the connector if the washer is damaged. On a true compression joint, inspect the brass ferrule; if deformed, replace the supply line (and ideally the ferrule).",
+    "When installing a new flexible supply line, hand-thread both nuts straight until snug \u2014 they should spin freely first. Then tighten about 1/4 turn past hand-tight with a wrench. The rubber gasket does the work; gorilla force splits plastic faucet shanks. Leave a smooth, un-kinked curve in the line.",
+    "For tapered male pipe threads only (e.g., a valve nipple into the wall stub-out): wrap 3-4 turns of PTFE tape clockwise (in the direction the nut tightens) or apply a thin film of pipe dope, then thread on and tighten firmly.",
+    "To upgrade or replace a bad shutoff: if it's a compression-style angle stop, you can swap it without soldering \u2014 close the main, cut/remove the old valve, slide on a new quarter-turn compression angle stop with a fresh ferrule, and tighten. If the stub-out is soldered/sweated copper or you're unsure of the connection type, this is the point to call a pro.",
+    "Restore pressure slowly: crack the valve open, let it fill, then open fully. Run the faucet hot and cold. Dry every joint with a paper towel and re-check after 15 minutes, then again after a day \u2014 slow leaks take time to show.",
+    "Inspect the cabinet floor and back panel while you're in there. If you find soft, swollen, or blackened wood, or visible mold larger than about 10 square feet (roughly a 3x3-foot patch), stop and bring in a pro \u2014 that's water damage and a mold-remediation/structural issue, not a plumbing fix.",
+    "Add cheap insurance: place an under-sink leak alarm (battery puck, ~$10-15) or a drip tray in the cabinet. Catching a slow seep early is what saves the cabinet floor and avoids mold."
+  ],
+  "diyVsPro": "DIY-friendly for the common cases: tightening or reseating a gasketed supply nut, swapping a braided supply line, and replacing a compression-style quarter-turn angle stop are all reasonable homeowner jobs with basic tools. Call a licensed plumber if the shutoff is connected to soldered/sweated copper (requires a torch or special fittings), if the stub-out comes out of the wall loose or corroded, if the leak is inside the wall, if you find rotted cabinet wood or mold over ~10 sq ft, or if you've reseated a joint correctly and it still leaks. Never keep over-tightening to \"win\" \u2014 that's how a drip becomes a flood.",
+  "typicalCostUSD": "$5-25 DIY for a braided supply line and PTFE tape; $8-20 for a quarter-turn compression angle stop; $10-15 for a leak alarm. A plumber replacing a shutoff valve or supply lines typically runs $150-350 including a service-call minimum.",
+  "timeEstimate": "15-30 minutes to reseat or replace a supply line; 30-60 minutes to swap a compression shutoff valve, including water-off and testing time.",
+  "safetyLevel": "caution",
+  "safetyNote": "This is no-gas, no-high-voltage plumbing, so the main risk is water damage, not personal injury \u2014 but a hidden slow leak can rot the cabinet and feed mold, so dry every joint and re-check over a day. Keep electrical items (power strips, disposer outlets) out of the wet zone while you work. Know where your home's main shutoff is before you start, in case the local valve won't hold. If pipes are soldered copper or the stub-out is corroded/loose, or you find rotted wood or mold larger than ~10 sq ft, stop and call a pro rather than risk a burst connection or hidden structural and mold damage.",
+  "toolsParts": [
+    "Adjustable wrench (or two) / channel-lock pliers",
+    "PTFE plumber's tape (for tapered pipe threads only)",
+    "Pipe joint compound / pipe dope (optional, for NPT threads)",
+    "New braided stainless steel flexible supply line(s), correct length and end fittings",
+    "Quarter-turn compression angle stop valve (if replacing a shutoff)",
+    "Replacement brass compression ferrule/sleeve and nut (if redoing a compression joint)",
+    "Towels, small pan or bucket",
+    "Flashlight or headlamp",
+    "Paper towels (for spotting weeps)",
+    "Under-sink water leak alarm or drip tray (optional insurance)"
+  ],
+  "searchTerms": [
+    "how to stop under sink shutoff valve from leaking",
+    "under sink water supply line leaking at nut",
+    "do you use teflon tape on faucet supply line connections",
+    "how tight to tighten compression nut shutoff valve",
+    "replace under sink angle stop quarter turn valve",
+    "braided supply line leaking at crimp",
+    "faucet supply line dripping how to fix",
+    "prevent leaks under bathroom sink supply lines"
+  ],
+  "sources": [
+    "General plumbing best-practice guidance on compression fittings and angle-stop installation",
+    "Faucet and supply-line manufacturer installation instructions (gasketed flexible connectors: hand-tight plus 1/4 turn, no tape)",
+    "Common building-code and trade norms favoring quarter-turn ball-type shutoff valves",
+    "Reputable consumer DIY plumbing references on supply-line and shutoff-valve replacement"
+  ],
+  "disclaimer": "General home-maintenance information, not professional plumbing advice. Water connections and local plumbing codes vary; when a connection type, valve, or stub-out condition is beyond your comfort level, hire a licensed plumber. Always shut off and depressurize the water before working.",
+  "verified": true,
+  "verifierNote": "Confirmed torque/tape/quarter-turn guidance and costs match US practice; added explicit pro-routing for rotted cabinet wood and mold over ~10 sq ft in fixes, diyVsPro, and safetyNote; tightened the \"low-voltage-free\" wording.",
+  "kind": "spoke"
+}

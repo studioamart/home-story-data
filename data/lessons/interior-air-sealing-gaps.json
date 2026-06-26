@@ -1,0 +1,86 @@
+{
+  "slug": "interior-air-sealing-gaps",
+  "system": "interior",
+  "title": "How to Seal Air Gaps for Better Insulation \u2014 Causes & Fixes",
+  "question": "How do I fill gaps and cracks to keep cold or hot air out of my house?",
+  "summary": "Air leaks around windows, doors, outlets, and where walls meet floors quietly drain your heating and cooling. Sealing them with caulk, weatherstripping, foam gaskets, and spray foam is a cheap, mostly DIY weekend job that pays back in comfort and lower bills.",
+  "commonCauses": [
+    {
+      "cause": "Gaps and worn weatherstripping around exterior doors and operable windows \u2014 the single biggest source of felt drafts.",
+      "likelihood": "most common",
+      "quickCheck": "On a windy day, run a wet hand along the edges; movement or a cool stream means leakage. You can often see daylight under a door."
+    },
+    {
+      "cause": "Unsealed gaps where pipes, wires, and cables pass through walls/floors (under sinks, behind the dryer, at the water heater).",
+      "likelihood": "most common",
+      "quickCheck": "Open the cabinet under a sink or look behind appliances for visible holes around supply lines and drains."
+    },
+    {
+      "cause": "Leaky electrical outlets and switch plates on exterior walls \u2014 air comes through the box. A modest source, but easy to fix.",
+      "likelihood": "common",
+      "quickCheck": "Hold your hand over the outlet on a cold day, or shine a flashlight from outside at night while someone looks from inside."
+    },
+    {
+      "cause": "Gaps along baseboards and where the wall meets the floor (the sill plate area), plus cracked window/door trim caulk.",
+      "likelihood": "common",
+      "quickCheck": "Look for visible cracks, separated trim, or feel for cool air at floor level near exterior walls."
+    },
+    {
+      "cause": "Recessed (can) lights, attic hatches, and the rim joist in the basement leaking air vertically through the house (stack effect).",
+      "likelihood": "less common",
+      "quickCheck": "Feel for drafts at attic access doors; in the basement, look at the band of wood where the floor framing sits on the foundation."
+    }
+  ],
+  "fixes": [
+    "Find the leaks first. On a cool, breezy day, move a damp hand slowly around windows, doors, outlets, baseboards, and pipe penetrations. Mark every spot where you feel air. (A lit incense stick works too, but keep open flame and smoke well away from any gas appliance, flue, or draft hood.)",
+    "Match the gap to the right product: caulk for stationary cracks up to about 1/4 inch (around trim, baseboards, where materials meet); for gaps roughly 1/4\u20131/2 inch, push in foam backer rod first, then caulk over it; weatherstripping for moving parts (door and window edges); a door sweep for the bottom of exterior doors; low-expansion spray foam for larger openings (around pipes, big penetrations); and pre-cut foam gaskets behind outlet/switch plates.",
+    "Caulk cracks: clean and dry the surface, pull off old failing caulk, load a tube of paintable acrylic-latex (interior) or silicone (kitchen/bath) into a caulk gun, cut the tip small at an angle, run a steady bead, then smooth it with a wet fingertip.",
+    "Weatherstrip doors and windows: clean the surface, measure each side, and apply adhesive-backed foam or V-strip (or screw-on for doors that get hard use). Test that the door/window still closes and latches without forcing it.",
+    "Add a door sweep to exterior doors: cut to width, hold it so it just brushes the threshold (not so tight it drags), and screw it to the inside bottom of the door.",
+    "Seal pipe and wire penetrations: small gaps get caulk; larger gaps get low-expansion ('window and door') spray foam. Wear gloves and eye protection, spray in short bursts since it expands a lot, and trim the cured excess flush with a knife.",
+    "Install foam gasket seals behind outlet and switch plates on exterior walls: turn the circuit off at the breaker (and confirm it's dead before touching anything inside the box), unscrew the plate, drop in the pre-cut gasket, and screw the plate back on. Add child-safety plug caps to unused outlets for an extra seal.",
+    "For the attic hatch, add foam weatherstripping around the opening and a batt of insulation on top of the hatch cover. Do NOT pack insulation or foam tight against recessed can lights unless they are rated IC (insulation contact) \u2014 non-IC fixtures are a fire risk.",
+    "Re-check your work after sealing to confirm the drafts are gone, and keep at least one fresh-air path (like a bathroom exhaust fan or trickle vent) so a tightened house still breathes."
+  ],
+  "diyVsPro": "Caulking, weatherstripping, door sweeps, outlet gaskets, and foaming visible pipe gaps are squarely DIY \u2014 no special skill needed, just patience. Call a pro (energy auditor or insulation contractor) if you want a blower-door test to find hidden leaks, if leaks are coming from the attic/crawlspace and you're not comfortable working there, if you suspect non-IC recessed lights need replacing (electrician), or if sealing is near gas-appliance vents or combustion-air openings \u2014 over-sealing around a furnace or water heater can cause dangerous backdrafting and is not a DIY guess.",
+  "typicalCostUSD": "DIY: $30\u2013$150 for a whole-house kit of caulk, weatherstripping, a door sweep, a can of foam, and outlet gaskets. Pro energy audit with blower-door test: $200\u2013$600 (sometimes free or rebated through your utility). Pro air-sealing package: $350\u2013$1,500+ depending on house size and attic work.",
+  "timeEstimate": "2\u20136 hours for a typical room-by-room pass; a full small house over a weekend.",
+  "safetyLevel": "caution",
+  "safetyNote": "Turn off the breaker before removing any outlet or switch plate, and confirm the box is dead before reaching in. Never pack insulation or spray foam tightly against non-IC-rated recessed lights or against gas-appliance flues/vents \u2014 both are fire and carbon-monoxide hazards. Don't over-seal a house with combustion appliances (furnace, gas water heater, fireplace) without confirming they still get enough combustion/make-up air; backdrafting pulls exhaust gases back indoors. Use spray foam in a ventilated area with gloves and eye protection, and keep the incense-stick leak test away from any flame-sensitive or gas-vent area.",
+  "toolsParts": [
+    "Caulk gun and paintable acrylic-latex caulk (plus silicone for kitchen/bath)",
+    "Foam backer rod (for gaps about 1/4\u20131/2 inch)",
+    "Adhesive-backed foam or V-strip weatherstripping",
+    "Exterior door sweep",
+    "Low-expansion ('window and door') spray foam",
+    "Pre-cut foam outlet/switch gaskets",
+    "Utility knife and putty knife",
+    "Incense stick or smoke pencil (leak detector)",
+    "Caulk-smoothing tool or just a wet finger",
+    "Gloves and safety glasses",
+    "Tape measure and screwdriver"
+  ],
+  "searchTerms": [
+    "how to seal air leaks in house",
+    "air sealing gaps for insulation",
+    "weatherstripping doors and windows",
+    "caulk vs spray foam gaps",
+    "draft proofing home",
+    "seal around pipes in wall",
+    "outlet gasket draft",
+    "reduce heating bill air leaks",
+    "find air leaks incense test",
+    "attic hatch air seal"
+  ],
+  "sources": [
+    "U.S. Department of Energy (Energy Saver) air-sealing and weatherization guidance",
+    "ENERGY STAR home sealing recommendations",
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila) in spirit",
+    "Spray foam and caulk manufacturer application instructions",
+    "Building-code and fire-safety norms for IC-rated fixtures and combustion appliance venting"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional engineering or safety advice. Conditions vary by home; when gas appliances, electrical work beyond a cover plate, or attic/crawlspace work are involved, consult a licensed professional. You are responsible for working safely and following local codes.",
+  "verified": true,
+  "verifierNote": "Confirmed combustion/backdrafting and non-IC recessed-light warnings are correct; added backer rod for 1/4\u20131/2\" gaps, an incense-near-gas-appliance caveat, a \"confirm box is dead\" electrical step, and softened the outlet-leak claim to a modest source. safetyLevel \"caution\" upheld \u2014 all gas/attic/electrician work is routed to pros.",
+  "kind": "pillar"
+}

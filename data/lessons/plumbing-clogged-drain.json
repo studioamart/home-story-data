@@ -1,0 +1,87 @@
+{
+  "slug": "plumbing-clogged-drain",
+  "system": "plumbing",
+  "title": "Slow or Clogged Drain \u2014 Causes & How to Fix It",
+  "question": "Why is my drain slow or clogged and how do I unclog it?",
+  "summary": "Most slow drains come from hair, grease, soap scum, or food building up in the trap or branch line, and you can usually clear them with a plunger, a drain snake, or by cleaning the P-trap. Whole-house backups or sewage smells point to a main line problem that needs a pro.",
+  "commonCauses": [
+    {
+      "cause": "Hair and soap scum buildup in bathroom sink, tub, and shower drains \u2014 the single most common cause, usually caught right at the stopper or a few inches down.",
+      "likelihood": "most common",
+      "quickCheck": "Pull the pop-up stopper or remove the tub/shower strainer and look for a hair clump; shine a flashlight down the drain."
+    },
+    {
+      "cause": "Grease, fat, and food scraps in the kitchen sink line \u2014 grease congeals on pipe walls and traps debris over time.",
+      "likelihood": "most common",
+      "quickCheck": "Note if it's only the kitchen sink that's slow and whether it worsened after cooking; run hot water and listen for slow drainage."
+    },
+    {
+      "cause": "Object or debris stuck in the P-trap (the U-shaped pipe under the sink) \u2014 jewelry, toothpaste caps, gunk.",
+      "likelihood": "common",
+      "quickCheck": "Look under the sink; if water drains fine elsewhere but not this one fixture, the trap is the likely spot."
+    },
+    {
+      "cause": "A clogged or sticking sink stopper / pop-up assembly that isn't fully opening.",
+      "likelihood": "common",
+      "quickCheck": "Lift the pop-up by hand or remove it; if the drain runs fast with the stopper out, the stopper is the problem."
+    },
+    {
+      "cause": "Partial blockage in the branch line beyond the trap (the horizontal pipe running to the main).",
+      "likelihood": "common",
+      "quickCheck": "If a plunger and trap cleaning don't help but only one fixture is affected, the clog is deeper in that branch."
+    },
+    {
+      "cause": "Main sewer line blockage \u2014 tree roots, collapsed pipe, or heavy buildup. Affects multiple fixtures at once.",
+      "likelihood": "less common",
+      "quickCheck": "Check if flushing a toilet makes the tub gurgle or back up, or if the lowest drains (basement, ground-floor tub) overflow \u2014 that signals the main."
+    },
+    {
+      "cause": "Blocked vent stack (the pipe through the roof) \u2014 clogged by debris or a nest, or frozen shut in deep-freeze climates \u2014 causing slow, gurgling drains throughout.",
+      "likelihood": "less common",
+      "quickCheck": "Listen for gurgling and notice slow draining across many fixtures with no visible clog in any trap."
+    }
+  ],
+  "fixes": [
+    "Try a plunger first. For a sink, block the overflow hole (and the second basin in a double sink) with a wet rag, fill enough water to cover the plunger cup, and plunge firmly 10\u201315 times. This clears most simple clogs without chemicals.",
+    "Clean the P-trap. Put a bucket under the U-shaped pipe, unscrew the two slip nuts by hand or with channel-lock pliers, dump and clean out the trap, then reassemble. This catches hair clumps and dropped objects.",
+    "Use a drain snake / hair-clog tool. A cheap plastic 'zip-it' barbed strip pulls hair out of bathroom drains. For deeper clogs, feed a hand auger (drain snake) down the drain or into the trap arm, crank to catch the clog, then pull it back out.",
+    "Pull and clean the stopper. Remove the sink pop-up or tub stopper (often a small nut behind the sink, or a screw under a tub overflow plate) and clear the hair and gunk wrapped around it.",
+    "For grease in a kitchen line, after clearing flush with very hot tap water (not boiling \u2014 boiling can soften PVC and loosen joints) plus dish soap, then run hot water a minute. Avoid pouring grease down the drain going forward.",
+    "Skip or minimize chemical drain cleaners. They often don't fully clear clogs, can damage older or PVC pipes, and the caustic water left sitting is dangerous if you later open the trap. If you must, follow label directions exactly and never mix products.",
+    "If multiple fixtures back up, the lowest drains overflow, or a toilet makes the tub gurgle, stop DIY and call a plumber \u2014 that's a main line issue needing a powered auger or camera inspection."
+  ],
+  "diyVsPro": "A single slow fixture is squarely DIY: plunger, P-trap cleaning, and a hand snake solve the large majority of these for a few dollars. Call a licensed plumber when more than one fixture backs up at the same time, you see or smell sewage, water comes up the lowest drains when you run another, or a hand snake won't reach or clear the clog \u2014 these point to a main sewer line or vent problem that needs a power auger, hydro-jetting, or a camera inspection. Recurring clogs in the same spot also warrant a pro to check for pipe damage, a bellied pipe, or root intrusion. Don't climb onto the roof to clear a vent yourself \u2014 leave roof-height work to a pro.",
+  "typicalCostUSD": "DIY: $0\u2013$30 (plunger, plastic hair tool, or a basic hand auger). Pro: roughly $125\u2013$300 to clear a single drain or trap; $200\u2013$650 for a main line auger; $400\u2013$900+ for hydro-jetting; $250\u2013$550 for a sewer camera inspection. Costs vary by region and severity.",
+  "timeEstimate": "15\u201345 minutes for a plunger, trap cleaning, or snaking a single drain. Add time if you need to buy a tool.",
+  "safetyLevel": "caution",
+  "safetyNote": "If you've already poured a chemical drain cleaner in, do NOT open the P-trap or plunge \u2014 the caustic water can splash your skin and eyes; wear gloves and eye protection and let a plumber handle it. Don't use boiling water on PVC pipes, and never mix drain-cleaning chemicals (it can release toxic gas). Standing water plus electricity is a shock risk \u2014 turn off the garbage disposal at the breaker and unplug it before reaching into a kitchen drain, and never reach into a disposal with your hand. Don't clear a roof vent stack yourself; roof-height work belongs to a pro.",
+  "toolsParts": [
+    "Cup plunger (sink/tub) \u2014 not a flange toilet plunger",
+    "Bucket and rags",
+    "Channel-lock / slip-joint pliers",
+    "Plastic hair-clog tool ('zip-it')",
+    "Hand drain auger (snake), 1/4-inch",
+    "Rubber gloves and eye protection",
+    "Old toothbrush or rag for cleaning the trap",
+    "Dish soap"
+  ],
+  "searchTerms": [
+    "how to unclog a slow drain",
+    "clean P-trap under sink",
+    "plunge a sink drain",
+    "hair clog bathroom drain remove",
+    "kitchen sink draining slow grease",
+    "drain snake how to use",
+    "multiple drains backing up main line",
+    "when to call plumber for clogged drain"
+  ],
+  "sources": [
+    "reputable DIY references (This Old House, Family Handyman, Bob Vila in spirit)",
+    "plumbing fixture and drain manufacturer guidance",
+    "general residential plumbing code norms (drain/waste/vent principles)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional plumbing advice. Conditions vary by home, pipe age, and local code. If you're unsure, smell sewage, see widespread backups, or have already used chemical drain cleaner, stop and call a licensed plumber.",
+  "verified": true,
+  "verifierNote": "Confirmed causes, fixes, and safety gating are sound; tightened the hot-water wording (boiling softens PVC), nudged pro cost ranges up for 2026, broadened the vent-stack cause beyond freezing, and added explicit warnings against reaching into a disposal and against climbing the roof to clear a vent.",
+  "kind": "pillar"
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "yard-fence-repair",
+  "system": "yard",
+  "title": "Fence Post Repair: Why Posts Lean or Rot and How to Fix Them",
+  "question": "How do I fix a leaning or rotted fence post?",
+  "summary": "A fence post leans or wobbles when its base rots, the concrete footing heaves or cracks, or the post was never set deep enough. You can often brace and re-set a loose post, but a post rotted off at the ground line needs to be replaced or sistered with a steel anchor.",
+  "commonCauses": [
+    {
+      "cause": "Wood rot at the ground line where the post meets soil/concrete and stays damp",
+      "likelihood": "most common",
+      "quickCheck": "Push on the post and probe the base with a screwdriver or awl. If the wood is soft, punky, or the tip sinks in easily right at soil level, it's rotted."
+    },
+    {
+      "cause": "Post set too shallow or with no/too-little concrete, so it works loose over time",
+      "likelihood": "common",
+      "quickCheck": "Wiggle the post. If the whole post and its footing rock together in the ground (not the wood flexing), it was set too shallow. Dig down a few inches to see how much concrete is there."
+    },
+    {
+      "cause": "Frost heave or saturated soil pushing the footing up or sideways over seasons",
+      "likelihood": "common",
+      "quickCheck": "Look for a footing that has risen above grade or tilted as a unit, common in cold climates or low/wet spots. Compare lean direction across several posts after winter."
+    },
+    {
+      "cause": "Wind load, leaning fence sections, or a gate sagging on a corner/end post",
+      "likelihood": "common",
+      "quickCheck": "Check gate and corner posts first; if the lean is worst where a gate hangs or where long runs catch wind, the load is the cause, not the wood."
+    },
+    {
+      "cause": "Concrete footing cracked or the post pulled loose from a bell-shaped footing that traps water",
+      "likelihood": "less common",
+      "quickCheck": "Tap the concrete and inspect for cracks; if water pools in the gap between post and concrete, the footing is holding moisture against the wood."
+    }
+  ],
+  "fixes": [
+    "First diagnose: probe the post base with a screwdriver. Sound wood = re-set it. Soft/rotted wood = replace or anchor it. Call 811 (free) a few business days before any digging to mark buried utilities.",
+    "RE-SET A LOOSE BUT SOUND POST: Plumb it with a level, then brace it in two directions with 2x4 stakes screwed to the post. Dig out around the base, then either pour fresh concrete around the existing footing or backfill with compacted gravel for drainage.",
+    "POUR METHOD: Mix fast-setting post-mix concrete per the bag, slope the top away from the post to shed water, and let it cure (follow the bag; typically a few hours before light load, 24-48 hours before rehanging gates or panels).",
+    "REPLACE A ROTTED POST: Detach rails/panels, remove the old post and footing (a high-lift jack or post puller helps; bust old concrete with a sledge if needed). Dig a new hole roughly one-third the post's above-ground height AND below your local frost line, whichever is deeper. Many regions need about 2 ft, but cold-climate frost lines can require 3-4 ft or more, so check your local code.",
+    "Add 4-6 in of gravel at the bottom for drainage, set a pressure-treated (ground-contact rated, e.g. UC4A/UC4B) post, plumb and brace it, then pour concrete crowned above grade. Use hot-dip galvanized or exterior-rated fasteners to reattach rails.",
+    "NO-DIG / SISTER FIX for a post snapped at the base with the footing still solid: drive or bolt a steel post anchor (Post Buddy or E-Z Mender style brace) alongside the existing footing and fasten it to the sound upper wood. Only suitable for low-load line posts, not gate, corner, or end posts.",
+    "STRAIGHTEN A HEAVED POST: if the wood and footing are sound, you may be able to dig out one side, push the post plumb, brace it, and backfill with compacted gravel to improve drainage and reduce future heave. If it heaves again, the footing likely needs to go deeper, below the frost line."
+  ],
+  "diyVsPro": "A single loose or rotted line post is a reasonable weekend DIY job with basic tools. Call a fence contractor when: multiple posts have failed, the posts are set in large/deep concrete you can't break out, the fence is on a slope or retaining a grade, it's a shared property-line fence (confirm cost-sharing with your neighbor first), or it's tied into anything structural (a deck, carport, or load-bearing element). Tall fences (6 ft+) and heavy gate posts are awkward and risky to handle solo, so get a helper or a pro.",
+  "typicalCostUSD": "DIY single post: roughly $30-$90 in materials (a treated 4x4 is ~$15-$30 and a 6x6 ~$35-$70, plus 1-3 bags of fast-set concrete at ~$7-$12 each). No-dig steel brace kits run ~$25-$50. Pro replacement: roughly $150-$450 per post depending on region, post size, concrete removal, and gate involvement.",
+  "timeEstimate": "Re-setting or bracing a sound post: 1-2 hours plus cure time. Full replacement of one post including removing old concrete: 3-5 hours, often spread across a day to let concrete cure before reattaching panels.",
+  "safetyLevel": "caution",
+  "safetyNote": "Call 811 a few business days ahead to have buried gas, electric, water, and cable lines located before you dig; hitting a gas or power line can be fatal. Lift posts and concrete with your legs and get a helper for heavy or tall posts. Wear gloves, eye protection, and an N95/dust mask when mixing dry concrete or breaking up old footings (concrete dust contains silica). Wet concrete is caustic and can burn skin, so rinse off splashes. Pressure-treated wood dust is an irritant, so wear the mask when cutting and never burn the scraps. If you uncover or suspect a buried utility line, stop and call the utility.",
+  "toolsParts": [
+    "Screwdriver or awl (to probe for rot)",
+    "Post hole digger or auger",
+    "Shovel and digging bar",
+    "4-ft level (to plumb the post)",
+    "2x4 stakes and screws for bracing",
+    "Fast-setting post-mix concrete",
+    "Gravel (for drainage at hole bottom)",
+    "Pressure-treated, ground-contact-rated 4x4 or 6x6 post",
+    "Hot-dip galvanized or exterior-rated screws/nails",
+    "Drill/driver and circular or reciprocating saw",
+    "Sledgehammer (to break old concrete)",
+    "Optional: steel post anchor/brace kit, high-lift jack or post puller",
+    "Gloves, safety glasses, N95/dust mask"
+  ],
+  "searchTerms": [
+    "fence post leaning fix",
+    "how to replace a rotted fence post",
+    "reset wobbly fence post",
+    "fence post repair without removing",
+    "no dig fence post anchor",
+    "fence post concrete how deep",
+    "straighten leaning fence post",
+    "fence post rotted at base"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila in spirit)",
+    "Concrete and post-mix manufacturer guidance (e.g., Quikrete-style fast-setting post instructions)",
+    "Building-code norms for footing depth below frost line and ground-contact pressure-treated lumber (UC4A/UC4B) use",
+    "811 'Call Before You Dig' utility-locate program guidance"
+  ],
+  "disclaimer": "General home-maintenance information, not professional engineering or legal advice. Verify footing depth against your local frost line and building code, confirm property-line and cost-sharing rules with your neighbor and local ordinances, and consult a licensed contractor for multiple failed posts, sloped/retaining situations, or any structural concern. Always call 811 before digging.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes/costs and the DIY-appropriate \"caution\" level; corrected the 2-ft depth to defer to frost line (3-4 ft in cold climates), added 811 lead-time, ground-contact lumber rating (UC4A/UC4B), hot-dip galvanized fasteners, wet-concrete caustic + silica-dust warnings, scoped the no-dig brace away from end posts, and updated lumber/concrete/pro cost ranges to 2026.",
+  "kind": "pillar"
+}

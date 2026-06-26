@@ -1,0 +1,102 @@
+{
+  "slug": "appliances-fridge-not-cooling",
+  "system": "appliances",
+  "title": "Refrigerator Not Cooling \u2014 Causes & How to Fix It",
+  "question": "Why is my refrigerator not cooling?",
+  "summary": "A fridge that runs but won't cool is most often caused by dirty condenser coils, blocked vents, or a failed evaporator fan or defrost system \u2014 several of which you can check and fix yourself before calling for service.",
+  "commonCauses": [
+    {
+      "cause": "Dirty/dusty condenser coils (under or behind the fridge) trapping heat so the compressor can't shed it",
+      "likelihood": "most common",
+      "quickCheck": "Pull the fridge out or pop off the front kickplate and look at the coils; if they're caked in dust and pet hair, that's likely it."
+    },
+    {
+      "cause": "Blocked airflow inside \u2014 packed-full fridge, items against the rear vents, or a freezer too full so cold air can't circulate to the fridge compartment",
+      "likelihood": "most common",
+      "quickCheck": "Check whether food is jammed against the vents at the back/top of the compartments; the freezer may still feel cold while the fridge is warm."
+    },
+    {
+      "cause": "Condenser fan (near the compressor at the back-bottom) not spinning, so the coils overheat",
+      "likelihood": "common",
+      "quickCheck": "With the fridge running, listen/look at the back-bottom fan; if it's silent or stalled, it may be jammed by debris or burned out."
+    },
+    {
+      "cause": "Evaporator fan (inside the freezer) failed \u2014 freezer may stay cold but the fridge gets warm because air isn't being pushed over the coils",
+      "likelihood": "common",
+      "quickCheck": "Open the freezer and listen for a fan; on many models, holding in the door light switch keeps the fan running. No fan sound often means a failed evaporator fan."
+    },
+    {
+      "cause": "Defrost system failure \u2014 frost builds up on the evaporator coils behind the freezer back panel and chokes off airflow",
+      "likelihood": "common",
+      "quickCheck": "Remove the freezer's interior back panel; a thick wall of ice/frost on the coils points to a bad defrost heater, thermostat, or timer/control board."
+    },
+    {
+      "cause": "Wrong temperature setting, a knocked dial, or 'demo/showroom/cooling off' mode accidentally enabled",
+      "likelihood": "common",
+      "quickCheck": "Confirm the fridge is set to ~37\u00b0F and freezer to ~0\u00b0F, and check the display/manual for a demo or vacation mode indicator."
+    },
+    {
+      "cause": "Bad door gasket (seal) letting warm room air leak in",
+      "likelihood": "less common",
+      "quickCheck": "Close a dollar bill in the door; if it slides out with almost no resistance, the gasket is worn or dirty."
+    },
+    {
+      "cause": "Power or placement issues \u2014 weak/partial power, or fridge crammed with no clearance or sitting next to a heat source",
+      "likelihood": "less common",
+      "quickCheck": "Verify it's on a working outlet, has a few inches of clearance, and isn't next to an oven or in a hot garage. Note: an interior LED light can glow even when voltage is too low for the compressor, so the light alone doesn't confirm good power."
+    },
+    {
+      "cause": "Start relay/compressor fault or a refrigerant (sealed-system) leak",
+      "likelihood": "less common",
+      "quickCheck": "If the compressor never runs (no hum/warmth at the back) or it runs constantly but never cools despite clean coils and working fans, the sealed system or compressor likely needs a pro."
+    }
+  ],
+  "fixes": [
+    "Set the correct temps first: fridge 37\u00b0F, freezer 0\u00b0F. Rule out a bumped dial or a 'demo/showroom' mode (check the display and owner's manual for how to exit it). Give it 24 hours to recover before judging.",
+    "Confirm power: make sure it's plugged in fully, the outlet works (test with another device), and no breaker is tripped. (A standard fridge usually shouldn't be on a GFCI outlet, but if it shares one, check that it hasn't tripped.) Note the interior light can work even when voltage is too low to run the compressor, so don't treat the light as proof of good power.",
+    "Free up airflow: don't overpack, keep food off the rear and top interior vents, keep the freezer reasonably full but not blocking vents, leave a few inches of clearance around the cabinet, and keep it away from heat sources.",
+    "Clean the condenser coils \u2014 the single highest-payoff DIY fix. Unplug the fridge, find the coils (behind a front kickplate or on the back), and vacuum/brush off dust and pet hair. Do this every 6\u201312 months, then plug back in.",
+    "Check the condenser fan (back-bottom, near the compressor) with the unit unplugged: clear any debris and spin it by hand. If it won't spin freely or never runs when powered, the fan motor likely needs replacing.",
+    "Check the evaporator fan inside the freezer: with the door open, hold in the door light switch \u2014 on most models you should hear a fan. Silence often means a failed evaporator fan motor (a common, moderate DIY part swap).",
+    "Look for frost buildup: remove the freezer's interior back panel. A thick ice sheet on the coils means a defrost-system failure. WARNING \u2014 the full unplug-to-thaw test below will spoil all food, so move perishables to a cooler or another fridge first. As a temporary diagnostic, unplug the fridge 24\u201348 hours to fully thaw it; if it cools fine afterward then frosts up again, the defrost heater/thermostat/control board needs repair.",
+    "Inspect and clean the door gaskets; wash with warm soapy water. If the dollar-bill test shows no grip or the gasket is cracked/torn, replace it (an inexpensive, doable DIY part).",
+    "If the compressor never hums/runs, or it runs nonstop yet won't cool with clean coils and working fans, stop here \u2014 that points to a start relay, compressor, or sealed-refrigerant fault that needs a pro."
+  ],
+  "diyVsPro": "DIY is fine for settings, airflow, coil cleaning, gaskets, and even swapping a condenser or evaporator fan motor or a defrost heater/thermostat if you're comfortable unplugging the unit and following the model's repair guide. Call a licensed appliance tech for anything in the sealed refrigerant system (recharging or leak repair requires EPA Section 608 certification by law), compressor or start-relay replacement, or control-board diagnosis you can't confirm. If the fridge is old (12+ years) and the repair quote approaches half the price of a new unit, replacing is usually the smarter call.",
+  "typicalCostUSD": "DIY parts: coil brush $10\u201315; door gasket $50\u2013120; evaporator or condenser fan motor $30\u201390; defrost heater/thermostat $20\u201360. Pro service call/diagnosis: $80\u2013150, often credited toward the repair. Fan or defrost-part repair by a pro: $200\u2013400. Compressor or sealed-system/refrigerant repair: $400\u20131,000+, frequently approaching replacement cost. New refrigerator: $600\u20132,500+.",
+  "timeEstimate": "5 minutes to check settings/power; 20\u201340 minutes to clean coils and inspect fans/gaskets; 24\u201348 hours if you run the defrost-test; 30\u201390 minutes for a DIY fan or defrost-part replacement.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always unplug the refrigerator before reaching near the condenser fan, coils, or any internal panel \u2014 fan blades and electrical terminals can injure you. Don't attempt sealed refrigerant-system or compressor work yourself: it's pressurized and handling refrigerant requires EPA Section 608 certification. A fridge is heavy and can tip when pulled out, so move it slowly and mind the water/ice lines. If you run the unplug-to-thaw defrost test, relocate all perishable food first to avoid spoilage and foodborne illness.",
+  "toolsParts": [
+    "Coil cleaning brush or vacuum with crevice tool",
+    "Screwdrivers (Phillips and flat / nut driver)",
+    "Flashlight",
+    "Owner's/repair manual for your model",
+    "Replacement door gasket (if needed)",
+    "Replacement fan motor or defrost part (if diagnosed)",
+    "Soft cloth and warm soapy water",
+    "Appliance thermometer",
+    "Cooler with ice (for the defrost test)"
+  ],
+  "searchTerms": [
+    "refrigerator running but not cooling",
+    "fridge warm freezer cold",
+    "how to clean refrigerator condenser coils",
+    "evaporator fan not working fridge",
+    "refrigerator frost on back panel",
+    "fridge demo mode turn off",
+    "refrigerator door seal replacement",
+    "how cold should a refrigerator be"
+  ],
+  "sources": [
+    "Manufacturer guidance (refrigerator owner's manuals and troubleshooting guides from major brands)",
+    "Reputable DIY references (This Old House, Family Handyman, and similar)",
+    "EPA Section 608 refrigerant-handling regulations",
+    "USDA food-safety guidance on cold-holding temperatures",
+    "Common appliance-repair best practices"
+  ],
+  "disclaimer": "This guide is general home-maintenance information, not professional repair advice. Always unplug the appliance before servicing and consult your model's manual. If you're unsure or the fault involves the sealed refrigerant system, compressor, or wiring, hire a licensed appliance technician.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes/costs and EPA 608 framing; added food-spoilage warning to the unplug-to-thaw defrost test, corrected the misleading \"interior light = good power\" claim, and softened the GFCI note (standard fridges typically aren't on GFCI). Caution level is appropriate \u2014 no gas/240V/roof work involved.",
+  "kind": "pillar"
+}

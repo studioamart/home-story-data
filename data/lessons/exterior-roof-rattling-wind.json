@@ -1,0 +1,81 @@
+{
+  "slug": "exterior-roof-rattling-wind",
+  "system": "exterior",
+  "title": "Roof Rattling or Banging in the Wind \u2014 Causes & Fixes",
+  "question": "Why does my roof rattle or bang when it's windy?",
+  "summary": "A roof that rattles or bangs in wind almost always means something up there has come loose \u2014 flashing, a vent cap, gutters, or lifting shingles catching the wind. Most causes are minor, but anything requiring you to get on the roof is a job for a pro.",
+  "commonCauses": [
+    {
+      "cause": "Loose metal flashing or drip edge \u2014 thin metal along edges, chimneys, and valleys vibrates and slaps in gusts as fasteners back out or sealant fails",
+      "likelihood": "most common",
+      "quickCheck": "During wind, listen for a metallic tinny slap near roof edges, the chimney, or where the roof meets a wall. From the ground with binoculars, look for any metal strip standing up or curled away from the surface."
+    },
+    {
+      "cause": "Loose or undersized vent caps / attic vents / turbine vents \u2014 plumbing vent flashing, ridge vent sections, or a wobbly turbine spinning on a worn bearing",
+      "likelihood": "common",
+      "quickCheck": "A rhythmic rattle, squeal, or whirring that tracks with gust strength usually points to a roof vent. A spinning turbine vent that squeaks is a worn bearing."
+    },
+    {
+      "cause": "Lifting or loose shingles \u2014 wind getting under shingle edges (failed adhesive strips, missing nails, or aging asphalt) makes a flapping or buzzing sound and risks blow-off",
+      "likelihood": "common",
+      "quickCheck": "Look for a soft flapping/buzzing rather than a metallic bang. From the ground, scan for shingles that look raised, curled, or out of line, and check the yard for shingle granules or pieces after a storm."
+    },
+    {
+      "cause": "Loose gutters, downspouts, or fascia \u2014 sagging gutters and detached downspout straps knock against the house in wind",
+      "likelihood": "common",
+      "quickCheck": "The banging comes from the edge/eave area, not the roof field. Check whether gutters are pulling away from the fascia or a downspout is loose at its wall brackets \u2014 both are visible and often reachable from a stepladder."
+    },
+    {
+      "cause": "Loose satellite dish, solar mounts, antenna, or attic-mounted ductwork/exhaust dampers \u2014 add-ons and their hardware loosen over time; a backdraft damper can clatter in gusts",
+      "likelihood": "less common",
+      "quickCheck": "Identify whether the noise is near a specific mounted object. A clattering you hear at a wall exhaust (bath/dryer/kitchen) when wind blows is usually the damper flap, not the roof."
+    },
+    {
+      "cause": "Structural movement \u2014 racking trusses, an undersized or wind-stressed roof deck, or storm-damaged framing flexing in high wind",
+      "likelihood": "less common",
+      "quickCheck": "A deep groan, creak, or thud from inside the attic structure (not a surface rattle), especially in a newer or recently altered roof, warrants a pro inspection \u2014 do not ignore it."
+    }
+  ],
+  "fixes": [
+    "First, locate the source from the ground and inside. In wind, walk the perimeter and listen: metallic slap = flashing/gutters; whir/squeal = vent; flap/buzz = shingles. Go into the attic during a windy spell (calm enough that you are not in a storm) and listen for where the sound is loudest.",
+    "Tighten what is safely reachable from the ground or a stable stepladder. Re-secure loose gutters with new gutter screws/hangers and reattach downspout straps to the wall. For a clattering wall-exhaust damper at ground or ladder level, add a foam/rubber bumper so the flap stops slapping.",
+    "Do not climb a sloped roof to lubricate or fix a turbine vent. Turbine and ridge vents sit on the roof slope, so a squealing turbine is a pro job \u2014 a roofer can lubricate or replace the bearing in minutes. Only attempt it yourself if the vent is genuinely accessible without standing on the slope, which is rare.",
+    "For loose flashing, lifting shingles, ridge/plumbing/turbine vents, or anything on the roof slope: hire a licensed, insured roofer. Re-nailing flashing, replacing sealant, hand-sealing shingle tabs with roofing cement, or swapping a vent cap is cheap for a pro and dangerous for a homeowner on a sloped roof.",
+    "After any storm, photograph the roof from the ground with a zoom or binoculars and check the yard for shingle pieces or torn metal. Document anything loose for your roofer or for an insurance claim if a storm caused it.",
+    "If you hear deep structural creaking or thudding from the attic framing, stop DIY and get a roofer or structural engineer/inspector out \u2014 that is a safety and integrity issue, not a noise nuisance."
+  ],
+  "diyVsPro": "DIY is fine for ground- and ladder-level work: re-securing gutters and downspouts and quieting a reachable exhaust damper. Call a licensed roofer for anything on the sloped roof surface \u2014 flashing, shingles, and ridge/plumbing/turbine vents (including lubricating a turbine) \u2014 because the work is simple but the height is not, and improper repairs cause leaks. Call a roofer or a structural engineer immediately if the noise is a deep groan from the framing, which can signal wind or structural damage.",
+  "typicalCostUSD": "DIY parts (gutter screws, straps, sealant, foam bumper): $10\u2013$40. Pro service call to re-secure flashing/vents/shingles: $150\u2013$500. Larger flashing or vent replacement: $400\u2013$1,200. Structural inspection: $300\u2013$700; structural repairs vary widely.",
+  "timeEstimate": "Locating the source: 30\u201360 minutes. Ground/ladder fixes: 1\u20132 hours. A pro roof repair visit: typically 1\u20133 hours.",
+  "safetyLevel": "call-a-pro",
+  "safetyNote": "Do not climb onto a sloped roof to chase a noise, and never go up during or right after high wind \u2014 falls from roofs are a leading cause of serious home-repair injuries. Diagnose from the ground, a stable stepladder, or inside the attic, and leave all roof-surface work (including turbine-vent lubrication) to a licensed, insured roofer. If you hear deep structural creaking, treat it as urgent.",
+  "toolsParts": [
+    "Binoculars or phone with zoom (ground inspection)",
+    "Stable stepladder (for gutter/eave-level work only)",
+    "Cordless drill and gutter screws/hangers",
+    "Downspout straps and screws",
+    "Foam/rubber bumper or weatherstrip (for rattling dampers)",
+    "Flashlight (attic inspection)",
+    "Phone/camera for documentation"
+  ],
+  "searchTerms": [
+    "roof rattling in wind",
+    "roof banging noise when windy",
+    "loose flashing roof noise",
+    "roof vent squealing wind",
+    "gutter banging in wind",
+    "shingles flapping in wind",
+    "turbine vent noise fix",
+    "why does my roof make noise in wind"
+  ],
+  "sources": [
+    "Manufacturer guidance (asphalt shingle and roof vent installation instructions)",
+    "Building-code norms (IRC roof covering and wind-resistance fastening requirements)",
+    "Reputable DIY references (This Old House, Family Handyman)",
+    "Roofing industry best practices (NRCA / ARMA general guidance)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for an on-site inspection by a licensed roofing or structural professional. Conditions vary by home, roof type, and local building code. When in doubt, or for any work on a sloped roof, hire a licensed, insured contractor.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/costs/call-a-pro level as accurate; removed the self-contradictory \"lubricate a turbine vent yourself\" step (turbines are roof-slope mounted) and routed turbine work to a pro, dropped silicone/grease from the DIY tools list, and tightened safety wording on roof access and structural escalation.",
+  "kind": "pillar"
+}

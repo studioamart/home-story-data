@@ -1,0 +1,87 @@
+{
+  "slug": "exterior-drafty-windows",
+  "system": "exterior",
+  "title": "Why Your Windows Are Drafty \u2014 Causes & How to Fix Them",
+  "question": "why are my windows so drafty and how do I stop the cold air coming in?",
+  "summary": "Most window drafts come from worn weatherstripping, gaps around the frame, or failed caulk \u2014 all cheap DIY fixes \u2014 not from needing new windows. Find the leak first, seal it, and only consider replacement if the window itself is rotted or the seal between glass panes has failed.",
+  "commonCauses": [
+    {
+      "cause": "Worn, flattened, or missing weatherstripping where the sash meets the frame (the moving parts of the window)",
+      "likelihood": "most common",
+      "quickCheck": "Open the window and run your fingers along the seal \u2014 if it's cracked, brittle, compressed flat, or gone, that's your leak. On a windy day, hold a lit incense stick near the seam and watch the smoke get pulled or blown (keep it away from curtains and anything flammable)."
+    },
+    {
+      "cause": "Failed or shrunken caulk in the gap between the window frame and the wall (interior trim or exterior siding)",
+      "likelihood": "most common",
+      "quickCheck": "Look at the joint where trim meets wall. Cracked, peeling, gapped, or chalky caulk lets air through. Do the incense-smoke test along the trim edges, not just the glass."
+    },
+    {
+      "cause": "Gaps under the trim from missing or settled insulation in the wall cavity around the rough opening",
+      "likelihood": "common",
+      "quickCheck": "Pop off a piece of interior trim (casing) and look \u2014 if you see open cavity, bare wood, or no foam/insulation around the frame, cold air is bypassing the window entirely."
+    },
+    {
+      "cause": "Loose or unlocked sash \u2014 older double-hung windows seal tighter when the lock is engaged and pulls the sashes together",
+      "likelihood": "common",
+      "quickCheck": "Lock the window and feel for the draft again. If it improves, the lock or the meeting-rail seal is the issue."
+    },
+    {
+      "cause": "Single-pane glass or a failed insulated-glass seal (fogging/condensation between the panes) \u2014 the glass itself loses heat",
+      "likelihood": "common",
+      "quickCheck": "Single pane feels cold to the touch even when sealed. Fog, haze, or moisture trapped BETWEEN two panes means the sealed unit has failed \u2014 that's not a draft fix, it's a glass/window fix."
+    },
+    {
+      "cause": "Rotted, warped, or racked frame/sash \u2014 wood window no longer closes square against the stops",
+      "likelihood": "less common",
+      "quickCheck": "Press a dollar bill in the closed window and pull \u2014 if it slides out with no resistance at several spots, or you see soft/spongy wood or daylight at the corners, the frame has moved or rotted."
+    }
+  ],
+  "fixes": [
+    "Find the leak first. On a cold or windy day, slowly move a lit incense stick (kept clear of curtains and anything flammable) or a damp hand along the entire perimeter \u2014 sash seams, glass edges, where trim meets wall. Mark every spot the smoke moves or you feel air. Fix what you find rather than guessing.",
+    "Replace worn weatherstripping. Peel off the old strip, clean the channel, and apply new self-adhesive V-strip (tension seal), foam tape, or a rubber compression gasket sized to the gap. V-strip works well on double-hung sash sides; foam tape suits the top and bottom where the sash presses shut. Expect $5\u2013$15 per window.",
+    "Re-caulk the frame-to-wall joints. Scrape out cracked old caulk, wipe clean, and run a fresh bead of paintable acrylic-latex caulk on interior trim joints, or exterior-grade silicone/polyurethane on the outside where siding meets the frame. Smooth with a wet finger. Do NOT caulk the operable sash shut or block the bottom weep holes on vinyl windows.",
+    "Seal gaps behind the trim. Carefully pry off the interior casing, fill large voids around the frame with low-expansion (window-and-door rated) spray foam \u2014 never standard high-expansion foam, which can bow the frame and make the window bind. For thin gaps where you don't want foam, push in backer rod or loosely tuck fiberglass, then reinstall trim.",
+    "Lock the windows for the season. Engaging the latch on double-hung and casement windows pulls the sashes tight against the weatherstrip \u2014 a free, instant improvement.",
+    "Add a temporary winter layer. For drafty single-pane windows, an interior shrink-film insulation kit (about $10\u2013$20, applied with double-sided tape and a hair dryer) cuts cold and condensation noticeably. Cellular/honeycomb shades and insulated curtains help too.",
+    "For failed double-pane glass (fogging between panes), don't chase it with caulk \u2014 the sealed unit must be replaced. You can often replace just the insulated glass unit (IGU) rather than the whole window if the frame is sound; this is usually a job for a glass shop.",
+    "If the frame is rotted, warped, or won't close square, that's beyond sealing. Get a window pro to assess sash repair, a sash-replacement kit, or full unit replacement."
+  ],
+  "diyVsPro": "Weatherstripping, caulking, locking sashes, shrink-film kits, and low-expansion foam behind trim are all solid DIY jobs for a careful homeowner at ground-floor or easily-reachable windows. Call a pro when: the insulated-glass seal has failed (fogging between panes), the frame or sash is rotted/warped/out of square, the window is on an upper floor needing ladder or scaffold work on the exterior, or you're weighing full replacement. Anything requiring you to be high on a ladder for exterior caulking is worth a pro \u2014 falls are the real risk here, not the caulk.",
+  "typicalCostUSD": "DIY sealing: roughly $20\u2013$80 total in materials for several windows (weatherstrip $5\u2013$15/window, a tube of quality caulk $6\u2013$12, a can of low-expansion foam ~$8, shrink-film kit $10\u2013$20). Pro weatherization/caulking visit: ~$150\u2013$400. Insulated glass unit (IGU) replacement: ~$150\u2013$500 per window. Full window replacement: ~$500\u2013$1,500+ per window installed depending on size, type, and material.",
+  "timeEstimate": "15\u201330 minutes per window for weatherstripping or caulking; about an hour per window if you pull trim and foam the cavity. A whole-house draft-sealing pass is typically a half-day to a full weekend.",
+  "safetyLevel": "caution",
+  "safetyNote": "The main hazard is height: exterior caulking or sealing on upper-floor windows means ladder work \u2014 set the ladder on firm level ground, maintain three points of contact, and skip it if you're not comfortable. Keep the lit incense or candle away from curtains, blinds, and anything flammable during the draft test. Use only low-expansion (window-and-door) spray foam around frames; standard expanding foam can bow the jamb and jam the window. Ensure good ventilation when using foam, solvent-based caulk, or shrink-film adhesives, and never caulk over a vinyl window's weep holes (they drain water \u2014 blocking them causes leaks and rot).",
+  "toolsParts": [
+    "Lit incense stick (preferred over an open flame for the draft test)",
+    "Self-adhesive V-strip, foam tape, or rubber gasket weatherstripping",
+    "Caulk gun and paintable acrylic-latex caulk (interior) plus exterior-grade silicone or polyurethane caulk",
+    "Putty knife or 5-in-1 tool and a utility knife for removing old caulk",
+    "Low-expansion (window & door) spray foam",
+    "Backer rod or fiberglass for filling gaps",
+    "Pry bar for removing interior trim",
+    "Window insulation shrink-film kit and a hair dryer",
+    "Rags and a cleaning solvent or soapy water"
+  ],
+  "searchTerms": [
+    "how to fix drafty windows",
+    "stop cold air coming in window",
+    "window weatherstripping replacement",
+    "best caulk for windows",
+    "window shrink film insulation kit",
+    "draft test incense window",
+    "fog between window panes fix",
+    "low expansion foam windows",
+    "do I need new windows or just sealing",
+    "how to seal gaps around window frame"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House / Family Handyman / Bob Vila in spirit)",
+    "Window and weatherstripping manufacturer guidance",
+    "U.S. Department of Energy / ENERGY STAR home weatherization recommendations",
+    "General residential building-code norms for window sealing and insulation"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional inspection or engineering advice. Conditions vary by home, window type, and climate. When in doubt \u2014 especially with height work, rot, or possible structural issues \u2014 consult a licensed contractor or window professional.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes accurate; added fire-safety caution for the incense/candle draft test (preferred incense over open flame), clarified backer-rod/fiberglass use for thin gaps only, noted IGU swap is a glass-shop job, and bumped IGU and full-replacement cost ranges to realistic 2026 US figures. No gas/240V/structural/roof tasks present \u2014 safetyLevel \"caution\" (ladder/height) is correct.",
+  "kind": "pillar"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "insulate-rim-joist",
+  "system": "interior",
+  "title": "How to Insulate a Basement Rim Joist (Band Joist) with Rigid Foam or Spray Foam",
+  "question": "How do I insulate the rim joist (band joist) in my basement to stop cold drafts and save energy without causing mold?",
+  "summary": "The right way to insulate a basement rim joist is to seal it with an air-and-vapor-impermeable barrier on the inside \u2014 cut-and-cobble rigid foam board sealed with canned spray foam, or hire a closed-cell spray-foam pro \u2014 never bare fiberglass batts against the cold wood. This guide walks through measuring, cutting, and sealing each rim joist bay so you stop drafts without trapping moisture and growing mold.",
+  "commonCauses": [
+    {
+      "cause": "The rim joist is a major hidden air-leak and thermal weak point \u2014 it's just 1.5 inches of wood between your warm basement and the outdoor air, running the whole perimeter of the house at the sill plate.",
+      "likelihood": "most common",
+      "quickCheck": "On a cold or windy day, hold a lit incense stick or your damp hand near the top of the foundation wall where the wood framing sits; drafts or flickering smoke mark the leaks."
+    },
+    {
+      "cause": "Why fiberglass batts alone fail: fiberglass is air-permeable, so warm humid basement air passes right through it, hits the cold rim joist behind, condenses, and feeds mold and wood rot. This is the single most common DIY mistake.",
+      "likelihood": "most common",
+      "quickCheck": "Pull back any existing batt stuffed against the rim joist and look at the wood \u2014 black staining, musty smell, or damp wood means condensation is already happening."
+    },
+    {
+      "cause": "Air-sealing the gaps is what actually saves energy \u2014 the sill plate / foundation joint, the bay edges, and any wire/pipe penetrations leak air even after you add foam if you skip the canned-foam sealing step.",
+      "likelihood": "common",
+      "quickCheck": "Look along the seam where the wooden sill plate meets the concrete or block foundation; you can often see daylight, cobwebs (cobwebs = airflow), or feel cold air."
+    },
+    {
+      "cause": "Foam thickness and fire code: the IRC requires foam plastic in a basement to be covered with an approved thermal barrier (typically 1/2 in. drywall) unless the product is code-listed for exposed use, and you need enough R-value to keep the interior foam face above the dew point.",
+      "likelihood": "common",
+      "quickCheck": "Check your foam board's label for the R-value (aim for ~R-10 minimum, roughly 2 in. of XPS or 1.5-2 in. of polyiso) and whether it's rated for exposed use; confirm local code with your building department."
+    },
+    {
+      "cause": "Moisture and pests already present: insulating over an active water leak, efflorescence, structural rot, or carpenter-ant/termite activity seals the problem in and lets it spread unseen.",
+      "likelihood": "less common",
+      "quickCheck": "Inspect the rim joist and sill for water stains, white mineral crust, soft/punky wood, mud tubes, or sawdust before you cover anything; fix the source first."
+    }
+  ],
+  "fixes": [
+    "Pick your method first. Cut-and-cobble rigid foam board (XPS, polyiso, or EPS) is the best DIY option. Closed-cell spray foam is faster and seals better but is best left to a pro for a whole basement. Avoid bare fiberglass batts directly against the rim joist.",
+    "Prep and inspect each bay. Clear cobwebs and debris, and confirm the wood is dry with no leaks, rot, mold, mud tubes, or insect activity. Stop and call a pro if you find active water intrusion, soft/rotted framing, or mold larger than about 10 sq ft \u2014 fix and remediate before insulating, never seal it in. Wear gloves, safety glasses, and a dust mask.",
+    "Measure each rim joist bay individually. They vary because joist spacing isn't perfectly uniform. The rim joist bay is the rectangle between two floor joists, bounded by the rim joist (the band board) at the back and the subfloor above and sill plate below.",
+    "Cut rigid foam to fit. Use 2 in. foam (R-10 for XPS, or polyiso for higher R per inch). Cut each piece slightly undersized (about 1/4 to 1/2 in. gap on all sides) with a utility knife or handsaw so you have room to seal the edges. You can do two layers to hit higher R-value in cold climates.",
+    "Press each piece flat against the rim joist and seal the perimeter gaps with low-expansion (window-and-door) canned spray foam. The canned foam glues the board in place and creates the air seal \u2014 this step is what stops condensation and drafts. Also foam over any wire or pipe penetrations.",
+    "Seal the sill-plate-to-foundation joint. Run a bead of canned foam or caulk along the seam where the wooden sill plate meets the concrete/block, including into the bay corners. This closes the perimeter air leak.",
+    "Let the foam cure (about an hour), then trim excess flush with a serrated knife.",
+    "Address fire code if required. If your local code calls for a thermal barrier over foam plastic, cover the foam with 1/2 in. drywall or use a foam product code-listed for exposed use. Confirm with your building department.",
+    "Repeat for every bay around the entire perimeter, including the tricky corner bays where joists run parallel to the rim \u2014 those need extra attention to fit foam against both the rim and the end joist."
+  ],
+  "diyVsPro": "Cut-and-cobble rigid foam is very DIY-friendly for a handy homeowner \u2014 it's just measuring, cutting, and sealing, with cheap tools. Budget a weekend for an average basement perimeter. Call a pro (spray-foam contractor) if you want the whole perimeter done fast with the best air seal, if your bays are irregular or hard to reach, or \u2014 non-negotiable \u2014 if you find rot, active leaks, mold over ~10 sq ft, or pest activity that needs remediation first. Closed-cell spray foam over a large area is also messy and benefits from professional equipment and overspray control.",
+  "typicalCostUSD": "DIY rigid-foam cut-and-cobble: roughly $150-$400 in materials (foam board, canned foam, caulk) for an average basement perimeter. Professional closed-cell spray foam of the rim joist: roughly $800-$2,000 depending on perimeter length and accessibility.",
+  "timeEstimate": "DIY rigid foam: a half-day to a full weekend (4-12 hours) depending on basement size and how many obstructions you work around. A pro spray-foam crew typically finishes in a few hours.",
+  "safetyLevel": "caution",
+  "safetyNote": "This is generally a safe DIY job, but a few cautions. Existing mold on a damp rim joist must be cleaned and the moisture source fixed before you seal it in \u2014 and mold over about 10 sq ft, any active water intrusion, or any structural rot is a stop-and-call-a-pro situation, not a DIY one. Wear a respirator/mask and eye protection when cutting foam and using canned spray foam (it off-gases and is sticky and nearly impossible to remove from skin). Foam plastic is combustible \u2014 keep it away from heat sources, do not leave it exposed where code requires a thermal barrier, and never insulate over or against any gas-appliance vent, B-vent, flue, or chimney; foam against a hot flue is a fire hazard and blocking combustion-air clearances can cause carbon monoxide backdrafting. If any of those conditions are present, bring in a pro before insulating.",
+  "toolsParts": [
+    "Rigid foam board (2 in. XPS, polyiso, or EPS)",
+    "Low-expansion (window & door) canned spray foam",
+    "Utility knife with fresh blades",
+    "Tape measure",
+    "Straightedge or framing square",
+    "Caulk and caulk gun (for sill seam)",
+    "Serrated knife or handsaw for trimming",
+    "Safety glasses, dust mask/respirator, nitrile gloves",
+    "Optional: 1/2 in. drywall if a thermal barrier is required by code",
+    "Optional: foil tape to seal foam board seams"
+  ],
+  "searchTerms": [
+    "how to insulate basement rim joist with rigid foam",
+    "rim joist insulation cut and cobble foam board",
+    "band joist insulation spray foam vs rigid foam",
+    "best way to insulate rim joist without mold",
+    "what r value for basement rim joist insulation",
+    "seal rim joist drafts basement sill plate",
+    "insulate band joist DIY step by step"
+  ],
+  "sources": [
+    "U.S. Department of Energy / Energy Star \u2014 air sealing and basement insulation guidance",
+    "Building Science Corporation \u2014 rim joist and basement insulation best practices",
+    "International Residential Code (IRC R316) \u2014 foam plastic thermal/ignition barrier requirements",
+    "Manufacturer guidance for XPS/polyiso rigid foam and low-expansion canned foam"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional engineering or code advice. Building codes vary by jurisdiction \u2014 confirm foam thermal-barrier and fire requirements with your local building department. If you encounter active water leaks, structural rot, mold larger than about 10 sq ft, or pest infestation, consult a qualified professional before proceeding.",
+  "verified": true,
+  "verifierNote": "Confirmed method, R-values (2 in. XPS\u2248R-10), costs, and IRC R316 thermal-barrier point as sound; tightened safety to route mold >10 sq ft, active water, and structural rot to a pro, and strengthened the gas-flue/B-vent + CO-backdraft warning.",
+  "kind": "spoke"
+}

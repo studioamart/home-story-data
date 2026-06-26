@@ -1,0 +1,85 @@
+{
+  "slug": "airseal-baseboards",
+  "system": "interior",
+  "title": "How to Stop Cold Drafts Coming In Around Baseboards and Floor Trim",
+  "question": "I feel cold air coming in along my baseboards and where the trim meets the floor and wall. How do I seal these drafts without tearing everything apart?",
+  "summary": "Drafts at baseboards usually aren't leaking through the trim itself \u2014 air sneaks up from the gap behind the wall (the wall-to-floor joint) and escapes through the cracks above and below the baseboard. Seal both the top edge (baseboard-to-wall) and the bottom edge (baseboard-to-floor) with caulk and the draft stops. A cheap, high-impact weekend fix.",
+  "commonCauses": [
+    {
+      "cause": "The real leak is the wall bottom-plate gap, not the trim. Air enters through the unsealed seam where the drywall meets the subfloor behind the baseboard, then exits through the cracks at the top and bottom of the baseboard. The baseboard just hides the source.",
+      "likelihood": "most common",
+      "quickCheck": "On a windy or cold day, run a lit incense stick or a damp hand slowly along the top and bottom edges of the baseboard. Smoke pulling sideways or a cold streak means air is moving through that crack."
+    },
+    {
+      "cause": "Two separate cracks need sealing, and people only do one. There's a gap at the TOP (baseboard-to-wall) and a gap at the BOTTOM (baseboard-to-floor). Caulking only the top often fails because the floor-side gap is where most cold air comes through on a slab or over an unconditioned crawlspace or basement.",
+      "likelihood": "common",
+      "quickCheck": "Look at both edges of the baseboard with a flashlight held at a low angle. You'll usually see a visible hairline or a shadow line at one or both seams."
+    },
+    {
+      "cause": "Exterior walls and corners leak far more than interior walls. Baseboards on outside walls, and inside and outside corners, sit over the coldest framing and the biggest air pathways. Sealing interior partition baseboards wastes effort.",
+      "likelihood": "common",
+      "quickCheck": "Map which baseboards are on exterior walls (walls with a window or that face outside). Those are your priority; interior-wall baseboards rarely draft."
+    },
+    {
+      "cause": "Gaps too big for caulk alone. If the baseboard-to-floor gap is wider than about 1/4 inch (common with settled houses or after new flooring), caulk sags and cracks. It needs shoe molding or backer rod first.",
+      "likelihood": "less common",
+      "quickCheck": "Slide a folded business card or a coin under the baseboard. If a 1/4-inch gap or larger swallows it, plan on quarter-round/shoe molding (or backer rod), not just caulk."
+    },
+    {
+      "cause": "The draft is actually from outlets, the floor itself, or HVAC, mistaken for the baseboard. Electrical outlets on exterior walls and unsealed penetrations leak hard, and the cold pools near the floor, feeling like a baseboard draft.",
+      "likelihood": "less common",
+      "quickCheck": "Hold the incense or damp hand at the outlet covers on the same wall. If smoke moves there too, add foam outlet gaskets to your fix list."
+    }
+  ],
+  "fixes": [
+    "Pick a dry day above ~50F (caulk cures better warm) and gather supplies. Prioritize baseboards on exterior walls and room corners first.",
+    "Clean the seams. Vacuum the crack at the top and bottom of the baseboard, then wipe with a dry cloth. Caulk won't bond to dust, grease, or loose paint. Scrape off any old cracked caulk.",
+    "Test where air actually moves with a lit incense stick along both edges so you only seal the real leak paths. Note the live spots.",
+    "Seal the TOP seam (baseboard-to-wall): run a thin, continuous bead of paintable siliconized acrylic-latex caulk in the crack. Tool it smooth immediately with a wet fingertip so it sits flush and paints clean.",
+    "Seal the BOTTOM seam (baseboard-to-floor): this is the big one for cold floors. If the gap is under ~1/4 inch, run a bead of caulk and tool it. On hard floors, use a flexible (elastomeric or polyurethane) caulk so foot traffic and seasonal movement don't crack it.",
+    "For gaps wider than ~1/4 inch, press in foam backer rod first, then caulk over it \u2014 caulk alone will sag and fail in a wide gap.",
+    "For very wide or uneven floor gaps, install quarter-round (shoe) molding instead: nail it to the baseboard (not the floor) with brads, then caulk its top edge to the baseboard. This hides the gap and lets the floor move.",
+    "Don't forget the inside and outside corners where baseboards meet \u2014 caulk those mitered joints too; they're a common leak point that bridges to wall framing.",
+    "Add foam outlet/switch gaskets to receptacles on the same exterior walls \u2014 they're cheap and kill a draft source that masquerades as a baseboard leak. Turn the circuit off at the breaker before removing cover plates, and verify it's dead with a tester.",
+    "Let caulk cure per the tube (often 24 hours), then paint the top bead to match trim. Re-test with incense on the next cold day to confirm the draft is gone."
+  ],
+  "diyVsPro": "Strongly DIY \u2014 this is one of the highest-payback, lowest-skill home jobs. Caulking baseboard seams and adding outlet gaskets needs no special skill and the materials are cheap. Call a pro if: drafts persist after sealing (points to bigger envelope leaks in the rim joist, attic, or ductwork that warrant a blower-door energy audit), you find moisture, musty smell, mold, or soft/rotted trim or subfloor behind the baseboard, or you're dealing with knob-and-tube wiring at the outlets. An energy auditor or weatherization contractor can find the hidden leaks a caulk gun can't reach.",
+  "typicalCostUSD": "$15-$40 DIY for a few rooms (caulk, backer rod, outlet gaskets); add $15-$30 if buying quarter-round molding for a room. A professional energy audit, if you go that route, runs $200-$600 and often qualifies for utility rebates.",
+  "timeEstimate": "1-3 hours for a typical room (cleaning, tooling, plus curing time aside). A whole floor of exterior-wall baseboards is a half-day project.",
+  "safetyLevel": "caution",
+  "safetyNote": "Mostly harmless cosmetic work, but a few cautions. If you add foam gaskets to outlets, shut the circuit off at the breaker before removing any cover plate, confirm it's dead with a voltage tester, and never poke caulk or tools into an outlet; if you see cloth-wrapped knob-and-tube wiring, stop and call an electrician. Work in a ventilated room \u2014 even low-VOC caulk has fumes during cure. Do not seal in a problem: if you find moisture, a musty smell, staining, or soft/rotted wood behind the baseboard, stop and have it investigated \u2014 visible mold larger than about 10 square feet, or any sign of water intrusion or structural rot, calls for a professional before you do anything else.",
+  "toolsParts": [
+    "Paintable siliconized acrylic-latex caulk for the wall-side seam",
+    "Flexible elastomeric or polyurethane caulk for the floor-side seam on hard floors",
+    "Caulk gun",
+    "Foam backer rod (for gaps over ~1/4 inch)",
+    "Utility knife or putty knife to remove old caulk",
+    "Vacuum and clean rags",
+    "Lit incense stick or thin tissue (draft detection)",
+    "Painter's tape (optional, for crisp lines)",
+    "Foam outlet/switch gaskets",
+    "Non-contact voltage tester (before opening any outlet)",
+    "Quarter-round / shoe molding, brad nails, and a hammer or brad nailer (only if gaps are wide)",
+    "Flashlight",
+    "Matching trim paint and a small brush"
+  ],
+  "searchTerms": [
+    "how to stop drafts coming in around baseboards",
+    "cold air coming through baseboards in winter",
+    "seal gap between baseboard and floor draft",
+    "caulk baseboards to stop air leaks",
+    "draft at bottom of wall where trim meets floor",
+    "why is cold air coming from my baseboards on exterior walls",
+    "best caulk for baseboard to floor gap",
+    "stop floor draft along the wall trim"
+  ],
+  "sources": [
+    "U.S. Department of Energy (energy.gov) \u2014 air sealing and weatherization guidance for caulking and sealing air leaks",
+    "ENERGY STAR \u2014 DIY Guide to Sealing and Insulating (air leakage at baseboards, trim, and electrical outlets)",
+    "General caulk manufacturer application guidance (DAP, GE) for paintable acrylic-latex and elastomeric/polyurethane sealants"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for professional inspection. Conditions in your home may differ; if you find moisture, mold, structural rot, or wiring concerns, consult a qualified professional before sealing.",
+  "verified": true,
+  "verifierNote": "Confirmed the two-seam air-sealing approach, costs, and DIY framing match DOE/ENERGY STAR practice; firmed up the safety note (mold >10 sq ft and any moisture/rot now explicitly route to a pro), added voltage-tester verification and a knob-and-tube stop for outlet work, and clarified floor-seam caulk to elastomeric/polyurethane.",
+  "kind": "spoke"
+}

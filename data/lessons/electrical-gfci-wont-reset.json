@@ -1,0 +1,80 @@
+{
+  "slug": "electrical-gfci-wont-reset",
+  "system": "electrical",
+  "title": "GFCI Outlet Won't Reset \u2014 Causes & Fixes",
+  "question": "why won't my GFCI outlet reset",
+  "summary": "A GFCI that won't reset is usually doing its job \u2014 it's detecting a real fault, sensing moisture, or it has simply lost power (a GFCI with no incoming power physically cannot latch). Work through power, moisture, and downstream loads before assuming the outlet itself is dead.",
+  "commonCauses": [
+    {
+      "cause": "No power reaching the outlet \u2014 a tripped breaker, or this GFCI is fed by ANOTHER GFCI upstream that is tripped. Most modern GFCIs cannot latch when you press Reset if there is no incoming power.",
+      "likelihood": "most common",
+      "quickCheck": "Check the breaker panel for a tripped breaker, and reset any OTHER GFCI outlets in the house (especially in the garage, bathroom, basement, or by the panel) first."
+    },
+    {
+      "cause": "A real ground fault on the circuit \u2014 a faulty appliance, damaged cord, or downstream wiring leaking current to ground. The GFCI trips again the instant you reset because it senses the leak.",
+      "likelihood": "most common",
+      "quickCheck": "Unplug EVERYTHING on that outlet and on all outlets/lights that went dead with it, then try Reset. If it holds now, plug items back one at a time to find the culprit."
+    },
+    {
+      "cause": "Moisture inside the outlet, box, or a plugged-in device \u2014 common after rain on outdoor/garage/bathroom GFCIs. Water bridges the circuit and trips it.",
+      "likelihood": "common",
+      "quickCheck": "Look for condensation or water in the receptacle. With the breaker OFF, let an outdoor outlet dry out fully (hours, even a day), then restore power and retry."
+    },
+    {
+      "cause": "The GFCI itself has failed \u2014 they wear out, typically after 7\u201315 years, and most modern (UL-listed) units are designed to fail in a tripped/dead state at end of life so they cannot be left unprotected.",
+      "likelihood": "common",
+      "quickCheck": "If there's confirmed power at the outlet, nothing is plugged in, and it's dry but still won't latch, the device is likely bad and needs replacing."
+    },
+    {
+      "cause": "Reset not fully seated \u2014 you must press RESET firmly until it clicks and stays in. A light tap may not latch.",
+      "likelihood": "common",
+      "quickCheck": "Press RESET firmly until you feel and hear a solid click and the button stays in. (Pressing TEST first is not required to reset, and won't help if the cause is power, moisture, or a fault.)"
+    },
+    {
+      "cause": "Miswired outlet \u2014 line and load terminals swapped (common after a recent DIY replacement). Many GFCIs will refuse to reset, or will reset but fail to protect downstream.",
+      "likelihood": "less common",
+      "quickCheck": "Did this start right after someone replaced this or a nearby outlet? If so, line/load wiring is the prime suspect \u2014 and a job to get right or hand to an electrician."
+    }
+  ],
+  "fixes": [
+    "Find and clear upstream protection first: check the breaker panel for any tripped breaker (flip it fully OFF, then back ON), and press RESET on every other GFCI in the home \u2014 one tripped GFCI often kills several outlets downstream.",
+    "Unplug every device on the outlet AND on any outlets/lights that went dead with it, then press RESET firmly until it clicks and holds.",
+    "If it now holds, plug devices back in one at a time. The item that makes it trip again is the faulty appliance or cord \u2014 repair or discard it.",
+    "For outdoor, garage, or bathroom outlets, suspect moisture: turn off the breaker, let the outlet and any plugged-in device dry completely, confirm the weatherproof (in-use) cover seals, then restore power and reset.",
+    "Confirm there is actually power at the outlet with a plug-in outlet tester or non-contact voltage tester. No power means the problem is upstream (a breaker or another GFCI), not this device.",
+    "If the outlet has power, is dry, has nothing plugged in, and still won't latch, the GFCI is likely worn out \u2014 replace it with a like-rated 15A or 20A GFCI. Turn the breaker OFF, verify power is off at the wires with a tester, and label the incoming LINE pair with tape before disconnecting so you can wire the new one to LINE (not LOAD).",
+    "If it trips instantly with nothing plugged in and the wiring looks original/untouched, stop \u2014 that points to a fault in the in-wall wiring and is a job for a licensed electrician."
+  ],
+  "diyVsPro": "DIY is fine for the no-tools steps: resetting breakers and other GFCIs, unplugging loads to isolate a bad appliance, drying out a wet outdoor outlet, and using a plug-in tester. Swapping the GFCI itself is intermediate DIY \u2014 only attempt it if you're comfortable turning off the breaker, verifying power is off with a tester, and correctly identifying LINE vs LOAD wires (label them first). Call a licensed electrician if the outlet trips instantly with nothing plugged in (in-wall fault), if you find scorching, melting, sparking, or a burning smell, if the wiring is aluminum or ungrounded/old (knob-and-tube), or if you're unsure which wires are which.",
+  "typicalCostUSD": "DIY: a replacement GFCI outlet runs $15\u2013$30 (20A or weather-resistant models cost a bit more); a plug-in outlet tester is $10\u2013$20. Pro: an electrician to diagnose and replace a GFCI typically runs $120\u2013$250; tracing a hidden wiring fault can run $150\u2013$400+ depending on access and time.",
+  "timeEstimate": "10\u201330 minutes to diagnose and reset; about 20\u201340 minutes to replace the GFCI yourself.",
+  "safetyLevel": "caution",
+  "safetyNote": "Resetting breakers and GFCIs and unplugging devices is safe. If you open the outlet to replace it, turn OFF the breaker AND verify power is off at the wires with a tester before touching anything \u2014 a GFCI box can still have a live LINE feed even when the outlet face is dead, and a backstabbed/shared box may carry more than one circuit. Never bypass or 'pigtail around' a GFCI that keeps tripping; it is warning you of a real fault. Stop and call a pro for any scorching, melting, burning smell, sparking, or repeated instant trips with nothing plugged in.",
+  "toolsParts": [
+    "Plug-in outlet tester (GFCI tester)",
+    "Non-contact voltage tester",
+    "Replacement GFCI outlet (15A or 20A; weather-resistant for outdoor/damp locations)",
+    "Insulated flathead and Phillips screwdrivers",
+    "Electrical tape (to label the LINE wires)",
+    "Flashlight or headlamp"
+  ],
+  "searchTerms": [
+    "GFCI outlet won't reset",
+    "GFCI keeps tripping",
+    "outlet not working after rain",
+    "GFCI reset button stuck",
+    "bathroom outlet dead won't reset",
+    "garage outlets not working",
+    "how to replace a GFCI outlet"
+  ],
+  "sources": [
+    "Manufacturer guidance (GFCI receptacle install/troubleshooting instructions, e.g. Leviton/Eaton)",
+    "National Electrical Code norms for GFCI protection and LINE/LOAD wiring",
+    "UL 943 end-of-life self-test behavior for GFCI devices",
+    "Reputable DIY references (This Old House, Family Handyman)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed electrician. Electrical work carries shock and fire risk and may be subject to local code and permits. If you are unsure at any step, or see signs of overheating or damage, stop and hire a licensed professional.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/costs/safety as accurate for a 120V receptacle task; tightened the reset-technique cause (pressing TEST first isn't required), added labeling the LINE pair before replacement to prevent the LINE/LOAD swap the lesson itself warns about, noted multi-circuit boxes, and added knob-and-tube to the call-a-pro list.",
+  "kind": "pillar"
+}

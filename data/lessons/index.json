@@ -1,0 +1,683 @@
+{
+  "schema": 1,
+  "count": 96,
+  "kinds": {
+    "spoke": 46,
+    "pillar": 50
+  },
+  "lessons": [
+    {
+      "slug": "airseal-baseboards",
+      "system": "interior",
+      "title": "How to Stop Cold Drafts Coming In Around Baseboards and Floor Trim",
+      "question": "I feel cold air coming in along my baseboards and where the trim meets the floor and wall. How do I seal these drafts without tearing everything apart?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "airseal-exterior-penetrations",
+      "system": "exterior",
+      "title": "How to Reseal Gaps Where Pipes and Wires Enter Your House Exterior",
+      "question": "There are gaps and cracked old caulk around the spots where my outdoor faucet, AC line, cable, and electrical wires go through the exterior wall. How do I properly air-seal these penetrations to stop drafts, water, and bugs?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "airseal-fireplace-draft",
+      "system": "interior",
+      "title": "How to Stop a Cold Draft Coming Down an Unused Fireplace or Flue",
+      "question": "Cold air keeps pouring down my unused fireplace and the chimney. How do I seal off the flue to stop the draft without permanently closing up the fireplace?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "airseal-outlets-exterior",
+      "system": "interior",
+      "title": "How to Air-Seal Drafty Electrical Outlets and Switches on Exterior Walls",
+      "question": "I feel cold air coming out of the electrical outlets and light switches on my outside walls in winter. How do I air-seal around them safely without causing an electrical hazard?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "airseal-recessed-lights",
+      "system": "interior",
+      "title": "How to Stop Cold Air Falling From Recessed Can Lights in the Ceiling",
+      "question": "Cold air keeps dropping down out of my recessed (can) lights into the room below the attic. How do I air-seal them so the draft stops without creating a fire hazard?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "airseal-window-trim",
+      "system": "interior",
+      "title": "How to Seal Drafts Around Interior Window and Door Trim",
+      "question": "I feel cold air leaking in around the wood trim (casing) of my windows and doors. How do I find and seal those drafts myself?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "appliances-dishwasher-not-draining",
+      "system": "appliances",
+      "title": "Dishwasher Won't Drain \u2014 Causes & Fixes",
+      "question": "Why is there standing water in the bottom of my dishwasher and how do I fix it?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "appliances-dryer-no-heat",
+      "system": "appliances",
+      "title": "Dryer Runs But Won't Heat \u2014 Causes & Fixes",
+      "question": "Why is my dryer running but not heating up?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "appliances-dryer-vent-cleaning",
+      "system": "appliances",
+      "title": "How to Clean a Dryer Vent \u2014 Step-by-Step Guide",
+      "question": "how do I clean my dryer vent",
+      "kind": "pillar"
+    },
+    {
+      "slug": "appliances-fridge-not-cooling",
+      "system": "appliances",
+      "title": "Refrigerator Not Cooling \u2014 Causes & How to Fix It",
+      "question": "Why is my refrigerator not cooling?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "appliances-ice-maker",
+      "system": "appliances",
+      "title": "Ice Maker Not Working \u2014 Causes & Fixes",
+      "question": "Why is my refrigerator ice maker not making ice?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "appliances-oven-uneven-heat",
+      "system": "appliances",
+      "title": "Why Your Oven Heats Unevenly \u2014 Causes & Fixes",
+      "question": "Why is my oven not heating evenly?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "appliances-washer-wont-spin",
+      "system": "appliances",
+      "title": "Washer Won't Spin or Drain \u2014 Causes & Fixes",
+      "question": "Why won't my washing machine spin or drain the water out?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "electrical-breaker-tripping",
+      "system": "electrical",
+      "title": "Why Your Circuit Breaker Keeps Tripping \u2014 Causes & Fixes",
+      "question": "Why does my circuit breaker keep tripping and how do I fix it?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "electrical-dead-outlet",
+      "system": "electrical",
+      "title": "Outlet Not Working? Why a Dead Receptacle Happens & How to Fix It",
+      "question": "why is my outlet not working",
+      "kind": "pillar"
+    },
+    {
+      "slug": "electrical-exterior-outlet-cover",
+      "system": "electrical",
+      "title": "How to Add or Fix Weatherproofing on an Outdoor Outlet (In-Use Bubble Cover + Gasket)",
+      "question": "My exterior outlet's flip-up cover is cracked, won't stay closed, or gets water inside when something is plugged in. How do I add or fix proper weatherproofing on an outdoor outlet so it passes code and stays dry?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "electrical-gfci-wont-reset",
+      "system": "electrical",
+      "title": "GFCI Outlet Won't Reset \u2014 Causes & Fixes",
+      "question": "why won't my GFCI outlet reset",
+      "kind": "pillar"
+    },
+    {
+      "slug": "electrical-led-dimmer-compatibility",
+      "system": "electrical",
+      "title": "Why Your LED Bulbs Buzz or Flicker on a Dimmer \u2014 Causes & Fixes",
+      "question": "Why do my LED bulbs buzz or flicker when I dim them?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "electrical-led-dimmer-no-neutral",
+      "system": "electrical",
+      "title": "How to Install an LED-Compatible Dimmer Switch (Including No-Neutral-Wire Options)",
+      "question": "I want to replace a regular light switch with a dimmer for my LED bulbs, but I'm not sure if my switch box has a neutral wire or which dimmer to buy. How do I do this safely and stop the flicker/buzz?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "electrical-led-flicker-old-dimmer",
+      "system": "electrical",
+      "title": "LED Bulbs Flicker or Buzz on an Old Dimmer Switch: How to Fix It",
+      "question": "I put LED bulbs in a room with an old dimmer switch and now they flicker, strobe at low brightness, or buzz. How do I stop it?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "electrical-led-ghost-glow",
+      "system": "electrical",
+      "title": "New LED Bulbs Glow Faintly After the Switch Is Off: Why It Happens and How to Stop It",
+      "question": "I just replaced my old incandescent bulbs with LEDs, and now they glow dim even when the wall switch is off. Is this dangerous, and how do I make it stop?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "electrical-replace-light-switch",
+      "system": "electrical",
+      "title": "How to Replace a Light Switch \u2014 Step-by-Step Guide",
+      "question": "How do I replace a light switch myself?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "electrical-switch-to-dimmer",
+      "system": "electrical",
+      "title": "How to Replace a Standard Light Switch With a Dimmer (and Why the Wires and Bulbs Trip People Up)",
+      "question": "I want to swap a regular on/off wall switch for a dimmer. How do I do it safely, and what do I need to check about my wires and bulbs first?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "electrical-warm-switch",
+      "system": "electrical",
+      "title": "Why Your Light Switch Gets Warm \u2014 Causes & When to Worry",
+      "question": "why does my light switch feel warm to the touch",
+      "kind": "pillar"
+    },
+    {
+      "slug": "exterior-caulking",
+      "system": "exterior",
+      "title": "Exterior Caulking & Weatherproofing \u2014 Where to Seal, What to Use & How",
+      "question": "How do I caulk and weatherproof the outside of my house?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "exterior-deck-sealing",
+      "system": "exterior",
+      "title": "How to Seal and Stain a Deck: A Step-by-Step Homeowner Guide",
+      "question": "How do I seal and stain my wood deck?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "exterior-drafty-windows",
+      "system": "exterior",
+      "title": "Why Your Windows Are Drafty \u2014 Causes & How to Fix Them",
+      "question": "why are my windows so drafty and how do I stop the cold air coming in?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "exterior-foundation-crack",
+      "system": "exterior",
+      "title": "Foundation Cracks: Which Ones Are Harmless and Which Need a Pro",
+      "question": "why is there a crack in my foundation and is it serious",
+      "kind": "pillar"
+    },
+    {
+      "slug": "exterior-gutter-cleaning",
+      "system": "exterior",
+      "title": "How Often to Clean Your Gutters \u2014 A Practical Schedule",
+      "question": "How often should I clean my gutters?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "exterior-roof-leak",
+      "system": "exterior",
+      "title": "Why Your Roof Is Leaking \u2014 Causes & Fixes",
+      "question": "Why is my roof leaking and how do I fix it?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "exterior-roof-rattling-wind",
+      "system": "exterior",
+      "title": "Roof Rattling or Banging in the Wind \u2014 Causes & Fixes",
+      "question": "Why does my roof rattle or bang when it's windy?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "hvac-ac-freezing",
+      "system": "hvac",
+      "title": "Why Your AC Is Freezing Up (Ice on the Unit) \u2014 Causes & Fixes",
+      "question": "Why is my air conditioner freezing up with ice and not cooling?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "hvac-ac-not-cooling",
+      "system": "hvac",
+      "title": "AC Running But Not Cooling? Causes & Fixes",
+      "question": "why is my AC not cooling the house",
+      "kind": "pillar"
+    },
+    {
+      "slug": "hvac-filter-change-frequency",
+      "system": "hvac",
+      "title": "How Often to Change Your HVAC Filter \u2014 A Simple Schedule",
+      "question": "How often should I change my HVAC / furnace air filter?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "hvac-furnace-no-heat",
+      "system": "hvac",
+      "title": "Furnace Not Heating? Causes & Fixes Before You Call a Pro",
+      "question": "Why is my furnace running but not heating the house?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "hvac-furnace-short-cycling",
+      "system": "hvac",
+      "title": "Why Your Furnace Short Cycles \u2014 Causes & Fixes",
+      "question": "Why does my furnace keep turning on and off every few minutes?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "hvac-thermostat-not-working",
+      "system": "hvac",
+      "title": "Thermostat Not Working? Causes & Fixes Before You Call an HVAC Pro",
+      "question": "Why is my thermostat not working and how do I fix it?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "hvac-uneven-temperature",
+      "system": "hvac",
+      "title": "Why Some Rooms Are Hotter or Colder Than Others \u2014 Causes & Fixes",
+      "question": "Why is one room in my house always hotter or colder than the rest?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "insulate-attic-hatch",
+      "system": "interior",
+      "title": "How to Insulate and Weatherstrip a Drafty Attic Hatch or Pull-Down Stairs",
+      "question": "My attic access hatch (or pull-down stairs) is letting cold/hot air into my house. How do I insulate and weatherstrip it so it stops leaking conditioned air?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "insulate-end-unit-wall",
+      "system": "interior",
+      "title": "How to Insulate and Stop Drafts on a Cold End-Unit Townhouse Exterior Wall",
+      "question": "My townhouse is an end unit and the exposed exterior wall (the one that doesn't share with a neighbor) is freezing cold and drafty in winter. How do I insulate it and seal the drafts so that room stays warm?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "insulate-rim-joist",
+      "system": "interior",
+      "title": "How to Insulate a Basement Rim Joist (Band Joist) with Rigid Foam or Spray Foam",
+      "question": "How do I insulate the rim joist (band joist) in my basement to stop cold drafts and save energy without causing mold?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "interior-air-sealing-gaps",
+      "system": "interior",
+      "title": "How to Seal Air Gaps for Better Insulation \u2014 Causes & Fixes",
+      "question": "How do I fill gaps and cracks to keep cold or hot air out of my house?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "interior-bathroom-mold",
+      "system": "interior",
+      "title": "How to Remove and Prevent Bathroom Mold \u2014 Causes & Fixes",
+      "question": "How do I get rid of mold in my bathroom and keep it from coming back?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "interior-condensation-cold-wall",
+      "system": "interior",
+      "title": "Condensation and Mold on Cold Exterior Walls and Corners: How to Stop It",
+      "question": "My exterior walls and the corners of my rooms get damp, drip, and grow black mold in winter \u2014 how do I stop the condensation for good?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "interior-drywall-patch",
+      "system": "interior",
+      "title": "How to Patch a Hole in Drywall \u2014 Step-by-Step Repair",
+      "question": "How do I patch a hole in my drywall?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "interior-paint-touchup",
+      "system": "interior",
+      "title": "Paint Touch-Ups That Actually Blend \u2014 Why Yours Show & How to Fix It",
+      "question": "How do I touch up interior paint so the spot doesn't stand out?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "interior-soundproof-room",
+      "system": "interior",
+      "title": "How to Soundproof a Room \u2014 What Actually Works (and What Doesn't)",
+      "question": "How do I soundproof a room to block noise?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "interior-squeaky-floor",
+      "system": "interior",
+      "title": "Why Your Floor Squeaks \u2014 Causes & How to Fix It",
+      "question": "How do I stop my floor from squeaking?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "interior-sticking-door",
+      "system": "interior",
+      "title": "Door Sticks or Won't Latch \u2014 Causes & Easy Fixes",
+      "question": "Why does my interior door stick or won't latch shut?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "leak-frozen-pipe-prevention",
+      "system": "plumbing",
+      "title": "How to Protect Your Pipes from Freezing and Bursting During a Sudden Cold Snap",
+      "question": "A hard freeze (single digits or below) is forecast for the next few nights and I'm worried my pipes will freeze and burst. What should I do right now, tonight, to keep that from happening?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "leak-hidden-slow-detect",
+      "system": "plumbing",
+      "title": "How to Find a Slow Hidden Water Leak in Your House Before It Causes Damage",
+      "question": "I think I have a slow hidden water leak somewhere in my house \u2014 my water bill went up or I smell something musty \u2014 but I can't see where it's coming from. How do I find it and stop it before it ruins drywall, floors, or causes mold?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "leak-toilet-base-wax-ring",
+      "system": "plumbing",
+      "title": "How to Fix a Toilet That Leaks Water Onto the Floor at Its Base (Wax Ring / Flange)",
+      "question": "There's water pooling on the floor around the base of my toilet, especially right after I flush. How do I stop a toilet leaking at the base, and is it the wax ring or the flange?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "leak-tub-recaulk",
+      "system": "plumbing",
+      "title": "How to Stop a Tub or Shower Wall Leak by Recaulking the Joint Correctly",
+      "question": "Water is getting behind my tub or shower wall where the wall meets the tub. How do I stop the leak by removing the old caulk and recaulking the joint the right way?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "leak-under-sink-supply",
+      "system": "plumbing",
+      "title": "How to Prevent Leaks at Under-Sink Supply Lines and Shutoff Valves",
+      "question": "How do I stop my under-sink water supply lines and shutoff valves from leaking, and what's the right way to make those connections so they don't drip?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "leak-washer-hose-burst",
+      "system": "plumbing",
+      "title": "How to Prevent a Washing Machine Hose From Bursting (and the 5-Year Replacement Rule)",
+      "question": "My washing machine has the same rubber fill hoses it came with years ago. How do I keep them from bursting and flooding my house, and when should I actually replace them?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "leak-water-heater-drip-pan",
+      "system": "plumbing",
+      "title": "How to Install a Water Heater Drip Pan and Leak Alarm",
+      "question": "How do I set up a drip pan and a leak alarm under my water heater to catch a leak before it floods?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "plumbing-clogged-drain",
+      "system": "plumbing",
+      "title": "Slow or Clogged Drain \u2014 Causes & How to Fix It",
+      "question": "Why is my drain slow or clogged and how do I unclog it?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "plumbing-disposal-jammed",
+      "system": "plumbing",
+      "title": "Garbage Disposal Humming or Jammed \u2014 Causes & How to Fix It",
+      "question": "Why is my garbage disposal humming but not spinning, and how do I unjam it?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "plumbing-drain-stopper",
+      "system": "plumbing",
+      "title": "How to Fix or Replace a Sink or Tub Drain Stopper That Won't Hold Water",
+      "question": "My bathroom sink (or tub) drain stopper won't hold water \u2014 it slowly drains even when closed. How do I fix or replace it myself?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "plumbing-dripping-faucet",
+      "system": "plumbing",
+      "title": "Why Your Faucet Drips \u2014 Causes & How to Fix It",
+      "question": "Why does my faucet keep dripping and how do I stop it?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "plumbing-faucet-drip-diagnose",
+      "system": "plumbing",
+      "title": "Faucet Dripping From the Spout vs. Leaking Around the Handle: How to Tell Them Apart and Fix Each",
+      "question": "My faucet keeps dripping. How do I figure out whether it's dripping from the spout or leaking around the base of the handle, and how do I fix each one myself?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "plumbing-flush-water-heater",
+      "system": "plumbing",
+      "title": "How to Flush a Water Heater \u2014 Step-by-Step Guide",
+      "question": "How do I flush my water heater?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "plumbing-high-water-pressure",
+      "system": "plumbing",
+      "title": "My House Water Pressure Is Too High \u2014 How to Lower It to Protect Pipes and Appliances",
+      "question": "My faucets blast water hard, pipes bang, and I'm worried about damaging my appliances. How do I test my home's water pressure and turn it down to a safe level myself?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "plumbing-leak-under-sink",
+      "system": "plumbing",
+      "title": "Leak Under the Sink \u2014 Causes and How to Fix It",
+      "question": "Why is there water leaking under my kitchen sink and how do I fix it?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "plumbing-low-water-pressure",
+      "system": "plumbing",
+      "title": "Why Your Water Pressure Is Low \u2014 Causes & Fixes",
+      "question": "Why is my water pressure so low and how do I fix it?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "plumbing-no-hot-water",
+      "system": "plumbing",
+      "title": "No Hot Water? Causes & Fixes for Gas and Electric Water Heaters",
+      "question": "Why do I have no hot water in my house?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "plumbing-replace-toilet-diy",
+      "system": "plumbing",
+      "title": "How to Replace a Toilet Yourself (Even on a Second Floor)",
+      "question": "I want to swap out my old toilet for a new one myself, including one in an upstairs bathroom. How do I do it without flooding the room or the ceiling below, and what catches people off guard?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "plumbing-running-toilet-symptom",
+      "system": "plumbing",
+      "title": "Toilet Keeps Running: How to Tell if It's the Flapper or the Fill Valve (and Fix It)",
+      "question": "My toilet keeps running \u2014 sometimes it hisses, sometimes it \"phantom flushes\" and refills on its own, and sometimes the water just won't shut off. How do I figure out whether it's the flapper or the fill valve, and how do I fix it myself?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "plumbing-running-toilet",
+      "system": "plumbing",
+      "title": "Why Your Toilet Keeps Running \u2014 Causes & Easy Fixes",
+      "question": "Why does my toilet keep running and how do I make it stop?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "plumbing-toilet-rocks",
+      "system": "plumbing",
+      "title": "Toilet Rocks Back and Forth at the Base: Why It Happens and How to Stop It",
+      "question": "My toilet wobbles and rocks when I sit on it or push it side to side. How do I stop a toilet from rocking at the base, and is the wobble going to cause a leak?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "plumbing-water-hammer-appliance",
+      "system": "plumbing",
+      "title": "How to Stop Banging Pipes (Water Hammer) When the Washer or Dishwasher Valve Shuts Off",
+      "question": "My pipes bang loudly right after my washing machine (or dishwasher) finishes filling and the valve snaps shut. How do I stop this water hammer for good?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "plumbing-water-hammer",
+      "system": "plumbing",
+      "title": "Banging Pipes (Water Hammer) \u2014 Causes & How to Stop It",
+      "question": "Why do my pipes bang or knock loudly when I shut off a faucet or the washer fills?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "plumbing-weak-toilet-flush",
+      "system": "plumbing",
+      "title": "Why Your Toilet Won't Flush Properly \u2014 Causes & Fixes",
+      "question": "Why won't my toilet flush all the way (weak or incomplete flush)?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "repair-caulk-gaps-guide",
+      "system": "interior",
+      "title": "How to Choose the Right Caulk and Seal Interior Gaps for Both Sound and Drafts",
+      "question": "I want to seal the gaps around my interior walls, trim, and outlets to block drafts and cut down on noise from the next room. Which caulk should I use, and how do I do it so it actually works for both sound and air?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "repair-door-wont-latch",
+      "system": "interior",
+      "title": "Interior Door Won't Latch or Stay Shut? Fix the Strike-Plate Alignment",
+      "question": "My interior door won't latch \u2014 it swings shut but pops back open or the latch bolt doesn't catch the hole in the strike plate. How do I realign the strike plate so the door stays closed?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "repair-nail-holes-drywall",
+      "system": "interior",
+      "title": "How to Patch Nail Holes and Small Drywall Dings Before Painting (So They Don't Show Through)",
+      "question": "I'm about to repaint a room and I have a bunch of small nail holes, thumbtack holes, and little dings/dents in the drywall. How do I fill and smooth them so they disappear under the new paint instead of showing as bumps or shiny spots?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "repair-paint-touchup-blend",
+      "system": "interior",
+      "title": "How to Touch Up Paint So It Blends In Without Repainting the Whole Wall",
+      "question": "I have a few scuffs and nail-hole patches on my interior wall and I want to touch up the paint without it leaving an obvious shiny or different-colored spot. How do I make a paint touch-up actually blend in so I don't have to repaint the entire wall?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "repair-rattling-roof-vent",
+      "system": "exterior",
+      "title": "How to Stop a Roof Vent or Vent Cap From Rattling and Banging in the Wind",
+      "question": "My roof vent (or its cap) rattles and bangs loudly whenever it's windy. How do I figure out which vent is making the noise and quiet it for good?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "repair-squeaky-floor-no-access",
+      "system": "interior",
+      "title": "How to Stop a Squeaky Floor From Above When You Can't Get to the Subfloor",
+      "question": "My floor squeaks when I walk on it, but there's no basement or crawlspace underneath \u2014 it's a slab, or there's a finished ceiling below \u2014 so I can't reach the subfloor from beneath. How do I silence the squeak working only from the top?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "repair-sticking-door",
+      "system": "interior",
+      "title": "Interior Door Sticks and Rubs the Frame (Humidity or House Settling)",
+      "question": "My interior door has started sticking or rubbing against the frame and is hard to open or close. How do I figure out where it's binding and fix it without ruining the door?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "safety-carbon-monoxide",
+      "system": "safety",
+      "title": "Carbon Monoxide Basics for Homeowners \u2014 Detectors, Sources & Safety",
+      "question": "What is carbon monoxide and how do I keep my home safe from it?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "safety-replace-detectors",
+      "system": "safety",
+      "title": "When and How to Replace Smoke & CO Detectors \u2014 A Homeowner's Guide",
+      "question": "How do I replace my smoke and carbon monoxide detectors?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "safety-smoke-detector-chirping",
+      "system": "safety",
+      "title": "Why Your Smoke Detector Keeps Chirping \u2014 Causes & Fixes",
+      "question": "Why does my smoke detector keep chirping every minute?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "sound-existing-wall-no-demo",
+      "system": "interior",
+      "title": "How to Soundproof an Existing Interior Wall Without Tearing Out the Drywall",
+      "question": "How can I soundproof an existing interior wall (voices, TV, music from the next room) without removing the existing drywall?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "sound-interior-door",
+      "system": "interior",
+      "title": "How to Soundproof a Hollow-Core Interior Door (Seal the Gaps + the Door Itself)",
+      "question": "How do I soundproof an interior door so voices, TV, and noise from the next room are quieter \u2014 both the air gaps around it and the thin door itself?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "sound-noisy-return-vent",
+      "system": "interior",
+      "title": "How to Quiet a Noisy Return-Air Vent or Rattling Register",
+      "question": "My return-air vent or supply register makes a loud whooshing, rattling, or whistling sound every time the furnace or AC kicks on. How do I make it quieter without messing up the airflow?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "sound-outlets-shared-wall",
+      "system": "interior",
+      "title": "How to stop sound coming through electrical outlets on a wall I share with my neighbor",
+      "question": "I can hear my neighbor's voices and TV coming right through the electrical outlets on the wall we share. How do I block the sound passing through the outlets without rewiring the whole wall?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "sound-recessed-lights",
+      "system": "interior",
+      "title": "How to Soundproof Recessed Can Lights So Noise Stops Leaking Between Floors and Rooms",
+      "question": "Sound (footsteps, voices, TV) is leaking through my recessed can lights between floors or rooms \u2014 how do I block it without creating a fire hazard?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "sound-room-echo",
+      "system": "interior",
+      "title": "How to Reduce Echo and Quiet a Sparse, Empty-Sounding Room",
+      "question": "My living room (or home office) echoes badly and sounds harsh and loud because it's mostly empty \u2014 hard floors, bare walls, big windows. How do I reduce the echo and make it sound quieter without a full renovation?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "sound-townhouse-party-wall",
+      "system": "interior",
+      "title": "How to Soundproof a Shared Townhouse or Condo Party Wall Without Opening It Up",
+      "question": "I can hear my neighbors talking and their TV through the shared wall in my townhouse (or condo). How do I soundproof this common wall without demolishing it and opening up the studs?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "sound-upstairs-footsteps",
+      "system": "interior",
+      "title": "How to Reduce Footstep and Impact Noise From the Apartment Unit Upstairs",
+      "question": "My upstairs neighbor's footsteps, dropped items, and heavy walking are coming through my ceiling and driving me crazy. What can I actually do from my own unit to reduce the impact and footstep noise?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "sound-window-street-noise",
+      "system": "interior",
+      "title": "How to Reduce Street and Traffic Noise Through Apartment Windows (Renter-Friendly, No Drilling)",
+      "question": "I rent an apartment on a busy street and traffic noise comes right through my windows. What can I actually do to make it quieter without damaging anything or losing my deposit?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "weatherstrip-exterior-door",
+      "system": "exterior",
+      "title": "How to Weatherstrip an Exterior Door to Stop Cold Drafts",
+      "question": "I feel cold air leaking around my front (exterior) door \u2014 how do I weatherstrip it to stop the drafts?",
+      "kind": "spoke"
+    },
+    {
+      "slug": "yard-drainage",
+      "system": "yard",
+      "title": "Standing Water in Your Yard \u2014 Causes & Fixes",
+      "question": "Why does water pool in my yard and how do I fix the drainage?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "yard-fence-repair",
+      "system": "yard",
+      "title": "Fence Post Repair: Why Posts Lean or Rot and How to Fix Them",
+      "question": "How do I fix a leaning or rotted fence post?",
+      "kind": "pillar"
+    },
+    {
+      "slug": "yard-sprinkler-repair",
+      "system": "yard",
+      "title": "Sprinkler Head Repair: Why It Won't Spray Right & How to Fix It",
+      "question": "How do I fix a broken or leaking sprinkler head?",
+      "kind": "pillar"
+    }
+  ],
+  "referenceNotice": "For general reference only. This information does not guarantee any result \u2014 every home is different. Verify against local building codes and a licensed professional before acting, especially for electrical, gas, plumbing, structural, or roof work."
+}

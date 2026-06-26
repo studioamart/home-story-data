@@ -1,0 +1,81 @@
+{
+  "slug": "hvac-ac-freezing",
+  "system": "hvac",
+  "title": "Why Your AC Is Freezing Up (Ice on the Unit) \u2014 Causes & Fixes",
+  "question": "Why is my air conditioner freezing up with ice and not cooling?",
+  "summary": "Your AC freezes when something starves the indoor coil of warm airflow or refrigerant, so the coil drops below 32\u00b0F and condensation turns to ice. The two most common culprits are a dirty air filter and a dirty/blocked coil; the fastest cure is to switch cooling off, run the fan to thaw it, and restore airflow.",
+  "commonCauses": [
+    {
+      "cause": "Dirty/clogged air filter choking airflow across the indoor evaporator coil",
+      "likelihood": "most common",
+      "quickCheck": "Pull the filter; if you can't see light through it or it's gray with dust, that's your problem."
+    },
+    {
+      "cause": "Dirty indoor evaporator coil or blocked return/supply vents reducing airflow",
+      "likelihood": "most common",
+      "quickCheck": "Look for furry buildup on the coil fins behind the access panel, and confirm no vents are closed, blocked by furniture, or have collapsed ductwork."
+    },
+    {
+      "cause": "Low refrigerant from a leak (drops coil pressure and temperature)",
+      "likelihood": "common",
+      "quickCheck": "Ice on the larger insulated copper line at the outdoor unit, hissing/bubbling sounds, or cooling that has gradually weakened over weeks point to a leak \u2014 a pro must confirm."
+    },
+    {
+      "cause": "Running the AC when it's too cold outside (roughly below 60\u00b0F)",
+      "likelihood": "common",
+      "quickCheck": "If you ran cooling on a cool night or early morning and it iced up, the outdoor temperature was likely too low; below ~60\u00b0F refrigerant pressure drops and the coil ices."
+    },
+    {
+      "cause": "Failing blower motor, slipping belt, or wrong fan speed reducing air volume",
+      "likelihood": "less common",
+      "quickCheck": "Listen for a weak or wobbling blower, or notice very little air coming from vents even with a clean filter."
+    },
+    {
+      "cause": "Clogged condensate drain tripping a safety float switch, or a stuck/failed metering device (TXV)",
+      "likelihood": "less common",
+      "quickCheck": "Standing water in the drain pan, the system short-cycling, or uneven cooling; diagnosing the metering valve requires a pro."
+    }
+  ],
+  "fixes": [
+    "Switch the thermostat from COOL to OFF immediately, and set the FAN to ON. Running the blower with cooling off melts the ice fastest and protects the compressor. A full thaw takes anywhere from 1 to 24 hours depending on how much ice formed.",
+    "Put towels around the indoor air handler/furnace and watch the condensate pan \u2014 melting ice can overflow and cause water damage.",
+    "While it thaws, replace the air filter with a new one of the correct size (the dimensions are printed on the old filter's frame). A standard MERV 8-11 filter is a safe choice; very dense 'allergen' or HEPA-style filters can restrict airflow and cause this exact freeze-up.",
+    "Open every supply register and clear furniture, rugs, or boxes off all return and supply vents so the system can move air freely.",
+    "Once fully thawed and dry, set the thermostat back to COOL at a normal setpoint and let it run. Feel the vents after 15-20 minutes \u2014 you should get a steady stream of cold air with no new ice forming.",
+    "If it re-freezes with a clean filter and open vents, shut off power at the outdoor disconnect box (or the breaker) first, then gently rinse the outdoor condenser coil \u2014 spray from the inside out with a regular garden hose on a gentle setting (never a pressure washer, which bends the fins) and clear leaves and grass from around the unit.",
+    "If the indoor evaporator coil is visibly dirty, a no-rinse foaming evaporator coil cleaner can help, but reaching it usually means removing panels near electrical and the blower \u2014 many homeowners call a pro for this.",
+    "If ice keeps returning after airflow is confirmed good, stop running it and call an HVAC technician. This almost always means low refrigerant (a leak) or a failed metering device \u2014 neither is a DIY fix, and running a starved system can damage the compressor."
+  ],
+  "diyVsPro": "DIY is fine for thawing, swapping the filter, clearing vents, and rinsing the outdoor condenser coil (power off first) \u2014 these solve most freeze-ups. Call a licensed HVAC pro if the unit re-freezes after airflow is restored, if you see ice on the insulated copper line at the outdoor unit, if cooling is weak across the whole house, or if you suspect a refrigerant leak. Refrigerant work is EPA Section 608 regulated and legally requires a certified technician \u2014 never add refrigerant yourself.",
+  "typicalCostUSD": "DIY: $5-$30 for a filter, $10-$25 for coil cleaner. Pro service call/diagnosis: $90-$200. Coil cleaning by a pro: $100-$400. Refrigerant leak repair plus recharge: $200-$1,500+ depending on leak location; a failed TXV/metering valve typically runs $350-$800; a full evaporator coil replacement can hit $1,000-$2,500.",
+  "timeEstimate": "Thawing: 1-24 hours (often 3-8). Filter swap and clearing vents: 10-15 minutes. Rinsing the outdoor coil: 30-45 minutes. A pro diagnosis visit is typically 1-2 hours.",
+  "safetyLevel": "caution",
+  "safetyNote": "Never chip or scrape ice off the coil or copper lines \u2014 you can puncture them and release refrigerant or cause an expensive repair; let it melt naturally. Before touching or rinsing the outdoor unit, shut off power at the nearby disconnect box or the breaker (the fan and compressor carry 240V). Use a regular garden hose, never a pressure washer, which will bend the fins. Watch for water overflow from the condensate pan during thaw. If you ever smell something acrid or see oily residue near the lines (signs of a refrigerant leak), ventilate the area and call a pro rather than handling it yourself.",
+  "toolsParts": [
+    "New HVAC air filter (correct size, MERV 8-11)",
+    "Garden hose with a gentle spray nozzle",
+    "No-rinse foaming evaporator/condenser coil cleaner (optional)",
+    "Screwdriver or nut driver for access panels",
+    "Towels for thaw cleanup",
+    "Flashlight"
+  ],
+  "searchTerms": [
+    "AC frozen up",
+    "ice on air conditioner unit",
+    "air conditioner not cooling ice on coil",
+    "why is my AC freezing",
+    "frozen evaporator coil fix",
+    "AC ice on copper line outside",
+    "how long to thaw frozen AC"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman)",
+    "HVAC manufacturer guidance on airflow and minimum operating outdoor temperature (~60\u00b0F)",
+    "EPA Section 608 refrigerant-handling regulations",
+    "General building-code and HVAC service norms"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed HVAC technician inspecting your specific system. Refrigerant handling is federally regulated and must be done by an EPA-certified professional. When in doubt, stop and call a pro.",
+  "verified": true,
+  "verifierNote": "Corrected low-ambient threshold from ~62\u00b0F to the established ~60\u00b0F (added compressor-lubricant context); confirmed condenser rinse direction (inside-out, gentle hose, no pressure washer); strengthened 240V/disconnect warning and panel-removal hazard; nudged pro cost ranges up to 2026-realistic (service call $90-200, TXV $350-800); verified the fix sequence and that no under-warned gas/electrical/roof tasks exist.",
+  "kind": "pillar"
+}

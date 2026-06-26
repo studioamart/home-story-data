@@ -1,0 +1,80 @@
+{
+  "slug": "insulate-end-unit-wall",
+  "system": "interior",
+  "title": "How to Insulate and Stop Drafts on a Cold End-Unit Townhouse Exterior Wall",
+  "question": "My townhouse is an end unit and the exposed exterior wall (the one that doesn't share with a neighbor) is freezing cold and drafty in winter. How do I insulate it and seal the drafts so that room stays warm?",
+  "summary": "An end-unit wall is cold because it's the only wall fully exposed to outside air, and most of the cold actually sneaks in around outlets, the top/bottom of the wall, and windows rather than through the wall itself. Fix the air leaks first (cheap, big payoff), then add insulation where it's missing. This guide walks you through diagnosing and warming a cold end-unit townhouse exterior wall.",
+  "commonCauses": [
+    {
+      "cause": "Air leaks at outlets and switches on the exterior wall \u2014 the electrical boxes are an open path straight into the wall cavity and outside air rides in around them",
+      "likelihood": "most common",
+      "quickCheck": "On a windy or cold day, hold the back of your hand or a lit incense stick near an outlet/switch on that wall; feel for cold air or watch the smoke get pulled sideways."
+    },
+    {
+      "cause": "Missing, thin, or settled insulation in the wall cavity \u2014 older townhouses sometimes have under-insulated end walls, or batt insulation has slumped and left the top of the cavity bare",
+      "likelihood": "common",
+      "quickCheck": "On a cold day, run your palm across the whole wall top to bottom; cold patches (especially up high) suggest missing or settled insulation. A cheap infrared thermometer or your phone's thermal feature shows cold streaks clearly."
+    },
+    {
+      "cause": "Drafts at the wall-to-floor and wall-to-ceiling junctions and at corners, where the framing meets the slab/floor or attic and was never properly sealed",
+      "likelihood": "common",
+      "quickCheck": "Run your hand along the baseboard and along the top of the wall; feel for cold air seeping at the seam. Check corners where the end wall meets side walls."
+    },
+    {
+      "cause": "Leaky windows on the exposed wall \u2014 gaps in the sash, failed weatherstripping, or an un-sealed gap between the window frame and the rough framing behind the trim",
+      "likelihood": "common",
+      "quickCheck": "Close the window and run your hand around the sash and trim; do the incense-smoke test at the edges. Try to slide a dollar bill in a closed sash \u2014 if it slides freely the seal is weak."
+    },
+    {
+      "cause": "Cold radiating off the wall surface itself (thermal bridging through studs) makes the room feel colder than the thermostat says, even with insulation present",
+      "likelihood": "less common",
+      "quickCheck": "Compare the wall-surface temperature directly over a stud vs. between studs with an IR thermometer; studs reading noticeably colder confirms thermal bridging."
+    }
+  ],
+  "fixes": [
+    "Diagnose first on a cold/windy day. Walk the wall with a lit incense stick or your hand and mark every spot where you feel cold air \u2014 outlets, baseboards, top of wall, window edges, corners. An inexpensive IR thermometer ($20-30) or a phone thermal camera makes cold spots obvious. This tells you whether you have an air-leak problem, an insulation problem, or both (usually both).",
+    "Seal outlets and switches (biggest cheap win). Turn off the breaker for that wall and confirm power is off with a non-contact voltage tester before touching anything. Remove each cover plate and install a foam outlet/switch gasket behind it ($5 a pack). For a tighter seal, add child-safety plug caps in unused outlets. Re-attach plates, restore power. This stops the single most common end-wall draft path.",
+    "Air-seal the baseboard and top-of-wall seams. Run a bead of paintable acrylic-latex caulk along the seam where baseboard meets floor and where trim meets wall. For larger visible gaps at the floor, low-expansion (window-and-door) foam works, then re-caulk over it.",
+    "Weatherstrip and seal the windows. Replace failed sash weatherstripping with V-seal or foam strips. Caulk the interior gap between the window frame and the wall trim (leave exterior weep holes clear; never caulk those). For winter, a clear shrink-film window insulation kit ($10-15/window, applied with a hairdryer) adds a noticeable dead-air barrier over a leaky window.",
+    "Address missing insulation in the cavity. If diagnosis showed cold patches through the field of the wall (not just leaks), you have two practical routes: (a) least invasive \u2014 drill-and-fill blown-in cellulose through small holes that get patched (best left to an insulation contractor with the equipment and moisture know-how), or (b) if the wall is already open or unfinished, install batts (R-13 to R-15 for a 2x4 wall, R-19/R-21 for 2x6) snug with no gaps or compression. Use the vapor-retarder approach your climate zone requires \u2014 and do not add a second vapor barrier where one already exists.",
+    "Add a rigid-foam interior layer for a high-impact upgrade (optional, more work). Furring out the wall with 1-1.5 in rigid foam board (taped seams) plus new drywall cuts thermal bridging through the studs and meaningfully warms the surface. IMPORTANT: foam is itself a vapor retarder, so adding it over a wall that already has interior poly or kraft-faced batts can trap moisture between two barriers and cause hidden rot/mold \u2014 confirm the existing assembly first, and in cold climates follow the rule of keeping enough of the R-value on the warm side to keep the sheathing above the dew point. This is a remodel-level job (drywall, trim, outlet-box extensions) \u2014 when in doubt, have a contractor or building-science-savvy pro spec the assembly.",
+    "Verify your work. On the next cold day, redo the incense/IR check at every spot you sealed. The wall surface should read warmer and the drafts should be gone. Track your comfort over a week before deciding whether to go further (e.g., the rigid-foam upgrade)."
+  ],
+  "diyVsPro": "Air-sealing (outlet gaskets, caulking baseboards and window trim, weatherstripping, shrink-film) is squarely DIY and is where most of the comfort gain hides \u2014 do this yourself first. Diagnosing with an IR thermometer is also easy DIY. Call a pro for: drill-and-fill / blown-in insulation (they have the blower, moisture know-how, and find hidden voids), opening up the wall, the rigid-foam-and-redrywall upgrade (vapor-barrier and electrical-box-extension details matter), or any electrical work beyond removing a cover plate. If you find any moisture, mold, water staining, or soft/rotted framing inside the wall, stop and bring in a pro to fix the water source before sealing anything up \u2014 sealing over a wet wall traps the problem.",
+  "typicalCostUSD": "DIY air-sealing kit (outlet gaskets, caulk, weatherstrip, 3-4 window film kits): $60-150. IR thermometer: $20-30. Professional drill-and-fill blown-in insulation for one end wall: roughly $1.75-3.50/sq ft for the insulation, plus hole patching \u2014 commonly $800-2,500 for a typical end-unit wall depending on size, siding type, and access. Full rigid-foam interior upgrade with new drywall (contractor): $3,000-7,000+ depending on wall size and finishes.",
+  "timeEstimate": "Air-sealing pass (outlets, baseboards, windows): one weekend afternoon, 3-5 hours. Drill-and-fill by a crew: typically half a day. Rigid-foam-plus-drywall remodel: several days to a couple of weekends.",
+  "safetyLevel": "caution",
+  "safetyNote": "Always switch off the breaker before removing any outlet or switch cover plate, and confirm power is off with a non-contact voltage tester. Use only low-expansion 'window and door' spray foam near framing and windows \u2014 standard high-expansion foam can bow window frames. Do not add interior rigid foam or a second vapor barrier over a wall that already has one; trapping moisture between two barriers can rot framing and grow mold. If you uncover any moisture, mold, water staining, or soft/rotted wood inside the wall, do not seal it up \u2014 fix the water source first, and call a pro if the affected area is larger than about 10 sq ft or there's any sign of structural rot. Old insulation can release fiberglass, and pre-1980 homes may have asbestos or lead-painted surfaces \u2014 wear a respirator and gloves, and test before disturbing suspect materials.",
+  "toolsParts": [
+    "Lit incense stick or thin tissue (draft detection)",
+    "Infrared thermometer or phone thermal camera",
+    "Non-contact voltage tester",
+    "Foam outlet/switch gaskets",
+    "Paintable acrylic-latex caulk and caulk gun",
+    "Low-expansion window-and-door spray foam",
+    "V-seal or foam weatherstripping",
+    "Clear shrink-film window insulation kits",
+    "Screwdriver",
+    "Utility knife",
+    "Optional: rigid foam board, foam-board tape, fiberglass/mineral-wool batts, drywall and outlet box extenders for the full upgrade"
+  ],
+  "searchTerms": [
+    "how to insulate cold end unit townhouse exterior wall",
+    "stop drafts on exposed townhouse end wall winter",
+    "end unit wall freezing cold how to fix",
+    "air seal outlets drafty exterior wall",
+    "drill and fill insulation existing wall cost",
+    "rigid foam interior wall insulation double vapor barrier risk"
+  ],
+  "sources": [
+    "U.S. Department of Energy \u2014 Energy Saver: air sealing and home insulation guidance",
+    "ENERGY STAR \u2014 DIY air sealing and weatherization recommendations",
+    "International Residential Code (IRC) insulation R-value and vapor-retarder tables by climate zone",
+    "Building science guidance on avoiding double vapor barriers in retrofit wall assemblies",
+    "Manufacturer guidance for low-expansion window/door spray foam and rigid foam board"
+  ],
+  "disclaimer": "General home-maintenance guidance for a typical US townhouse; your wall construction, climate zone, and local building codes may differ. Verify electrical work safety and pull permits where required. When in doubt, consult a licensed contractor or insulation professional.",
+  "verified": true,
+  "verifierNote": "Confirmed methods, R-values, and costs against DOE/ENERGY STAR and 2025-26 pricing; added a double-vapor-barrier moisture/rot warning to the interior rigid-foam step and safety note, made the moisture/mold-stop-and-call-a-pro routing explicit (>10 sq ft mold or any rot), and corrected window-sealing advice to leave exterior weep holes uncaulked.",
+  "kind": "spoke"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "airseal-exterior-penetrations",
+  "system": "exterior",
+  "title": "How to Reseal Gaps Where Pipes and Wires Enter Your House Exterior",
+  "question": "There are gaps and cracked old caulk around the spots where my outdoor faucet, AC line, cable, and electrical wires go through the exterior wall. How do I properly air-seal these penetrations to stop drafts, water, and bugs?",
+  "summary": "Clean out the old failed sealant, then match the product to the gap size: backer rod plus exterior sealant for small gaps, minimal-expansion foam for larger holes \u2014 never rely on plain caulk to bridge a 1-inch hole. This stops drafts, water intrusion, and pests at your hose bib, AC line set, cable, and wire penetrations.",
+  "commonCauses": [
+    {
+      "cause": "Naive single-product approach: people grab one tube of caulk and try to fill everything, but unsupported caulk bridges only about 1/4 inch and sags or cracks in larger gaps",
+      "likelihood": "most common",
+      "quickCheck": "Eyeball the gap width around each pipe/wire \u2014 anything wider than a pencil needs backer rod or foam first, not a bead of caulk alone"
+    },
+    {
+      "cause": "Old sealant failed because it was the wrong type or was never tooled into the joint \u2014 sun-degraded acrylic caulk, painted-over latex, or a skin over a hollow void",
+      "likelihood": "most common",
+      "quickCheck": "Press the old bead with a screwdriver; if it's hard, cracked, chalky, or pulls away in a strip, it's dead and must come out fully"
+    },
+    {
+      "cause": "Sealing the visible outside crack while the real leak path is hidden \u2014 air and water often travel behind the siding through the wall cavity around the pipe",
+      "likelihood": "common",
+      "quickCheck": "On a windy day, hold a lit incense stick or your wet hand near each interior penetration (under-sink, behind the panel); movement means the inside needs sealing too"
+    },
+    {
+      "cause": "Using standard high-expansion 'gaps and cracks' foam, which keeps growing after you walk away and can bow siding, pinch a flexing pipe, or push trim off",
+      "likelihood": "common",
+      "quickCheck": "Read the can \u2014 it should say 'minimal expansion' or 'window and door'; if it just says 'gaps and cracks,' it's the aggressive kind"
+    },
+    {
+      "cause": "Mistaking a penetration that must stay flexible (refrigerant line set, gas line, anything that vibrates or moves with temperature) for one you can rigidly seal",
+      "likelihood": "less common",
+      "quickCheck": "Touch the line \u2014 if it's an AC/heat-pump copper line set, gas pipe, or anything that gets hot/cold, it needs a flexible sealant rated for movement, not rigid foam or mortar"
+    },
+    {
+      "cause": "Sealing a weep hole or intentional drainage gap shut, trapping water inside the wall",
+      "likelihood": "less common",
+      "quickCheck": "Small slots at the bottom of brick veneer or window frames are weeps \u2014 leave those open; only seal the actual pipe/wire annular gap"
+    }
+  ],
+  "fixes": [
+    "Inventory every penetration on the exterior: hose bib/outdoor faucet, AC refrigerant line set, dryer vent, electrical service entry/conduit, cable/internet, gas line, condensate drain. Note the gap size and wall material (vinyl, stucco, brick, fiber cement, wood) at each \u2014 this drives product choice.",
+    "Remove the old failed sealant completely. Use a utility knife or a plastic caulk-removal tool to cut it out, then scrape and wire-brush the surface. A bead over old crumbling caulk will fail again. For stucco/masonry, chip out loose material.",
+    "Clean and dry the joint. Wipe with a rag; for oily surfaces use denatured alcohol. Sealant will not bond to dust, chalk, or moisture, so let it dry fully (skip sealing in the rain or on a wet wall).",
+    "For small gaps up to about 1/4 inch: apply a single product \u2014 a high-quality exterior sealant. Use polyurethane or a hybrid 'advanced polymer' (silicone-hybrid, e.g., OSI Quad or DAP Dynaflex Ultra) for water-exposed/movement joints; 100% silicone for non-paintable areas (note: silicone cannot be painted over). Lay a continuous bead all the way around the pipe and tool it smooth with a wet finger or spoon so it bonds to both surfaces.",
+    "For medium gaps 1/4 to 1/2 inch: push closed-cell foam backer rod into the gap first (choose rod about 25% larger than the gap so it compresses in), set its surface roughly half the gap's width below flush, then run sealant over it and tool it. The backer rod gives the sealant the right hourglass shape, prevents three-sided bonding, and stops it sagging into the void.",
+    "For large holes 1/2 inch and up: fill with MINIMAL-EXPANSION ('window and door') spray foam. Apply in a thin pass, let it expand, add more only if needed, and let it cure before trimming flush with a knife. Then, because most foam degrades in sunlight, cover the exposed cured foam with a bead of exterior sealant or paintable coating for UV protection.",
+    "Treat moving/hot/cold lines specially: for the AC line set or any vibrating pipe, use a flexible sealant rated for joint movement (polyurethane or advanced-polymer) and do NOT pack rigid foam tight against it. A proper escutcheon plate or a paintable foam pipe collar helps. For any gas line, do not seal it yourself \u2014 stop and call a licensed pro (see safety note).",
+    "Seal the inside face too where accessible. Under sinks, behind the dryer, at the electrical panel knockout, foam or caulk the same penetration from indoors. Air and pests travel the full wall-cavity path; sealing one side often does little. Use fire-rated (firestop) caulk where wires pass through a wall shared with the garage or another fire-separated space.",
+    "Don't seal drainage features: leave brick weep holes, window weeps, and any intentional drip gaps open. Only close the annular gap around the pipe/wire itself.",
+    "Inspect annually. Caulk on a sun-baked south/west wall typically lasts 5 to 10 years (silicone/polyurethane longer than acrylic). Re-check after winter for new cracks and reapply as needed."
+  ],
+  "diyVsPro": "Most penetrations \u2014 hose bib, cable, low-voltage wire, dryer vent, condensate drain \u2014 are straightforward DIY with caulk, backer rod, and minimal-expansion foam. Call a pro when the penetration is the main electrical service entrance/conduit/mast or anything inside the panel (240V service \u2014 leave it to the utility or a licensed electrician), a gas line (licensed plumber/gas fitter only), or the AC refrigerant line set if it's damaged or the insulation is failing. Also call a pro for roof-height ladder work, or if you find rot, active water staining, or mold larger than about 10 square feet behind the siding \u2014 that's a repair, not a seal job.",
+  "typicalCostUSD": "DIY: $30 to $80 in materials (sealant $8 to $15/tube, backer rod $6 to $10, minimal-expansion foam $7 to $12/can). Pro handyman for a whole-house pass: $150 to $400. Specialist work (electrical mast reseal, AC line set, gas line): $150 to $500+ depending on trade.",
+  "timeEstimate": "2 to 4 hours for a full exterior walk-around on a typical house, plus sealant cure time (most skin over in 30 minutes, fully cure in about 24 hours).",
+  "safetyLevel": "caution",
+  "safetyNote": "Do NOT seal around a gas line yourself, and do not touch the electrical service entrance, meter, mast, or panel (240V \u2014 call the utility or a licensed electrician). Gas work is for a licensed plumber/gas fitter. Never spray foam or caulk into an opening you can't see fully, and keep all products clear of hot flue/vent pipes. If a penetration is above single-story height or needs roof access, work from stable footing or hire it out rather than overreaching a ladder. If you find rot, structural damage, or mold over about 10 square feet, stop and bring in a pro. Wear gloves and eye protection \u2014 cured spray foam is very hard to remove from skin.",
+  "toolsParts": [
+    "Utility knife",
+    "Plastic caulk-removal tool or scraper",
+    "Wire brush",
+    "Caulk gun",
+    "Exterior-grade sealant (polyurethane, advanced-polymer/silicone-hybrid, or 100% silicone)",
+    "Closed-cell foam backer rod (assorted diameters)",
+    "Minimal-expansion ('window and door') spray foam",
+    "Fire-rated (firestop) caulk for garage/fire-separated walls",
+    "Denatured alcohol and rags",
+    "Disposable gloves and safety glasses",
+    "Rags or a spoon for tooling the bead",
+    "Flashlight and a ladder if needed"
+  ],
+  "searchTerms": [
+    "how to seal gaps around pipes entering house exterior",
+    "best caulk for where wires enter wall outside",
+    "reseal around outdoor faucet hose bib siding gap",
+    "minimal expansion foam vs caulk for exterior pipe penetration",
+    "air seal AC line set hole in exterior wall",
+    "backer rod and caulk for large gap around pipe",
+    "stop drafts and bugs coming in around exterior cable hole"
+  ],
+  "sources": [
+    "U.S. DOE Energy Saver \u2014 air sealing and caulking guidance",
+    "ENERGY STAR Home Sealing recommendations",
+    "Manufacturer application guidance for polyurethane/silicone exterior sealants (e.g., GE, DAP, Sika, OSI)",
+    "Spray foam manufacturer instructions for minimal-expansion vs. gaps-and-cracks foam (e.g., Great Stuff)",
+    "International Residential Code (IRC) provisions on air sealing penetrations, firestopping at garage walls, and masonry weep holes"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for professional inspection. Building materials, codes, and conditions vary; when in doubt, consult a licensed contractor, electrician, or plumber/gas fitter.",
+  "verified": true,
+  "verifierNote": "Confirmed accuracy of the gap-sizing product logic and added required pro-routing for 240V/gas/roof/mold thresholds.",
+  "kind": "spoke"
+}

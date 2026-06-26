@@ -1,0 +1,89 @@
+{
+  "slug": "plumbing-replace-toilet-diy",
+  "system": "plumbing",
+  "title": "How to Replace a Toilet Yourself (Even on a Second Floor)",
+  "question": "I want to swap out my old toilet for a new one myself, including one in an upstairs bathroom. How do I do it without flooding the room or the ceiling below, and what catches people off guard?",
+  "summary": "Replacing a toilet is one of the most DIY-friendly plumbing jobs: shut off the water, drain and unbolt the old one, set a fresh wax ring, drop the new bowl onto the flange, bolt it down, and reconnect the supply line. A second-floor swap follows the same steps but raises the stakes on protecting the room below and on safely moving a heavy bowl down stairs.",
+  "commonCauses": [
+    {
+      "cause": "Flange height vs. the finished floor. The toilet flange (the plastic or metal ring the bolts thread into) should sit flush with, or up to about 1/4 inch above, the finished floor. If a previous owner added tile or flooring, the flange may now sit too low and a single wax ring won't seal, causing slow leaks onto the subfloor or, on a second floor, the ceiling below.",
+      "likelihood": "most common",
+      "quickCheck": "After pulling the old toilet, look at where the flange sits relative to the floor. At or slightly above the floor is good; recessed 1/4 inch or more means you need an extra-thick wax ring or a flange spacer/extender."
+    },
+    {
+      "cause": "A cracked, corroded, or wobbly flange. The flange is what actually anchors the toilet; the bolts (called closet bolts) hook into slots on it. Broken ears or a rusted ring let the toilet rock, which breaks the wax seal over time and leaks.",
+      "likelihood": "common",
+      "quickCheck": "With the old toilet off, try to flex the flange and inspect the two bolt slots for cracks. Any movement or a snapped ear means repair the flange first (a repair/reinforcement ring) before setting the new toilet."
+    },
+    {
+      "cause": "Rocking from an uneven floor. If the new bowl doesn't sit perfectly flat it rocks, the wax seal fails, and the porcelain can eventually crack. People over-tighten the bolts to stop the rock and crack the base instead.",
+      "likelihood": "common",
+      "quickCheck": "Before final tightening, straddle the bowl and rock gently. If it moves, slide toilet shims under the low spots, then snug the bolts; never force a wobble out with bolt tension alone."
+    },
+    {
+      "cause": "Old or seized shutoff valve and supply line. The angle stop under the tank often hasn't been turned in years and can seize or start dripping when you finally move it. On a second floor a stuck valve may force you to shut the whole house off.",
+      "likelihood": "common",
+      "quickCheck": "Turn the shutoff clockwise and flush; the tank should not refill. If the valve won't turn, weeps, or won't fully stop the water, plan to replace the angle stop (or shut the main) before going further."
+    },
+    {
+      "cause": "Second-floor weight and access. A one-piece toilet can weigh 90 to 120+ lbs and the old one holds residual water and grime. Carrying it down stairs solo, or maneuvering a heavy bowl in a tight upstairs bathroom, is where injuries and dropped (cracked) porcelain happen.",
+      "likelihood": "less common",
+      "quickCheck": "Lift a corner of the old toilet to gauge weight before committing. If it feels like a real strain or the stairs are tight, get a second person and clear a path with drop cloths."
+    }
+  ],
+  "fixes": [
+    "Buy the right parts first: the new toilet (confirm the rough-in, the distance from the finished wall behind to the center of the flange bolts, usually 12 inches but sometimes 10 or 14), a new wax ring (or a waxless seal), new closet bolts, and a new flexible braided supply line. Keep the new toilet's box or a furniture dolly handy for the second-floor carry.",
+    "Shut off the water at the angle stop under the tank (turn clockwise). Flush and hold the handle to drain the tank, then sponge or shop-vac out the remaining water in both tank and bowl until it's dry. This is what prevents drips on the floor and the ceiling below.",
+    "Disconnect the supply line at the tank. Unbolt the tank from the bowl if it's a two-piece (makes the carry far lighter), or handle a one-piece as a unit. Lay old towels down to catch trickles.",
+    "Pop the bolt caps at the base, remove the nuts, and break the seal by rocking the bowl side to side. Lift it straight up, immediately plug the open drain with a rag to block sewer gas, and set the old toilet on a drop cloth. On a second floor, move it out now with a helper before doing anything else.",
+    "Scrape off all old wax from the flange and the toilet horn until both are clean. Inspect the flange: it should be flush to 1/4 inch above the finished floor and not cracked or loose. Repair or add a spacer/extender now if needed; do not stack two wax rings as a shortcut, it's unreliable.",
+    "Drop the new closet bolts into the flange slots and rotate them upright (a plastic retainer washer holds them vertical). Press the new wax ring onto the flange (or onto the toilet horn, per its instructions).",
+    "Lower the new bowl straight down so both bolts come up through the base holes, then press down with your body weight and a slight wiggle to compress the wax. Don't lift and reset, it ruins the seal.",
+    "Check for rock; shim if needed. Hand-tighten the washers and nuts, then snug them alternately a little at a time with a wrench. Stop the moment it's firm. Over-tightening cracks the base.",
+    "Reconnect the supply line (new braided one) to the tank and the angle stop, hand-tight plus a gentle quarter turn. Turn the water back on slowly and let the tank fill.",
+    "Flush several times and watch the base, the supply connections, and (on a second floor) check the ceiling below over the next day for any staining. Trim the bolts and cap them only after you've confirmed no leaks.",
+    "Caulk around the base where it meets the floor, leaving a small gap at the very back so any future leak shows itself instead of hiding under the toilet (many codes actually require the toilet caulked to the floor)."
+  ],
+  "diyVsPro": "Strongly DIY-friendly for most homeowners; this is one of the best first plumbing jobs because the connections are simple and the water is easy to shut off. Call a plumber if the flange is broken or set wrong and you're not comfortable repairing it, if the angle stop or supply piping is corroded and leaking, or if the drain pipe itself is damaged. The second-floor location alone is not a reason to call a pro; the real risks there are water damage to the ceiling below and the heavy carry, both of which careful prep handles. Important: if you uncover a soft, spongy, or rotted subfloor, or any sign of an active or long-running leak, stop and get it assessed by a pro before reinstalling. Hidden rot can mean compromised structure and mold; do not just set a new toilet on top of it.",
+  "typicalCostUSD": "DIY parts: new toilet $120 to $400 (premium/one-piece $500+), wax ring $5 to $12, closet bolts $5, braided supply line $8 to $15, new angle stop if needed $10 to $20. Total DIY often $150 to $450. Hiring a plumber for install-only (you supply the toilet) typically runs $150 to $400 in labor; full supply-and-install through a plumber typically runs $350 to $900 depending on region and toilet.",
+  "timeEstimate": "2 to 4 hours for a first-timer, including buying parts and cleanup; about 1 to 1.5 hours once you've done one. Add time on a second floor for careful carrying and floor protection.",
+  "safetyLevel": "caution",
+  "safetyNote": "The main hazards are water damage and a heavy lift, not anything life-threatening. Fully drain and sponge out the old toilet so you don't drip dirty water onto the floor or through to the ceiling below, and plug the open drain with a rag the moment the toilet is off to keep sewer gas out of the room. A one-piece toilet can top 100 lbs, so lift with your legs and use a helper for stairs to avoid back injury and dropped porcelain. Don't over-tighten the bolts; cracked porcelain is the most common self-inflicted damage. If you uncover a soft or rotted floor under the toilet, or visible mold, stop: rot is a structural and moisture problem and mold beyond a small patch (roughly 10 sq ft or more) should be handled by a pro, not covered back up.",
+  "toolsParts": [
+    "Adjustable wrench",
+    "Slip-joint pliers or basin wrench",
+    "Putty knife or scraper (for old wax)",
+    "Sponge and shop-vac",
+    "Bucket and old towels / drop cloths",
+    "Hacksaw or close-quarters bolt cutter (to trim closet bolts)",
+    "Level and toilet shims",
+    "Utility knife",
+    "Silicone caulk and caulk gun",
+    "New toilet",
+    "New wax ring (or waxless seal)",
+    "New closet bolts",
+    "New braided stainless supply line",
+    "Furniture dolly or moving straps (helpful for second-floor carry)",
+    "Rubber gloves"
+  ],
+  "searchTerms": [
+    "how to replace a toilet yourself",
+    "install new toilet second floor leak prevention",
+    "toilet flange height too low after new flooring",
+    "replace toilet wax ring step by step",
+    "toilet rocking after install how to shim",
+    "upstairs toilet replacement avoid ceiling damage",
+    "do I need extra thick wax ring",
+    "new toilet leaking at base after install"
+  ],
+  "sources": [
+    "Toilet manufacturer installation instructions (e.g., Kohler, American Standard, TOTO install guides)",
+    "Wax ring / waxless seal manufacturer guidance (e.g., Fluidmaster, Oatey)",
+    "International Residential Code (IRC) and Uniform Plumbing Code (UPC) norms on closet flange height (flush with finished floor)",
+    "Reputable DIY references (This Old House, Family Handyman toilet-installation guides)"
+  ],
+  "disclaimer": "General home-maintenance guidance for a typical US residential toilet replacement, not professional plumbing advice for your specific home. Codes, fixtures, and conditions vary; if you find rotted floor, damaged drain piping, mold, or anything you're unsure about, consult a licensed plumber. You assume responsibility for work you perform yourself.",
+  "verified": true,
+  "verifierNote": "Confirmed steps, sequence, costs, and flange-height guidance match standard US practice; corrected rough-in definition (measured to flange-bolt center, not \"bolts behind\"), dropped inaccurate \"brass\" claim on closet bolts, clarified install-only vs supply-and-install labor, and strengthened rot/mold routing to a pro (added ~10 sq ft mold threshold).",
+  "kind": "spoke"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "electrical-led-flicker-old-dimmer",
+  "system": "electrical",
+  "title": "LED Bulbs Flicker or Buzz on an Old Dimmer Switch: How to Fix It",
+  "question": "I put LED bulbs in a room with an old dimmer switch and now they flicker, strobe at low brightness, or buzz. How do I stop it?",
+  "summary": "Your old dimmer was built for incandescent bulbs that draw far more power, so it can't reliably \"see\" the tiny load of LEDs and chops the current unevenly, which you see as flicker and hear as buzz. The reliable fix is swapping in a modern LED-rated dimmer and using LED bulbs labeled \"dimmable,\" matched from the same brand and model.",
+  "commonCauses": [
+    {
+      "cause": "Old incandescent-rated dimmer below its minimum load. Legacy dimmers were designed for a minimum wattage (often 40-100W). Four 9W LEDs total 36W, which can be below that floor, so the dimmer behaves erratically.",
+      "likelihood": "most common",
+      "quickCheck": "Add up the wattage of all bulbs on the switch. If it's under ~40W (e.g. a few small LEDs), you're likely below the dimmer's minimum load."
+    },
+    {
+      "cause": "Non-dimmable LED bulbs on a dimmer. Many cheap LEDs have a basic driver that was never meant to be dimmed; on any dimmer they flicker, buzz, or refuse to go dim.",
+      "likelihood": "most common",
+      "quickCheck": "Read the bulb box or the printing on the bulb base. If it doesn't explicitly say 'Dimmable,' that's your problem."
+    },
+    {
+      "cause": "Dimmer/bulb incompatibility (the LED driver and the dimmer's dimming method don't get along). Even a dimmable LED can flicker if the dimmer is leading-edge (TRIAC) and the driver prefers a trailing-edge/ELV dimmer, or vice versa.",
+      "likelihood": "common",
+      "quickCheck": "Check the bulb manufacturer's online compatibility list for your exact dimmer model, or note whether mixing different LED brands on one switch makes it worse."
+    },
+    {
+      "cause": "Mixed bulb brands/models on one dimmer. Different drivers respond to the chopped waveform differently, so they fight each other and one or more flickers.",
+      "likelihood": "common",
+      "quickCheck": "Look at the bulbs on that one switch. If they're a mix of brands or models, that inconsistency alone can cause flicker."
+    },
+    {
+      "cause": "No neutral wire in the box for a smart/modern dimmer that needs one. Many older single-pole boxes have only hot and switch-leg; a dimmer requiring a neutral will misbehave without it.",
+      "likelihood": "less common",
+      "quickCheck": "With power OFF, look in the box for a bundle of white (neutral) wires capped together. No neutral bundle means you need a no-neutral-rated dimmer."
+    },
+    {
+      "cause": "Loose connection or worn dimmer contacts. A decades-old dimmer with loose wire nuts or a failing TRIAC can cause intermittent flicker regardless of bulb.",
+      "likelihood": "less common",
+      "quickCheck": "Does the flicker change when you gently nudge the dimmer knob, or do lights elsewhere on the circuit flicker too? Either points to a wiring/connection issue, not the bulbs."
+    }
+  ],
+  "fixes": [
+    "First, the free test: set the dimmer to 100% (full bright). If the flicker/buzz stops at full and only appears when dimmed, you have a classic dimmer-vs-LED mismatch and the steps below will fix it. If it flickers even at full bright, suspect a loose connection or failing dimmer (see the pro note).",
+    "Confirm your bulbs say 'Dimmable.' Non-dimmable LEDs will never behave on a dimmer. If they aren't dimmable, replace them with dimmable LEDs before changing anything else.",
+    "Try matched bulbs from one brand and model on that switch. Mixing drivers is a common, cheap-to-fix cause. Buy a set of the same dimmable LED and use them all on that fixture.",
+    "Check the bulb maker's dimmer compatibility list. Major LED brands publish PDFs naming which dimmers work with their bulbs. If your old dimmer isn't on it, plan to replace the dimmer. For LEDs, a trailing-edge (ELV) dimmer is often the smoothest choice.",
+    "Replace the old dimmer with a modern LED/CFL-rated dimmer (look for one rated for low LED loads; trailing-edge/ELV models tend to run quietest with LEDs). This is the real fix. CAUTION: turn the circuit OFF at the breaker and verify with a non-contact voltage tester before touching wires. Note which wire goes where (or photograph it), unscrew the old dimmer, and connect the new one to matching wires (line/hot, load/switch-leg, ground, and neutral if required). Re-test with the voltage tester before restoring power.",
+    "If the new dimmer has an adjustable low-end trim (many LED dimmers do, via a small dial or a press-and-hold setting), tune it: raise the minimum until the lights start cleanly without flickering at the lowest setting. This single step eliminates most low-brightness strobe.",
+    "Still buzzing on the new dimmer? Buzz can come from the bulb driver itself, not the dimmer. Swap to a different dimmable LED brand known for quiet drivers, or stay above the brightness level where the buzz starts.",
+    "If you only have a couple of low-wattage LEDs and the dimmer still acts up at its minimum, you're below its load floor. Either add more bulbs to the fixture or choose a dimmer specifically rated to dim a very low minimum LED load."
+  ],
+  "diyVsPro": "Swapping a standard single-pole dimmer with the breaker off is a reasonable DIY job for a careful homeowner: it's one switch, low voltage exposure once the breaker is off, and clearly labeled wires. Buying dimmable bulbs and adjusting the dimmer's trim is fully DIY. Call a licensed electrician if: the box has no ground, the wiring is aluminum (dull silver, not copper), it's a 3-way (two switches control the same lights) and you're unsure of the traveler wires, lights on other circuits also flicker, or you're not comfortable confirming power is off. Anything involving the panel or persistent flicker across multiple fixtures is a pro call, not a bulb problem.",
+  "typicalCostUSD": "$15-$30 for a modern LED-rated dimmer; $4-$12 per quality dimmable LED bulb. DIY total often under $60. An electrician swapping a dimmer typically runs $100-$200 with a minimum service/trip fee.",
+  "timeEstimate": "15 minutes to test bulbs and adjust the dimmer; 30-45 minutes to replace a dimmer yourself.",
+  "safetyLevel": "caution",
+  "safetyNote": "Replacing a dimmer is line-voltage (120V) work. Always turn the circuit OFF at the breaker, not just the switch, and confirm the wires are dead with a non-contact voltage tester before touching anything. Never assume the switch box has only one hot wire. If you see aluminum wiring, no ground, scorch marks or melted insulation, or a 3-way setup you don't understand, stop and call a licensed electrician.",
+  "toolsParts": [
+    "Non-contact voltage tester",
+    "Flat and Phillips screwdrivers",
+    "Wire nuts (usually included with the new dimmer)",
+    "Modern LED/CFL-rated dimmer (trailing-edge/ELV preferred for LEDs)",
+    "Dimmable LED bulbs, matched brand/model",
+    "Phone camera to photograph existing wiring",
+    "Wire strippers (if reconnecting bare wire)"
+  ],
+  "searchTerms": [
+    "LED bulbs flicker on old dimmer switch fix",
+    "LED lights buzzing on dimmer how to stop",
+    "best dimmer switch for LED bulbs",
+    "LED dimmer minimum load too low flicker",
+    "dimmable LED bulbs strobe at low brightness",
+    "replace old incandescent dimmer with LED dimmer",
+    "trailing edge vs leading edge dimmer for LED"
+  ],
+  "sources": [
+    "Manufacturer LED-dimmer compatibility guides (e.g. Lutron, Leviton)",
+    "ENERGY STAR guidance on dimmable LED lighting",
+    "General NEC-aligned residential wiring practice for switch replacement"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed electrician. Electrical codes vary by locality. If anything is unclear, the wiring looks unusual, or you're not fully confident the power is off, stop and hire a professional.",
+  "verified": true,
+  "verifierNote": "Confirmed causes, costs, and breaker-off/NCVT safety steps as accurate US practice; clarified that TRIAC = leading-edge (old) while trailing-edge/ELV is the LED-friendly choice, and corrected the over-precise \"10x power\" claim.",
+  "kind": "spoke"
+}

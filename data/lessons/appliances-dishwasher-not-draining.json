@@ -1,0 +1,88 @@
+{
+  "slug": "appliances-dishwasher-not-draining",
+  "system": "appliances",
+  "title": "Dishwasher Won't Drain \u2014 Causes & Fixes",
+  "question": "Why is there standing water in the bottom of my dishwasher and how do I fix it?",
+  "summary": "Standing water in a dishwasher almost always means a clog \u2014 in the filter, drain hose, or air gap \u2014 or a blocked garbage disposal. Most cases are a 15-45 minute DIY fix; a dead drain pump is the main job that usually needs a pro.",
+  "commonCauses": [
+    {
+      "cause": "Clogged dishwasher filter at the bottom of the tub, packed with food, grease, and debris",
+      "likelihood": "most common",
+      "quickCheck": "Open the door, remove the lower rack, and twist out the cylindrical filter \u2014 look for food gunk, grease, glass shards, or paper labels caked in the mesh."
+    },
+    {
+      "cause": "Garbage disposal drain plug (knockout) still in place after a new disposal install, or disposal full of food",
+      "likelihood": "most common",
+      "quickCheck": "If you recently installed a disposal, the dishwasher hose connects to it \u2014 the knockout plug may never have been punched out. Run the disposal empty and check the dishwasher inlet for the plug."
+    },
+    {
+      "cause": "Clogged or kinked drain hose between the dishwasher and the disposal/sink drain",
+      "likelihood": "common",
+      "quickCheck": "Look under the sink for a kink in the corrugated hose; with a bucket ready, disconnect the hose end and check for a soft food clog at the bend where it loops up."
+    },
+    {
+      "cause": "Blocked air gap (the small chrome cylinder on the countertop next to the faucet)",
+      "likelihood": "common",
+      "quickCheck": "Pop the cap off the air gap; if water spurts out during a cycle or you see gunk, it's clogged. Water leaking onto the counter during a cycle is the tell."
+    },
+    {
+      "cause": "Drain hose missing a high loop (and no air gap installed), letting dirty sink water siphon back into the tub",
+      "likelihood": "less common",
+      "quickCheck": "Confirm the hose rises to just under the countertop before dropping to the disposal; if it runs flat or low with no air gap, backflow can collect water."
+    },
+    {
+      "cause": "Failed drain pump or a foreign object (glass, seed, bone) jamming the impeller",
+      "likelihood": "less common",
+      "quickCheck": "After clearing the filter you still hear a hum with no draining, or a buzzing/grinding \u2014 the pump or impeller is likely stuck or burned out. This is a repair-tech job on most units."
+    },
+    {
+      "cause": "Stuck check valve or faulty drain solenoid/valve",
+      "likelihood": "less common",
+      "quickCheck": "Water drains very slowly or refills after pumping out \u2014 the valve that stops backflow may be stuck open or clogged."
+    }
+  ],
+  "fixes": [
+    "Run the garbage disposal empty for 10-15 seconds first \u2014 the dishwasher usually drains through it, and a full or recently installed disposal (with the knockout plug still in) is the fastest thing to rule out.",
+    "Turn off the dishwasher at the breaker or unplug it before reaching into the tub or working on the pump \u2014 moving parts and water plus electricity don't mix.",
+    "Scoop out the standing water with a cup and sponge so you can work; lay towels down to catch spills. Wear gloves in case of broken glass.",
+    "Remove the lower rack, twist out the cylindrical filter (usually a quarter-turn counterclockwise), and rinse it under hot water with an old toothbrush. Clear any visible debris from the sump opening underneath \u2014 by hand with gloves, not by reaching blindly toward the impeller.",
+    "Clean the air gap: twist off the chrome cap and inner cover on the counter, pull out any debris, and rinse. Reassemble.",
+    "Check the drain hose under the sink for kinks and straighten it. With a bucket and towels ready, disconnect the hose ends and flush them or push a clog free with a long brush.",
+    "Confirm the drain hose has a high loop fastened up under the countertop, or that an air gap is installed \u2014 this prevents siphon-back. Adding a missing high loop is a simple zip-tie fix.",
+    "Optionally pour a cup of baking soda followed by a cup of white vinegar into the bottom, wait 15 minutes, then run a rinse cycle to help cut grease. This is a mild maintenance step, not a fix for a true clog.",
+    "Run a short rinse cycle and watch. If it still won't drain after clearing the filter, hose, and air gap, the drain pump or check valve likely needs replacement \u2014 that's an appliance-repair-tech job on most units."
+  ],
+  "diyVsPro": "DIY handles the vast majority: filter, air gap, drain hose, disposal, and high-loop checks are all safe with basic tools and the power off. Call an appliance repair tech if the unit still won't drain after everything is cleared \u2014 that points to a failed drain pump, check valve, or control board, which means accessing the pump under the tub and disconnecting wiring. On a budget unit, that repair often costs enough that replacement makes more sense.",
+  "typicalCostUSD": "DIY: $0-25 (vinegar, baking soda, maybe a replacement hose clamp or drain hose). Pro repair: roughly $150-450 for a drain pump replacement; a service diagnostic call alone is typically $90-150.",
+  "timeEstimate": "15-45 minutes for the DIY checks and cleaning; a pro pump replacement is typically 1-2 hours.",
+  "safetyLevel": "caution",
+  "safetyNote": "Turn off the dishwasher at the breaker or unplug it before reaching into the sump or removing the pump \u2014 never put your hand near the impeller with power on. Standing water may hide broken glass, so bail with a cup and sponge and wear gloves, not bare hands. Don't run the unit dry for more than a few seconds while testing. Don't mix bleach or other cleaners with the vinegar.",
+  "toolsParts": [
+    "Cup or measuring cup and sponge/towels for bailing water",
+    "Work gloves (broken glass in standing water)",
+    "Old toothbrush or small brush for the filter",
+    "Screwdriver (Phillips and flathead)",
+    "Bucket for catching hose water",
+    "Pliers or nut driver for hose clamps",
+    "White vinegar and baking soda",
+    "Flashlight"
+  ],
+  "searchTerms": [
+    "dishwasher not draining",
+    "standing water in dishwasher",
+    "how to clean dishwasher filter",
+    "dishwasher won't drain fix",
+    "dishwasher air gap clogged",
+    "garbage disposal dishwasher not draining",
+    "dishwasher drain hose clog"
+  ],
+  "sources": [
+    "manufacturer guidance (dishwasher owner's manuals \u2014 filter cleaning and drain troubleshooting)",
+    "building-code norms (drain high-loop / air gap requirements under sink)",
+    "reputable DIY references (general appliance troubleshooting in the spirit of This Old House / Family Handyman / Bob Vila)"
+  ],
+  "disclaimer": "This is general guidance for typical US residential dishwashers, not a substitute for your unit's manual or a licensed technician. Models vary; always disconnect power before servicing internal parts, and consult a professional if you're unsure or the problem persists.",
+  "verified": true,
+  "verifierNote": "Confirmed causes/fixes are sound; moved \"cut power before reaching into the tub\" up to a prominent early step, added gloves for broken-glass risk and a no-blind-reach-near-impeller warning, flagged the vinegar/baking-soda step as maintenance not a clog fix, added a don't-mix-cleaners note, and nudged cost ranges up to current US figures (pump $150-450, diagnostic $90-150).",
+  "kind": "pillar"
+}

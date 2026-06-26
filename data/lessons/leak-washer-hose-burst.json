@@ -1,0 +1,78 @@
+{
+  "slug": "leak-washer-hose-burst",
+  "system": "plumbing",
+  "title": "How to Prevent a Washing Machine Hose From Bursting (and the 5-Year Replacement Rule)",
+  "question": "My washing machine has the same rubber fill hoses it came with years ago. How do I keep them from bursting and flooding my house, and when should I actually replace them?",
+  "summary": "Washing machine fill hoses sit under full household water pressure 24/7, and old rubber ones weaken and blow out \u2014 one of the most common home flood claims. Swap them for braided stainless-steel no-burst hoses every 5 years and shut the valves off when away, and you've eliminated almost all the risk for about $20 and 30 minutes.",
+  "commonCauses": [
+    {
+      "cause": "The two SUPPLY (fill) hoses are pressurized all the time \u2014 not the drain hose. People confuse them. The braided lines running from the wall valves to the back of the machine are the ones under constant pressure and the ones that flood a house when they let go. The corrugated drain hose carries no pressure and is a different problem.",
+      "likelihood": "most common",
+      "quickCheck": "Look behind the machine: two skinny hoses with hex couplings = supply (the risk). One fat ribbed hose draped into a standpipe = drain (not the burst risk)."
+    },
+    {
+      "cause": "Original black/gray rubber hoses degrade from the inside out, so they look fine right up until they fail. Rubber hardens, cracks at the crimp, or balloons. Age \u2014 not appearance \u2014 is the real signal, which is why a simple time-based swap beats 'inspect and wait.'",
+      "likelihood": "most common",
+      "quickCheck": "Bend a hose gently near the brass coupling. Cracking, stiffness, rust at the crimp, or any bulge means replace now regardless of age."
+    },
+    {
+      "cause": "Leaving the supply valves open between washes. Most failures happen while nobody is home, because the line is pressurized around the clock. The fix homeowners skip is simply turning the valves off, or installing a single-lever valve so it's effortless.",
+      "likelihood": "common",
+      "quickCheck": "Are your two hot/cold valves open right now with the machine idle? If yes, the hoses are pressurized this very moment."
+    },
+    {
+      "cause": "Even braided stainless hoses are not forever \u2014 the inner rubber tube still ages, and a too-tight or cross-threaded coupling stresses the connection. A common mistake is buying braided hoses and assuming they're lifetime, or overtightening with a wrench and cracking the plastic washer seat.",
+      "likelihood": "common",
+      "quickCheck": "Braided hoses installed more than ~5 years ago, or any weeping at the coupling, means it's time. Couplings should be hand-tight plus a quarter turn \u2014 not cranked."
+    },
+    {
+      "cause": "No catch pan, no auto-shutoff, and a closet/upstairs location with no floor drain. Placement decides how bad a leak gets. A burst on a slab near a drain is a mop-up; the same burst in a second-floor closet over hardwood is a five-figure repair.",
+      "likelihood": "less common",
+      "quickCheck": "Is your washer upstairs or over a finished room, with no drain pan or floor drain under it? If so, prioritize a drip pan and/or an auto-shutoff device."
+    }
+  ],
+  "fixes": [
+    "Unplug the washer first so the power cord is dead while you work behind it.",
+    "Buy two braided stainless-steel 'no-burst' washing machine fill hoses (about $10-15 each). Match length to your gap (4 ft is typical) and confirm 3/4-inch garden-hose-thread (GHT) couplings \u2014 that's the standard size for both the wall valves and the machine inlets.",
+    "Turn off both supply valves at the wall (clockwise). If they're old gate valves that won't fully close, plan to have a plumber swap them for quarter-turn ball valves or a single-lever washer box later.",
+    "Pull the machine forward enough to reach the connections. Place a towel and a small bucket under the back \u2014 the hoses still hold water that will spill.",
+    "Unscrew the old hoses by hand or with channel-lock pliers / a wrench: first from the wall valves, then from the machine inlets. Expect a cup or two of trapped water out of each.",
+    "Check that each new hose has its rubber washer seated inside the coupling. Thread the new hoses on by hand \u2014 hot to the hot valve and machine inlet marked H, cold to cold. Snug them hand-tight, then add only about a quarter turn with pliers. Do not crank; overtightening cracks the seat and causes leaks.",
+    "Slowly reopen both valves and watch every coupling for 60 seconds. A bead of water means back off, reseat the washer, and retighten gently.",
+    "Run a short rinse or wash cycle and check all four connection points again under full flow and during the fill, when pressure is highest.",
+    "Build the habit (or hardware) to depressurize when away: turn the valves off after washes, install a single-lever shutoff box, or add an inexpensive auto-shutoff / leak-sensor device \u2014 especially if the washer is upstairs or over a finished room. A drip pan plumbed to a drain is cheap insurance.",
+    "Write the install date on a piece of tape on one hose, or set a calendar reminder, and replace the hoses every 5 years even if they look perfect."
+  ],
+  "diyVsPro": "Swapping the hoses is a confident-beginner DIY job \u2014 no tools beyond pliers, no pipe cutting, fully reversible. Call a plumber only if the wall shutoff valves are corroded, won't close, or leak around the stem when you turn them; replacing valves or installing a recessed single-lever washer box with built-in shutoff involves working on the supply piping and is worth a pro if you're not comfortable soldering or using push-fit fittings.",
+  "typicalCostUSD": "$20-30 for a pair of braided stainless hoses (DIY). Add $15-40 for a leak-sensor auto-shutoff or drip pan. A plumber replacing the shutoff valves or installing a single-lever washer box typically runs $150-400.",
+  "timeEstimate": "20-30 minutes for the hose swap",
+  "safetyLevel": "caution",
+  "safetyNote": "This is low-risk plumbing with no gas or electricity involved, but always shut off both supply valves before disconnecting, and never overtighten couplings \u2014 cranking on the plastic seat is the most common way DIYers cause a slow leak. Unplug the washer before reaching behind it so you're clear of the power cord. If a shutoff valve won't fully close, stop and call a plumber rather than working on a live, pressurized line.",
+  "toolsParts": [
+    "Two braided stainless-steel no-burst washing machine fill hoses (3/4-inch GHT, ~4 ft)",
+    "Channel-lock pliers or an adjustable wrench",
+    "Towel and small bucket for trapped water",
+    "Optional: leak-sensor auto-shutoff device",
+    "Optional: washer drip/drain pan",
+    "Optional: single-lever washer shutoff valve box (pro install)"
+  ],
+  "searchTerms": [
+    "how often to replace washing machine hoses",
+    "braided stainless steel washer hoses vs rubber",
+    "prevent washing machine hose burst flood",
+    "washing machine supply hose replacement 5 years",
+    "should I turn off washing machine water valves",
+    "washer fill hose leaking at connection",
+    "best no-burst washing machine hoses"
+  ],
+  "sources": [
+    "IBHS (Insurance Institute for Business & Home Safety) guidance on washing machine supply hose failures",
+    "Common homeowner insurance carrier maintenance recommendations on appliance water lines",
+    "Washing machine and hose manufacturer installation instructions (standard 3/4-inch GHT fittings, 3-5 year replacement guidance)",
+    "General plumbing reference practice for braided stainless supply lines"
+  ],
+  "disclaimer": "General home-maintenance guidance, not professional plumbing advice. Water pressure, valve condition, and local codes vary; if anything is corroded, leaking at the valve, or you're unsure, consult a licensed plumber. Verify fitting sizes against your own machine before buying parts.",
+  "verified": true,
+  "verifierNote": "Confirmed accurate: supply-vs-drain distinction, 3/4-inch GHT fittings, hand-tight-plus-quarter-turn, gate-to-ball-valve upgrade, and costs all match US practice; 5-year swap is the conservative end of the standard 3-5 yr guidance. Added unplug-first as the lead step and tightened wording.",
+  "kind": "spoke"
+}

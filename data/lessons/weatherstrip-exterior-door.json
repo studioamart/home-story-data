@@ -1,0 +1,88 @@
+{
+  "slug": "weatherstrip-exterior-door",
+  "system": "exterior",
+  "title": "How to Weatherstrip an Exterior Door to Stop Cold Drafts",
+  "question": "I feel cold air leaking around my front (exterior) door \u2014 how do I weatherstrip it to stop the drafts?",
+  "summary": "Most drafts come from the gap under the door (fixed with a door sweep) plus the three other edges (fixed with adhesive or kerf-in weatherstrip). Find the leaks first, then match the right product to each gap \u2014 a weekend DIY job that pays for itself in lower heating bills.",
+  "commonCauses": [
+    {
+      "cause": "The bottom gap under the door is the biggest single leak path \u2014 most homes have a 1/4 to 1/2 inch gap between the door and the threshold that no side weatherstrip can cover.",
+      "likelihood": "most common",
+      "quickCheck": "Slide a dollar bill under the closed door \u2014 if it slides freely, you have a gap to seal with a sweep. At night you can also have someone shine a flashlight along the bottom from outside while you watch for light inside."
+    },
+    {
+      "cause": "Compressed, cracked, or missing weatherstrip on the latch side and top \u2014 the old foam or vinyl has flattened over the years and no longer presses against the door.",
+      "likelihood": "most common",
+      "quickCheck": "Run a damp hand along the closed door's edges and feel for moving air, then inspect the existing strip for cracks, gaps, or a permanently squashed shape."
+    },
+    {
+      "cause": "The hinge side is overlooked \u2014 people seal the latch side and top but forget the hinge edge, which also leaks if the gap is uneven.",
+      "likelihood": "common",
+      "quickCheck": "Close the door and look at the gap along the hinge side from inside; if you see daylight or the gap varies top-to-bottom, it needs sealing too."
+    },
+    {
+      "cause": "The door is warped or out of alignment, so the gap is wide at one corner and tight at another \u2014 weatherstrip alone can't span an inconsistent gap.",
+      "likelihood": "common",
+      "quickCheck": "Close the door and eyeball the reveal (gap) all the way around; a consistent gap means weatherstrip will work, but a gap that goes from tight to wide signals a hinge or alignment fix is needed first."
+    },
+    {
+      "cause": "Wrong product for the gap size \u2014 V-strip, foam tape, felt, and rubber compression strips each suit different gap widths, and a poor choice either won't seal or will keep the door from closing.",
+      "likelihood": "common",
+      "quickCheck": "Measure the gap with a folded piece of paper or a feeler gauge: small even gaps suit V-strip/tension seal, larger or uneven gaps suit compressible rubber/silicone bulb strips."
+    },
+    {
+      "cause": "Air bypassing the weatherstrip through gaps between the door frame (jamb) and the wall framing behind the trim.",
+      "likelihood": "less common",
+      "quickCheck": "Pull back the interior casing trim slightly or feel along the seam where the jamb meets the wall on a windy day; cold air there means you need caulk or minimal-expanding foam behind the trim, not weatherstrip."
+    }
+  ],
+  "fixes": [
+    "Find every leak first. On a cold or windy evening, close and lock the door, then move a damp hand (or a lit incense stick held well away from anything flammable) slowly around all four edges and watch where you feel air or the smoke bends. Mark those spots with painter's tape so you know exactly what to seal.",
+    "Measure the gaps. Close the door and check the reveal on the hinge side, latch side, and top. Note where gaps are small and even (use V-strip or tension seal) versus wide or uneven (use a compression rubber/silicone bulb strip). Slide a bill or fold a paper to gauge the bottom gap for sweep sizing.",
+    "Clean the surfaces. Adhesive-backed weatherstrip only sticks to clean, dry surfaces. Wipe the jamb stop and door edge with a degreaser or rubbing alcohol and let it fully dry. Scrape off any old, crumbling weatherstrip and adhesive residue first.",
+    "Weatherstrip the top and two sides. For adhesive V-strip: cut to length with scissors, peel and press into the corner where the door meets the stop, point of the V facing out so it compresses when the door closes. For compression bulb strip: nail or screw the flange to the door stop so the bulb just touches the closed door \u2014 snug but not so tight the door won't latch.",
+    "Install a door sweep on the bottom. Measure the door width, cut the sweep to length with a hacksaw, hold it against the inside bottom of the closed door so the rubber or brush fin just kisses the threshold, then screw it on through the slotted holes. Adjust up or down so it seals without dragging hard.",
+    "Consider a threshold or door-bottom upgrade if the gap is large. An adjustable threshold (turn the screws to raise the insert) or a U-shaped door bottom that wraps the bottom edge seals better than a basic sweep when the gap is big or the floor is uneven.",
+    "Address frame-to-wall leaks if found. If air came from where the jamb meets the wall behind the trim, run a bead of paintable acrylic-latex caulk along that seam, or use minimal-expanding (door-and-window) spray foam behind the casing. Never use standard high-expansion foam \u2014 it can bow the jamb and bind the door.",
+    "Test your work. Re-run the hand or incense test around all edges, and open and close the door a few times to confirm it still latches easily and the weatherstrip compresses evenly. Re-adjust the sweep or strip tension as needed."
+  ],
+  "diyVsPro": "This is a classic DIY job \u2014 no special skills, just measuring, cutting, and screwing in parts. Call a pro (carpenter or handyman) only if the door is visibly warped, the gap is wildly uneven corner to corner (an alignment, hinge, or frame problem), the door is racked in a settled frame, or you're replacing the threshold and find rot in the subfloor underneath \u2014 water damage and rot need a pro to assess.",
+  "typicalCostUSD": "DIY: $15-$50 for weatherstrip plus a door sweep; $25-$60 if you add an adjustable threshold or U-shaped door bottom. Hiring a handyman to do it: roughly $100-$250 including materials.",
+  "timeEstimate": "1-2 hours for a single door, including the leak hunt and a test fit. Add 30-60 minutes if you replace the threshold.",
+  "safetyLevel": "none",
+  "safetyNote": "Low-risk work. Take care with the hacksaw or utility knife when cutting the sweep and strip. If you use spray foam behind trim, use only the low/minimal-expanding door-and-window type and wear gloves \u2014 standard foam expands hard enough to bind or bow the door frame. If you light an incense stick for the draft test, keep it away from curtains and put it out fully when done. If you ever find rot, water damage, or mold while pulling trim or a threshold, stop and bring in a pro.",
+  "toolsParts": [
+    "Adhesive V-strip (tension seal) or compression rubber/silicone bulb weatherstrip",
+    "Door sweep (or U-shaped door bottom / adjustable threshold for larger gaps)",
+    "Tape measure",
+    "Scissors and a hacksaw (to cut the sweep)",
+    "Utility knife",
+    "Screwdriver or drill/driver",
+    "Pencil for marking",
+    "Rubbing alcohol or degreaser and a rag",
+    "Painter's tape",
+    "Incense stick or a candle for the draft test",
+    "Paintable acrylic-latex caulk and caulk gun (if sealing frame-to-wall gaps)",
+    "Minimal-expanding door-and-window spray foam (only if needed behind trim)"
+  ],
+  "searchTerms": [
+    "how to weatherstrip an exterior front door to stop drafts",
+    "best weatherstripping for a drafty exterior door",
+    "cold air coming in under front door how to fix",
+    "how to install a door sweep on an exterior door",
+    "door sweep vs threshold for gap under door",
+    "V-strip vs rubber compression weatherstrip for door",
+    "stop draft around door frame edges",
+    "how to find air leaks around a door"
+  ],
+  "sources": [
+    "U.S. Department of Energy (energy.gov) guidance on weatherstripping and caulking for air sealing",
+    "ENERGY STAR DIY air-sealing and weatherization guidance",
+    "Weatherstrip and door-sweep manufacturer installation instructions (e.g., M-D Building Products, Frost King)",
+    "Reputable home-improvement how-to references (This Old House, Family Handyman) on sealing exterior doors"
+  ],
+  "disclaimer": "General home-maintenance guidance for typical US exterior doors. Your door, frame, and climate may differ; follow the instructions that come with the specific products you buy, and consult a qualified carpenter if the door is warped, rotted, or out of alignment.",
+  "verified": true,
+  "verifierNote": "Confirmed steps, products, costs, and times against DOE/ENERGY STAR and manufacturer practice; tightened wording, fixed the clumsy incense-test phrasing, and strengthened safety to route rot/water-damage/mold finds to a pro.",
+  "kind": "spoke"
+}

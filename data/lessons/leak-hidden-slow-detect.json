@@ -1,0 +1,90 @@
+{
+  "slug": "leak-hidden-slow-detect",
+  "system": "plumbing",
+  "title": "How to Find a Slow Hidden Water Leak in Your House Before It Causes Damage",
+  "question": "I think I have a slow hidden water leak somewhere in my house \u2014 my water bill went up or I smell something musty \u2014 but I can't see where it's coming from. How do I find it and stop it before it ruins drywall, floors, or causes mold?",
+  "summary": "The most reliable trick: shut off every water-using fixture and watch your water meter \u2014 if the low-flow dial keeps creeping, you have a pressurized leak, and isolating which half of the system moves it tells you where to look. Learn the meter test, the toilet dye test, and the signs of hidden supply, drain, and roof leaks so you can stop a slow leak before it becomes a wall full of mold.",
+  "commonCauses": [
+    {
+      "cause": "A running toilet flapper \u2014 the most common hidden leak. It leaks silently from tank into bowl and can waste hundreds of gallons a day with no visible water anywhere.",
+      "likelihood": "most common",
+      "quickCheck": "Put 5-10 drops of food coloring in the tank, wait 15 minutes without flushing. If color shows in the bowl, the flapper is leaking."
+    },
+    {
+      "cause": "Supply-line (pressurized) leak inside a wall or under a slab. Always under pressure, so even a pinhole drips constantly \u2014 shows as a warm spot on a slab (hot line), a musty wall, or a meter that moves with everything off.",
+      "likelihood": "common",
+      "quickCheck": "Do the meter test with all fixtures off. If the low-flow indicator (small red/blue triangle or gear) moves at all, water is escaping under pressure somewhere."
+    },
+    {
+      "cause": "Drain / waste leak under a sink, tub, or shower pan. Only leaks WHILE water is running or just after, so it hides between uses and the meter test won't catch it (drains aren't pressurized).",
+      "likelihood": "common",
+      "quickCheck": "Dry the area, run that fixture hard for several minutes, then feel the trap, tailpiece, and the ceiling/floor below for fresh dampness."
+    },
+    {
+      "cause": "Misreading where water shows up. Water travels along framing, pipes, and joists, so the stain is often feet away from the actual source \u2014 chasing the stain wastes time.",
+      "likelihood": "common",
+      "quickCheck": "Find the highest and most upstream edge of the wet area; the source is usually above or upstream of that point, not at the center of the stain."
+    },
+    {
+      "cause": "Roof / flashing or window leak masquerading as plumbing. Appears only after rain, not tied to water use, but reads as a mystery wall/ceiling stain.",
+      "likelihood": "less common",
+      "quickCheck": "Note whether the stain grows after rain vs. after showers/laundry. Rain-correlated = building envelope, not plumbing."
+    },
+    {
+      "cause": "Water heater, washing-machine hose, or icemaker line seeping slowly at a fitting in a closet or behind an appliance.",
+      "likelihood": "less common",
+      "quickCheck": "Pull the appliance forward and inspect/feel every braided hose and fitting; rust streaks or white mineral crust mark a slow weep."
+    }
+  ],
+  "fixes": [
+    "Do the water meter test first. Turn off every faucet, the dishwasher, washer, and icemaker, and tell the household not to use water. Find the meter (usually a box near the street/curb or in the basement/garage) and watch the low-flow indicator \u2014 a small triangle, star, or gear. If it moves at all over 10-15 minutes, you have an active pressurized leak. If it doesn't move, your leak is either a drain (only leaks when running) or rain-driven.",
+    "Split the system to locate it. Close the main shutoff where the line enters the house. Re-check the meter: if it STOPS, the leak is inside the house piping; if it KEEPS moving, the leak is between the meter and the house \u2014 the underground service line. To narrow supply vs. fixtures further, also isolate the water heater's cold inlet to test the hot side separately.",
+    "Rule out toilets with the dye test. Add food coloring to each toilet tank, wait 15 minutes, and check the bowl. Color in the bowl means a bad flapper or fill valve \u2014 a roughly $10-15 flapper swap that takes about 15-30 minutes and fixes the most common phantom leak.",
+    "Hunt drain and appliance leaks by running water on purpose. Dry suspect areas, lay paper towel under traps and behind appliances, then run each fixture for several minutes and inspect for fresh wet spots. Check P-traps, supply-stop valves, braided washer/icemaker hoses, and water-heater fittings (not the tank itself \u2014 a leaking tank means replacement, not repair).",
+    "Inspect for hidden-wall signs. Look for bubbling/peeling paint, a soft or stained spot on drywall, a persistent musty smell, warped flooring, or \u2014 on a slab home \u2014 an unexplained warm patch on the floor (a hot-line slab leak). A cheap moisture meter (~$30) confirms which side of a wall is wet.",
+    "Stop the bleeding once located. For a fixture, close its local shutoff. For a confirmed in-wall, slab, or service-line supply leak you can't reach, shut the main and leave it off except when water is genuinely needed, until a plumber repairs it \u2014 pressurized water does fast structural damage. Photograph everything for insurance and keep towels/a bucket catching active drips.",
+    "Dry it out fast to limit mold. Mold can start within 24-48 hours of materials staying wet. Run a fan/dehumidifier on the area, and don't close a wall back up until a moisture meter reads dry. If wet material has been soaked more than a couple of days, smells strongly musty, or shows visible mold or soft/rotted framing, bring in a pro rather than sealing it up.",
+    "Repair to code. Replace flappers and braided supply hoses yourself; for in-wall copper/PEX, slab leaks, or main-line breaks, have a licensed plumber do the repair and pull the permit/inspection if your jurisdiction requires one."
+  ],
+  "diyVsPro": "DIY-friendly: the meter test, the toilet dye test, replacing a flapper or a braided supply hose, tightening a P-trap, and running fans to dry a small, freshly-wet area. Call a pro when the meter confirms a leak you can't see (in-wall, under-slab, or buried service line), when you'd have to open finished walls or ceilings, for any slab leak (warm-floor spot), when the water heater tank itself is leaking, when there's a gas appliance or electrical involved, or when mold or moisture-driven rot has spread beyond a few square feet. Roof, flashing, and window-envelope leaks go to a roofer, not a plumber. A leak-detection plumber has acoustic and infrared gear that finds the spot without demolishing your house guessing.",
+  "typicalCostUSD": "DIY: toilet flapper $10-15, braided supply hose $8-15, moisture meter $25-40, food coloring on hand. Pro: leak-detection service $150-500; in-wall pipe repair $300-1,000; slab leak repair $2,000-4,500 (re-route or re-pipe higher); service-line repair/replacement $1,500-6,000+. Catching it early via the meter test is what keeps you on the cheap end \u2014 water-damage remediation alone runs $1,500-7,000+.",
+  "timeEstimate": "Meter test 15-30 minutes; toilet dye test about 15 minutes per toilet; full DIY walkthrough of fixtures and appliances 1-2 hours. A pro leak-detection visit is typically 1-3 hours.",
+  "safetyLevel": "caution",
+  "safetyNote": "Water and electricity don't mix: if water has reached outlets, light fixtures, or the electrical panel, do not touch the wet area \u2014 shut off that circuit at the breaker (or the main if you can't reach it safely) and call an electrician. Any gas smell, or standing water around a gas water heater, means leave the house and call the gas utility from outside \u2014 do not investigate it yourself. Suspected slab leaks, in-wall leaks, and service-line breaks are pro work, not DIY. Opening walls that have been wet can release mold spores; wear an N95 and gloves, and hire a remediation pro if mold covers more than about 10 square feet or if you find soft, crumbling, or rotted framing \u2014 that is structural and needs professional assessment. Never leave a pressurized leak running 'to deal with later.'",
+  "toolsParts": [
+    "Water meter access (key for the curb box if outdoors)",
+    "Food coloring or dye tablets (toilet test)",
+    "Flashlight",
+    "Paper towels and a hand towel",
+    "Adjustable wrench / channel-lock pliers",
+    "Replacement toilet flapper",
+    "Replacement braided steel supply hoses",
+    "Moisture meter (~$30)",
+    "Bucket and old towels for catching drips",
+    "Fan and/or dehumidifier for drying",
+    "Optional: infrared thermometer for spotting warm slab-leak areas",
+    "N95 mask and gloves if opening wet drywall"
+  ],
+  "searchTerms": [
+    "how to find a hidden water leak in the wall",
+    "water meter test for leak with everything off",
+    "water bill went up no visible leak how to find",
+    "toilet dye test food coloring leak",
+    "how to find slow leak under slab warm spot on floor",
+    "musty smell in wall but no visible water",
+    "low flow indicator on water meter spinning",
+    "how to find where ceiling water stain is coming from",
+    "stop hidden plumbing leak before mold damage",
+    "drain leak only when water running how to find"
+  ],
+  "sources": [
+    "EPA WaterSense \u2014 Fix a Leak: dye test and water-meter leak-check guidance",
+    "American Water Works Association \u2014 residential metering and leak detection",
+    "Standard plumbing-trade and home-inspection practice for supply vs. drain leak isolation",
+    "Major toilet/flapper manufacturer guidance on tank-to-bowl leak testing"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for a licensed plumber's or inspector's assessment of your specific home. Plumbing, electrical, and gas work may require permits and must meet your local code; when in doubt, hire a licensed professional. Acting on this information is at your own risk.",
+  "verified": true,
+  "verifierNote": "Confirmed meter test, dye test, and supply-vs-drain isolation logic as sound; tightened safety to route gas, 240V/electrical, slab/in-wall/service-line leaks, and rot/mold-over-10-sqft to a pro, removed the unsafe \"leave main on as needed indefinitely\" framing, fixed water-heater-tank-leak = replacement (not repair), routed roof/envelope leaks to a roofer, and adjusted slab/leak-detection cost ranges to current US norms.",
+  "kind": "spoke"
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "interior-drywall-patch",
+  "system": "interior",
+  "title": "How to Patch a Hole in Drywall \u2014 Step-by-Step Repair",
+  "question": "How do I patch a hole in my drywall?",
+  "summary": "Match the fix to the hole size: spackle tiny dents, a self-adhesive patch for fist-size holes, and a cut-in \"California\" or backer-strip patch for anything bigger. Then tape, mud in thin coats, sand smooth, prime, and paint.",
+  "commonCauses": [
+    {
+      "cause": "Doorknob punched through the wall (no door stop installed)",
+      "likelihood": "most common",
+      "quickCheck": "Round hole roughly 1.5\u20132.5 in. wide behind a door's swing arc; check if a stop exists on the baseboard or hinge."
+    },
+    {
+      "cause": "Removed anchors, screws, or nails left holes when taking down shelves, art, or a TV mount",
+      "likelihood": "most common",
+      "quickCheck": "Small holes or popped plastic anchors clustered where something used to hang."
+    },
+    {
+      "cause": "Furniture, vacuum, or moving impact dented or cracked the surface",
+      "likelihood": "common",
+      "quickCheck": "Dents or cracked paper near corners, baseboards, or high-traffic paths."
+    },
+    {
+      "cause": "Cut an access hole for plumbing/electrical work and never closed it",
+      "likelihood": "common",
+      "quickCheck": "Clean rectangular opening near a fixture, valve, or junction box."
+    },
+    {
+      "cause": "Water damage softened the board (leak or humidity)",
+      "likelihood": "less common",
+      "quickCheck": "Brown staining, soft/spongy board, bubbling paint, or a musty smell \u2014 find and fix the leak first."
+    },
+    {
+      "cause": "Nail pops or settling cracks from house movement",
+      "likelihood": "less common",
+      "quickCheck": "A round bump with a hairline ring, or a straight crack running from a door/window corner."
+    }
+  ],
+  "fixes": [
+    "Find the hole size first \u2014 it decides the method. Under ~1/2 in.: just fill. Up to ~6 in.: a self-adhesive patch (adhesive mesh holds best up to ~4 in.; a perforated metal patch covers up to ~6 in.). Bigger than ~6 in.: cut a clean opening and patch with a new piece of drywall.",
+    "TINY HOLES (nail/anchor): Remove anchors and tap protruding edges flush. Press lightweight spackle in with a putty knife, slightly overfilling. Let dry, sand flush, then prime and paint.",
+    "SMALL/MEDIUM HOLES (up to ~6 in.): Trim loose paper and crumbs. Center a self-adhesive mesh or metal patch over the hole. Spread a thin coat of joint compound over it, feathering past the edges. Apply 2\u20133 thin coats, letting each dry and lightly sanding between.",
+    "LARGE HOLES \u2014 California (clip) patch: Cut a drywall square ~2 in. bigger than the hole on all sides. Score and snap the back gypsum, leaving the front paper as a 1-in. flange all around. Trace the gypsum core onto the wall, cut that opening, butter the flange with mud, press the patch in, then mud and feather the paper edges.",
+    "LARGE HOLES \u2014 backer-strip method (alternative): Cut the hole into a clean square. Slip a wood or scrap-drywall strip behind the opening and screw the existing wall to it. Cut a fill piece to fit, screw it to the strips, then tape the seams with mesh or paper tape and mud in coats.",
+    "FINISH every patch: Sand smooth with 120\u2013150 grit, wiping dust off. Prime the patched area (skipping primer causes 'flashing' \u2014 dull spots that show through paint). Paint with two coats; feather onto surrounding wall and blend.",
+    "If the wall has texture (orange peel, knockdown), match it with a spray-on texture can or by dabbing/knocking down thinned mud before priming, or the patch will read as a flat spot.",
+    "Fix the root cause: add a door stop for knob holes, use proper anchors when re-hanging, and find/repair any leak before closing a water-damaged area."
+  ],
+  "diyVsPro": "Nearly all drywall patching is DIY-friendly \u2014 a careful homeowner can handle anything from nail holes up to a large cut-in patch with basic tools and patience. Call a pro when: the damage is from an active or recent water leak (you need the leak fixed and the cavity checked for mold/rot first), the area is large or on a high ceiling/stairwell, or you want a flawless match on heavily textured or skim-coated walls. Anything involving the wiring, plumbing, or gas line behind the wall is licensed-trade work \u2014 if you cut and find a utility in the way, stop and bring in the right pro (electrician, plumber, or gas fitter). Do not move, splice, or work around wiring or a gas line yourself.",
+  "typicalCostUSD": "DIY: $15\u2013$50 in materials (spackle/joint compound, a patch kit, putty knife, sandpaper, primer); a patch kit alone runs $8\u2013$15. Pro: roughly $150\u2013$400 for a typical small-to-medium patch including texture and paint touch-up, with $75\u2013$150 minimum service fees common; large or multiple-area jobs $400+.",
+  "timeEstimate": "Tiny holes: 15\u201320 min plus dry time. Small/medium patch: about 1 hour of work spread over 1\u20132 days (drying between coats). Large cut-in patch: 2\u20134 hours of work over 2\u20133 days including drying, sanding, priming, and paint.",
+  "safetyLevel": "caution",
+  "safetyNote": "Before cutting into any wall, assume wiring, plumbing, or ducts may be behind it. Scan with a stud/cable finder, cut shallow (score the paper, don't plunge a saw deep), and look before you widen. Near an outlet or switch, turn off the relevant circuit at the breaker first. If you uncover electrical, a gas line, or plumbing, stop and call the appropriate licensed trade \u2014 do not work around it yourself. Drywall dust is irritating: wear a dust mask (N95) and eye protection when sanding, and ventilate the room. Brown stains, soft board, or a musty smell mean water damage \u2014 find the source and have it assessed for mold before sealing it up.",
+  "toolsParts": [
+    "Lightweight spackle (small holes)",
+    "All-purpose or setting-type joint compound (mud)",
+    "Self-adhesive mesh or metal patch / patch kit",
+    "Putty knife and a 6 in. taping/drywall knife",
+    "Drywall saw or utility knife",
+    "Replacement drywall scrap (large holes)",
+    "Wood furring or scrap strips and drywall screws (backer method)",
+    "120\u2013150 grit sandpaper or sanding sponge",
+    "Stud/cable finder",
+    "Primer and matching paint",
+    "Spray texture can (textured walls)",
+    "N95 dust mask and safety glasses"
+  ],
+  "searchTerms": [
+    "how to patch a hole in drywall",
+    "fix doorknob hole in wall",
+    "drywall patch kit",
+    "cover anchor holes in wall",
+    "repair large hole in drywall",
+    "California patch drywall",
+    "spackle vs joint compound"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "Drywall and joint-compound manufacturer guidance (e.g., USG, DAP)",
+    "General residential building-code and construction norms"
+  ],
+  "disclaimer": "General guidance for typical US homes; your situation may differ. When cutting into walls, verify what's behind the surface and follow local codes. If you suspect water damage, mold, or hidden utilities (wiring, gas, plumbing), consult the appropriate licensed professional.",
+  "verified": true,
+  "verifierNote": "Confirmed methods and costs as accurate; corrected adhesive-mesh size limit (~4 in., metal patch to ~6 in.), strengthened safety to require breaker shutoff before cutting near outlets and a hard stop to call a licensed trade if wiring/gas/plumbing is uncovered, and specified N95 dust mask.",
+  "kind": "pillar"
+}

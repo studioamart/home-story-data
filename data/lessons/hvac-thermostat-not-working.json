@@ -1,0 +1,95 @@
+{
+  "slug": "hvac-thermostat-not-working",
+  "system": "hvac",
+  "title": "Thermostat Not Working? Causes & Fixes Before You Call an HVAC Pro",
+  "question": "Why is my thermostat not working and how do I fix it?",
+  "summary": "A dead or unresponsive thermostat is most often dead batteries, a tripped breaker, the furnace power switch left off, or a tripped safety switch on the furnace \u2014 all of which you can check yourself. If power and settings are fine but the system still won't run, the wiring, the thermostat, or the HVAC unit itself needs attention.",
+  "commonCauses": [
+    {
+      "cause": "Dead or weak batteries (battery-powered thermostats, including many programmable and smart models)",
+      "likelihood": "most common",
+      "quickCheck": "Blank or dim screen, or a low-battery icon. Swap in fresh AA/AAA or a CR2032 and see if it wakes up."
+    },
+    {
+      "cause": "Tripped breaker or the furnace power switch left off \u2014 many thermostats are powered by the furnace's low-voltage transformer, so no furnace power means a dead thermostat",
+      "likelihood": "most common",
+      "quickCheck": "Check the breaker labeled furnace/air handler, and confirm the furnace power switch (looks like a light switch near the unit) is ON. Note: a breaker that trips again right after resetting points to a real fault, not a one-off."
+    },
+    {
+      "cause": "Furnace safety lockout: an open furnace door / blower-compartment safety switch, or (on the cooling side) a tripped float switch on a clogged AC condensate drain",
+      "likelihood": "common",
+      "quickCheck": "Make sure the furnace blower-door panel is seated fully (it presses a safety switch). For no-cooling: look for a full condensate drain pan or clogged drain line and a tripped float switch."
+    },
+    {
+      "cause": "Wrong settings or mode \u2014 system left on the wrong mode, fan set to AUTO vs ON confusion, or a hold/schedule override",
+      "likelihood": "common",
+      "quickCheck": "Set mode to HEAT or COOL, set the temperature 5 degrees past current room temp, and set fan to AUTO. Wait a few minutes for the call to start."
+    },
+    {
+      "cause": "Blown low-voltage fuse (commonly 3A or 5A) on the furnace control board, often blown by a shorted thermostat wire",
+      "likelihood": "common",
+      "quickCheck": "With power off, look for a small automotive-style blade fuse on the furnace circuit board; a blown one has a broken filament."
+    },
+    {
+      "cause": "Loose, corroded, or shorted thermostat wires at the thermostat or furnace terminals",
+      "likelihood": "less common",
+      "quickCheck": "Pull the thermostat off its wall plate and check that each thin wire is seated firmly under its terminal screw and none are bare or touching."
+    },
+    {
+      "cause": "Missing C-wire (common wire) on a smart/Wi-Fi thermostat, causing it to lose power intermittently or fail to boot",
+      "likelihood": "less common",
+      "quickCheck": "Reboots, random restarts, or 'no power' errors on a Nest/Ecobee/Honeywell smart unit often point to a missing or weak C-wire."
+    },
+    {
+      "cause": "Failed thermostat itself (dead display even with good power, or it never triggers the system)",
+      "likelihood": "less common",
+      "quickCheck": "If power is confirmed at the wires but the unit stays dead or never calls for heat/cool, the thermostat is likely the failure."
+    }
+  ],
+  "fixes": [
+    "Start with batteries: if the thermostat takes them, replace with fresh ones even if the screen still shows something. This fixes a large share of 'dead' thermostats.",
+    "Check power upstream: at the electrical panel, reset any tripped breaker for the furnace/air handler one time (flip fully OFF then ON). Confirm the furnace service switch near the unit is ON. If the breaker trips again right away, stop and call a pro \u2014 that is a fault, not a nuisance trip.",
+    "Confirm settings: set the mode to HEAT or COOL (not OFF), push the target temperature several degrees past the room temperature, and set fan to AUTO. Wait 5 minutes \u2014 some systems have a built-in start delay.",
+    "Clear safety lockouts you can reach: make sure the furnace blower-compartment door is fully closed and latched (it depresses a safety switch). If you have no cooling and see a full condensate pan or a tripped float switch, the AC drain line is likely clogged \u2014 clearing it can restore the call for cooling.",
+    "Inspect the wiring: turn off furnace power at its switch or breaker, gently pull the thermostat from its wall plate, and confirm each wire is firmly under its screw, none are corroded, and the wire bundle hasn't slipped back into the wall. Re-seat and restore power.",
+    "Check the furnace control-board fuse: with furnace power OFF, locate the small blade fuse on the control board. If blown, replace with the same amperage (commonly 3A or 5A). If it blows again immediately, stop \u2014 there's a wiring short that needs a pro.",
+    "For smart thermostats showing power/reboot errors: verify a C-wire is connected, or use the included power adapter / a C-wire adapter kit. Many Wi-Fi issues are actually power-delivery issues.",
+    "If power and settings are confirmed good but the unit is dead or never triggers the system, replace the thermostat \u2014 a basic like-for-like swap is straightforward; photograph and label each wire before disconnecting and match them to the new base.",
+    "If the thermostat works but the furnace or AC still won't run after a valid call, the problem is in the HVAC unit, not the thermostat \u2014 call an HVAC tech."
+  ],
+  "diyVsPro": "DIY is fine for batteries, a single breaker reset, settings, re-seating loose wires, replacing a furnace blade fuse once, clearing a condensate-drain trip, and swapping a like-for-like low-voltage thermostat (24V control wiring is safe to handle once furnace power is off). Call a licensed HVAC pro if: a breaker or the control-board fuse trips/blows again right after resetting (wiring short or failing component), you find scorched wires or a damaged control board, the system has no C-wire and you're not comfortable adding one, the thermostat works but the furnace/AC still won't run, or any high-voltage line (120V/240V) is involved.",
+  "typicalCostUSD": "DIY: batteries $5-15; furnace control-board blade fuse $2-5; C-wire adapter kit $25-40; basic non-programmable thermostat $20-40; smart thermostat $100-260. Pro: HVAC service/diagnostic call $75-200 to show up and diagnose; thermostat replacement installed roughly $150-400 (basic to smart, incl. labor); running a new C-wire adds about $90-135; a deeper electrical or control-board fault can run $200-500+ depending on the part.",
+  "timeEstimate": "5-15 minutes for batteries, breaker, and settings checks; 30-60 minutes for a thermostat replacement.",
+  "safetyLevel": "caution",
+  "safetyNote": "Standard thermostat wiring is low-voltage (24V) and safe to handle once you switch off power to the furnace/air handler at its service switch or breaker. Always cut that power before pulling the thermostat or touching furnace wiring. Do not poke inside the furnace cabinet beyond the visible control-board fuse and safety switches \u2014 gas valves, igniters, and 120V/240V wiring inside the unit are pro territory. Reset a tripped breaker only once; if it trips again, leave it off and call a pro. If you smell gas, leave the home and call your gas utility or 911 from outside.",
+  "toolsParts": [
+    "Replacement batteries (AA/AAA or CR2032 as required)",
+    "Small flathead and Phillips screwdrivers",
+    "Replacement furnace control-board fuse (3A or 5A blade fuse)",
+    "Phone camera to photograph and label thermostat wiring",
+    "Multimeter (optional, for verifying 24V power)",
+    "C-wire adapter kit (only if adding a smart thermostat without a C-wire)",
+    "Replacement thermostat (if swapping)"
+  ],
+  "searchTerms": [
+    "thermostat not working",
+    "thermostat screen blank",
+    "thermostat won't turn on heat",
+    "furnace not responding to thermostat",
+    "Nest thermostat no power",
+    "thermostat blew fuse",
+    "C-wire thermostat problem",
+    "how to reset thermostat"
+  ],
+  "sources": [
+    "Manufacturer guidance (Honeywell, Nest/Google, Ecobee thermostat troubleshooting and installation docs)",
+    "Furnace and air-handler manufacturer service literature (control-board fuse rating, safety switches)",
+    "Reputable DIY references in the spirit of This Old House, Family Handyman, and Bob Vila",
+    "General residential HVAC and low-voltage control wiring norms (24V control circuit conventions)",
+    "2026 US cost references for thermostat installation and HVAC service calls (HomeGuide, HomeAdvisor, Angi, Fixr)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for professional diagnosis. HVAC systems vary; if you're unsure, smell gas, or see scorched wiring, stop and call a licensed HVAC technician. Always cut power before working on wiring, and never repeatedly reset a breaker that keeps tripping.",
+  "verified": true,
+  "verifierNote": "Confirmed technical accuracy (24V low-voltage handling, 3A/5A control-board fuse, C-wire); added \"reset breaker only once\" warning, clarified condensate float switch is a cooling-side issue, strengthened the gas-smell instruction to leave the home, and updated costs to 2026 US ranges (service call $75-200, installed thermostat ~$150-400, C-wire add ~$90-135).",
+  "kind": "pillar"
+}

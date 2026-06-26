@@ -1,0 +1,81 @@
+{
+  "slug": "exterior-caulking",
+  "system": "exterior",
+  "title": "Exterior Caulking & Weatherproofing \u2014 Where to Seal, What to Use & How",
+  "question": "How do I caulk and weatherproof the outside of my house?",
+  "summary": "Seal the gaps where two different materials meet on your home's exterior \u2014 around windows, doors, and trim \u2014 with a quality exterior sealant to block water, drafts, and bugs. The trick is using the right product, prepping a clean dry surface, and knowing which gaps to leave open so trapped water can escape.",
+  "commonCauses": [
+    {
+      "cause": "Old caulk has cracked, shrunk, or pulled away from the surface, opening a gap",
+      "likelihood": "most common",
+      "quickCheck": "Run a finger along window/door trim joints; look for cracks, gaps, peeling, or chalky crumbling caulk."
+    },
+    {
+      "cause": "Gaps where two materials meet (trim-to-siding, window frame-to-wall) were never sealed",
+      "likelihood": "common",
+      "quickCheck": "Inspect the perimeter of windows, doors, and where trim boards butt against siding for daylight or visible gaps."
+    },
+    {
+      "cause": "Wrong caulk used \u2014 interior/painter's-grade or cheap pure-acrylic latex that turns brittle outdoors",
+      "likelihood": "common",
+      "quickCheck": "Check the tube label or old bead: a caulk not rated for exterior use often cracks within a year or two."
+    },
+    {
+      "cause": "Penetrations (hose bibs, dryer vents, electrical conduit, cable entries) left unsealed",
+      "likelihood": "common",
+      "quickCheck": "Look at every pipe, wire, or vent passing through an exterior wall for an open gap around it."
+    },
+    {
+      "cause": "Drainage gaps caulked shut that should stay open (weep holes, bottom of window flanges, siding lap joints)",
+      "likelihood": "less common",
+      "quickCheck": "Confirm window weep holes at the bottom of the frame are clear and the bottom edge of the window was NOT sealed shut."
+    }
+  ],
+  "fixes": [
+    "Inspect on a dry day. Walk the perimeter and mark every cracked, missing, or gapped joint around windows, doors, trim, corner boards, and wall penetrations.",
+    "Remove old failed caulk completely. Pull it out by hand or with a caulk-removal tool/utility knife. A new bead won't stick over loose old caulk.",
+    "Clean and dry the joint. Wipe out dust and debris; for mildew, clean it off and let the surface dry fully. The surface must be clean, dry, and frost-free for the caulk to bond.",
+    "Pick the right sealant: exterior-rated siliconized acrylic latex for trim you'll paint; polyurethane or an MS-polymer hybrid for high-movement, below-grade, or heavy-exposure joints; pure silicone only on non-porous spots you won't paint, like glass-to-metal (silicone can't be painted over). Whatever you choose, confirm the label says exterior.",
+    "For gaps wider than about 1/4 inch or deeper than 1/2 inch, push in foam backer rod first, then caulk over it. Don't try to fill a deep void with caulk alone \u2014 aim for a bead roughly as deep as it is wide.",
+    "Cut the tube tip at a 45-degree angle to a small opening, load the gun, and lay a steady continuous bead while pushing the gun forward into the joint.",
+    "Tool the bead immediately. Smooth it with a wet finger or a caulk tool so it presses into and bridges both surfaces. Wipe excess.",
+    "Leave drainage gaps open: do NOT caulk window weep holes, the bottom edge/sill flange of windows, the underside laps of horizontal siding, or the bottom of trim where water needs to escape. Sealing these traps water inside the wall and causes rot.",
+    "Let it cure per the label (often 24 hours, longer in cold or humid weather) before painting or rain exposure.",
+    "Reinspect yearly and touch up. Exterior caulk is ongoing maintenance, not a one-time job."
+  ],
+  "diyVsPro": "Most ground-level and first-story caulking is a straightforward DIY job. Call a pro when: the work is at roof height or on a tall ladder/second story, you find rot or soft wood behind the gap (that's a repair, not a caulk job), water is already getting inside the wall, or the joints are around stucco/EIFS or below-grade foundation areas where sealant choice and flashing matter. Caulk only hides symptoms \u2014 if water keeps intruding, the real problem is usually flashing or siding, which needs a contractor.",
+  "typicalCostUSD": "DIY: $30\u2013$90 in materials (caulk gun $8\u2013$25, 3\u20136 tubes of quality exterior sealant at $6\u2013$15 each, backer rod $5\u2013$10). Pro: $150\u2013$600 for a typical house perimeter, more for multi-story or extensive prep/repair.",
+  "timeEstimate": "2\u20136 hours of work for a typical home's windows, doors, and trim, on a dry day, plus about 24 hours cure time before paint or rain.",
+  "safetyLevel": "caution",
+  "safetyNote": "The caulking itself is low-risk, but reaching upper-story windows or eaves means ladder work \u2014 set the ladder on firm level ground, maintain three points of contact, and don't overreach. Leave second-story and roofline sealing to a pro if you're not comfortable at height. Work in good ventilation and wear gloves with solvent-based polyurethane sealants.",
+  "toolsParts": [
+    "Caulk gun (dripless/smooth-rod recommended)",
+    "Exterior-rated sealant (siliconized acrylic latex, polyurethane, or MS-polymer hybrid)",
+    "Utility knife or caulk-removal tool",
+    "Foam backer rod for wide/deep gaps",
+    "Rags and a bucket of water (for tooling the bead)",
+    "Painter's tape (optional, for crisp lines)",
+    "Stable ladder for upper joints",
+    "Cleaning solution and stiff brush for prep",
+    "Work gloves"
+  ],
+  "searchTerms": [
+    "best exterior caulk for windows",
+    "how to caulk around windows outside",
+    "should you caulk the bottom of a window",
+    "exterior caulk vs interior caulk",
+    "backer rod how to use",
+    "weatherproofing exterior of house",
+    "silicone vs polyurethane caulk exterior",
+    "how to remove old exterior caulk"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "Sealant manufacturer application guidance (e.g., GE, DAP, Sika)",
+    "Building-code and best-practice norms for exterior water management and weatherproofing"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for professional inspection. Conditions vary by home, climate, and local building code. If you find rot, active water intrusion, or work that requires height or specialized materials, consult a licensed contractor.",
+  "verified": true,
+  "verifierNote": "Confirmed advice is sound and safe (no gas/electrical/structural hazards; ladder/roof-height correctly routed to a pro). Clarified the sealant-type guidance so \"painter's caulk\" no longer contradicts the warning against it, noted silicone can't be painted, added the bead depth\u2248width rule, flagged that sealing drainage gaps causes rot, bumped material cost ceiling to $90, and added gloves.",
+  "kind": "pillar"
+}

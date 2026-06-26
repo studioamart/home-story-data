@@ -1,0 +1,66 @@
+{
+  "slug": "electrical-replace-light-switch",
+  "system": "electrical",
+  "title": "How to Replace a Light Switch \u2014 Step-by-Step Guide",
+  "question": "How do I replace a light switch myself?",
+  "summary": "Replacing a standard single-pole light switch is a beginner-friendly job: turn off the breaker, confirm power is off at every wire in the box, copy the old switch's wiring onto the new one, and screw it back in. Plan on 15-30 minutes and about $5-15 in parts.",
+  "commonCauses": [
+    {
+      "cause": "Worn-out switch that feels loose, sticks, or doesn't always turn the light on (mechanical contacts wear out)",
+      "likelihood": "most common",
+      "quickCheck": "Flip the switch a few times \u2014 if it feels mushy, sticks, or the light flickers/cuts out, the switch is likely failing."
+    },
+    {
+      "cause": "Cosmetic or feature upgrade \u2014 swapping a basic toggle for a rocker (decora), dimmer, smart, or timer switch",
+      "likelihood": "common",
+      "quickCheck": "You just don't like the look or want a dimmer/smart feature; the old switch may work fine."
+    },
+    {
+      "cause": "Switch buzzes, gets warm, or sparks when flipped \u2014 a sign of internal failure or a loose connection",
+      "likelihood": "less common",
+      "quickCheck": "Briefly touch the cover plate \u2014 noticeable warmth, buzzing, or scorch marks mean turn the breaker off now and inspect the wire connections (or call an electrician if you find scorching)."
+    }
+  ],
+  "fixes": [
+    "Identify the switch type first. Single-pole (one switch controls the light, has two same-color terminal screws plus a green ground) is the easy DIY case. If two switches control the same light (3-way) or three or more (4-way), label every wire with tape before disconnecting \u2014 the wiring is more involved.",
+    "Turn off power at the breaker panel. Flip the breaker that feeds the switch to OFF (not just the wall switch). If you're unsure which breaker, turn the light on and flip breakers until it goes dark \u2014 but know this only confirms the switch's hot leg, not other wires that may share the box.",
+    "Verify power is actually off \u2014 test the tester first. Touch a non-contact voltage tester (about $15-25) to a known-live outlet to confirm it works, then remove the cover plate and wave it over ALL the wires and screws in the box, not just the ones on the switch. Switch boxes can contain a second, still-live circuit. It must stay silent on everything before you touch anything. Never skip this step.",
+    "Unscrew the switch from the box (two screws, top and bottom) and gently pull it out. Before removing any wires, take a clear phone photo of how everything is connected.",
+    "Move wires to the new switch one at a time so you can't mix them up. Match screw to screw: the two hot wires go on the two brass/dark screws (either one \u2014 single-pole is not polarity-sensitive), and the bare copper or green wire goes on the green ground screw. Wrap each wire clockwise around its screw and tighten firmly. If the old switch used push-in 'back-stab' holes, move those wires to the screw terminals instead \u2014 they hold far better and back-stabs are a known failure point.",
+    "For a 3-way switch, the single odd-colored screw (usually black/dark) is the COMMON terminal \u2014 the wire on it must go back on the common of the new switch. The other two ('traveler') wires go on the two same-colored screws. This is why labeling in step 1 matters.",
+    "Tuck the wires back into the box (folding them in an accordion shape), screw the switch to the box, and reattach the cover plate.",
+    "Turn the breaker back on and test. The light should work normally. If it doesn't, turn the breaker back off, confirm power is off again with the tester, and recheck your connections against your photo."
+  ],
+  "diyVsPro": "A standard single-pole or 3-way swap is within reach for a careful homeowner who respects the power-off-and-verify rule. Call a licensed electrician if: the wiring doesn't match any tutorial (extra wires, multiple cables you can't trace), the wires are aluminum (dull silver, not copper \u2014 a known fire-risk that needs special connectors), you see scorching or melted insulation, the box is overcrowded, the switch is part of a 4-way circuit you can't trace, or you're not confident the power is off. A missing ground wire is common in older homes and not always a dealbreaker, but if you're unsure how the box is grounded, have it checked. Anything involving the panel itself, or any 240V circuit, is always a pro job.",
+  "typicalCostUSD": "DIY: $3-8 for a basic switch, $15-30 for a dimmer, $20-60 for a smart switch, plus a one-time $15-25 voltage tester. Pro: roughly $100-250 per switch including a typical minimum service/trip charge (higher in high-cost-of-living areas).",
+  "timeEstimate": "15-30 minutes for a single-pole switch once you've done the prep; 30-45 minutes for a 3-way or your first time.",
+  "safetyLevel": "caution",
+  "safetyNote": "This is device-level 120V household electrical work, safe for DIY only if you turn off the correct breaker AND confirm power is off with a non-contact voltage tester \u2014 waved over every wire in the box, not just the switch \u2014 before touching anything. Test the tester on a known-live outlet first, since these can give false 'dead' readings. Never rely on the wall switch alone. Stop and call an electrician if you see aluminum wiring, scorching, melted insulation, or a tangle of wires you can't match to a guide. Panel work and any 240V circuit are always pro jobs.",
+  "toolsParts": [
+    "Replacement switch (single-pole, 3-way, dimmer, or smart \u2014 match the original)",
+    "Non-contact voltage tester",
+    "Flathead and Phillips screwdrivers",
+    "Needle-nose pliers (to bend wire hooks)",
+    "Wire strippers (if any wire ends are damaged)",
+    "Electrical tape (to label wires on multi-way switches)",
+    "New cover plate (optional)",
+    "Phone for a wiring photo before disconnecting"
+  ],
+  "searchTerms": [
+    "how to replace a light switch",
+    "single pole switch replacement",
+    "how to wire a 3-way switch",
+    "replace wall switch DIY",
+    "light switch not working replace",
+    "install a dimmer switch"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "National Electrical Code norms for switch wiring and grounding",
+    "Switch and device manufacturer installation instructions (e.g. Leviton, Lutron)"
+  ],
+  "disclaimer": "This guide is general home-maintenance information, not professional electrical advice. Electrical codes vary by location and some areas require permits or licensed work. When in doubt, turn off the power and consult a licensed electrician.",
+  "verified": true,
+  "verifierNote": "Confirmed wiring/cost/safety accuracy; key fix \u2014 test the NCVT must cover ALL wires in the box (boxes can hold a second live circuit) and the tester must be verified on a known-live source first; softened the over-strict 'no ground = call a pro' claim, kept aluminum-wiring and panel/240V as firm pro triggers, and nudged smart-switch/pro cost ranges up to current US reality.",
+  "kind": "pillar"
+}
