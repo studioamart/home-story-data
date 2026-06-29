@@ -1,0 +1,63 @@
+{
+  "slug": "electrical-doorbell-not-working",
+  "system": "electrical",
+  "title": "Doorbell Not Working — Causes & How to Fix It",
+  "question": "My wired doorbell stopped working — no sound when pressed. What are the likely causes and what can I safely check and fix myself?",
+  "summary": "A standard wired doorbell is low-voltage and safe to troubleshoot. The four parts that fail are the push button (most common — corrosion or worn contacts), the chime unit, the transformer, or the wiring. Test from the button inward: jump the button wires to see if the chime rings, then check the transformer voltage. Most fixes are a cheap button or chime swap. Note: smart/video doorbells add their own power and Wi-Fi issues.",
+  "commonCauses": [
+    {
+      "cause": "Worn or corroded push button. The most exposed part — weather and use corrode the contacts so pressing it no longer completes the circuit.",
+      "likelihood": "most common",
+      "quickCheck": "Unscrew the button, remove the two wires, and touch them together briefly. If the chime rings, the button is bad — replace it."
+    },
+    {
+      "cause": "Failed chime unit or stuck plunger. The chime's solenoid plungers stick or the unit dies, so the circuit completes but nothing sounds.",
+      "likelihood": "common",
+      "quickCheck": "If touching the button wires together does NOT ring the chime, move to the chime: check for dust/stuck plungers, and confirm it gets voltage."
+    },
+    {
+      "cause": "Dead or weak transformer. The small transformer that steps line voltage down to ~16-24V doorbell power can fail, leaving the whole system dead.",
+      "likelihood": "common",
+      "quickCheck": "With a multimeter on AC volts, check across the transformer's low-voltage terminals (or the chime's 'front'/'trans' terminals). No reading (0V) means a dead transformer or upstream wiring/breaker."
+    }
+  ],
+  "fixes": [
+    "Start at the button: unscrew it, detach the two wires, and tap them together. A ring means the button is the problem — install a new button.",
+    "No ring from the button test? Go to the chime. Remove the cover, vacuum dust, and gently free any stuck plungers.",
+    "Check power at the chime with a multimeter (AC volts) across the transformer/front terminals — you should see roughly 16-24V. If present and the chime still won't sound, replace the chime unit.",
+    "No voltage at the chime? Find the transformer (often near the panel, in the basement, or in a closet/attic) and measure its low-voltage output. 0V means a dead transformer (replace it) or a tripped breaker / broken wire feeding it.",
+    "If the transformer reads correctly but a wire run is broken inside walls, running new low-voltage wire or going to a wireless/smart doorbell is the practical fix.",
+    "For smart/video doorbells: confirm the transformer meets the device's voltage requirement, the breaker is on, and Wi-Fi/app connectivity is working — these add power and network failure points a basic chime doesn't have.",
+    "Reassemble and test."
+  ],
+  "diyVsPro": "DIY-friendly — standard doorbells run on safe low voltage, and button/chime swaps need only a screwdriver and a multimeter. Call an electrician if the transformer is dead and hardwired into the panel area and you're not comfortable replacing it, if you find scorched wiring, if a smart doorbell needs a higher-voltage transformer or a new circuit, or if there's no low-voltage wiring and you'd rather not fish new wire. The line-voltage side of the transformer is not a beginner job.",
+  "typicalCostUSD": "$10-$30 for a new button or chime; $15-$40 for a transformer. A multimeter is $15-$40 if you don't have one. An electrician to replace a hardwired transformer runs $100-$250.",
+  "timeEstimate": "20-45 minutes to test and replace a button or chime.",
+  "safetyLevel": "caution",
+  "safetyNote": "The doorbell's low-voltage side (button, chime wiring) is safe to handle, but the transformer's line-voltage side is full household voltage — shut off that circuit at the breaker before touching the transformer's high-voltage wiring, and confirm it's dead. If you find scorched or melted wiring anywhere, stop and call an electrician. Don't poke a multimeter into line-voltage terminals unless you know what you're doing.",
+  "toolsParts": [
+    "Screwdriver set",
+    "Multimeter (set to AC volts)",
+    "Replacement push button and/or chime unit",
+    "Replacement doorbell transformer (if needed)",
+    "Small vacuum or brush (to clean the chime)"
+  ],
+  "searchTerms": [
+    "doorbell not working",
+    "wired doorbell stopped ringing",
+    "how to test a doorbell button",
+    "doorbell chime not sounding",
+    "doorbell transformer voltage test",
+    "replace doorbell button",
+    "ring doorbell not getting power transformer"
+  ],
+  "sources": [
+    "General low-voltage doorbell wiring and troubleshooting guidance (button/chime/transformer)",
+    "Smart-doorbell manufacturer (Ring, Nest) transformer voltage requirements and wiring guidance",
+    "Electrical-safety guidance on line-voltage transformer connections"
+  ],
+  "disclaimer": "General guidance only. The transformer's line-voltage side carries household current; if you are not comfortable working near it or find damaged wiring, consult a licensed electrician.",
+  "verified": false,
+  "verifierNote": "Drafted from standard low-voltage doorbell practice (button-jump test, voltage check at chime/transformer). Pending human source verification.",
+  "kind": "spoke"
+}

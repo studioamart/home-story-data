@@ -1,0 +1,61 @@
+{
+  "slug": "electrical-lights-flickering",
+  "system": "electrical",
+  "title": "Why Your Lights Flicker — Causes & When It's a Warning Sign",
+  "question": "My lights flicker or dim — sometimes one fixture, sometimes the whole house, sometimes when an appliance kicks on. Which kinds of flicker are harmless and which mean an electrical problem?",
+  "summary": "Some flicker is harmless (an LED on an incompatible dimmer, a loose bulb), but some is an early warning of a loose or overloaded connection that can overheat. The key is the pattern: one bulb flickering is usually the bulb or fixture; a whole-room or whole-house flicker, flicker when big appliances start, or flicker with warmth or a burning smell is electrical and needs an electrician. Don't ignore the house-wide kind.",
+  "commonCauses": [
+    {
+      "cause": "Loose or wrong bulb, or an LED on an incompatible/old dimmer. Single-fixture flicker is usually this — a bulb not seated, or a non-dimmable/incompatible LED on a dimmer.",
+      "likelihood": "most common",
+      "quickCheck": "Does only one fixture flicker? Tighten the bulb (power off). If it's on a dimmer, try a known dimmable, dimmer-compatible LED. Fixed = it was the bulb/dimmer."
+    },
+    {
+      "cause": "Voltage dip when a large appliance starts. Lights briefly dim when the AC, dryer, well pump, or microwave kicks on — a small, brief dip is normal; a big or frequent one is not.",
+      "likelihood": "common",
+      "quickCheck": "Does the flicker coincide with an appliance cycling on? A slight, momentary dim is normal. A strong or lingering dim, especially on a dedicated circuit, may mean an overloaded or undersized circuit."
+    },
+    {
+      "cause": "Loose connection, overloaded circuit, or a failing breaker/panel connection. Whole-room or whole-house flicker — especially with warmth, buzzing, or a burning smell — points to a loose wire, a failing connection, or (rarely) a utility/service problem.",
+      "likelihood": "warning sign",
+      "quickCheck": "Does a whole room or the whole house flicker, or do you notice warm switch/outlet plates, buzzing, or a burning smell? Stop troubleshooting and call an electrician."
+    }
+  ],
+  "fixes": [
+    "Isolate it: note whether it's one bulb, one room, or the whole house, and whether it tracks with an appliance turning on. That pattern is the diagnosis.",
+    "Single fixture: with the switch off, reseat or replace the bulb. On a dimmer, install a dimmable, dimmer-compatible LED (and ideally an LED-rated dimmer).",
+    "Whole room flicker with no obvious appliance cause: that circuit may have a loose connection at an outlet/switch or be overloaded — reduce load and have an electrician inspect the connections.",
+    "Flicker only when a big appliance starts: a slight dip is normal; a strong one may need a dedicated circuit for that appliance — an electrician can confirm.",
+    "Whole-house flicker, or any flicker with warm cover plates, buzzing, scorch marks, or a burning smell: turn off the affected circuit if you safely can and call a licensed electrician promptly — these are fire-risk signs.",
+    "If neighbors' lights flicker too, or it follows weather, it may be a utility service issue — contact your power company."
+  ],
+  "diyVsPro": "DIY only for the bulb/dimmer level — reseating a bulb, swapping to a compatible dimmable LED. Everything beyond that is an electrician's job: loose connections, overloaded or undersized circuits, panel issues, or anything with heat, buzzing, scorching, or a burning smell. Whole-house flicker and warm/discolored switches or outlets are genuine fire-risk warnings — don't keep using the circuit; call a pro.",
+  "typicalCostUSD": "$5-$20 for a compatible dimmable LED or dimmer. An electrician's diagnostic visit runs $100-$300; repairing a loose connection, replacing a failing breaker, or tightening panel connections $150-$500.",
+  "timeEstimate": "5-15 minutes to test bulbs/dimmer; electrical diagnosis is a pro visit.",
+  "safetyLevel": "call-a-pro",
+  "safetyNote": "Treat whole-house flicker, flicker with warmth, buzzing, scorch marks, or a burning smell as urgent — these indicate loose or arcing connections that start fires. Turn the affected circuit off at the breaker if you can do so safely and call a licensed electrician. Only bulb and dimmer swaps (with the power off) are DIY. Never open the service panel yourself.",
+  "toolsParts": [
+    "Dimmable, dimmer-compatible LED bulbs",
+    "An LED-rated dimmer (if needed)",
+    "Step ladder",
+    "Note of the flicker pattern (one fixture / room / whole house / on appliance start)"
+  ],
+  "searchTerms": [
+    "why are my lights flickering",
+    "lights flicker when ac turns on",
+    "whole house lights flickering",
+    "led lights flicker on dimmer",
+    "lights dim when appliance starts",
+    "flickering lights fire hazard",
+    "one light keeps flickering"
+  ],
+  "sources": [
+    "Electrical Safety Foundation International (ESFI) guidance on flickering lights and warning signs",
+    "U.S. Fire Administration guidance on electrical fire warning signs (warmth, buzzing, burning smell)",
+    "Lighting/dimmer manufacturer guidance on LED-dimmer compatibility"
+  ],
+  "disclaimer": "General guidance only. Whole-house flicker or any flicker with heat, buzzing, or burning smell is a potential fire hazard — consult a licensed electrician promptly.",
+  "verified": false,
+  "verifierNote": "Drafted from ESFI/USFA practice (pattern-based triage; house-wide/heat = call a pro). Pending human source verification.",
+  "kind": "spoke"
+}

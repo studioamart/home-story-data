@@ -1,0 +1,64 @@
+{
+  "slug": "plumbing-thaw-frozen-pipe",
+  "system": "plumbing",
+  "title": "How to Thaw a Frozen Pipe (Safely) — Step-by-Step",
+  "question": "No water is coming out of a faucet on a freezing day and I think a pipe is frozen. How do I thaw it without bursting it, and how do I know if it already burst?",
+  "summary": "If a faucet barely trickles in a cold snap, a pipe is likely frozen. Open the faucet, find the frozen section (usually along an exterior wall, in a crawlspace, or the garage), and warm it gradually with a hair dryer or heat lamp while the tap stays open. Never use an open flame. The real danger is a pipe that already cracked while frozen — it leaks when it thaws — so know where your main shutoff is before you start.",
+  "commonCauses": [
+    {
+      "cause": "Water frozen in a pipe along an exterior wall or in an unheated space (crawlspace, garage, attic, under a sink on an outside wall). Ice blocks flow and expands, stressing the pipe.",
+      "likelihood": "most common",
+      "quickCheck": "One faucet trickles or gives nothing while others work, on a sub-freezing day. Trace which pipe feeds that faucet — the frozen spot is usually on an exterior wall or in an unheated run."
+    },
+    {
+      "cause": "Already-cracked pipe from the freeze. Pipes burst from the expanding ice but may not leak until they thaw and water flows again.",
+      "likelihood": "important to rule out",
+      "quickCheck": "Inspect the frozen run for bulges, splits, or frost on a joint. If you find damage, do NOT thaw until the main water is shut off."
+    },
+    {
+      "cause": "Outdoor hose bib or sprinkler line left connected/charged over winter.",
+      "likelihood": "common",
+      "quickCheck": "Check whether a hose was left attached or the line wasn't drained/shut at the indoor valve before the freeze."
+    }
+  ],
+  "fixes": [
+    "Locate your main water shutoff first, before thawing — if the pipe cracked, you'll need to stop the water fast when it thaws.",
+    "Open the affected faucet (both hot and cold). Running water and the open tap relieve pressure and help melt the ice.",
+    "Find the frozen section — feel for the coldest spot, look for frost, usually on an exterior wall or unheated space.",
+    "Warm it gradually from the faucet end toward the frozen area with a hair dryer, heat lamp, or towels soaked in hot water. Move the heat along the pipe; don't park it on one spot.",
+    "NEVER use a blowtorch, propane heater, or any open flame — it can burst the pipe, damage it, or start a fire.",
+    "Keep going until full pressure returns. Then check the whole run for leaks now that it's flowing.",
+    "If you can't reach the frozen section (inside a wall), or the pipe is cracked, shut off the main and call a plumber.",
+    "Prevent a repeat: insulate exposed pipes, seal drafts near them, and let a faucet drip during hard freezes."
+  ],
+  "diyVsPro": "DIY for accessible pipes you can reach and warm gradually. Call a plumber immediately if you find a crack, bulge, or leak; if the frozen pipe is inside a finished wall or ceiling you can't access; if water doesn't return after reasonable thawing; or if you're not confident locating your shutoff. A burst pipe can flood and cause major water damage fast, so when in doubt, shut the main and call.",
+  "typicalCostUSD": "$0-$30 DIY (you likely own a hair dryer; pipe insulation is cheap). Emergency plumber for a burst or inaccessible pipe runs $150-$500+, far more if there's water damage.",
+  "timeEstimate": "30-60 minutes to thaw an accessible pipe; longer for hard freezes.",
+  "safetyLevel": "caution",
+  "safetyNote": "Never thaw a pipe with an open flame — it's the leading cause of pipe-thawing fires and bursts. Keep electric heat sources away from standing water (shock risk) and use GFCI protection. Know where your main shutoff is before you start, because a pipe that froze may already be cracked and will leak the moment it thaws. If you see a crack or can't reach the pipe, shut the main and call a pro.",
+  "toolsParts": [
+    "Hair dryer, heat lamp, or space heater (no open flame)",
+    "Towels (for hot-water wraps)",
+    "Knowledge/location of the main water shutoff",
+    "Pipe insulation sleeves (to prevent recurrence)",
+    "Flashlight"
+  ],
+  "searchTerms": [
+    "how to thaw a frozen pipe",
+    "no water coming out faucet frozen",
+    "thaw frozen pipe without bursting",
+    "frozen pipe in wall what to do",
+    "is my pipe frozen or burst",
+    "how to unfreeze water pipes fast",
+    "frozen pipe under sink exterior wall"
+  ],
+  "sources": [
+    "American Red Cross and U.S. government winter-weather guidance on thawing frozen pipes safely",
+    "Plumbing/insurance guidance on no-open-flame thawing and locating the main shutoff",
+    "General cold-weather plumbing freeze-prevention practice"
+  ],
+  "disclaimer": "General guidance only. A frozen pipe may already be cracked; if you find damage or cannot safely access the pipe, shut off the main water and consult a licensed plumber.",
+  "verified": false,
+  "verifierNote": "Drafted from Red Cross/government winter-pipe guidance (gradual heat, open faucet, no flame, locate shutoff). Pending human source verification.",
+  "kind": "spoke"
+}

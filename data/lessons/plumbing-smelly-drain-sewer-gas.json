@@ -1,0 +1,61 @@
+{
+  "slug": "plumbing-smelly-drain-sewer-gas",
+  "system": "plumbing",
+  "title": "Sewer Smell From a Drain — Causes & How to Get Rid of It",
+  "question": "One of my drains smells like sewage or rotten eggs, especially a sink or floor drain I don't use often. What causes the sewer smell and how do I get rid of it?",
+  "summary": "A sewer smell at a drain almost always means the water seal that normally blocks sewer gas is gone or bypassed. The most common cause is a dried-out P-trap in a rarely-used drain — the water that should sit in the U-bend has evaporated, opening a path for gas. Other causes are biofilm gunk in the overflow or drain, or a dry/blocked plumbing vent. Most are quick, cheap fixes; a persistent smell after these points to a venting or sewer-line issue for a plumber.",
+  "commonCauses": [
+    {
+      "cause": "Dried-out P-trap. Every drain has a U-shaped trap that holds water to block sewer gas. In a guest bath, floor drain, or basement drain you rarely use, that water evaporates and gas comes straight up.",
+      "likelihood": "most common",
+      "quickCheck": "Is it a drain you seldom run? Pour a quart of water down it. If the smell fades within an hour, the trap was dry."
+    },
+    {
+      "cause": "Biofilm and gunk in the drain, overflow, or stopper. Hair, soap, and bacteria build a smelly slime layer — common in bathroom sinks (especially the overflow hole) and kitchen drains.",
+      "likelihood": "common",
+      "quickCheck": "Pull the sink stopper and look/smell. A black, slimy coating on the stopper or inside the drain is the source."
+    },
+    {
+      "cause": "Dry, blocked, or missing vent. The plumbing vent lets the system breathe; if it's clogged (leaves, a nest) or the trap is being siphoned dry, you get gurgling drains and recurring sewer smell.",
+      "likelihood": "less common",
+      "quickCheck": "Do drains gurgle, or does the smell return days after refilling the trap? That points to a venting problem, not just a dry trap."
+    }
+  ],
+  "fixes": [
+    "Refill the trap: run water down the smelly drain for 30-60 seconds. For a floor drain, pour in a quart or two. Add a tablespoon of cooking oil to a rarely-used floor drain to slow future evaporation.",
+    "Clean the drain and stopper: remove the stopper, clear hair and slime, and scrub it. For the overflow, flush it with a brush and a baking-soda-then-vinegar treatment, then hot water.",
+    "Treat biofilm: pour in a half-cup of baking soda, then a cup of white vinegar, let it foam ~10 minutes, and flush with hot (not boiling on PVC) water. Repeat if needed. Avoid harsh chemical drain cleaners as a routine fix.",
+    "If the smell returns within days, or drains gurgle, suspect the vent. Check the vent stack opening on the roof for blockage (leaves, debris, a bird nest) if you can do so safely.",
+    "Still smelly after a clean trap and drain? Call a plumber — a recurring sewer smell can mean a partially blocked vent, a failed wax ring at a toilet, or a sewer-line issue."
+  ],
+  "diyVsPro": "DIY for the common cases: refilling a dry trap, cleaning the stopper/overflow, and treating biofilm solve most drain smells for pennies. Call a plumber if the smell persists after these, if multiple drains gurgle or smell at once (a main vent or sewer problem), if you smell sewer gas near a toilet (often a failed wax ring), or if you ever smell it throughout the house — sustained sewer-gas exposure is a health and explosion concern and warrants prompt professional attention.",
+  "typicalCostUSD": "$0-$10 DIY (water, baking soda, vinegar). A plumber's visit for vent or sewer diagnosis runs $100-$350; clearing a blocked vent or resetting a toilet wax ring $150-$400.",
+  "timeEstimate": "5-20 minutes for trap refill and drain cleaning.",
+  "safetyLevel": "caution",
+  "safetyNote": "Occasional sewer whiffs from a dry trap are harmless once refilled, but a strong, persistent, or house-wide sewer-gas smell is not — it can contain methane and hydrogen sulfide, which are hazardous in volume. Ventilate, don't ignore a constant smell, and get a plumber if it won't clear. Don't mix bleach with other drain cleaners. Only inspect a roof vent if you can do so safely.",
+  "toolsParts": [
+    "Baking soda and white vinegar",
+    "A brush for the stopper/overflow",
+    "Cooking oil (to slow trap evaporation in floor drains)",
+    "Gloves",
+    "Flashlight"
+  ],
+  "searchTerms": [
+    "sewer smell from sink drain",
+    "drain smells like rotten eggs",
+    "how to get rid of sewer gas smell in bathroom",
+    "floor drain smells like sewage",
+    "dried out p trap sewer smell",
+    "smelly drain not used often",
+    "bathroom sink overflow smells"
+  ],
+  "sources": [
+    "EPA and plumbing-code guidance on P-traps and plumbing vents blocking sewer gas",
+    "General plumbing guidance on trap seals, vent function, and biofilm cleaning",
+    "Public-health guidance on sewer-gas (hydrogen sulfide/methane) exposure"
+  ],
+  "disclaimer": "General guidance only. A persistent or whole-house sewer-gas smell can be hazardous and may indicate a venting or sewer fault — consult a licensed plumber.",
+  "verified": false,
+  "verifierNote": "Drafted from standard plumbing/EPA practice (dry-trap as primary cause, vent/biofilm secondary). Pending human source verification.",
+  "kind": "spoke"
+}

@@ -1325,6 +1325,69 @@
     "kind": "pillar"
   },
   {
+    "slug": "electrical-doorbell-not-working",
+    "system": "electrical",
+    "title": "Doorbell Not Working — Causes & How to Fix It",
+    "question": "My wired doorbell stopped working — no sound when pressed. What are the likely causes and what can I safely check and fix myself?",
+    "summary": "A standard wired doorbell is low-voltage and safe to troubleshoot. The four parts that fail are the push button (most common — corrosion or worn contacts), the chime unit, the transformer, or the wiring. Test from the button inward: jump the button wires to see if the chime rings, then check the transformer voltage. Most fixes are a cheap button or chime swap. Note: smart/video doorbells add their own power and Wi-Fi issues.",
+    "commonCauses": [
+      {
+        "cause": "Worn or corroded push button. The most exposed part — weather and use corrode the contacts so pressing it no longer completes the circuit.",
+        "likelihood": "most common",
+        "quickCheck": "Unscrew the button, remove the two wires, and touch them together briefly. If the chime rings, the button is bad — replace it."
+      },
+      {
+        "cause": "Failed chime unit or stuck plunger. The chime's solenoid plungers stick or the unit dies, so the circuit completes but nothing sounds.",
+        "likelihood": "common",
+        "quickCheck": "If touching the button wires together does NOT ring the chime, move to the chime: check for dust/stuck plungers, and confirm it gets voltage."
+      },
+      {
+        "cause": "Dead or weak transformer. The small transformer that steps line voltage down to ~16-24V doorbell power can fail, leaving the whole system dead.",
+        "likelihood": "common",
+        "quickCheck": "With a multimeter on AC volts, check across the transformer's low-voltage terminals (or the chime's 'front'/'trans' terminals). No reading (0V) means a dead transformer or upstream wiring/breaker."
+      }
+    ],
+    "fixes": [
+      "Start at the button: unscrew it, detach the two wires, and tap them together. A ring means the button is the problem — install a new button.",
+      "No ring from the button test? Go to the chime. Remove the cover, vacuum dust, and gently free any stuck plungers.",
+      "Check power at the chime with a multimeter (AC volts) across the transformer/front terminals — you should see roughly 16-24V. If present and the chime still won't sound, replace the chime unit.",
+      "No voltage at the chime? Find the transformer (often near the panel, in the basement, or in a closet/attic) and measure its low-voltage output. 0V means a dead transformer (replace it) or a tripped breaker / broken wire feeding it.",
+      "If the transformer reads correctly but a wire run is broken inside walls, running new low-voltage wire or going to a wireless/smart doorbell is the practical fix.",
+      "For smart/video doorbells: confirm the transformer meets the device's voltage requirement, the breaker is on, and Wi-Fi/app connectivity is working — these add power and network failure points a basic chime doesn't have.",
+      "Reassemble and test."
+    ],
+    "diyVsPro": "DIY-friendly — standard doorbells run on safe low voltage, and button/chime swaps need only a screwdriver and a multimeter. Call an electrician if the transformer is dead and hardwired into the panel area and you're not comfortable replacing it, if you find scorched wiring, if a smart doorbell needs a higher-voltage transformer or a new circuit, or if there's no low-voltage wiring and you'd rather not fish new wire. The line-voltage side of the transformer is not a beginner job.",
+    "typicalCostUSD": "$10-$30 for a new button or chime; $15-$40 for a transformer. A multimeter is $15-$40 if you don't have one. An electrician to replace a hardwired transformer runs $100-$250.",
+    "timeEstimate": "20-45 minutes to test and replace a button or chime.",
+    "safetyLevel": "caution",
+    "safetyNote": "The doorbell's low-voltage side (button, chime wiring) is safe to handle, but the transformer's line-voltage side is full household voltage — shut off that circuit at the breaker before touching the transformer's high-voltage wiring, and confirm it's dead. If you find scorched or melted wiring anywhere, stop and call an electrician. Don't poke a multimeter into line-voltage terminals unless you know what you're doing.",
+    "toolsParts": [
+      "Screwdriver set",
+      "Multimeter (set to AC volts)",
+      "Replacement push button and/or chime unit",
+      "Replacement doorbell transformer (if needed)",
+      "Small vacuum or brush (to clean the chime)"
+    ],
+    "searchTerms": [
+      "doorbell not working",
+      "wired doorbell stopped ringing",
+      "how to test a doorbell button",
+      "doorbell chime not sounding",
+      "doorbell transformer voltage test",
+      "replace doorbell button",
+      "ring doorbell not getting power transformer"
+    ],
+    "sources": [
+      "General low-voltage doorbell wiring and troubleshooting guidance (button/chime/transformer)",
+      "Smart-doorbell manufacturer (Ring, Nest) transformer voltage requirements and wiring guidance",
+      "Electrical-safety guidance on line-voltage transformer connections"
+    ],
+    "disclaimer": "General guidance only. The transformer's line-voltage side carries household current; if you are not comfortable working near it or find damaged wiring, consult a licensed electrician.",
+    "verified": false,
+    "verifierNote": "Drafted from standard low-voltage doorbell practice (button-jump test, voltage check at chime/transformer). Pending human source verification.",
+    "kind": "spoke"
+  },
+  {
     "slug": "electrical-exterior-outlet-cover",
     "system": "electrical",
     "title": "How to Add or Fix Weatherproofing on an Outdoor Outlet (In-Use Bubble Cover + Gasket)",
@@ -1804,6 +1867,67 @@
     "disclaimer": "General home-maintenance information, not professional electrical advice. Codes and conditions vary; when in doubt or when working beyond simple device replacement, consult a licensed electrician and follow local code and permit requirements.",
     "verified": true,
     "verifierNote": "Confirmed causes/fixes/costs against US practice; tightened the smart-switch cause (only NO-neutral switches glow), clarified non-contact testers beep on harmless phantom voltage, corrected the switched-neutral quick-check to a multimeter reading across fixture wires (not \"120V on the screw shell\"), and added buzzing/warmth as escalation triggers.",
+    "kind": "spoke"
+  },
+  {
+    "slug": "electrical-lights-flickering",
+    "system": "electrical",
+    "title": "Why Your Lights Flicker — Causes & When It's a Warning Sign",
+    "question": "My lights flicker or dim — sometimes one fixture, sometimes the whole house, sometimes when an appliance kicks on. Which kinds of flicker are harmless and which mean an electrical problem?",
+    "summary": "Some flicker is harmless (an LED on an incompatible dimmer, a loose bulb), but some is an early warning of a loose or overloaded connection that can overheat. The key is the pattern: one bulb flickering is usually the bulb or fixture; a whole-room or whole-house flicker, flicker when big appliances start, or flicker with warmth or a burning smell is electrical and needs an electrician. Don't ignore the house-wide kind.",
+    "commonCauses": [
+      {
+        "cause": "Loose or wrong bulb, or an LED on an incompatible/old dimmer. Single-fixture flicker is usually this — a bulb not seated, or a non-dimmable/incompatible LED on a dimmer.",
+        "likelihood": "most common",
+        "quickCheck": "Does only one fixture flicker? Tighten the bulb (power off). If it's on a dimmer, try a known dimmable, dimmer-compatible LED. Fixed = it was the bulb/dimmer."
+      },
+      {
+        "cause": "Voltage dip when a large appliance starts. Lights briefly dim when the AC, dryer, well pump, or microwave kicks on — a small, brief dip is normal; a big or frequent one is not.",
+        "likelihood": "common",
+        "quickCheck": "Does the flicker coincide with an appliance cycling on? A slight, momentary dim is normal. A strong or lingering dim, especially on a dedicated circuit, may mean an overloaded or undersized circuit."
+      },
+      {
+        "cause": "Loose connection, overloaded circuit, or a failing breaker/panel connection. Whole-room or whole-house flicker — especially with warmth, buzzing, or a burning smell — points to a loose wire, a failing connection, or (rarely) a utility/service problem.",
+        "likelihood": "warning sign",
+        "quickCheck": "Does a whole room or the whole house flicker, or do you notice warm switch/outlet plates, buzzing, or a burning smell? Stop troubleshooting and call an electrician."
+      }
+    ],
+    "fixes": [
+      "Isolate it: note whether it's one bulb, one room, or the whole house, and whether it tracks with an appliance turning on. That pattern is the diagnosis.",
+      "Single fixture: with the switch off, reseat or replace the bulb. On a dimmer, install a dimmable, dimmer-compatible LED (and ideally an LED-rated dimmer).",
+      "Whole room flicker with no obvious appliance cause: that circuit may have a loose connection at an outlet/switch or be overloaded — reduce load and have an electrician inspect the connections.",
+      "Flicker only when a big appliance starts: a slight dip is normal; a strong one may need a dedicated circuit for that appliance — an electrician can confirm.",
+      "Whole-house flicker, or any flicker with warm cover plates, buzzing, scorch marks, or a burning smell: turn off the affected circuit if you safely can and call a licensed electrician promptly — these are fire-risk signs.",
+      "If neighbors' lights flicker too, or it follows weather, it may be a utility service issue — contact your power company."
+    ],
+    "diyVsPro": "DIY only for the bulb/dimmer level — reseating a bulb, swapping to a compatible dimmable LED. Everything beyond that is an electrician's job: loose connections, overloaded or undersized circuits, panel issues, or anything with heat, buzzing, scorching, or a burning smell. Whole-house flicker and warm/discolored switches or outlets are genuine fire-risk warnings — don't keep using the circuit; call a pro.",
+    "typicalCostUSD": "$5-$20 for a compatible dimmable LED or dimmer. An electrician's diagnostic visit runs $100-$300; repairing a loose connection, replacing a failing breaker, or tightening panel connections $150-$500.",
+    "timeEstimate": "5-15 minutes to test bulbs/dimmer; electrical diagnosis is a pro visit.",
+    "safetyLevel": "call-a-pro",
+    "safetyNote": "Treat whole-house flicker, flicker with warmth, buzzing, scorch marks, or a burning smell as urgent — these indicate loose or arcing connections that start fires. Turn the affected circuit off at the breaker if you can do so safely and call a licensed electrician. Only bulb and dimmer swaps (with the power off) are DIY. Never open the service panel yourself.",
+    "toolsParts": [
+      "Dimmable, dimmer-compatible LED bulbs",
+      "An LED-rated dimmer (if needed)",
+      "Step ladder",
+      "Note of the flicker pattern (one fixture / room / whole house / on appliance start)"
+    ],
+    "searchTerms": [
+      "why are my lights flickering",
+      "lights flicker when ac turns on",
+      "whole house lights flickering",
+      "led lights flicker on dimmer",
+      "lights dim when appliance starts",
+      "flickering lights fire hazard",
+      "one light keeps flickering"
+    ],
+    "sources": [
+      "Electrical Safety Foundation International (ESFI) guidance on flickering lights and warning signs",
+      "U.S. Fire Administration guidance on electrical fire warning signs (warmth, buzzing, burning smell)",
+      "Lighting/dimmer manufacturer guidance on LED-dimmer compatibility"
+    ],
+    "disclaimer": "General guidance only. Whole-house flicker or any flicker with heat, buzzing, or burning smell is a potential fire hazard — consult a licensed electrician promptly.",
+    "verified": false,
+    "verifierNote": "Drafted from ESFI/USFA practice (pattern-based triage; house-wide/heat = call a pro). Pending human source verification.",
     "kind": "spoke"
   },
   {
@@ -6057,6 +6181,67 @@
     "kind": "pillar"
   },
   {
+    "slug": "plumbing-smelly-drain-sewer-gas",
+    "system": "plumbing",
+    "title": "Sewer Smell From a Drain — Causes & How to Get Rid of It",
+    "question": "One of my drains smells like sewage or rotten eggs, especially a sink or floor drain I don't use often. What causes the sewer smell and how do I get rid of it?",
+    "summary": "A sewer smell at a drain almost always means the water seal that normally blocks sewer gas is gone or bypassed. The most common cause is a dried-out P-trap in a rarely-used drain — the water that should sit in the U-bend has evaporated, opening a path for gas. Other causes are biofilm gunk in the overflow or drain, or a dry/blocked plumbing vent. Most are quick, cheap fixes; a persistent smell after these points to a venting or sewer-line issue for a plumber.",
+    "commonCauses": [
+      {
+        "cause": "Dried-out P-trap. Every drain has a U-shaped trap that holds water to block sewer gas. In a guest bath, floor drain, or basement drain you rarely use, that water evaporates and gas comes straight up.",
+        "likelihood": "most common",
+        "quickCheck": "Is it a drain you seldom run? Pour a quart of water down it. If the smell fades within an hour, the trap was dry."
+      },
+      {
+        "cause": "Biofilm and gunk in the drain, overflow, or stopper. Hair, soap, and bacteria build a smelly slime layer — common in bathroom sinks (especially the overflow hole) and kitchen drains.",
+        "likelihood": "common",
+        "quickCheck": "Pull the sink stopper and look/smell. A black, slimy coating on the stopper or inside the drain is the source."
+      },
+      {
+        "cause": "Dry, blocked, or missing vent. The plumbing vent lets the system breathe; if it's clogged (leaves, a nest) or the trap is being siphoned dry, you get gurgling drains and recurring sewer smell.",
+        "likelihood": "less common",
+        "quickCheck": "Do drains gurgle, or does the smell return days after refilling the trap? That points to a venting problem, not just a dry trap."
+      }
+    ],
+    "fixes": [
+      "Refill the trap: run water down the smelly drain for 30-60 seconds. For a floor drain, pour in a quart or two. Add a tablespoon of cooking oil to a rarely-used floor drain to slow future evaporation.",
+      "Clean the drain and stopper: remove the stopper, clear hair and slime, and scrub it. For the overflow, flush it with a brush and a baking-soda-then-vinegar treatment, then hot water.",
+      "Treat biofilm: pour in a half-cup of baking soda, then a cup of white vinegar, let it foam ~10 minutes, and flush with hot (not boiling on PVC) water. Repeat if needed. Avoid harsh chemical drain cleaners as a routine fix.",
+      "If the smell returns within days, or drains gurgle, suspect the vent. Check the vent stack opening on the roof for blockage (leaves, debris, a bird nest) if you can do so safely.",
+      "Still smelly after a clean trap and drain? Call a plumber — a recurring sewer smell can mean a partially blocked vent, a failed wax ring at a toilet, or a sewer-line issue."
+    ],
+    "diyVsPro": "DIY for the common cases: refilling a dry trap, cleaning the stopper/overflow, and treating biofilm solve most drain smells for pennies. Call a plumber if the smell persists after these, if multiple drains gurgle or smell at once (a main vent or sewer problem), if you smell sewer gas near a toilet (often a failed wax ring), or if you ever smell it throughout the house — sustained sewer-gas exposure is a health and explosion concern and warrants prompt professional attention.",
+    "typicalCostUSD": "$0-$10 DIY (water, baking soda, vinegar). A plumber's visit for vent or sewer diagnosis runs $100-$350; clearing a blocked vent or resetting a toilet wax ring $150-$400.",
+    "timeEstimate": "5-20 minutes for trap refill and drain cleaning.",
+    "safetyLevel": "caution",
+    "safetyNote": "Occasional sewer whiffs from a dry trap are harmless once refilled, but a strong, persistent, or house-wide sewer-gas smell is not — it can contain methane and hydrogen sulfide, which are hazardous in volume. Ventilate, don't ignore a constant smell, and get a plumber if it won't clear. Don't mix bleach with other drain cleaners. Only inspect a roof vent if you can do so safely.",
+    "toolsParts": [
+      "Baking soda and white vinegar",
+      "A brush for the stopper/overflow",
+      "Cooking oil (to slow trap evaporation in floor drains)",
+      "Gloves",
+      "Flashlight"
+    ],
+    "searchTerms": [
+      "sewer smell from sink drain",
+      "drain smells like rotten eggs",
+      "how to get rid of sewer gas smell in bathroom",
+      "floor drain smells like sewage",
+      "dried out p trap sewer smell",
+      "smelly drain not used often",
+      "bathroom sink overflow smells"
+    ],
+    "sources": [
+      "EPA and plumbing-code guidance on P-traps and plumbing vents blocking sewer gas",
+      "General plumbing guidance on trap seals, vent function, and biofilm cleaning",
+      "Public-health guidance on sewer-gas (hydrogen sulfide/methane) exposure"
+    ],
+    "disclaimer": "General guidance only. A persistent or whole-house sewer-gas smell can be hazardous and may indicate a venting or sewer fault — consult a licensed plumber.",
+    "verified": false,
+    "verifierNote": "Drafted from standard plumbing/EPA practice (dry-trap as primary cause, vent/biofilm secondary). Pending human source verification.",
+    "kind": "spoke"
+  },
+  {
     "slug": "plumbing-sump-pump-not-working",
     "system": "plumbing",
     "title": "Sump Pump Not Working or Not Turning On — Causes & Fixes",
@@ -6123,6 +6308,70 @@
     "disclaimer": "General guidance only. Combining water and electricity is hazardous; if your sump circuit trips repeatedly or you cannot safely de-energize standing water, consult a licensed electrician or plumber.",
     "verified": false,
     "verifierNote": "Drafted from manufacturer/FEMA/EPA practice (float, GFCI, check-valve, discharge-line checks). Pending human source verification.",
+    "kind": "spoke"
+  },
+  {
+    "slug": "plumbing-thaw-frozen-pipe",
+    "system": "plumbing",
+    "title": "How to Thaw a Frozen Pipe (Safely) — Step-by-Step",
+    "question": "No water is coming out of a faucet on a freezing day and I think a pipe is frozen. How do I thaw it without bursting it, and how do I know if it already burst?",
+    "summary": "If a faucet barely trickles in a cold snap, a pipe is likely frozen. Open the faucet, find the frozen section (usually along an exterior wall, in a crawlspace, or the garage), and warm it gradually with a hair dryer or heat lamp while the tap stays open. Never use an open flame. The real danger is a pipe that already cracked while frozen — it leaks when it thaws — so know where your main shutoff is before you start.",
+    "commonCauses": [
+      {
+        "cause": "Water frozen in a pipe along an exterior wall or in an unheated space (crawlspace, garage, attic, under a sink on an outside wall). Ice blocks flow and expands, stressing the pipe.",
+        "likelihood": "most common",
+        "quickCheck": "One faucet trickles or gives nothing while others work, on a sub-freezing day. Trace which pipe feeds that faucet — the frozen spot is usually on an exterior wall or in an unheated run."
+      },
+      {
+        "cause": "Already-cracked pipe from the freeze. Pipes burst from the expanding ice but may not leak until they thaw and water flows again.",
+        "likelihood": "important to rule out",
+        "quickCheck": "Inspect the frozen run for bulges, splits, or frost on a joint. If you find damage, do NOT thaw until the main water is shut off."
+      },
+      {
+        "cause": "Outdoor hose bib or sprinkler line left connected/charged over winter.",
+        "likelihood": "common",
+        "quickCheck": "Check whether a hose was left attached or the line wasn't drained/shut at the indoor valve before the freeze."
+      }
+    ],
+    "fixes": [
+      "Locate your main water shutoff first, before thawing — if the pipe cracked, you'll need to stop the water fast when it thaws.",
+      "Open the affected faucet (both hot and cold). Running water and the open tap relieve pressure and help melt the ice.",
+      "Find the frozen section — feel for the coldest spot, look for frost, usually on an exterior wall or unheated space.",
+      "Warm it gradually from the faucet end toward the frozen area with a hair dryer, heat lamp, or towels soaked in hot water. Move the heat along the pipe; don't park it on one spot.",
+      "NEVER use a blowtorch, propane heater, or any open flame — it can burst the pipe, damage it, or start a fire.",
+      "Keep going until full pressure returns. Then check the whole run for leaks now that it's flowing.",
+      "If you can't reach the frozen section (inside a wall), or the pipe is cracked, shut off the main and call a plumber.",
+      "Prevent a repeat: insulate exposed pipes, seal drafts near them, and let a faucet drip during hard freezes."
+    ],
+    "diyVsPro": "DIY for accessible pipes you can reach and warm gradually. Call a plumber immediately if you find a crack, bulge, or leak; if the frozen pipe is inside a finished wall or ceiling you can't access; if water doesn't return after reasonable thawing; or if you're not confident locating your shutoff. A burst pipe can flood and cause major water damage fast, so when in doubt, shut the main and call.",
+    "typicalCostUSD": "$0-$30 DIY (you likely own a hair dryer; pipe insulation is cheap). Emergency plumber for a burst or inaccessible pipe runs $150-$500+, far more if there's water damage.",
+    "timeEstimate": "30-60 minutes to thaw an accessible pipe; longer for hard freezes.",
+    "safetyLevel": "caution",
+    "safetyNote": "Never thaw a pipe with an open flame — it's the leading cause of pipe-thawing fires and bursts. Keep electric heat sources away from standing water (shock risk) and use GFCI protection. Know where your main shutoff is before you start, because a pipe that froze may already be cracked and will leak the moment it thaws. If you see a crack or can't reach the pipe, shut the main and call a pro.",
+    "toolsParts": [
+      "Hair dryer, heat lamp, or space heater (no open flame)",
+      "Towels (for hot-water wraps)",
+      "Knowledge/location of the main water shutoff",
+      "Pipe insulation sleeves (to prevent recurrence)",
+      "Flashlight"
+    ],
+    "searchTerms": [
+      "how to thaw a frozen pipe",
+      "no water coming out faucet frozen",
+      "thaw frozen pipe without bursting",
+      "frozen pipe in wall what to do",
+      "is my pipe frozen or burst",
+      "how to unfreeze water pipes fast",
+      "frozen pipe under sink exterior wall"
+    ],
+    "sources": [
+      "American Red Cross and U.S. government winter-weather guidance on thawing frozen pipes safely",
+      "Plumbing/insurance guidance on no-open-flame thawing and locating the main shutoff",
+      "General cold-weather plumbing freeze-prevention practice"
+    ],
+    "disclaimer": "General guidance only. A frozen pipe may already be cracked; if you find damage or cannot safely access the pipe, shut off the main water and consult a licensed plumber.",
+    "verified": false,
+    "verifierNote": "Drafted from Red Cross/government winter-pipe guidance (gradual heat, open faucet, no flame, locate shutoff). Pending human source verification.",
     "kind": "spoke"
   },
   {
