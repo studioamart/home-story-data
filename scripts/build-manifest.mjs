@@ -90,11 +90,18 @@ function buildSchedule() {
 // --- Lessons channel: data/lessons/*.json -> data/lessons.json + manifest ----
 function buildLessons() {
   const dir = join(DATA, 'lessons');
-  const files = readdirSync(dir).filter((f) => f.endsWith('.json')).sort();
+  // Only real guide files. `index.json` is a catalog, not a lesson; and any
+  // object without a `slug` can't be keyed by the app or rendered on the web.
+  const files = readdirSync(dir)
+    .filter((f) => f.endsWith('.json') && f !== 'index.json')
+    .sort();
   if (files.length === 0) { console.error('Refusing to publish: no lesson files.'); process.exit(1); }
   const lessons = files.map((f) => {
-    try { return JSON.parse(readFileSync(join(dir, f), 'utf8')); }
+    let j;
+    try { j = JSON.parse(readFileSync(join(dir, f), 'utf8')); }
     catch (e) { console.error(`lessons/${f} is not valid JSON:`, e.message); process.exit(1); }
+    if (!j || !j.slug) { console.error(`lessons/${f} has no slug — refusing to publish.`); process.exit(1); }
+    return j;
   });
   // Deterministic serialization (files already sorted by slug) so the sha is stable.
   const combined = JSON.stringify(lessons, null, 2) + '\n';
