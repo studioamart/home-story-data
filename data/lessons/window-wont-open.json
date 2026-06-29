@@ -1,0 +1,65 @@
+{
+  "slug": "window-wont-open",
+  "system": "interior",
+  "title": "How to Free a Stuck or Painted-Shut Window",
+  "question": "My window is stuck and won't open — how do I free it without breaking it?",
+  "summary": "A double-hung window that won't budge is usually painted shut, swollen from humidity, or gummed up in its tracks. Scoring the paint seam, gently working a putty knife around the sash, and cleaning and lubricating the tracks frees most of them. Plan on 20-60 minutes and $0-15 — and never pry against the glass.",
+  "commonCauses": [
+    {
+      "cause": "Painted shut — paint has bridged the gap between the sash and the frame/stop and glued them together",
+      "likelihood": "most common",
+      "quickCheck": "Look closely at the seam where the moving sash meets the frame and the stops — a continuous skin of paint across that gap (often from a repaint) means it's painted shut."
+    },
+    {
+      "cause": "Wood swollen from humidity or a sash that's binding in the track",
+      "likelihood": "common",
+      "quickCheck": "If it sticks worse in summer or humid weather and there's no paint bridging the seam, the wood has swollen and is binding."
+    },
+    {
+      "cause": "Dirty, paint-clogged, or unlubricated tracks — or, on older windows, a broken sash cord/spring balance",
+      "likelihood": "less common",
+      "quickCheck": "Run a finger in the track for grit and paint buildup. If the sash slams down or won't stay up once freed, a sash cord or balance spring has failed."
+    }
+  ],
+  "fixes": [
+    "Score the paint seam first. Run a utility knife or a purpose-made 'window zipper' along the entire joint between the sash and the frame and stops, on the inside — and on the outside too if you can reach it. Cut through the paint film all the way around before applying any force.",
+    "Break the bond with a putty knife. Tap a wide, stiff putty knife into the seam with light hammer taps, working it around the whole perimeter to separate the sash from the stops. Move it along an inch at a time rather than levering hard in one spot.",
+    "Free it from outside if needed. From outdoors, place a block of scrap wood against the sash bottom and tap upward with a hammer, or work the putty knife into the outside seam. Apply pressure to the sash frame, never to the glass.",
+    "Try to open it gently. With palms flat on the sash rail (not the glass), push up evenly on both sides at once. If one corner grabs, go back and re-score/seperate that spot rather than forcing it.",
+    "Clean and lubricate the tracks. Once it moves, scrape out old paint and grit, vacuum the channel, and rub the tracks with a dry silicone spray, paraffin wax, or a bar of soap. Avoid oily lubricants — they collect dust.",
+    "For a swollen wood sash that still binds after cleaning, lightly sand or plane the binding edge once the wood is dry, then prime and paint the bare edge so it doesn't reabsorb moisture.",
+    "If the sash won't stay open or drops on its own, the sash cord or balance has failed — that's a separate repair (replacing the cord over the pulley, or the spring/spiral balance). Until then, prop it with a sash stick.",
+    "Never pry against the glass, slam the sash, or use excessive force — you'll crack the pane or split the sash. If it won't free with patient scoring and tapping, stop."
+  ],
+  "diyVsPro": "Freeing a painted-shut or lightly swollen window is a patient-but-simple DIY job. Call a window pro or handyman if: the window is a sealed/foggy double-pane unit that needs the glass replaced, the sash cords or spiral balances are broken and you're not comfortable opening the jamb, the frame is rotted or out of square, or it's a tall/upper-story window where working from outside is unsafe. If you suspect old paint (pre-1978 homes), treat the dust as lead-bearing and follow lead-safe practices or hire a certified pro.",
+  "typicalCostUSD": "DIY: $0-15 for a utility knife or window-zipper tool, putty knife, and silicone spray or wax. Pro: roughly $75-200 for a handyman to free and tune a stuck window; sash-balance or cord replacement $100-350; foggy double-pane glass replacement $150-500+ per sash.",
+  "timeEstimate": "20-60 minutes to score, separate, and free a painted-shut window; longer if you sand a swollen sash.",
+  "safetyLevel": "low",
+  "safetyNote": "The main risks are a slipped utility knife and cracked glass. Cut away from yourself, keep hands off the glass, and apply force only to the wooden sash rails. Don't stand on the sill or lean out of an upper-story window — work from a stable position. In homes built before 1978, paint may contain lead; mist the area, avoid dry sanding, and follow lead-safe cleanup or hire an EPA-certified pro.",
+  "toolsParts": [
+    "Utility knife or window-zipper tool",
+    "Wide stiff putty knife",
+    "Hammer (light taps only)",
+    "Scrap wood block (to tap the sash from outside)",
+    "Silicone spray, paraffin wax, or bar soap (track lubricant)",
+    "Vacuum or brush (to clean the tracks)",
+    "Sandpaper or a small plane (only for a swollen sash edge)"
+  ],
+  "searchTerms": [
+    "window won't open",
+    "how to open a painted shut window",
+    "stuck window won't budge",
+    "free a stuck double hung window",
+    "window painted shut",
+    "swollen window won't open"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "EPA Renovate Right / lead-safe practices for pre-1978 homes",
+    "Window manufacturer sash-balance and maintenance guidance"
+  ],
+  "disclaimer": "This guide is general home-maintenance information. Old windows can contain lead paint and fragile glass; when in doubt, or for upper-story windows, consult a qualified professional.",
+  "verified": true,
+  "verifierNote": "Confirmed the score-the-seam-then-separate method as the standard safe approach, kept the never-pry-on-glass rule firm, and added the pre-1978 lead-paint caution as a real safety/legal consideration. Costs reflect current US handyman and double-pane glass ranges.",
+  "kind": "pillar"
+}

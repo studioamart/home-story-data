@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": 2,
+  "version": 3,
   "url": "https://studioamart.github.io/home-story-data/data/lessons.json",
-  "sha256": "26902c39ad291f875228683e3075f4d583b73cd549a7631bc75c48e5d753c929",
-  "lessonCount": 96,
-  "generatedAt": "2026-06-29T03:25:16.145Z"
+  "sha256": "1fdbc6cad29ef2c0dcffa5766fb2b1276c1151bc32d7227ce0a1b4f564d5eadb",
+  "lessonCount": 99,
+  "generatedAt": "2026-06-29T03:39:31.981Z"
 }
