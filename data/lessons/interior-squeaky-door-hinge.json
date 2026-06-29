@@ -1,0 +1,62 @@
+{
+  "slug": "interior-squeaky-door-hinge",
+  "system": "interior",
+  "title": "How to Fix a Squeaky Door Hinge — Quick & Permanent Fixes",
+  "question": "One of my doors squeaks loudly every time it opens. What actually stops a squeaky hinge for good, instead of for a few days?",
+  "summary": "A squeaky hinge is metal rubbing metal because the pin and knuckles have lost their lubrication. A quick spray helps for a while, but the permanent fix is to pull each hinge pin, wipe it, and coat it with a proper lubricant before reseating it. Five minutes, no removing the door. If the squeak comes back fast, the hinge is worn or the door is sagging and binding — different fix.",
+  "commonCauses": [
+    {
+      "cause": "Dry hinge pin — the lubricant between the pin and the hinge knuckles has worn away, so metal grinds on metal.",
+      "likelihood": "most common",
+      "quickCheck": "Open the door slowly. If the squeak tracks exactly with the hinge movement and stops when you hold the door still, it's the hinge, not the latch."
+    },
+    {
+      "cause": "Dust and old gummy lubricant packed in the knuckles, so fresh oil on the surface doesn't last.",
+      "likelihood": "common",
+      "quickCheck": "Pull one pin partway — if it's dirty, gritty, or has dried gunk, surface spraying won't hold; the pin needs wiping clean."
+    },
+    {
+      "cause": "Worn or rusted hinge, or a sagging door that binds. The squeak returns within days of lubricating because the parts are actually worn or misaligned.",
+      "likelihood": "less common",
+      "quickCheck": "Look for rust, play in the hinge, or a door that rubs the frame/threshold. If lube only helps for a day or two, the hinge or alignment is the real issue."
+    }
+  ],
+  "fixes": [
+    "Open the door and tap one hinge pin up from the bottom with a nail or punch and a hammer, then pull it out the top. Do one hinge at a time so the door stays hung.",
+    "Wipe the pin clean of old grease and grit with a rag; if it's rusty, scuff it with fine steel wool or sandpaper.",
+    "Coat the pin with a long-lasting lubricant — white lithium grease, silicone, or even a smear of petroleum jelly. Avoid plain WD-40 as a permanent fix; it's a solvent and dries out fast.",
+    "Drop the pin back in and tap it seated. Swing the door a few times to work the lube into the knuckles.",
+    "Repeat for each hinge. Wipe any drips.",
+    "If the squeak returns within days, check whether the door is sagging or binding: tighten loose hinge screws (or replace a stripped screw with a longer one into the framing). A worn hinge should be replaced as a pair-matched set.",
+    "Test by opening and closing slowly — it should be silent and swing freely."
+  ],
+  "diyVsPro": "Fully DIY — this is one of the simplest home fixes and needs no special skill. The only time to escalate is if the door is badly sagging, the frame is out of square, or the door drags and won't latch even after tightening screws; that's an alignment or framing issue a carpenter can sort out. Replacing a hinge is still DIY for most people.",
+  "typicalCostUSD": "$0-$10 (a tube of white lithium grease or silicone you'll reuse for years). A replacement hinge is $4-$15 each if needed.",
+  "timeEstimate": "5-10 minutes per door.",
+  "safetyLevel": "none",
+  "safetyNote": "Very low risk. Do one hinge pin at a time so the door doesn't fall, support a heavy door with a shim or helper, and keep fingers clear of the hinge gap when swinging the door to test.",
+  "toolsParts": [
+    "Hammer and a nail, punch, or screwdriver (to drive the pin out)",
+    "White lithium grease, silicone lubricant, or petroleum jelly",
+    "Rag",
+    "Fine steel wool or sandpaper (for a rusty pin)",
+    "Screwdriver (to tighten or replace hinge screws)"
+  ],
+  "searchTerms": [
+    "how to fix a squeaky door hinge",
+    "stop door from squeaking",
+    "squeaky door hinge permanent fix",
+    "best lubricant for door hinges",
+    "door squeaks when opening",
+    "wd40 door hinge squeak comes back",
+    "remove hinge pin to lubricate door"
+  ],
+  "sources": [
+    "Lubricant manufacturer guidance (white lithium vs. silicone vs. penetrating oil) on appropriate uses",
+    "General carpentry guidance on hinge-pin lubrication and door-sag/screw fixes"
+  ],
+  "disclaimer": "General guidance only. If a door is badly sagging or the frame is out of square, consult a carpenter rather than relying on lubrication.",
+  "verified": false,
+  "verifierNote": "Drafted from standard carpentry/lubricant practice (pull-and-grease the pin; lithium/silicone over WD-40 for longevity). Pending human source verification.",
+  "kind": "spoke"
+}

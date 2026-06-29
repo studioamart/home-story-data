@@ -1,0 +1,69 @@
+{
+  "slug": "electrical-ceiling-fan-wobble",
+  "system": "electrical",
+  "title": "Why Your Ceiling Fan Wobbles — Causes & How to Fix It",
+  "question": "My ceiling fan wobbles and shakes when it runs, especially on high. Is it dangerous, and how do I stop the wobble without replacing the whole fan?",
+  "summary": "A wobbling ceiling fan is almost never an unbalanced motor — it's usually loose mounting hardware, blades that are slightly out of plane, or dust built up unevenly on the blades. Tighten everything first, clean the blades, then balance the set with a clip-on weight. A wobble is rarely dangerous on its own, but a fan mounted to a regular electrical box instead of a fan-rated box is — that's the one thing to check before anything else.",
+  "commonCauses": [
+    {
+      "cause": "Loose mounting screws — at the ceiling bracket, the downrod, or where the blades bolt to the motor or to their brackets. Vibration slowly backs these out over months, and the wobble grows.",
+      "likelihood": "most common",
+      "quickCheck": "With the fan OFF, gently try to wiggle the fan body at the ceiling, then each blade at its bracket. Any play means a loose screw."
+    },
+    {
+      "cause": "Blades out of plane or out of balance — one or more blades sit a few millimeters higher or lower than the others, or warped from humidity, so the set is no longer a flat disc.",
+      "likelihood": "common",
+      "quickCheck": "Hold a yardstick vertically from the ceiling to the leading edge of one blade, mark the distance, then rotate each blade by hand to the same spot and compare. A gap of more than ~1/8 inch between blades points to the wobble source."
+    },
+    {
+      "cause": "Uneven dust buildup on the blades. Dust collects more on some blades than others and acts like an unbalanced weight, especially noticeable on high speed.",
+      "likelihood": "common",
+      "quickCheck": "Look across the top of the blades in raking light. Visibly heavier dust on some blades than others is your culprit — and the easiest fix."
+    },
+    {
+      "cause": "Mounted to a standard electrical box, not a fan-rated box. This does not cause the wobble but makes it dangerous — regular boxes are not built for the dynamic load of a spinning fan and can pull loose.",
+      "likelihood": "safety check",
+      "quickCheck": "Fan-rated boxes are stamped 'Acceptable for fan support' or 'For ceiling fans.' If you can't confirm it's fan-rated, treat the mount as suspect until verified."
+    }
+  ],
+  "fixes": [
+    "Turn the fan off and let it stop completely. For any work above tightening exposed blade screws, also shut the circuit off at the breaker.",
+    "Clean every blade, top and bottom, with a damp cloth so dust isn't throwing off the balance. Let them dry.",
+    "Tighten all visible screws: the blade-to-bracket screws, the bracket-to-motor screws, the downrod set screws, and the screws at the ceiling mounting bracket. Snug, not stripped.",
+    "Check that the canopy at the ceiling is seated and its mounting screws are tight into a fan-rated box. If the whole fan rocks at the ceiling, stop and confirm the box is fan-rated before running it again.",
+    "Measure blade plane with a yardstick from the ceiling to each blade tip at the same clock position. If one blade is off, gently bend its metal bracket (not the blade) to bring it level, or swap a warped blade.",
+    "Still wobbling? Use a balancing kit: clip the provided clip weight to the middle of one blade, run the fan, and move it blade to blade until the wobble is least. Then stick an adhesive weight on top of that blade near the clip's best spot.",
+    "Run it on high for a few minutes to confirm the wobble is gone."
+  ],
+  "diyVsPro": "DIY for cleaning, tightening, and balancing — these need no electrical work and fix the large majority of wobbles. Call a licensed electrician if the fan is mounted to a non-fan-rated box (it needs a proper fan brace and box), if the fan drops or sags at the ceiling, if you smell burning or the motor hums and runs hot, or if the wobble is paired with flickering lights — that points to a wiring or motor fault, not balance.",
+  "typicalCostUSD": "$0-$15 DIY (a balancing kit is about $6; cleaning and tightening are free). Replacing a non-fan-rated box with a fan brace runs $50-$200 if a pro does it; a new fan is $80-$400 installed.",
+  "timeEstimate": "20-45 minutes for cleaning, tightening, and balancing.",
+  "safetyLevel": "caution",
+  "safetyNote": "A wobble itself rarely makes a fan fall, but a fan on the wrong box can. Before running a fan that rocks at the ceiling, confirm it's on a fan-rated box and brace. Shut the circuit off at the breaker for anything beyond tightening exposed blade screws, and never work on a moving fan. If the fan sags, sparks, smells of burning, or the lights flicker with it, stop and get an electrician.",
+  "toolsParts": [
+    "Screwdriver set (Phillips and flat)",
+    "Ceiling-fan balancing kit (clip and stick-on weights)",
+    "Yardstick or tape measure",
+    "Damp microfiber cloths",
+    "Step ladder",
+    "Non-contact voltage tester (if opening the canopy)"
+  ],
+  "searchTerms": [
+    "why does my ceiling fan wobble",
+    "how to fix a wobbling ceiling fan",
+    "ceiling fan shakes on high speed",
+    "balance a ceiling fan",
+    "ceiling fan wobble dangerous",
+    "ceiling fan balancing kit how to use",
+    "ceiling fan wobbles after cleaning"
+  ],
+  "sources": [
+    "U.S. Consumer Product Safety Commission guidance on ceiling fan installation and fan-rated outlet boxes",
+    "National Electrical Code (NEC) requirement that ceiling fans be supported by listed fan-rated boxes/braces",
+    "Major fan manufacturer (Hunter, Hampton Bay) balancing and installation instructions"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for a licensed electrician. If your fan is improperly mounted, sags, or shows electrical symptoms, stop and consult a professional.",
+  "verified": false,
+  "verifierNote": "Drafted from standard manufacturer and NEC/CPSC practice (fan-rated box requirement, balance-kit method). Pending human source verification before marking verified.",
+  "kind": "spoke"
+}

@@ -1096,69 +1096,6 @@
     "kind": "pillar"
   },
   {
-    "slug": "ceiling-fan-wobble",
-    "system": "electrical",
-    "title": "How to Fix a Wobbling or Noisy Ceiling Fan",
-    "question": "My ceiling fan wobbles and makes noise — how do I stop it?",
-    "summary": "Most ceiling-fan wobble comes from loose screws, dust buildup, or slightly unbalanced blades — not a dangerous defect. Tightening the mounting and blade screws, cleaning the blades, and using a clip-on balance kit fixes the large majority. Plan on 20-45 minutes and $0-15.",
-    "commonCauses": [
-      {
-        "cause": "Loose mounting or blade screws — the most common cause; normal running vibration slowly backs screws out over months",
-        "likelihood": "most common",
-        "quickCheck": "With the fan OFF, gently try to wiggle each blade where it meets the motor, and the round canopy at the ceiling — any play means screws need tightening."
-      },
-      {
-        "cause": "Dust buildup or a slightly bent/sagging blade — uneven weight throws the spin off balance",
-        "likelihood": "common",
-        "quickCheck": "Hold a yardstick straight up from the floor to one blade tip, spin the blades by hand, and measure each tip to the same point — if they differ by more than about 1/8 inch, a blade is bent or sagging."
-      },
-      {
-        "cause": "Fan hung from a standard light box instead of a fan-rated box, or a worn motor bearing (a grinding or growing hum)",
-        "likelihood": "less common",
-        "quickCheck": "A ceiling fan must hang from a UL-listed fan-rated box, not a normal light box. A grinding noise or a hum that tightening doesn't fix points to the motor bearing, not balance."
-      }
-    ],
-    "fixes": [
-      "Turn the fan off and let it stop completely. For anything beyond surface cleaning, also turn off the wall switch; if you'll open the canopy to reach the mounting bracket or wiring, turn off the breaker too and confirm power is off with a non-contact voltage tester.",
-      "Tighten the blade screws. Each blade attaches to a metal bracket (blade iron) with two or three screws, and the bracket attaches to the motor with more screws. Snug every one with a screwdriver — these are the single most common cause of wobble.",
-      "Tighten the mounting at the ceiling. Slide the decorative canopy down to expose the mounting bracket and check that the bracket screws into the box and the downrod set-screws are tight. A loose bracket lets the whole fan rock.",
-      "Clean the blades. Wipe both sides of every blade with a slightly damp cloth — caked dust adds uneven weight. Don't press hard enough to bend a blade.",
-      "Check for a warped or unequal blade using the yardstick measurement above. If one blade hangs lower, gently bend its bracket to match, or swap a visibly warped blade.",
-      "Balance with a clip-on kit ($5-10) if wobble remains. Clip the provided weight to the middle of one blade, run the fan, and move the clip blade-to-blade until you find the worst one; then stick the adhesive weight on that blade where the clip reduced wobble most.",
-      "If the box itself moves or isn't fan-rated, stop — replacing a light box with a fan-rated brace box means working in the ceiling and is best done by an electrician. A grinding motor bearing usually means replacing the fan."
-    ],
-    "diyVsPro": "Tightening, cleaning, and balancing are squarely DIY. Call a licensed electrician if the fan is mounted to a standard (non-fan-rated) electrical box, if the box or bracket moves in the ceiling, if you find scorched or melted wiring at the canopy, or if there's aluminum wiring. A persistent grinding motor or a hum that balancing can't cure usually means the fan is worn out and should be replaced rather than repaired.",
-    "typicalCostUSD": "DIY: $0 to tighten/clean, $5-10 for a clip-on balance kit, ~$15-25 if you also buy a non-contact voltage tester. Pro: roughly $100-200 to replace a non-fan-rated box or rehang a fan, including a typical service minimum; a replacement fan runs $60-300 plus install.",
-    "timeEstimate": "20-45 minutes for tightening, cleaning, and balancing.",
-    "safetyLevel": "caution",
-    "safetyNote": "A spinning fan and ladder work are the real hazards here. Turn the fan fully off before touching the blades, and use a stable ladder — don't overreach. If you open the canopy to reach the bracket or wiring, this becomes 120V electrical work: turn off the breaker and confirm power is off with a non-contact voltage tester (verified first on a known-live outlet) before touching any wire. A fan hung from a box that isn't fan-rated can eventually fall — treat that as a stop-and-call-a-pro finding, not a DIY tighten.",
-    "toolsParts": [
-      "Phillips and flathead screwdrivers",
-      "Stable step ladder",
-      "Clip-on ceiling-fan balance kit ($5-10)",
-      "Soft cloth (slightly damp) for the blades",
-      "Yardstick or tape measure (to check blade height)",
-      "Non-contact voltage tester (only if opening the canopy/wiring)"
-    ],
-    "searchTerms": [
-      "ceiling fan wobbles",
-      "how to fix a wobbly ceiling fan",
-      "ceiling fan shakes when on",
-      "ceiling fan noisy",
-      "balance a ceiling fan",
-      "ceiling fan wobble dangerous"
-    ],
-    "sources": [
-      "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
-      "Ceiling-fan manufacturer installation and balancing instructions (e.g. Hunter, Hampton Bay)",
-      "UL listing norms for fan-rated electrical boxes"
-    ],
-    "disclaimer": "This guide is general home-maintenance information, not professional electrical advice. If the fan is improperly mounted or you find damaged wiring, stop and consult a licensed electrician.",
-    "verified": true,
-    "verifierNote": "Confirmed that loose hardware is the dominant cause, that a fan-rated box is a code/safety requirement (non-fan-rated box = stop-and-call-a-pro, not a DIY tighten), and that balance-kit and replacement costs reflect current US ranges. Kept ladder + power-off-and-verify as firm safety gates.",
-    "kind": "pillar"
-  },
-  {
     "slug": "electrical-breaker-tripping",
     "system": "electrical",
     "title": "Why Your Circuit Breaker Keeps Tripping — Causes & Fixes",
@@ -1237,6 +1174,75 @@
     "verified": true,
     "verifierNote": "Confirmed the core diagnostics and the critical \"never upsize the breaker / never open a live panel\" warnings are accurate; corrected the GFCI/AFCI cause to distinguish ground fault (GFCI) from arc fault (AFCI) and noted nuisance AFCI trips, softened the overconfident \"browning means call now\"/old-panel claims, added arc-flash to the safety note, and nudged costs to realistic 2026 US ranges (service call ~$100–$250, dedicated circuit up to $1,000+).",
     "kind": "pillar"
+  },
+  {
+    "slug": "electrical-ceiling-fan-wobble",
+    "system": "electrical",
+    "title": "Why Your Ceiling Fan Wobbles — Causes & How to Fix It",
+    "question": "My ceiling fan wobbles and shakes when it runs, especially on high. Is it dangerous, and how do I stop the wobble without replacing the whole fan?",
+    "summary": "A wobbling ceiling fan is almost never an unbalanced motor — it's usually loose mounting hardware, blades that are slightly out of plane, or dust built up unevenly on the blades. Tighten everything first, clean the blades, then balance the set with a clip-on weight. A wobble is rarely dangerous on its own, but a fan mounted to a regular electrical box instead of a fan-rated box is — that's the one thing to check before anything else.",
+    "commonCauses": [
+      {
+        "cause": "Loose mounting screws — at the ceiling bracket, the downrod, or where the blades bolt to the motor or to their brackets. Vibration slowly backs these out over months, and the wobble grows.",
+        "likelihood": "most common",
+        "quickCheck": "With the fan OFF, gently try to wiggle the fan body at the ceiling, then each blade at its bracket. Any play means a loose screw."
+      },
+      {
+        "cause": "Blades out of plane or out of balance — one or more blades sit a few millimeters higher or lower than the others, or warped from humidity, so the set is no longer a flat disc.",
+        "likelihood": "common",
+        "quickCheck": "Hold a yardstick vertically from the ceiling to the leading edge of one blade, mark the distance, then rotate each blade by hand to the same spot and compare. A gap of more than ~1/8 inch between blades points to the wobble source."
+      },
+      {
+        "cause": "Uneven dust buildup on the blades. Dust collects more on some blades than others and acts like an unbalanced weight, especially noticeable on high speed.",
+        "likelihood": "common",
+        "quickCheck": "Look across the top of the blades in raking light. Visibly heavier dust on some blades than others is your culprit — and the easiest fix."
+      },
+      {
+        "cause": "Mounted to a standard electrical box, not a fan-rated box. This does not cause the wobble but makes it dangerous — regular boxes are not built for the dynamic load of a spinning fan and can pull loose.",
+        "likelihood": "safety check",
+        "quickCheck": "Fan-rated boxes are stamped 'Acceptable for fan support' or 'For ceiling fans.' If you can't confirm it's fan-rated, treat the mount as suspect until verified."
+      }
+    ],
+    "fixes": [
+      "Turn the fan off and let it stop completely. For any work above tightening exposed blade screws, also shut the circuit off at the breaker.",
+      "Clean every blade, top and bottom, with a damp cloth so dust isn't throwing off the balance. Let them dry.",
+      "Tighten all visible screws: the blade-to-bracket screws, the bracket-to-motor screws, the downrod set screws, and the screws at the ceiling mounting bracket. Snug, not stripped.",
+      "Check that the canopy at the ceiling is seated and its mounting screws are tight into a fan-rated box. If the whole fan rocks at the ceiling, stop and confirm the box is fan-rated before running it again.",
+      "Measure blade plane with a yardstick from the ceiling to each blade tip at the same clock position. If one blade is off, gently bend its metal bracket (not the blade) to bring it level, or swap a warped blade.",
+      "Still wobbling? Use a balancing kit: clip the provided clip weight to the middle of one blade, run the fan, and move it blade to blade until the wobble is least. Then stick an adhesive weight on top of that blade near the clip's best spot.",
+      "Run it on high for a few minutes to confirm the wobble is gone."
+    ],
+    "diyVsPro": "DIY for cleaning, tightening, and balancing — these need no electrical work and fix the large majority of wobbles. Call a licensed electrician if the fan is mounted to a non-fan-rated box (it needs a proper fan brace and box), if the fan drops or sags at the ceiling, if you smell burning or the motor hums and runs hot, or if the wobble is paired with flickering lights — that points to a wiring or motor fault, not balance.",
+    "typicalCostUSD": "$0-$15 DIY (a balancing kit is about $6; cleaning and tightening are free). Replacing a non-fan-rated box with a fan brace runs $50-$200 if a pro does it; a new fan is $80-$400 installed.",
+    "timeEstimate": "20-45 minutes for cleaning, tightening, and balancing.",
+    "safetyLevel": "caution",
+    "safetyNote": "A wobble itself rarely makes a fan fall, but a fan on the wrong box can. Before running a fan that rocks at the ceiling, confirm it's on a fan-rated box and brace. Shut the circuit off at the breaker for anything beyond tightening exposed blade screws, and never work on a moving fan. If the fan sags, sparks, smells of burning, or the lights flicker with it, stop and get an electrician.",
+    "toolsParts": [
+      "Screwdriver set (Phillips and flat)",
+      "Ceiling-fan balancing kit (clip and stick-on weights)",
+      "Yardstick or tape measure",
+      "Damp microfiber cloths",
+      "Step ladder",
+      "Non-contact voltage tester (if opening the canopy)"
+    ],
+    "searchTerms": [
+      "why does my ceiling fan wobble",
+      "how to fix a wobbling ceiling fan",
+      "ceiling fan shakes on high speed",
+      "balance a ceiling fan",
+      "ceiling fan wobble dangerous",
+      "ceiling fan balancing kit how to use",
+      "ceiling fan wobbles after cleaning"
+    ],
+    "sources": [
+      "U.S. Consumer Product Safety Commission guidance on ceiling fan installation and fan-rated outlet boxes",
+      "National Electrical Code (NEC) requirement that ceiling fans be supported by listed fan-rated boxes/braces",
+      "Major fan manufacturer (Hunter, Hampton Bay) balancing and installation instructions"
+    ],
+    "disclaimer": "General home-maintenance guidance, not a substitute for a licensed electrician. If your fan is improperly mounted, sags, or shows electrical symptoms, stop and consult a professional.",
+    "verified": false,
+    "verifierNote": "Drafted from standard manufacturer and NEC/CPSC practice (fan-rated box requirement, balance-kit method). Pending human source verification before marking verified.",
+    "kind": "spoke"
   },
   {
     "slug": "electrical-dead-outlet",
@@ -2357,6 +2363,74 @@
     "kind": "pillar"
   },
   {
+    "slug": "exterior-garage-door-wont-close",
+    "system": "exterior",
+    "title": "Garage Door Won't Close All the Way — Causes & Fixes",
+    "question": "My garage door starts to close then reverses and goes back up, or won't close from the opener at all. What's wrong and what can I safely fix myself?",
+    "summary": "When a garage door reverses instead of closing, the opener's safety system is doing its job — and the cause is almost always the photo-eye sensors near the floor being misaligned, dirty, or blocked. Realign and clean them first; that fixes most cases. If the door binds, drags, or slams down, the problem is the rollers/track or the springs — and springs are the one part you should never touch yourself.",
+    "commonCauses": [
+      {
+        "cause": "Photo-eye safety sensors are misaligned, dirty, or blocked. The two small sensors near the bottom of each track must 'see' each other; if the beam is broken or off-axis, the opener refuses to close and reverses.",
+        "likelihood": "most common",
+        "quickCheck": "Look at the sensor LEDs. Most setups show a steady light on both when aligned; a blinking or off LED means misaligned or blocked. Check for a broom, cobweb, or sun glare in the beam path."
+      },
+      {
+        "cause": "Close-limit / travel setting is off. The opener thinks the door has reached the floor before it actually does (or overshoots), so it stops short or reverses. Common after a power loss or opener replacement.",
+        "likelihood": "common",
+        "quickCheck": "Watch where the door stops. If it consistently stops a few inches short or hits the floor then bounces back up, the limit screw or travel setting needs adjustment (see the opener's manual)."
+      },
+      {
+        "cause": "Rollers, hinges, or track are dry, bent, or obstructed, so the door binds and the opener senses resistance and reverses.",
+        "likelihood": "common",
+        "quickCheck": "Pull the red release cord to disconnect the opener and lift the door by hand. It should glide and stay put halfway. If it's heavy, sticks, or jerks, the track/rollers (or springs) need attention."
+      },
+      {
+        "cause": "Broken or weak torsion/extension spring. The door feels very heavy by hand, slams down, or won't stay halfway. The opener can't overcome the imbalance.",
+        "likelihood": "less common but serious",
+        "quickCheck": "Disconnected from the opener, a balanced door is light and holds halfway. If it crashes down or you see a visible gap in the coiled spring above the door, the spring is the problem — do not operate it and do not DIY."
+      }
+    ],
+    "fixes": [
+      "Start with the photo eyes. Wipe both lenses with a soft dry cloth and clear anything in the beam path. Make sure neither was bumped out of position.",
+      "Realign the eyes: loosen the wing nut/bracket, aim the sensors straight at each other, and adjust until both LEDs are steady. Tighten the brackets without nudging them.",
+      "Test close. If it now closes, you're done. If it still reverses with clean, aligned eyes, move on.",
+      "Pull the red emergency-release cord and lift the door by hand to feel for binding. If it glides freely and holds halfway, the issue is the opener's travel/limit setting — adjust per the opener manual's close-limit instructions in small increments.",
+      "If the door binds or drags by hand, inspect the track for dents and the rollers/hinges for damage; lubricate rollers, hinges, and springs with a garage-door lube (not WD-40). Re-test.",
+      "If the door is heavy, slams down, won't stay halfway, or you see a broken spring or frayed cable — stop. Leave the opener disconnected and call a garage-door technician.",
+      "Re-engage the opener by pulling the release cord back toward the door and running the opener once."
+    ],
+    "diyVsPro": "DIY for the safe 90%: cleaning and aligning the photo eyes, clearing obstructions, lubricating rollers and hinges, and adjusting the opener's travel limits per the manual. Call a professional immediately for anything involving the springs or lift cables — torsion and extension springs store enormous energy and cause severe injuries when handled without the right tools and training. Also call a pro for bent tracks, a door off its track, or an opener that grinds or won't respond at all.",
+    "typicalCostUSD": "$0 to realign sensors or adjust limits; $10-$20 for garage-door lubricant. Professional spring replacement runs $150-$350; roller or cable replacement $100-$250; a new opener installed $300-$600.",
+    "timeEstimate": "10-30 minutes for sensor alignment, cleaning, and lubrication.",
+    "safetyLevel": "call-a-pro",
+    "safetyNote": "Never adjust, loosen, or replace garage-door springs or cables yourself — they are under extreme tension and are a leading cause of serious home-repair injuries. The photo-eye and lubrication steps here are safe DIY; spring, cable, and off-track work are for a trained technician only. Always disconnect the opener before lifting the door by hand, and keep hands clear of section joints and the spring assembly.",
+    "toolsParts": [
+      "Soft cloth (for the photo-eye lenses)",
+      "Garage-door lubricant (silicone or lithium spray, not WD-40)",
+      "Step ladder",
+      "Phillips/flat screwdriver and a small wrench (for sensor brackets)",
+      "The opener's owner manual (for travel/limit settings)"
+    ],
+    "searchTerms": [
+      "garage door won't close all the way",
+      "garage door closes then opens back up",
+      "garage door reverses before hitting the floor",
+      "garage door sensor blinking won't close",
+      "how to align garage door safety sensors",
+      "garage door won't close from remote",
+      "garage door closes then bounces back up"
+    ],
+    "sources": [
+      "U.S. Consumer Product Safety Commission guidance on automatic garage-door opener safety and photo-eye reversing systems",
+      "Major opener manufacturer (Chamberlain/LiftMaster, Genie) troubleshooting and travel-limit instructions",
+      "International Door Association safety guidance on garage-door spring and cable hazards"
+    ],
+    "disclaimer": "General guidance only. Garage-door springs and cables are dangerous and are not a DIY repair; consult a qualified garage-door technician for anything beyond sensor, lubrication, and opener-setting adjustments.",
+    "verified": false,
+    "verifierNote": "Drafted from CPSC/opener-manufacturer practice; spring/cable work explicitly routed to a pro. Pending human source verification.",
+    "kind": "spoke"
+  },
+  {
     "slug": "exterior-gutter-cleaning",
     "system": "exterior",
     "title": "How Often to Clean Your Gutters — A Practical Schedule",
@@ -2612,69 +2686,6 @@
     "kind": "pillar"
   },
   {
-    "slug": "garage-door-wont-open",
-    "system": "exterior",
-    "title": "How to Fix a Garage Door That Won't Open or Close",
-    "question": "My garage door won't open or close — what should I check first?",
-    "summary": "Start simple: check power and the GFCI outlet, the remote and keypad batteries, and — for a door that won't close — the two photo-eye sensors near the floor, since a blocked or misaligned sensor is the most common cause. Sensor, battery, and lock issues are easy DIY. A broken spring or cable, or a door off its track, is a pro job — those parts are under extreme tension. Plan on 10-40 minutes for the safe checks.",
-    "commonCauses": [
-      {
-        "cause": "Photo-eye safety sensors blocked, dirty, or misaligned — the door reverses or won't close and the opener light often blinks",
-        "likelihood": "most common",
-        "quickCheck": "Look at the two small sensors about 6 inches off the floor on each side of the door. Clear anything in the beam and check the indicator LEDs — one steady, one usually blinking when misaligned. The opener light flashing a set number of times is the classic sensor signal."
-      },
-      {
-        "cause": "Power or remote problem — opener unplugged, GFCI tripped, dead remote/keypad battery, or the wall lock-out button engaged",
-        "likelihood": "common",
-        "quickCheck": "Does the hardwired wall button work but the remote doesn't? Replace the remote battery. Does nothing work? Check that the opener is plugged in and the outlet has power (reset the GFCI). Check for a 'lock' button on the wall console that's been held/engaged."
-      },
-      {
-        "cause": "Broken torsion spring or lift cable, or the door off its track — the door is very heavy by hand, crooked, or you see a gap in the coiled spring above the door",
-        "likelihood": "less common",
-        "quickCheck": "With the opener disconnected (pull the red release), try lifting the door by hand — a properly balanced door lifts easily and stays put halfway. If it's extremely heavy, slams down, looks crooked, or the spring above the door has a visible gap, STOP — this is a high-tension repair for a pro."
-      }
-    ],
-    "fixes": [
-      "Check power. Confirm the opener is plugged in and the ceiling outlet has power — reset the GFCI outlet or breaker if it's tripped. Many 'totally dead' openers are just an unplugged unit or a tripped GFCI.",
-      "Rule out the remote vs. the wall button. If the wall-mounted button opens the door but the remote/keypad doesn't, replace the remote and keypad batteries; re-program the remote if a battery swap doesn't fix it. If even the wall button does nothing, it's power or the opener itself, not the remote.",
-      "Check the wall console lock-out. Many wall consoles have a 'lock' or vacation button that disables the remotes — make sure it isn't engaged.",
-      "For a door that won't CLOSE, fix the photo-eyes. Wipe both sensor lenses, clear the beam path, and gently bend/adjust the brackets until both LEDs glow steady (not blinking). Sensors slightly knocked out of alignment are the #1 won't-close cause. Loose or pinched sensor wiring can do it too.",
-      "Check the manual lock and the track. Make sure a manual slide-lock on the door isn't thrown. Look for an obvious obstruction, a roller jumped out of the track, or a bent track section.",
-      "Test the balance safely. Pull the red emergency-release cord to disconnect the door from the opener, then lift the door by hand. It should glide and stay open about halfway. If it's heavy or won't stay, the spring is failing — reconnect, leave it down, and call a pro.",
-      "Re-engage the opener. After manual checks, pull the release cord back or run the opener to re-latch the trolley, and test a full open/close cycle while watching that it reverses on the sensors and doesn't bind.",
-      "Do NOT attempt to adjust, loosen, or replace the torsion spring or lift cables. They store enormous energy and can cause severe injury — this is a pro repair, always."
-    ],
-    "diyVsPro": "Power, GFCI, remote/keypad batteries, lock-out buttons, photo-eye cleaning/alignment, and clearing an obstruction are safe DIY. Call a garage-door pro for: a broken or gapped torsion spring, frayed or snapped lift cables, a door off its track or visibly crooked, a bent track, or any door that's extremely heavy to lift by hand. Spring and cable work is the leading cause of serious garage-door injuries and requires special winding bars and training — never DIY it.",
-    "typicalCostUSD": "DIY: $5-15 for remote/keypad batteries; $0 for sensor alignment, GFCI reset, and lock-out fixes. Pro: torsion-spring replacement roughly $150-350 (often done in pairs), cable replacement $100-200, off-track or roller repair $125-250, a new opener installed $300-600+.",
-    "timeEstimate": "10-40 minutes for the DIY checks (power, remote, sensors, lock, balance test).",
-    "safetyLevel": "caution",
-    "safetyNote": "The garage door is the heaviest moving object in most homes, and its torsion spring and cables are under extreme tension. The DIY checks here — power, batteries, sensor alignment, lock-out, and a hands-off balance test using the red release cord — are safe. But NEVER loosen, adjust, or replace the torsion spring, the cables, or the bottom-bracket bolts: a released spring can break bones or worse. If the door is heavy, crooked, off-track, or the spring shows a gap, leave it closed and call a professional.",
-    "toolsParts": [
-      "Fresh remote/keypad batteries",
-      "Step stool (to reach the opener and sensors)",
-      "Soft cloth (to clean the photo-eye lenses)",
-      "Screwdriver (for minor sensor-bracket adjustment)",
-      "Flashlight (to inspect the spring, cables, and track)"
-    ],
-    "searchTerms": [
-      "garage door won't open",
-      "garage door won't close",
-      "garage door sensor not working",
-      "garage door opener not working",
-      "garage door reverses before closing",
-      "garage door blinking light"
-    ],
-    "sources": [
-      "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
-      "Garage-door opener manufacturer troubleshooting guides (e.g. Chamberlain/LiftMaster, Genie)",
-      "Door & Access Systems Manufacturers Association (DASMA) safety guidance on springs and cables"
-    ],
-    "disclaimer": "This guide is general home-maintenance information, not professional garage-door advice. Garage-door springs and cables are under high tension and can cause serious injury; when in doubt, hire a qualified garage-door technician.",
-    "verified": true,
-    "verifierNote": "Confirmed photo-eye misalignment as the dominant won't-close cause and the power/remote/lock-out checks as the won't-open basics. Kept torsion-spring and cable work firmly off-limits for DIY (leading injury source) and aligned cost ranges to current US pro pricing.",
-    "kind": "pillar"
-  },
-  {
     "slug": "hvac-ac-freezing",
     "system": "hvac",
     "title": "Why Your AC Is Freezing Up (Ice on the Unit) — Causes & Fixes",
@@ -2754,6 +2765,75 @@
     "verified": true,
     "verifierNote": "Corrected low-ambient threshold from ~62°F to the established ~60°F (added compressor-lubricant context); confirmed condenser rinse direction (inside-out, gentle hose, no pressure washer); strengthened 240V/disconnect warning and panel-removal hazard; nudged pro cost ranges up to 2026-realistic (service call $90-200, TXV $350-800); verified the fix sequence and that no under-warned gas/electrical/roof tasks exist.",
     "kind": "pillar"
+  },
+  {
+    "slug": "hvac-ac-leaking-water-inside",
+    "system": "hvac",
+    "title": "Air Conditioner Leaking Water Inside — Causes & Fixes",
+    "question": "Water is dripping from my indoor AC unit or pooling around the furnace/air handler. Why is my air conditioner leaking water inside, and how do I stop it?",
+    "summary": "An AC leaking water indoors is almost always a clogged condensate drain line — algae and slime plug the pipe that carries away the water the unit pulls from the air, so it backs up and overflows the drain pan. Clearing the line fixes most cases. Other causes are a frozen evaporator coil that's now melting, a rusted-through drain pan, or a clogged air filter starving the coil. The drain-line clog is both the most common and the most DIY-friendly.",
+    "commonCauses": [
+      {
+        "cause": "Clogged condensate drain line. Algae and biofilm grow in the warm, damp PVC drain line and plug it; the condensate then backs up and overflows the pan.",
+        "likelihood": "most common",
+        "quickCheck": "Find the drain line (a PVC pipe leaving the indoor unit) and the drain pan. Standing water in the pan with little or no flow at the outdoor drain end means the line is clogged."
+      },
+      {
+        "cause": "Frozen evaporator coil now thawing. A coil that iced over (from low airflow or low refrigerant) dumps a flood of water when it melts, overwhelming the pan and drain.",
+        "likelihood": "common",
+        "quickCheck": "Check for ice or frost on the coil or the refrigerant lines, or a recent period where the AC blew warm. If you see ice, the leak is melt-off, not just a clog."
+      },
+      {
+        "cause": "Clogged or filthy air filter. Restricted airflow lets the coil get too cold and freeze, which then melts and leaks — and reduces efficiency.",
+        "likelihood": "common",
+        "quickCheck": "Pull the filter. If light barely passes through it, it's overdue — a dirty filter is a frequent root cause of the freeze-then-leak cycle."
+      },
+      {
+        "cause": "Rusted or cracked drain pan, or a disconnected/misaligned pan on older units.",
+        "likelihood": "less common",
+        "quickCheck": "Inspect the pan for rust holes, cracks, or water dripping straight through rather than backing up. A holed pan leaks even when the line is clear."
+      }
+    ],
+    "fixes": [
+      "Turn the AC off at the thermostat (and the breaker for the air handler) to stop adding water while you work.",
+      "Replace a dirty air filter — this alone prevents many freeze-and-leak cycles. If the coil is iced, leave the system off (fan-only can help) until it fully thaws before running cooling again.",
+      "Clear standing water from the drain pan with a wet/dry vacuum or rags.",
+      "Clear the condensate line: locate the access tee or the open end, and use a wet/dry vacuum at the outdoor drain end to suck out the clog, or flush the line. Some units have a cleanout cap you can open.",
+      "Prevent regrowth: pour a cup of distilled white vinegar (or a condensate-line treatment) into the access port every 1-2 months in cooling season to keep algae down.",
+      "Confirm the fix: run the AC and watch that water now flows steadily from the outdoor drain end and the pan stays dry.",
+      "If the pan is rusted or cracked, or the coil keeps freezing after a clean filter and clear line, call an HVAC tech — a freezing coil can mean low refrigerant or an airflow problem that needs service."
+    ],
+    "diyVsPro": "DIY for changing the filter, clearing the condensate line, vacuuming the pan, and adding a vinegar treatment — these solve the large majority of indoor AC leaks. Call an HVAC professional if the coil keeps freezing after a clean filter and clear drain (possible low refrigerant or blower problem), if the drain pan is rusted/cracked and needs replacement, if you smell electrical burning, or if there's water near the furnace's electrical components. Refrigerant work is licensed-only.",
+    "typicalCostUSD": "$5-$25 DIY (filter, vinegar, optional drain-line brush). A wet/dry vac if you don't own one is $50-$120. Professional drain-line clearing or pan replacement runs $75-$250; refrigerant/coil service $150-$600+.",
+    "timeEstimate": "20-40 minutes to change the filter, vacuum the pan, and clear the drain line.",
+    "safetyLevel": "caution",
+    "safetyNote": "Shut the system off at the thermostat and the air-handler breaker before working near it, and confirm power is off before touching electrical components. Standing water near a furnace or air handler is an electrical hazard — keep it clear and don't reach into energized equipment. Do not add refrigerant or open the sealed system yourself; that requires a licensed technician. Mold in chronic leaks should be handled per safe cleanup guidance.",
+    "toolsParts": [
+      "Replacement air filter (correct size)",
+      "Wet/dry vacuum",
+      "Distilled white vinegar or condensate-line treatment tablets",
+      "Rags or towels",
+      "Screwdriver (for the access panel)",
+      "Stiff thin brush or drain-line cleaning tool (optional)"
+    ],
+    "searchTerms": [
+      "air conditioner leaking water inside",
+      "ac dripping water from indoor unit",
+      "clogged ac condensate drain line",
+      "how to unclog ac drain line",
+      "water around furnace when ac runs",
+      "ac drain pan overflowing",
+      "evaporator coil frozen then leaking"
+    ],
+    "sources": [
+      "ENERGY STAR and U.S. Department of Energy guidance on AC filter maintenance and airflow",
+      "HVAC manufacturer (Carrier, Trane) condensate-drain maintenance instructions",
+      "EPA guidance on condensate management and mold prevention in HVAC systems"
+    ],
+    "disclaimer": "General guidance only. Refrigerant and electrical repairs require a licensed HVAC professional; if the coil keeps freezing or you find water near electrical components, stop and call a pro.",
+    "verified": false,
+    "verifierNote": "Drafted from DOE/ENERGY STAR and HVAC-manufacturer practice (condensate clog as primary cause, filter/airflow chain). Pending human source verification.",
+    "kind": "spoke"
   },
   {
     "slug": "hvac-ac-not-cooling",
@@ -3956,6 +4036,72 @@
     "kind": "pillar"
   },
   {
+    "slug": "interior-regrout-clean-shower",
+    "system": "interior",
+    "title": "How to Clean and Regrout Shower Tile — Step-by-Step Guide",
+    "question": "The grout in my shower is stained, cracked, and crumbling in spots. How do I clean it up and regrout without retiling the whole shower?",
+    "summary": "Most tired shower grout doesn't need replacing — it needs a deep clean and spot repair. Clean first; if the grout is just discolored, you may be done. Where grout is cracked, missing, or powdery, rake it out and apply fresh grout to that area. The one spot you should use caulk, not grout, is the corners and the joint where the wall meets the tub or pan — those flex and grout cracks there.",
+    "commonCauses": [
+      {
+        "cause": "Surface staining and soap-scum/mildew buildup, not actual grout failure. The grout is sound but looks dark and dingy.",
+        "likelihood": "most common",
+        "quickCheck": "Scrub a small test patch with a grout cleaner and a stiff brush. If it comes back near its original color and feels solid, you only need cleaning (and maybe sealing)."
+      },
+      {
+        "cause": "Cracked or missing grout from normal movement and age, letting water behind the tile.",
+        "likelihood": "common",
+        "quickCheck": "Drag a screwdriver tip lightly along the grout lines. Powdery, crumbling, or missing sections need to be raked out and regrouted."
+      },
+      {
+        "cause": "Grout used in the wall-to-tub/pan and inside corners where caulk belongs. Rigid grout cracks at flexing joints, so it keeps failing there.",
+        "likelihood": "common",
+        "quickCheck": "Look at the inside corners and the joint where tile meets the tub or shower pan. Cracks concentrated there mean grout was used where flexible caulk should be."
+      }
+    ],
+    "fixes": [
+      "Deep-clean first: apply a grout cleaner (or a baking-soda paste, then a vinegar spray for mildew stains), let it dwell, scrub with a stiff grout brush, and rinse. This alone restores a lot of grout.",
+      "Decide what needs repair: solid, clean grout can simply be sealed. Cracked, missing, or powdery grout needs to be removed and replaced.",
+      "Rake out the bad grout with a grout saw or an oscillating tool with a grout blade, going about 1/8 inch deep. Vacuum the dust and wipe the joints clean and dry.",
+      "Mix a small batch of matching grout (sanded for joints wider than 1/8 inch, unsanded for thinner) to a peanut-butter consistency.",
+      "Press grout into the raked joints at a 45 degree angle with a rubber float, pack it fully, then wipe diagonally to remove excess.",
+      "After it hazes (per the product, usually 15-30 minutes), wipe the tile clean with a damp sponge, rinsing often. Buff off the final haze once dry.",
+      "Caulk — don't grout — the inside corners and the wall-to-tub/pan joint with a mildew-resistant silicone or kitchen-and-bath caulk.",
+      "Let everything cure fully (typically 24-72 hours, check the labels), then apply a penetrating grout sealer to the new and existing grout."
+    ],
+    "diyVsPro": "DIY-friendly — cleaning, spot-regrouting, and recaulking are classic weekend jobs needing only basic tools. Call a tile pro if tiles are loose, drummy (hollow-sounding when tapped), or falling off; if you find soft, spongy wall behind the tile or a musty smell (water has gotten into the substrate); or if you see widespread cracking that suggests a failed backer board rather than just surface grout. Those mean water damage that regrouting will only hide.",
+    "typicalCostUSD": "$20-$60 DIY (grout, caulk, sealer, a grout saw or oscillating blade, a float). A full professional regrout of a shower runs $300-$800; retiling after water damage is far more.",
+    "timeEstimate": "Half a day of active work for a typical shower, plus 24-72 hours of curing before use and sealing.",
+    "safetyLevel": "none",
+    "safetyNote": "Low-risk work, but ventilate the bathroom — grout dust and caulk/sealer fumes shouldn't be breathed in a closed room. Wear a dust mask and eye protection when raking out old grout, and gloves with cleaners. Don't mix bleach and other cleaners. If you find rot or persistent mold behind the tile, stop and address the water source.",
+    "toolsParts": [
+      "Grout cleaner (or baking soda + white vinegar) and a stiff grout brush",
+      "Grout saw or oscillating multi-tool with a grout-removal blade",
+      "Matching grout (sanded or unsanded for the joint width)",
+      "Rubber grout float and sponges",
+      "Mildew-resistant silicone or kitchen-and-bath caulk + caulk gun",
+      "Penetrating grout sealer",
+      "Dust mask, eye protection, gloves"
+    ],
+    "searchTerms": [
+      "how to regrout a shower",
+      "clean stained shower grout",
+      "shower grout cracking and falling out",
+      "remove old grout and replace",
+      "caulk vs grout shower corners",
+      "how to seal shower grout",
+      "regrout shower without removing tile"
+    ],
+    "sources": [
+      "Tile Council of North America (TCNA) guidance on grout vs. caulk at movement joints",
+      "Grout/caulk manufacturer (Mapei, Custom Building Products) application and cure instructions",
+      "General guidance on bathroom mold cleanup and ventilation"
+    ],
+    "disclaimer": "General guidance only. If tiles are loose or you find rot or persistent mold, the problem is water intrusion behind the tile — consult a professional rather than regrouting over it.",
+    "verified": false,
+    "verifierNote": "Drafted from TCNA and manufacturer practice (caulk at flexing joints, rake-and-replace method). Pending human source verification.",
+    "kind": "spoke"
+  },
+  {
     "slug": "interior-soundproof-room",
     "system": "interior",
     "title": "How to Soundproof a Room — What Actually Works (and What Doesn't)",
@@ -4036,6 +4182,68 @@
     "verified": true,
     "verifierNote": "Confirmed STC ~33–35, CO/backdraft warning, and cost ranges as accurate; softened resilient-channel over isolation-clips, added ~30-day damping-compound cure note, generalized the acoustic-sealant brand, and strengthened voltage-tester/electrician and combustion-vent CO cautions.",
     "kind": "pillar"
+  },
+  {
+    "slug": "interior-squeaky-door-hinge",
+    "system": "interior",
+    "title": "How to Fix a Squeaky Door Hinge — Quick & Permanent Fixes",
+    "question": "One of my doors squeaks loudly every time it opens. What actually stops a squeaky hinge for good, instead of for a few days?",
+    "summary": "A squeaky hinge is metal rubbing metal because the pin and knuckles have lost their lubrication. A quick spray helps for a while, but the permanent fix is to pull each hinge pin, wipe it, and coat it with a proper lubricant before reseating it. Five minutes, no removing the door. If the squeak comes back fast, the hinge is worn or the door is sagging and binding — different fix.",
+    "commonCauses": [
+      {
+        "cause": "Dry hinge pin — the lubricant between the pin and the hinge knuckles has worn away, so metal grinds on metal.",
+        "likelihood": "most common",
+        "quickCheck": "Open the door slowly. If the squeak tracks exactly with the hinge movement and stops when you hold the door still, it's the hinge, not the latch."
+      },
+      {
+        "cause": "Dust and old gummy lubricant packed in the knuckles, so fresh oil on the surface doesn't last.",
+        "likelihood": "common",
+        "quickCheck": "Pull one pin partway — if it's dirty, gritty, or has dried gunk, surface spraying won't hold; the pin needs wiping clean."
+      },
+      {
+        "cause": "Worn or rusted hinge, or a sagging door that binds. The squeak returns within days of lubricating because the parts are actually worn or misaligned.",
+        "likelihood": "less common",
+        "quickCheck": "Look for rust, play in the hinge, or a door that rubs the frame/threshold. If lube only helps for a day or two, the hinge or alignment is the real issue."
+      }
+    ],
+    "fixes": [
+      "Open the door and tap one hinge pin up from the bottom with a nail or punch and a hammer, then pull it out the top. Do one hinge at a time so the door stays hung.",
+      "Wipe the pin clean of old grease and grit with a rag; if it's rusty, scuff it with fine steel wool or sandpaper.",
+      "Coat the pin with a long-lasting lubricant — white lithium grease, silicone, or even a smear of petroleum jelly. Avoid plain WD-40 as a permanent fix; it's a solvent and dries out fast.",
+      "Drop the pin back in and tap it seated. Swing the door a few times to work the lube into the knuckles.",
+      "Repeat for each hinge. Wipe any drips.",
+      "If the squeak returns within days, check whether the door is sagging or binding: tighten loose hinge screws (or replace a stripped screw with a longer one into the framing). A worn hinge should be replaced as a pair-matched set.",
+      "Test by opening and closing slowly — it should be silent and swing freely."
+    ],
+    "diyVsPro": "Fully DIY — this is one of the simplest home fixes and needs no special skill. The only time to escalate is if the door is badly sagging, the frame is out of square, or the door drags and won't latch even after tightening screws; that's an alignment or framing issue a carpenter can sort out. Replacing a hinge is still DIY for most people.",
+    "typicalCostUSD": "$0-$10 (a tube of white lithium grease or silicone you'll reuse for years). A replacement hinge is $4-$15 each if needed.",
+    "timeEstimate": "5-10 minutes per door.",
+    "safetyLevel": "none",
+    "safetyNote": "Very low risk. Do one hinge pin at a time so the door doesn't fall, support a heavy door with a shim or helper, and keep fingers clear of the hinge gap when swinging the door to test.",
+    "toolsParts": [
+      "Hammer and a nail, punch, or screwdriver (to drive the pin out)",
+      "White lithium grease, silicone lubricant, or petroleum jelly",
+      "Rag",
+      "Fine steel wool or sandpaper (for a rusty pin)",
+      "Screwdriver (to tighten or replace hinge screws)"
+    ],
+    "searchTerms": [
+      "how to fix a squeaky door hinge",
+      "stop door from squeaking",
+      "squeaky door hinge permanent fix",
+      "best lubricant for door hinges",
+      "door squeaks when opening",
+      "wd40 door hinge squeak comes back",
+      "remove hinge pin to lubricate door"
+    ],
+    "sources": [
+      "Lubricant manufacturer guidance (white lithium vs. silicone vs. penetrating oil) on appropriate uses",
+      "General carpentry guidance on hinge-pin lubrication and door-sag/screw fixes"
+    ],
+    "disclaimer": "General guidance only. If a door is badly sagging or the frame is out of square, consult a carpenter rather than relying on lubrication.",
+    "verified": false,
+    "verifierNote": "Drafted from standard carpentry/lubricant practice (pull-and-grease the pin; lithium/silicone over WD-40 for longevity). Pending human source verification.",
+    "kind": "spoke"
   },
   {
     "slug": "interior-squeaky-floor",
@@ -5847,6 +6055,75 @@
     "verified": true,
     "verifierNote": "Fixed a backwards diagnostic (push the float DOWN → corrected to lift the float UP to confirm fill-valve shutoff); downgraded \"float too high\" from most-common to common (flapper is the true #1); softened overstated summary and the \"Bob Vila in spirit\" source; added overtighten/no-gas-or-electrical safety wording. Costs, caution level, and clockwise shut-off all confirmed accurate.",
     "kind": "pillar"
+  },
+  {
+    "slug": "plumbing-sump-pump-not-working",
+    "system": "plumbing",
+    "title": "Sump Pump Not Working or Not Turning On — Causes & Fixes",
+    "question": "My sump pump isn't turning on, or it runs but the pit keeps filling. With rain coming I'm worried about a flooded basement. What can I check and fix myself?",
+    "summary": "A sump pump that won't run is usually a stuck float switch, a tripped breaker/GFCI, or a pump unplugged behind the pit. A pump that runs but doesn't clear water is usually a clogged or frozen discharge line, a stuck check valve, or a pump that's simply undersized or failing. Most checks are quick and safe; testing the float by pouring water in the pit confirms the diagnosis in a minute.",
+    "commonCauses": [
+      {
+        "cause": "Stuck or tangled float switch. The float that tells the pump to turn on is jammed against the pit wall, tangled in the cord, or waterlogged, so the pump never gets the signal.",
+        "likelihood": "most common",
+        "quickCheck": "Lift the float by hand (or pour a bucket of water into the pit). If the pump kicks on when the float rises, the switch was stuck — free it and give it room to move."
+      },
+      {
+        "cause": "No power — tripped breaker, tripped GFCI, or the pump got unplugged. Sump pumps are often on a GFCI that nuisance-trips, and the plug sits in a damp spot.",
+        "likelihood": "common",
+        "quickCheck": "Confirm the pump is plugged in, press 'reset' on the nearby GFCI outlet, and check the breaker. Many pumps share a plug with a piggyback float switch — make sure both prongs are seated."
+      },
+      {
+        "cause": "Clogged, frozen, or disconnected discharge pipe. The pump runs but water has nowhere to go, so the pit stays full and the pump may cycle constantly.",
+        "likelihood": "common",
+        "quickCheck": "Go outside and confirm water actually exits the discharge during a pump cycle. No flow (especially in winter) means a clog or a frozen line."
+      },
+      {
+        "cause": "Stuck check valve or debris in the impeller. The check valve that stops water flowing back into the pit is jammed, or gravel/silt has clogged the pump intake.",
+        "likelihood": "less common",
+        "quickCheck": "Listen for the pump running without pumping, or water draining back into the pit after each cycle (a failed check valve). Debris in the pit bottom suggests intake clogging."
+      }
+    ],
+    "fixes": [
+      "Confirm power first: check the pump is plugged in, reset the GFCI outlet, and check the breaker. If it's on a piggyback plug, reseat both the pump and the switch plugs.",
+      "Test the float by slowly pouring a few gallons of water into the pit. The pump should switch on and pump the pit down, then shut off. If it does, the original issue was a stuck float or lost power.",
+      "If the float was stuck, reposition the pump so the float swings freely and isn't pinned against the wall or its own cord. Add a float guard if needed.",
+      "If the pump runs but the pit won't drain, check the discharge line outside for clogs or ice; clear it. Keep the outdoor end sloped and unfrozen for winter.",
+      "If water drains back into the pit after each cycle, the check valve is stuck or missing — clean or replace the inline check valve on the discharge pipe.",
+      "Clear silt and gravel from the pit bottom so the intake screen isn't clogged. A pit with no working pump should be bailed before storms.",
+      "If the pump still won't run with power confirmed and the float free, the motor has likely failed — replace the pump (and consider a battery backup pump for storm/power-outage protection)."
+    ],
+    "diyVsPro": "DIY for the common fixes: freeing the float, resetting power, clearing the discharge line, replacing the check valve, and swapping a failed plug-in pump. Call a plumber or electrician if the dedicated outlet keeps tripping (a wiring or ground fault), if you need a new dedicated circuit, if the pit floods faster than any pump keeps up (you may need a higher-capacity or backup system), or if there's standing water near electrical connections you can't safely de-energize. Hardwired pumps should be handled by a pro.",
+    "typicalCostUSD": "$0 to free a float or reset power; $10-$25 for an inline check valve. A replacement plug-in sump pump runs $80-$250; a battery-backup pump $150-$400; professional installation $200-$500.",
+    "timeEstimate": "10-20 minutes to diagnose and free a float or reset power; 30-60 minutes to replace a check valve or swap a pump.",
+    "safetyLevel": "caution",
+    "safetyNote": "Water and electricity together demand care. If there's standing water around the pump or outlet, do not reach in — shut the circuit off at the breaker first and confirm it's dead. Use only a GFCI-protected outlet for a sump pump. Don't run an extension cord to it long-term. If the outlet trips repeatedly, that's an electrical fault for a pro, not something to bypass.",
+    "toolsParts": [
+      "Bucket or hose (to test the float by adding water)",
+      "Replacement inline check valve (if needed)",
+      "Adjustable wrench / screwdriver",
+      "Wet/dry vacuum (to clear pit silt or bail water)",
+      "Non-contact voltage tester",
+      "Battery-backup pump (optional, for outage protection)"
+    ],
+    "searchTerms": [
+      "sump pump not turning on",
+      "sump pump running but not pumping water",
+      "sump pump float stuck",
+      "sump pump won't shut off",
+      "how to test a sump pump",
+      "sump pump keeps tripping gfci",
+      "water draining back into sump pit"
+    ],
+    "sources": [
+      "U.S. EPA and FEMA basement flood-prevention guidance on sump pumps and backups",
+      "Sump pump manufacturer (Zoeller, Wayne) troubleshooting and float-switch instructions",
+      "General electrical-safety guidance on GFCI protection for sump-pump circuits"
+    ],
+    "disclaimer": "General guidance only. Combining water and electricity is hazardous; if your sump circuit trips repeatedly or you cannot safely de-energize standing water, consult a licensed electrician or plumber.",
+    "verified": false,
+    "verifierNote": "Drafted from manufacturer/FEMA/EPA practice (float, GFCI, check-valve, discharge-line checks). Pending human source verification.",
+    "kind": "spoke"
   },
   {
     "slug": "plumbing-toilet-rocks",

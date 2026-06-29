@@ -1,0 +1,69 @@
+{
+  "slug": "plumbing-sump-pump-not-working",
+  "system": "plumbing",
+  "title": "Sump Pump Not Working or Not Turning On — Causes & Fixes",
+  "question": "My sump pump isn't turning on, or it runs but the pit keeps filling. With rain coming I'm worried about a flooded basement. What can I check and fix myself?",
+  "summary": "A sump pump that won't run is usually a stuck float switch, a tripped breaker/GFCI, or a pump unplugged behind the pit. A pump that runs but doesn't clear water is usually a clogged or frozen discharge line, a stuck check valve, or a pump that's simply undersized or failing. Most checks are quick and safe; testing the float by pouring water in the pit confirms the diagnosis in a minute.",
+  "commonCauses": [
+    {
+      "cause": "Stuck or tangled float switch. The float that tells the pump to turn on is jammed against the pit wall, tangled in the cord, or waterlogged, so the pump never gets the signal.",
+      "likelihood": "most common",
+      "quickCheck": "Lift the float by hand (or pour a bucket of water into the pit). If the pump kicks on when the float rises, the switch was stuck — free it and give it room to move."
+    },
+    {
+      "cause": "No power — tripped breaker, tripped GFCI, or the pump got unplugged. Sump pumps are often on a GFCI that nuisance-trips, and the plug sits in a damp spot.",
+      "likelihood": "common",
+      "quickCheck": "Confirm the pump is plugged in, press 'reset' on the nearby GFCI outlet, and check the breaker. Many pumps share a plug with a piggyback float switch — make sure both prongs are seated."
+    },
+    {
+      "cause": "Clogged, frozen, or disconnected discharge pipe. The pump runs but water has nowhere to go, so the pit stays full and the pump may cycle constantly.",
+      "likelihood": "common",
+      "quickCheck": "Go outside and confirm water actually exits the discharge during a pump cycle. No flow (especially in winter) means a clog or a frozen line."
+    },
+    {
+      "cause": "Stuck check valve or debris in the impeller. The check valve that stops water flowing back into the pit is jammed, or gravel/silt has clogged the pump intake.",
+      "likelihood": "less common",
+      "quickCheck": "Listen for the pump running without pumping, or water draining back into the pit after each cycle (a failed check valve). Debris in the pit bottom suggests intake clogging."
+    }
+  ],
+  "fixes": [
+    "Confirm power first: check the pump is plugged in, reset the GFCI outlet, and check the breaker. If it's on a piggyback plug, reseat both the pump and the switch plugs.",
+    "Test the float by slowly pouring a few gallons of water into the pit. The pump should switch on and pump the pit down, then shut off. If it does, the original issue was a stuck float or lost power.",
+    "If the float was stuck, reposition the pump so the float swings freely and isn't pinned against the wall or its own cord. Add a float guard if needed.",
+    "If the pump runs but the pit won't drain, check the discharge line outside for clogs or ice; clear it. Keep the outdoor end sloped and unfrozen for winter.",
+    "If water drains back into the pit after each cycle, the check valve is stuck or missing — clean or replace the inline check valve on the discharge pipe.",
+    "Clear silt and gravel from the pit bottom so the intake screen isn't clogged. A pit with no working pump should be bailed before storms.",
+    "If the pump still won't run with power confirmed and the float free, the motor has likely failed — replace the pump (and consider a battery backup pump for storm/power-outage protection)."
+  ],
+  "diyVsPro": "DIY for the common fixes: freeing the float, resetting power, clearing the discharge line, replacing the check valve, and swapping a failed plug-in pump. Call a plumber or electrician if the dedicated outlet keeps tripping (a wiring or ground fault), if you need a new dedicated circuit, if the pit floods faster than any pump keeps up (you may need a higher-capacity or backup system), or if there's standing water near electrical connections you can't safely de-energize. Hardwired pumps should be handled by a pro.",
+  "typicalCostUSD": "$0 to free a float or reset power; $10-$25 for an inline check valve. A replacement plug-in sump pump runs $80-$250; a battery-backup pump $150-$400; professional installation $200-$500.",
+  "timeEstimate": "10-20 minutes to diagnose and free a float or reset power; 30-60 minutes to replace a check valve or swap a pump.",
+  "safetyLevel": "caution",
+  "safetyNote": "Water and electricity together demand care. If there's standing water around the pump or outlet, do not reach in — shut the circuit off at the breaker first and confirm it's dead. Use only a GFCI-protected outlet for a sump pump. Don't run an extension cord to it long-term. If the outlet trips repeatedly, that's an electrical fault for a pro, not something to bypass.",
+  "toolsParts": [
+    "Bucket or hose (to test the float by adding water)",
+    "Replacement inline check valve (if needed)",
+    "Adjustable wrench / screwdriver",
+    "Wet/dry vacuum (to clear pit silt or bail water)",
+    "Non-contact voltage tester",
+    "Battery-backup pump (optional, for outage protection)"
+  ],
+  "searchTerms": [
+    "sump pump not turning on",
+    "sump pump running but not pumping water",
+    "sump pump float stuck",
+    "sump pump won't shut off",
+    "how to test a sump pump",
+    "sump pump keeps tripping gfci",
+    "water draining back into sump pit"
+  ],
+  "sources": [
+    "U.S. EPA and FEMA basement flood-prevention guidance on sump pumps and backups",
+    "Sump pump manufacturer (Zoeller, Wayne) troubleshooting and float-switch instructions",
+    "General electrical-safety guidance on GFCI protection for sump-pump circuits"
+  ],
+  "disclaimer": "General guidance only. Combining water and electricity is hazardous; if your sump circuit trips repeatedly or you cannot safely de-energize standing water, consult a licensed electrician or plumber.",
+  "verified": false,
+  "verifierNote": "Drafted from manufacturer/FEMA/EPA practice (float, GFCI, check-valve, discharge-line checks). Pending human source verification.",
+  "kind": "spoke"
+}

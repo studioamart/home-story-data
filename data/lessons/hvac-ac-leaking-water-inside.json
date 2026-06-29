@@ -1,0 +1,69 @@
+{
+  "slug": "hvac-ac-leaking-water-inside",
+  "system": "hvac",
+  "title": "Air Conditioner Leaking Water Inside — Causes & Fixes",
+  "question": "Water is dripping from my indoor AC unit or pooling around the furnace/air handler. Why is my air conditioner leaking water inside, and how do I stop it?",
+  "summary": "An AC leaking water indoors is almost always a clogged condensate drain line — algae and slime plug the pipe that carries away the water the unit pulls from the air, so it backs up and overflows the drain pan. Clearing the line fixes most cases. Other causes are a frozen evaporator coil that's now melting, a rusted-through drain pan, or a clogged air filter starving the coil. The drain-line clog is both the most common and the most DIY-friendly.",
+  "commonCauses": [
+    {
+      "cause": "Clogged condensate drain line. Algae and biofilm grow in the warm, damp PVC drain line and plug it; the condensate then backs up and overflows the pan.",
+      "likelihood": "most common",
+      "quickCheck": "Find the drain line (a PVC pipe leaving the indoor unit) and the drain pan. Standing water in the pan with little or no flow at the outdoor drain end means the line is clogged."
+    },
+    {
+      "cause": "Frozen evaporator coil now thawing. A coil that iced over (from low airflow or low refrigerant) dumps a flood of water when it melts, overwhelming the pan and drain.",
+      "likelihood": "common",
+      "quickCheck": "Check for ice or frost on the coil or the refrigerant lines, or a recent period where the AC blew warm. If you see ice, the leak is melt-off, not just a clog."
+    },
+    {
+      "cause": "Clogged or filthy air filter. Restricted airflow lets the coil get too cold and freeze, which then melts and leaks — and reduces efficiency.",
+      "likelihood": "common",
+      "quickCheck": "Pull the filter. If light barely passes through it, it's overdue — a dirty filter is a frequent root cause of the freeze-then-leak cycle."
+    },
+    {
+      "cause": "Rusted or cracked drain pan, or a disconnected/misaligned pan on older units.",
+      "likelihood": "less common",
+      "quickCheck": "Inspect the pan for rust holes, cracks, or water dripping straight through rather than backing up. A holed pan leaks even when the line is clear."
+    }
+  ],
+  "fixes": [
+    "Turn the AC off at the thermostat (and the breaker for the air handler) to stop adding water while you work.",
+    "Replace a dirty air filter — this alone prevents many freeze-and-leak cycles. If the coil is iced, leave the system off (fan-only can help) until it fully thaws before running cooling again.",
+    "Clear standing water from the drain pan with a wet/dry vacuum or rags.",
+    "Clear the condensate line: locate the access tee or the open end, and use a wet/dry vacuum at the outdoor drain end to suck out the clog, or flush the line. Some units have a cleanout cap you can open.",
+    "Prevent regrowth: pour a cup of distilled white vinegar (or a condensate-line treatment) into the access port every 1-2 months in cooling season to keep algae down.",
+    "Confirm the fix: run the AC and watch that water now flows steadily from the outdoor drain end and the pan stays dry.",
+    "If the pan is rusted or cracked, or the coil keeps freezing after a clean filter and clear line, call an HVAC tech — a freezing coil can mean low refrigerant or an airflow problem that needs service."
+  ],
+  "diyVsPro": "DIY for changing the filter, clearing the condensate line, vacuuming the pan, and adding a vinegar treatment — these solve the large majority of indoor AC leaks. Call an HVAC professional if the coil keeps freezing after a clean filter and clear drain (possible low refrigerant or blower problem), if the drain pan is rusted/cracked and needs replacement, if you smell electrical burning, or if there's water near the furnace's electrical components. Refrigerant work is licensed-only.",
+  "typicalCostUSD": "$5-$25 DIY (filter, vinegar, optional drain-line brush). A wet/dry vac if you don't own one is $50-$120. Professional drain-line clearing or pan replacement runs $75-$250; refrigerant/coil service $150-$600+.",
+  "timeEstimate": "20-40 minutes to change the filter, vacuum the pan, and clear the drain line.",
+  "safetyLevel": "caution",
+  "safetyNote": "Shut the system off at the thermostat and the air-handler breaker before working near it, and confirm power is off before touching electrical components. Standing water near a furnace or air handler is an electrical hazard — keep it clear and don't reach into energized equipment. Do not add refrigerant or open the sealed system yourself; that requires a licensed technician. Mold in chronic leaks should be handled per safe cleanup guidance.",
+  "toolsParts": [
+    "Replacement air filter (correct size)",
+    "Wet/dry vacuum",
+    "Distilled white vinegar or condensate-line treatment tablets",
+    "Rags or towels",
+    "Screwdriver (for the access panel)",
+    "Stiff thin brush or drain-line cleaning tool (optional)"
+  ],
+  "searchTerms": [
+    "air conditioner leaking water inside",
+    "ac dripping water from indoor unit",
+    "clogged ac condensate drain line",
+    "how to unclog ac drain line",
+    "water around furnace when ac runs",
+    "ac drain pan overflowing",
+    "evaporator coil frozen then leaking"
+  ],
+  "sources": [
+    "ENERGY STAR and U.S. Department of Energy guidance on AC filter maintenance and airflow",
+    "HVAC manufacturer (Carrier, Trane) condensate-drain maintenance instructions",
+    "EPA guidance on condensate management and mold prevention in HVAC systems"
+  ],
+  "disclaimer": "General guidance only. Refrigerant and electrical repairs require a licensed HVAC professional; if the coil keeps freezing or you find water near electrical components, stop and call a pro.",
+  "verified": false,
+  "verifierNote": "Drafted from DOE/ENERGY STAR and HVAC-manufacturer practice (condensate clog as primary cause, filter/airflow chain). Pending human source verification.",
+  "kind": "spoke"
+}

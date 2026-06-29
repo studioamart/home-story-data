@@ -1,0 +1,68 @@
+{
+  "slug": "exterior-garage-door-wont-close",
+  "system": "exterior",
+  "title": "Garage Door Won't Close All the Way — Causes & Fixes",
+  "question": "My garage door starts to close then reverses and goes back up, or won't close from the opener at all. What's wrong and what can I safely fix myself?",
+  "summary": "When a garage door reverses instead of closing, the opener's safety system is doing its job — and the cause is almost always the photo-eye sensors near the floor being misaligned, dirty, or blocked. Realign and clean them first; that fixes most cases. If the door binds, drags, or slams down, the problem is the rollers/track or the springs — and springs are the one part you should never touch yourself.",
+  "commonCauses": [
+    {
+      "cause": "Photo-eye safety sensors are misaligned, dirty, or blocked. The two small sensors near the bottom of each track must 'see' each other; if the beam is broken or off-axis, the opener refuses to close and reverses.",
+      "likelihood": "most common",
+      "quickCheck": "Look at the sensor LEDs. Most setups show a steady light on both when aligned; a blinking or off LED means misaligned or blocked. Check for a broom, cobweb, or sun glare in the beam path."
+    },
+    {
+      "cause": "Close-limit / travel setting is off. The opener thinks the door has reached the floor before it actually does (or overshoots), so it stops short or reverses. Common after a power loss or opener replacement.",
+      "likelihood": "common",
+      "quickCheck": "Watch where the door stops. If it consistently stops a few inches short or hits the floor then bounces back up, the limit screw or travel setting needs adjustment (see the opener's manual)."
+    },
+    {
+      "cause": "Rollers, hinges, or track are dry, bent, or obstructed, so the door binds and the opener senses resistance and reverses.",
+      "likelihood": "common",
+      "quickCheck": "Pull the red release cord to disconnect the opener and lift the door by hand. It should glide and stay put halfway. If it's heavy, sticks, or jerks, the track/rollers (or springs) need attention."
+    },
+    {
+      "cause": "Broken or weak torsion/extension spring. The door feels very heavy by hand, slams down, or won't stay halfway. The opener can't overcome the imbalance.",
+      "likelihood": "less common but serious",
+      "quickCheck": "Disconnected from the opener, a balanced door is light and holds halfway. If it crashes down or you see a visible gap in the coiled spring above the door, the spring is the problem — do not operate it and do not DIY."
+    }
+  ],
+  "fixes": [
+    "Start with the photo eyes. Wipe both lenses with a soft dry cloth and clear anything in the beam path. Make sure neither was bumped out of position.",
+    "Realign the eyes: loosen the wing nut/bracket, aim the sensors straight at each other, and adjust until both LEDs are steady. Tighten the brackets without nudging them.",
+    "Test close. If it now closes, you're done. If it still reverses with clean, aligned eyes, move on.",
+    "Pull the red emergency-release cord and lift the door by hand to feel for binding. If it glides freely and holds halfway, the issue is the opener's travel/limit setting — adjust per the opener manual's close-limit instructions in small increments.",
+    "If the door binds or drags by hand, inspect the track for dents and the rollers/hinges for damage; lubricate rollers, hinges, and springs with a garage-door lube (not WD-40). Re-test.",
+    "If the door is heavy, slams down, won't stay halfway, or you see a broken spring or frayed cable — stop. Leave the opener disconnected and call a garage-door technician.",
+    "Re-engage the opener by pulling the release cord back toward the door and running the opener once."
+  ],
+  "diyVsPro": "DIY for the safe 90%: cleaning and aligning the photo eyes, clearing obstructions, lubricating rollers and hinges, and adjusting the opener's travel limits per the manual. Call a professional immediately for anything involving the springs or lift cables — torsion and extension springs store enormous energy and cause severe injuries when handled without the right tools and training. Also call a pro for bent tracks, a door off its track, or an opener that grinds or won't respond at all.",
+  "typicalCostUSD": "$0 to realign sensors or adjust limits; $10-$20 for garage-door lubricant. Professional spring replacement runs $150-$350; roller or cable replacement $100-$250; a new opener installed $300-$600.",
+  "timeEstimate": "10-30 minutes for sensor alignment, cleaning, and lubrication.",
+  "safetyLevel": "call-a-pro",
+  "safetyNote": "Never adjust, loosen, or replace garage-door springs or cables yourself — they are under extreme tension and are a leading cause of serious home-repair injuries. The photo-eye and lubrication steps here are safe DIY; spring, cable, and off-track work are for a trained technician only. Always disconnect the opener before lifting the door by hand, and keep hands clear of section joints and the spring assembly.",
+  "toolsParts": [
+    "Soft cloth (for the photo-eye lenses)",
+    "Garage-door lubricant (silicone or lithium spray, not WD-40)",
+    "Step ladder",
+    "Phillips/flat screwdriver and a small wrench (for sensor brackets)",
+    "The opener's owner manual (for travel/limit settings)"
+  ],
+  "searchTerms": [
+    "garage door won't close all the way",
+    "garage door closes then opens back up",
+    "garage door reverses before hitting the floor",
+    "garage door sensor blinking won't close",
+    "how to align garage door safety sensors",
+    "garage door won't close from remote",
+    "garage door closes then bounces back up"
+  ],
+  "sources": [
+    "U.S. Consumer Product Safety Commission guidance on automatic garage-door opener safety and photo-eye reversing systems",
+    "Major opener manufacturer (Chamberlain/LiftMaster, Genie) troubleshooting and travel-limit instructions",
+    "International Door Association safety guidance on garage-door spring and cable hazards"
+  ],
+  "disclaimer": "General guidance only. Garage-door springs and cables are dangerous and are not a DIY repair; consult a qualified garage-door technician for anything beyond sensor, lubrication, and opener-setting adjustments.",
+  "verified": false,
+  "verifierNote": "Drafted from CPSC/opener-manufacturer practice; spring/cable work explicitly routed to a pro. Pending human source verification.",
+  "kind": "spoke"
+}
