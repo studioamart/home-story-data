@@ -1,16 +1,18 @@
 name: Update home task data
 
-# Refreshes data/manifest.json whenever the dataset changes, and on a quarterly
-# cadence. Data regeneration itself (expanding maintenance-schedule coverage) is
-# done out-of-band — see the "regenerate" step note — but the manifest version +
-# checksum are always kept correct and committed here so the app picks up changes
-# without an App Store release.
+# Refreshes the OTA manifests whenever the datasets change, and on a quarterly
+# cadence. Two channels: maintenance schedules (data/home-tasks.json) and fix
+# guides (data/lessons/*.json -> data/lessons.json). Data regeneration itself
+# (expanding coverage) is done out-of-band — see the "regenerate" step note —
+# but the manifest versions + checksums are always kept correct and committed
+# here so the app picks up changes without an App Store release.
 
 on:
   workflow_dispatch: {}            # manual trigger
   push:
     paths:
-      - 'data/home-tasks.json'        # rebuild manifest when data is updated
+      - 'data/home-tasks.json'        # schedule data
+      - 'data/lessons/**'             # fix-guide source files
   schedule:
     - cron: '0 9 1 */3 *'           # 09:00 UTC on the 1st, every 3rd month
 
@@ -37,17 +39,18 @@ jobs:
       - name: Regenerate dataset (optional)
         run: echo "No automated regeneration configured yet — data updated manually."
 
-      - name: Rebuild manifest
+      - name: Rebuild manifests
         run: node scripts/build-manifest.mjs
 
-      - name: Commit manifest if changed
+      - name: Commit manifests if changed
         run: |
-          if [[ -n "$(git status --porcelain data/manifest.json)" ]]; then
+          FILES="data/manifest.json data/lessons.json data/lessons-manifest.json"
+          if [[ -n "$(git status --porcelain $FILES)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add data/manifest.json
-            git commit -m "chore: refresh data manifest [skip ci]"
+            git add $FILES
+            git commit -m "chore: refresh data manifests [skip ci]"
             git push
           else
-            echo "Manifest unchanged."
+            echo "Manifests unchanged."
           fi
