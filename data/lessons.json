@@ -483,6 +483,99 @@
     "kind": "spoke"
   },
   {
+    "slug": "appliances-dishwasher-not-cleaning",
+    "system": "appliances",
+    "title": "Dishwasher Runs but Dishes Come Out Dirty — Causes & Fixes",
+    "question": "Why does my dishwasher run but leave dishes dirty, gritty, or filmy?",
+    "summary": "A dishwasher that runs but leaves dishes dirty, gritty, or filmy almost always has a clogged filter or clogged spray-arm jets, water arriving too cold to dissolve detergent, hard-water mineral film, old detergent or missing rinse aid, or dishes loaded so the spray can't reach them. Nearly every cause is a cheap, safe DIY fix; drain, pump, and water-heating faults are where you call an appliance pro.",
+    "commonCauses": [
+      {
+        "cause": "Clogged filter at the bottom of the tub — trapped food and grease get sprayed back onto the dishes, leaving grit. On most dishwashers made in the last 10-15 years the filter is manual-clean and needs rinsing regularly, which many owners never do. Most common cause.",
+        "likelihood": "most common",
+        "quickCheck": "Pull out the lower rack and twist out the cylindrical filter at the tub floor; if it's caked with food, grease, or sludge, that's very likely it."
+      },
+      {
+        "cause": "Blocked spray-arm jets — the tiny holes that shoot water get plugged with food bits or mineral scale, so whole areas of the rack get little or no spray",
+        "likelihood": "most common",
+        "quickCheck": "Spin each spray arm by hand (it should turn freely), then hold it up to the light and look for gunk in the little jet holes; a weak or lopsided spray leaves dishes dirty on one side or the top rack."
+      },
+      {
+        "cause": "Inlet water arriving too cold — dishwashers need roughly 120 F to dissolve detergent and cut grease, and if cold water sits in the supply line the first fill is lukewarm",
+        "likelihood": "common",
+        "quickCheck": "Run the kitchen hot tap nearest the dishwasher until it's hot, then start the cycle; if results clearly improve, the machine was filling with cold water."
+      },
+      {
+        "cause": "Hard-water mineral film — dissolved calcium and magnesium leave a cloudy or gritty white film on dishes and the tub, and it builds up on the spray arms too",
+        "likelihood": "common",
+        "quickCheck": "Wipe a filmy glass with a little white vinegar; if the film rinses away it's hard-water/detergent scale (fixable), not a broken machine. Note: permanent cloudiness that won't wipe off is glass etching and can't be reversed."
+      },
+      {
+        "cause": "Old or caked detergent, or an empty rinse-aid dispenser — dishwasher detergent (especially the enzymes) loses power as it ages or absorbs moisture, and without rinse aid dishes come out spotted and filmy",
+        "likelihood": "common",
+        "quickCheck": "Is the detergent fresh, dry, and clump-free? Check the rinse-aid reservoir; if it's empty or the indicator is low, that alone causes spotting and film."
+      },
+      {
+        "cause": "Overloading or wrong loading — dishes nest together, tall items block the spray arms from spinning, or soiled sides face away from the center, so the water never reaches them",
+        "likelihood": "common",
+        "quickCheck": "Did you cram it full, put big pots or platters where they block an arm, or load bowls/mugs facing up so they fill with dirty water? Reload with space and try one cycle."
+      },
+      {
+        "cause": "Poor drainage or a dirty, greasy tub — if the machine doesn't fully drain, dishes get rinsed in dirty water; a neglected tub also grows grease and biofilm",
+        "likelihood": "less common",
+        "quickCheck": "Look for standing water in the tub bottom after a finished cycle; more than a cup pooled means a drain or pump issue rather than a spray problem."
+      }
+    ],
+    "fixes": [
+      "Scrape plates but stop pre-rinsing to spotless. Modern enzyme detergents need a little food residue to grip; bone-clean dishes can actually come out worse. Just knock big scraps into the trash and load.",
+      "Clean the filter — this is the single highest-payoff fix. Twist out the filter assembly at the tub floor, rinse it under hot running water, and gently scrub with a soft brush or old toothbrush to clear trapped food and grease. Do this every week or two.",
+      "Clear the spray arms. Snap or unscrew each arm off (most pop off or unthread by hand or with a nut driver), rinse them, and poke each blocked jet hole clear with a toothpick or a thin piece of wire, then make sure they spin freely when reinstalled.",
+      "Run an empty hot cycle with a cleaner to strip grease and mineral film: use a commercial dishwasher cleaner, or set a bowl with 1-2 cups of plain white vinegar on the top rack, or use citric-acid powder. Do this monthly-ish if you have hard water. Run only one cleaning product per cycle — never mix cleaners.",
+      "Fix the water temperature. Set your water heater to about 120 F, and run the kitchen hot tap until it's hot right before starting the dishwasher so the first fill isn't cold. Many machines also have a 'heated wash' or 'sanitize' option that boosts temperature.",
+      "Refill the rinse-aid dispenser and use fresh detergent stored in a dry, sealed place. If film or spotting persists, try a different detergent form (a quality pod or powder) since old or cheap detergent is a common culprit.",
+      "Load for coverage, not capacity: leave space between items, angle bowls and mugs face-down toward the spray, keep tall pots and platters from blocking the arms, and put the dirtiest surfaces toward the center where the spray is strongest.",
+      "For recurring hard-water film, treat regularly with citric acid or a rinse-aid boost, and consider whether a whole-house water softener makes sense; if the film won't wipe off at all, it's etched glass and only prevention (less detergent, softer water) helps going forward.",
+      "If dishes stay dirty after all of the above, or water pools in the bottom and won't drain, the drain hose, drain pump, wash pump, water inlet valve, or heating element may be at fault — that's diagnosis-and-repair work for an appliance tech (or a plumber for a clogged drain line)."
+    ],
+    "diyVsPro": "All of the real fixes here are safe DIY with no tools beyond a brush: cleaning the filter, clearing the spray-arm jets, running a vinegar or citric-acid cycle, setting the water temperature, refilling rinse aid, using fresh detergent, and reloading correctly. Swapping a cracked spray arm or a worn filter is an easy snap-in replacement. Call an appliance technician if the dishwasher won't drain (standing water), won't heat the wash water, has a weak or noisy wash pump/motor, isn't filling (a bad inlet valve), or shows control-board faults — those involve the pump, heater, valve, or electronics. Call a plumber if the clog is in the household drain line rather than the machine. Stop and get a pro immediately if the unit trips its breaker, smells like burning, or leaks onto the floor.",
+    "typicalCostUSD": "DIY: filter and spray-arm cleaning cost about $0; dishwasher cleaner or citric-acid powder $5-15; rinse aid $4-8; fresh detergent $8-20; replacement spray arm $15-45; replacement filter $15-40 (all model-specific). Pro repair: service call $90-160; common repairs such as a drain pump, wash pump, water inlet valve, or heating element run $150-400 total including labor.",
+    "timeEstimate": "Filter and spray-arm cleaning: 15-30 minutes. A vinegar or cleaner maintenance cycle: about 1-1.5 hours, mostly the machine running unattended. Reloading and a test wash: one normal cycle. Pro diagnosis and repair: typically a single 1-2 hour visit, sometimes a second trip if a part must be ordered.",
+    "safetyLevel": "low",
+    "safetyNote": "Cleaning the filter and spray arms, running a vinegar or citric-acid cycle, adding rinse aid, and adjusting how you load are all low-risk tasks done with the door open and the cycle off. Watch for sharp objects (glass shards, knife tips) and hot water when you reach into the tub. Never mix cleaning products — do not run bleach in the same cycle as vinegar or any product containing ammonia, because the combination makes toxic gas; use only one cleaner at a time. If you ever go beyond cleaning into the machine's wiring, pump, or heater, cut power at the breaker (or unplug it) first and confirm it's off. If the dishwasher trips its breaker, smells like burning, or leaks water onto the floor, stop and call a pro.",
+    "toolsParts": [
+      "Soft brush or old toothbrush (for the filter)",
+      "Toothpick or thin wire (to clear spray-arm jet holes)",
+      "White vinegar, citric-acid powder, or a commercial dishwasher cleaner",
+      "Rinse aid",
+      "Fresh dishwasher detergent (stored dry and sealed)",
+      "Kitchen/meat thermometer (to check inlet water is around 120 F)",
+      "Nut driver or screwdriver (some spray arms unscrew)",
+      "Towels for spills",
+      "Replacement spray arm or filter if cracked or worn (model-specific)"
+    ],
+    "searchTerms": [
+      "dishwasher not cleaning dishes",
+      "dishes come out dirty after dishwasher",
+      "white film on dishes from dishwasher",
+      "how to clean dishwasher filter",
+      "dishwasher spray arm clogged",
+      "dishwasher leaves grit on dishes",
+      "hard water film on dishes dishwasher",
+      "dishwasher not cleaning top rack",
+      "cloudy glasses after dishwasher",
+      "dishwasher dishes still dirty gritty"
+    ],
+    "sources": [
+      "Manufacturer use-and-care guides (Whirlpool, Bosch, GE, KitchenAid, LG, Samsung, Maytag)",
+      "Reputable DIY references (This Old House, Family Handyman, Consumer Reports)",
+      "Appliance-repair references and parts retailers (e.g., RepairClinic)",
+      "General hard-water and water-quality guidance (EPA / water-utility resources)"
+    ],
+    "disclaimer": "This is general home-maintenance guidance, not a substitute for your dishwasher's manual or a licensed technician; filter design, detergent, and part names vary by brand and model, so confirm against your manufacturer and, if dishes stay dirty after cleaning and reloading, have the drain, pump, or heater checked by a pro.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
+  },
+  {
     "slug": "appliances-dishwasher-not-draining",
     "system": "appliances",
     "title": "Dishwasher Won't Drain — Causes & Fixes",
@@ -824,6 +917,90 @@
     "kind": "pillar"
   },
   {
+    "slug": "appliances-gas-range-burner-wont-light",
+    "system": "appliances",
+    "title": "Gas Stove Burner Clicks But Won't Light — Causes & Fixes",
+    "question": "Why does my gas stove burner keep clicking but won't light or won't stay lit?",
+    "summary": "A gas burner that clicks but won't light (or won't stay lit) is almost always clogged or wet burner ports, a burner cap knocked out of alignment, or moisture and food on the spark igniter — usually right after cooking, a boil-over, or cleaning. These are safe to fix yourself with the burner off and cool. Leave a truly failed igniter or spark module to an appliance tech, leave anything on the gas line or valve to a licensed pro, and if you ever smell gas, stop, leave, and call your utility from outside.",
+    "commonCauses": [
+      {
+        "cause": "Clogged or wet burner ports — food debris, boil-over, or grease blocks the small gas ports around the burner head, so gas can't reach the spark or the flame won't carry all the way around. The burner clicks but won't light, or lights weakly and won't stay lit. This is the single most common cause.",
+        "likelihood": "most common",
+        "quickCheck": "Look at the ring of little ports on the burner head — crusted, greasy, or wet? A blocked port can't pass gas to the igniter."
+      },
+      {
+        "cause": "Misaligned burner cap — after cleaning, the removable cap sits off-center or tilted, so its ports don't line up with the igniter and the gas won't catch (or lights unevenly and dies).",
+        "likelihood": "common",
+        "quickCheck": "Lift the cap, set it flat and centered so it seats fully, then try again — if it lights, the cap was off."
+      },
+      {
+        "cause": "Moisture after cleaning or a boil-over — water trapped under the cap or on the ceramic igniter makes it click without sparking, so the burner won't light until it dries out.",
+        "likelihood": "common",
+        "quickCheck": "Did it stop working right after you wiped the stovetop or something boiled over? Let it air-dry (or gently blow-dry) and retry."
+      },
+      {
+        "cause": "Dirty or greasy spark igniter — the ceramic spark electrode next to the burner is soiled, so it sparks weakly (orange instead of blue-white) or not at all.",
+        "likelihood": "common",
+        "quickCheck": "In a dim kitchen, watch the spark at that burner — weak, yellow, or missing spark points to a dirty or failing igniter."
+      },
+      {
+        "cause": "Failed spark igniter, electrode, or ignition (spark) module — the part or its switch fails, so one burner won't click at all, or all burners click nonstop even with the knobs off.",
+        "likelihood": "less common",
+        "quickCheck": "Constant clicking that won't stop, or no click at all after everything is clean and dry, points to a failed switch/electrode/module — a repair, not a cleaning."
+      },
+      {
+        "cause": "Gas supply issue — the shutoff behind the range is partly closed, the propane tank is empty, or the supply is interrupted, so the burner starves.",
+        "likelihood": "less common",
+        "quickCheck": "Do the other burners light? If none of them do, check that the gas shutoff behind the range is fully open and (for propane) the tank isn't empty — other gas appliances working confirms supply is fine."
+      }
+    ],
+    "fixes": [
+      "If it stopped working right after cleaning or a spill, turn the burner off and let everything dry — wait 15-30 minutes, or gently blow-dry the burner head and igniter with a hair dryer on low, then retry. Trapped moisture is a very common and free fix.",
+      "Reseat the burner cap: once it's cool, lift it off and set it back flat, centered, and fully seated so its ports line up with the igniter. A cap knocked out of place is one of the most common 'won't light' causes.",
+      "Clean the burner ports with the burner off and cool: clear each little port with a straightened paperclip or a sewing needle/pin — avoid wooden toothpicks, which can snap off inside — and wipe grease off the burner head. Don't ream the ports larger; just clear them.",
+      "Wash the removable cap and burner head in warm soapy water, scrub the ports clean, then dry them completely before putting them back — reinstalling them wet just recreates the problem.",
+      "Gently clean around the ceramic spark igniter with a dry old toothbrush or cloth to clear off food and grease; a dirty igniter sparks weakly.",
+      "With everything dry and reassembled, watch the spark in a dim kitchen — a healthy igniter throws a strong blue-white spark. A weak, orange, or missing spark points to a failing igniter.",
+      "If only one burner won't light, the problem is that burner's cap, ports, or igniter. If none light, confirm the gas shutoff behind the range is fully open (and for propane the tank isn't empty) and that other gas appliances work.",
+      "If the burner clicks nonstop even with all knobs off, or won't spark at all after cleaning, the spark switch/electrode or ignition module has likely failed — call an appliance tech for the part swap.",
+      "If you ever smell gas: turn the burner off, do not flip switches or light anything, and open windows to ventilate. If the smell persists, leave the house and call your gas utility from outside."
+    ],
+    "diyVsPro": "DIY is fine for the whole cleaning routine on the cooktop surface — clearing the burner ports, washing and reseating the caps, drying out moisture, and brushing off the spark igniter — all with the burner off and cool. Call a licensed appliance tech to replace a failed spark igniter, electrode, or ignition module, and to diagnose a burner that clicks nonstop. Call a licensed plumber or gas fitter — never DIY — for anything on the gas supply itself: the shutoff valve behind the range, the regulator, the flexible gas connector, or converting between natural gas and propane. If you smell gas that doesn't clear after ventilating, stop and call your utility.",
+    "typicalCostUSD": "DIY: cleaning is $0-10 (paperclip, old toothbrush, dish soap). A replacement spark igniter/electrode typically runs $10-40 and a burner cap $15-40 (model-specific). Pro: an appliance repair service call is usually $90-180, with an igniter or spark-module repair landing around $150-350 total parts + labor. Gas-line, valve, or regulator work by a licensed plumber/gas fitter often runs $150-400 or more.",
+    "timeEstimate": "Reseating the cap and drying: 5-30 minutes. Cleaning ports and washing caps: 15-30 minutes. DIY spark igniter/electrode replacement: 30-60 minutes. Pro repair: usually a single 1-2 hour visit.",
+    "safetyLevel": "caution",
+    "safetyNote": "Gas is unforgiving. Clean burners only when they are off and fully cool, and never ream the ports larger. If a burner clicks with the knob on but doesn't light within a few seconds, turn it off, let the gas clear, and ventilate before trying again — don't let raw gas keep flowing or pool. Never work on the gas supply line, shutoff valve, regulator, or flexible connector yourself; that is licensed-pro work. If you smell gas (a rotten-egg odor), do not flip switches or light a flame — turn off the burner, open windows, and if the smell persists, leave the house and call your gas utility or 911 from outside.",
+    "toolsParts": [
+      "Straightened paperclip or sewing needle/pin (to clear the ports)",
+      "Soft old toothbrush",
+      "Dry cloth and paper towels",
+      "Warm water and mild dish soap (to wash caps and heads)",
+      "Hair dryer (optional, to dry the igniter and burner)",
+      "Replacement spark igniter/electrode or burner cap (model-specific, only if a part failed)",
+      "Work gloves (optional)"
+    ],
+    "searchTerms": [
+      "gas stove burner clicks but won't light",
+      "gas burner won't light after cleaning",
+      "stove clicks but no flame",
+      "gas stove burner won't stay lit",
+      "gas cooktop igniter keeps clicking",
+      "how to clean gas stove burner ports",
+      "one gas burner won't light others work",
+      "wet gas stove igniter won't spark",
+      "gas range burner not igniting"
+    ],
+    "sources": [
+      "Manufacturer use-and-care guidance (GE, Whirlpool, LG, Samsung, Bosch, Frigidaire)",
+      "Reputable DIY repair references (This Old House, Family Handyman)",
+      "CPSC / NFPA gas appliance and gas-leak safety guidance"
+    ],
+    "disclaimer": "General home-maintenance guidance, not a substitute for professional service — clean gas burners only with the burner off and cool, and leave igniter/spark-module replacement and any work on the gas line, valve, or regulator to a licensed pro. If you smell gas, stop, leave, and call your gas utility from outside.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
+  },
+  {
     "slug": "appliances-ice-maker",
     "system": "appliances",
     "title": "Ice Maker Not Working — Causes & Fixes",
@@ -904,6 +1081,169 @@
     "verified": true,
     "verifierNote": "Confirmed causes, fixes, 0°F target, and US cost ranges as accurate and safe; rebalanced likelihoods (water-supply issues are as common as a clogged filter), softened the 6-month filter rule and the \"above ~10°F\" claim to brand-dependent wording, added a \"check your manual before pressing the test button\" caveat, and reinforced that sealed-system/refrigerant work needs a licensed tech.",
     "kind": "pillar"
+  },
+  {
+    "slug": "appliances-microwave-not-heating",
+    "system": "appliances",
+    "title": "Microwave Runs but Won't Heat — Causes & Fixes",
+    "question": "Why does my microwave run and the plate keeps spinning, but my food comes out cold?",
+    "summary": "A microwave that runs — light on, fan going, plate turning — but leaves food cold has lost its high-voltage heating circuit, not its motor. The usual culprits are a burned-out magnetron, a failed high-voltage diode, or a bad door interlock switch. Here's the catch: the high-voltage capacitor inside can hold a lethal shock even after you unplug it, so internal diagnosis and repair is pro territory. On a cheap countertop unit, replacing the whole microwave is usually smarter and safer than fixing it.",
+    "commonCauses": [
+      {
+        "cause": "Burned-out magnetron — the vacuum tube that actually generates the microwaves. When it fails, everything else (turntable, light, fan, display) still runs on regular 120V, but no heat is produced. This is the most common reason for the exact 'runs but stays cold' symptom, especially on older units.",
+        "likelihood": "most common",
+        "quickCheck": "A cup of water still cold after 2 minutes on High, with the turntable, light, and fan all working normally, is the classic magnetron sign — but confirming it means opening the cabinet, which is pro territory because of the capacitor."
+      },
+      {
+        "cause": "Failed high-voltage diode (rectifier) — a cheap part that converts the transformer's output to the DC the magnetron needs. An open diode leaves the microwave running with weak or no heating, often with a loud buzzing or humming during the cycle.",
+        "likelihood": "common",
+        "quickCheck": "Same no-heat symptom but with a loud buzz or hum while running often points to the diode; a tech confirms it with a diode-test meter after discharging the capacitor."
+      },
+      {
+        "cause": "Faulty door interlock switch — several micro-switches sense that the door is fully shut. If the switch that enables the high-voltage circuit wears out or goes out of alignment, the display, light, and turntable run but the magnetron never fires.",
+        "likelihood": "common",
+        "quickCheck": "Close the door firmly and clean the latch area. If it only heats when you push the door in hard, or never heats despite latching, a worn interlock switch is likely."
+      },
+      {
+        "cause": "Open thermal cutout / thermal fuse on the magnetron — a one-time safety device that trips when the magnetron overheats, usually because the top or side vents are blocked by dust or a nearby cabinet. On many models this kills heat while the rest of the unit keeps running.",
+        "likelihood": "less common",
+        "quickCheck": "Happens after heavy use or with dust-blocked vents. Let the unit cool fully and clear the vents; if heat still doesn't return, the cutout has likely tripped permanently and needs a tech."
+      },
+      {
+        "cause": "Failed high-voltage capacitor or transformer, or a control-board relay not energizing the HV circuit. These are rarer and not testable from outside.",
+        "likelihood": "less common",
+        "quickCheck": "Suspect these only after a technician has ruled out the diode, magnetron, and door switches — they are not something to diagnose externally."
+      }
+    ],
+    "fixes": [
+      "Confirm it's really a no-heat fault with a water test: put a microwave-safe cup holding about 1 cup of water inside and run it on HIGH (power level 10) for 2 minutes. Still cold means a genuine heating fault; warm means your earlier food was just dense or cold, or the power level was set low.",
+      "Check the mode and power level. Make sure you're on full power / High, not Defrost, Low, or a delayed-start timer. Then reset a possible control glitch by unplugging the microwave for one minute and plugging it back in.",
+      "Make sure the door closes and latches fully. A door that doesn't fully engage the interlock switches will let the display and turntable run but never energize the magnetron. Wipe food debris off the latch tabs and door edge so it seats cleanly.",
+      "Verify the microwave is plugged directly into a good wall outlet at full voltage. A long extension cord, an overloaded circuit, or low line voltage can underpower the magnetron so it heats weakly or not at all. Plug straight into a known-good outlet, not a power strip.",
+      "If it still won't heat, stop here — the remaining causes are all inside the cabinet, behind a capacitor that can shock you even while unplugged. On a countertop microwave (typically $60-200 new), replacing the whole unit is usually cheaper and far safer than repairing it.",
+      "For an over-the-range or built-in microwave that's worth saving, call a licensed appliance technician. A trained tech will unplug it, safely discharge the high-voltage capacitor first, then test the HV diode, magnetron, capacitor, door interlock switches, and thermal cutout to find the failed part.",
+      "If the fault turns out to be an overheated thermal cutout, have the tech confirm the vents are clear and the unit has breathing room before fitting a new part — otherwise it will just trip again.",
+      "Never bypass, tape down, or defeat a door interlock switch to force it to run. Those switches keep microwave energy from leaking out while the door is open. A microwave that only heats with a defeated door switch must be repaired properly or retired, not used."
+    ],
+    "diyVsPro": "DIY is fine for the external checks only: the water test, confirming full-power mode, cleaning and reseating the door, verifying a good outlet, and an unplug-reset. Everything past that is inside the cabinet and is pro territory, because a microwave's high-voltage capacitor can hold a lethal charge even after it's unplugged, and the transformer runs at roughly 2,000 volts. Call a licensed appliance technician for any internal diagnosis or part replacement (magnetron, high-voltage diode, capacitor, door switches, thermal cutout) — or, for an inexpensive countertop unit, simply replace it. Do not open the cabinet unless you are trained to discharge that capacitor first.",
+    "typicalCostUSD": "DIY: $0 for the external checks. Replacing a countertop microwave outright: $60-200 (often the smart call). Pro: appliance repair service call typically $90-180; a high-voltage diode is a $5-15 part but $100-200 repaired; a magnetron is a $50-120 part, usually $150-350 total; a door interlock switch runs $80-180 total. Over-the-range or built-in microwave replacement runs $250-1000+ installed.",
+    "timeEstimate": "External checks: 10-20 minutes. Pro diagnosis and repair: usually a single 1-2 hour visit. Swapping a countertop microwave for a new one: about 15 minutes.",
+    "safetyLevel": "call-a-pro",
+    "safetyNote": "The high-voltage capacitor inside a microwave can store a LETHAL electric charge even after the unit is unplugged and left sitting — this, not the wall outlet, is what makes microwave repair dangerous. Do NOT open the cabinet unless you are trained to safely discharge that capacitor first. The HV transformer produces around 2,000 volts in use. Leave all internal diagnosis and repair to a licensed appliance technician, or just replace a low-cost unit. Never bypass, tape, or defeat the door interlock switches — they keep microwave energy from leaking while the door is open. Don't run the microwave empty, and stop using any unit that only heats when the door is pushed or a switch is held.",
+    "toolsParts": [
+      "Microwave-safe cup of water (for the heat test)",
+      "For trained/pro internal work only: insulated screwdriver plus a capacitor discharge tool (or an insulated screwdriver with a bleed resistor)",
+      "Multimeter with a diode-test setting",
+      "Nut driver / screwdriver set to open the cabinet",
+      "Replacement part, model-specific: high-voltage diode, magnetron, door interlock switch, or thermal cutout",
+      "Work gloves"
+    ],
+    "searchTerms": [
+      "microwave runs but doesn't heat",
+      "microwave turntable spins but food stays cold",
+      "why is my microwave not heating up",
+      "microwave magnetron replacement worth it",
+      "microwave high voltage diode bad",
+      "microwave buzzing not heating",
+      "is it worth repairing a microwave that won't heat",
+      "microwave capacitor discharge danger",
+      "microwave heats slowly weak power"
+    ],
+    "sources": [
+      "Manufacturer use-and-care and service guidance (Whirlpool, GE, LG, Samsung, Panasonic)",
+      "Reputable DIY repair references (This Old House, Family Handyman)",
+      "CPSC and manufacturer safety guidance on microwave high-voltage capacitor discharge and servicing"
+    ],
+    "disclaimer": "General home-maintenance guidance, not a substitute for a licensed appliance technician. A microwave's high-voltage capacitor can hold a lethal charge even when unplugged — do not open the cabinet unless trained; when in doubt, replace the unit or call a pro.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
+  },
+  {
+    "slug": "appliances-oven-not-heating",
+    "system": "appliances",
+    "title": "Oven Won't Heat or Heats Poorly — Causes & Fixes",
+    "question": "Why won't my oven heat up (or why does it barely get warm) even though the display and light still work?",
+    "summary": "An oven that won't heat or only gets warm is usually a burned-out bake/broil element (electric), a weak gas igniter that can't open the gas valve (gas), a faulty temperature sensor telling the control board to stop, or a lost leg of the 240V power on an electric oven. Element, sensor, and settings issues are cheap and often DIY on an electric oven with power confirmed off; anything gas — igniter, valve, a gas smell — and any 240V panel work goes to a licensed pro.",
+    "commonCauses": [
+      {
+        "cause": "Burned-out bake or broil heating element (electric ovens) — the coil goes open, so that element makes no heat at all. Very common; often the bake element dies while the broil element still works (or the reverse).",
+        "likelihood": "most common",
+        "quickCheck": "Turn on Bake and look: a healthy element glows bright orange evenly along its whole length within a few minutes. A break, blister, or an element that never glows is dead. If broil heats but bake doesn't, the bake element is the culprit."
+      },
+      {
+        "cause": "Weak or failed gas oven igniter (the glow-bar). The igniter must glow hot enough to draw the current that opens the gas safety valve. As it ages it weakens — it still glows dull orange but never gets hot enough to open the valve, so gas never lights: no heat, slow preheat, or weak heat.",
+        "likelihood": "most common",
+        "quickCheck": "Watch the igniter at startup. It should glow bright and the burner should light within about 90 seconds. If it glows dull for several minutes and the burner never catches (or barely does), the igniter is weak. If you smell gas at any point, stop — leave and call the utility from outside."
+      },
+      {
+        "cause": "Electric oven lost one leg of its 240V power — one half of the double-pole breaker tripped, a fuse blew, or an outlet/terminal lug burned. The clock, light, and controls run on 120V, so the panel looks alive, but the elements need the full 240V and stay cold.",
+        "likelihood": "common",
+        "quickCheck": "Display and light work but neither element gets hot? At the panel, flip the oven's double-pole breaker fully OFF then back ON. If heat doesn't return, or the breaker trips again, a lost leg or burned lug needs an electrician."
+      },
+      {
+        "cause": "Faulty oven temperature sensor (the thin metal RTD probe inside). A shorted or out-of-spec sensor tells the control board the oven is already hot, so the board never calls for heat — or cuts heat early, giving weak/inconsistent temps.",
+        "likelihood": "common",
+        "quickCheck": "With power off at the breaker and confirmed dead, test the sensor's resistance with a multimeter; many read roughly 1080-1100 ohms near room temperature, but confirm your model's spec. An open reading or a value far off spec means replace it."
+      },
+      {
+        "cause": "Control board, bake relay, or a blown thermal cutoff (fuse) — the relay that switches power to the element/valve fails, or a one-time thermal fuse opened after an overheat, so nothing gets power despite a good element or igniter.",
+        "likelihood": "less common",
+        "quickCheck": "If the element/igniter, sensor, power, and settings all check out but there's still no heat, suspect the board/relay or a blown thermal cutoff. Board diagnosis is best left to a pro; a thermal cutoff can be tested for continuity with power off."
+      },
+      {
+        "cause": "It's a setting, not a fault — a Delay-Start or timed-bake is armed, Sabbath mode is on, the control lock is engaged, or only the timer/clock was set instead of Bake. The oven waits and never heats.",
+        "likelihood": "less common",
+        "quickCheck": "Check the display for a delay/timer, Sabbath, or lock icon. Cancel everything, then explicitly select Bake at a temperature and confirm the heating indicator comes on."
+      }
+    ],
+    "fixes": [
+      "Check the free causes first. Cancel any Delay-Start or timed-bake, exit Sabbath mode, clear the control lock, and make sure you actually selected Bake at a temperature (not just the clock or timer). Confirm the oven is pushed fully in and plugged in / powered. This fixes a real share of 'dead' ovens with zero repair.",
+      "Confirm the symptom with a standalone oven thermometer: set 350F, wait 20+ minutes, and read it. This tells you whether it's truly no-heat or just weak/slow heat, which points you at the right cause.",
+      "Electric, both elements dead: at the breaker panel, flip the oven's double-pole breaker fully OFF then back ON to reset a half-tripped breaker. If heat doesn't return or the breaker trips again, stop — a lost 240V leg or a burned outlet lug is an electrician's job, not a repeated reset.",
+      "Inspect and replace the bake/broil element (electric). First switch OFF the oven's dedicated breaker and confirm it's dead with a non-contact voltage tester, then look for breaks, blistering, or burn spots and watch whether it glows evenly when powered. A bake element is a $20-60 part, usually a couple of screws and push-on terminals, and is a doable DIY swap once power is confirmed OFF. If bake is dead but broil works (or the reverse), replace the dead element.",
+      "Test or replace the temperature sensor (electric or gas control side). With the breaker off and confirmed dead, unscrew the probe from the rear wall, unplug it, and meter it (many read roughly 1080-1100 ohms near room temperature — verify your model's spec). The part runs $10-40 and swaps in minutes.",
+      "Gas oven, weak or no ignition: if the igniter glows dull and the burner is slow to light or never lights, the igniter is worn and must be replaced. The igniter sits right at the gas burner assembly next to the gas valve — have a licensed appliance technician replace it, and never loosen or disturb the gas line yourself. If you smell gas at any time, leave the house and call your gas utility from outside.",
+      "If the element/igniter, sensor, power, and settings all check out but there's still no heat, suspect the control board / bake relay or a blown thermal cutoff. These are best diagnosed by a pro; boards are model-specific and can cost as much as the repair itself.",
+      "When you're unsure or not equipped to test, call an appliance repair tech and give them the brand and full model number (on the door jamb or inside the door frame). Treat every internal gas repair as pro work."
+    ],
+    "diyVsPro": "DIY is reasonable on an electric oven once the dedicated breaker is OFF and confirmed dead with a tester: clearing settings/lock/Sabbath mode, resetting the breaker once, and swapping the bake/broil element or the temperature sensor. Call a licensed appliance pro for anything on a gas oven — a weak or failed igniter, the gas valve, or any gas smell — and call an electrician for a lost 240V leg, a burned outlet/lug, or a breaker that keeps tripping. Control board, bake relay, and thermal-cutoff diagnosis are also pro work. If the oven is gas, treat internal repairs as pro-only; if you're ever unsure whether power is truly off, stop.",
+    "typicalCostUSD": "DIY parts: standalone oven thermometer $7-15; bake or broil element $20-60; temperature sensor $10-40; gas igniter part $20-60 (but have it pro-installed). Pro: appliance service call typically $90-180, with common repairs (element, sensor, relay, board) landing $150-400 total parts + labor. Gas igniter or gas valve diagnosis and repair often $200-450+.",
+    "timeEstimate": "Settings check and thermometer test: 20-45 minutes including a full preheat-and-measure cycle. DIY element or sensor replacement: 30-60 minutes with power off and confirmed dead. Pro visit: usually 1-2 hours, sometimes a second trip if a part (board, igniter) has to be ordered.",
+    "safetyLevel": "caution",
+    "safetyNote": "Always cut power at the breaker (not just the knob or touchpad) before reaching inside an electric oven, and confirm it's dead with a non-contact voltage tester before touching any element, sensor, or wiring — electric ovens are commonly 240V, which can be lethal. Elements and the cavity stay hot long after use; let everything cool first. Never attempt repairs on a gas igniter, burner, or gas valve yourself — that goes to a licensed appliance pro. If you smell gas, do not touch switches or the oven; leave the house and call your gas utility from outside. A breaker that repeatedly trips means a wiring or short fault for an electrician, not another reset.",
+    "toolsParts": [
+      "Standalone oven thermometer",
+      "Non-contact voltage tester (to confirm power is off)",
+      "Multimeter (for testing the temperature sensor and thermal cutoff)",
+      "Nut driver / screwdriver set",
+      "Replacement bake or broil element (model-specific)",
+      "Replacement oven temperature sensor (model-specific)",
+      "Work gloves",
+      "Owner's manual for part numbers, calibration, and settings"
+    ],
+    "searchTerms": [
+      "oven not heating up",
+      "electric oven won't heat but light works",
+      "gas oven not heating but igniter glows",
+      "oven bake element not working",
+      "oven heats but not to temperature",
+      "oven no heat 240v breaker",
+      "gas oven weak igniter slow to light",
+      "oven broil works but bake doesn't",
+      "oven temperature sensor bad no heat",
+      "how to replace oven heating element"
+    ],
+    "sources": [
+      "Manufacturer use-and-care and service guidance (Whirlpool, GE, LG, Samsung, Maytag oven manuals)",
+      "Reputable DIY repair references (This Old House, Family Handyman)",
+      "Electrical and gas safety norms (breaker lockout and dead-test before service; 240V and gas work by licensed pros)",
+      "CPSC / NFPA guidance on gas appliance and combustion safety"
+    ],
+    "disclaimer": "This is general home-maintenance guidance, not a substitute for your appliance's manual or a licensed technician; sensor specs and steps vary by model, and any gas work, 240V wiring, or gas smell should be handled by a professional or your utility.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
   },
   {
     "slug": "appliances-oven-uneven-heat",
@@ -1004,6 +1344,96 @@
     "verified": true,
     "verifierNote": "Confirmed causes/fixes/costs as sound; downgraded safetyLevel from \"call-a-pro\" to \"caution\" (it contradicted the DIY-friendly content), added a confirm-dead/voltage-tester step and 240V lethality warning, generalized the element-terminal and sensor-resistance claims to avoid model-specific overconfidence, and added a voltage tester to tools.",
     "kind": "pillar"
+  },
+  {
+    "slug": "appliances-washer-leaking-water",
+    "system": "appliances",
+    "title": "Washing Machine Leaking Water — Causes & Fixes",
+    "question": "Why is my washing machine leaking water onto the floor?",
+    "summary": "A washer that leaks onto the floor usually has a loose or worn fill hose, too much detergent or too big a load (oversudsing), a torn or debris-clogged door boot on a front-loader, or a backed-up drain. Most of these are cheap DIY fixes; a tub-seal or bearing leak and control-board faults are where you call an appliance pro.",
+    "commonCauses": [
+      {
+        "cause": "Loose, worn, or split fill/supply hose connection at the back of the washer — a bad rubber washer or an old rubber hose weeps or bursts. This is the most common leak and a top cause of major home water damage.",
+        "likelihood": "most common",
+        "quickCheck": "Feel the two supply-hose connections and the hoses themselves for wetness; look for crusty mineral buildup, bulging, or cracks in old rubber hoses. A puddle mostly behind the machine points here."
+      },
+      {
+        "cause": "Oversudsing — too much detergent, non-HE detergent in a high-efficiency (HE) washer, or an overloaded drum. Excess suds and sloshing push water out past the seals.",
+        "likelihood": "common",
+        "quickCheck": "Did you use more than the marked line, or regular detergent in an HE machine? Run a rinse-only cycle; if you see a mound of suds, that is the cause."
+      },
+      {
+        "cause": "Front-loader door boot (rubber bellows) seal is torn, moldy, or trapping coins/hair/debris that break the seal so water sprays out the front during the wash.",
+        "likelihood": "common",
+        "quickCheck": "Peel back the rubber gasket and look for tears, trapped objects, or gunk. A leak that appears at the front-bottom while it is washing points here."
+      },
+      {
+        "cause": "Clogged or overwhelmed drain — a plugged standpipe, or a drain hose that is loose, cracked, or shoved airtight to the bottom of the standpipe so water backs up and overflows.",
+        "likelihood": "common",
+        "quickCheck": "Does the leak happen only during drain/spin? Watch the standpipe — if it overflows or the drain hose is wet at its connection, the drain path is the problem."
+      },
+      {
+        "cause": "Clogged coin-trap / drain-pump filter or a cracked, leaking drain pump (common on front-loaders, which have an accessible filter).",
+        "likelihood": "less common",
+        "quickCheck": "Open the small front access panel and check the pump filter for lint and coins; look for water dripping from the pump housing during the drain part of the cycle."
+      },
+      {
+        "cause": "Overfilling from a stuck water inlet valve or failed water-level (pressure) switch, or a worn tub seal/bearing leaking from the center underneath the tub.",
+        "likelihood": "less common",
+        "quickCheck": "If the tub keeps filling past normal, suspect the inlet valve or level switch. If water drips from the center-bottom of the machine (not a hose), the tub seal/bearing is likely — that is a pro job."
+      }
+    ],
+    "fixes": [
+      "Find the leak first: put dry towels down, run a short cycle, and watch exactly where and when water appears — during fill, wash, or drain/spin. The timing tells you the cause. Unplug the washer before reaching behind or under it.",
+      "Fix the detergent and load: use HE detergent (only the marked amount, often just 1-2 tablespoons) in an HE washer and stop overloading. Correct dosing stops oversudsing overflow with zero parts.",
+      "Level the machine: a washer that rocks sloshes water and walks. Adjust the leveling feet until it sits solid and level, then re-run a load.",
+      "Check and tighten the fill hoses: shut off both water supply valves, look for wet or crusty connections, make sure each fitting has a seated rubber washer, and hand-tighten plus a quarter turn. Replace old rubber hoses with braided stainless-steel ones — they are cheap insurance against a burst that floods a room.",
+      "Clean and inspect the door boot (front-loaders): peel back the rubber gasket, wipe the folds, remove coins/hair/debris, and run a clean cycle. If the boot is split or torn, replace it.",
+      "Clear the drain path: make sure the drain hose is secured and not pushed airtight to the bottom of the standpipe (it needs an air gap so it can't back-siphon). Snake the standpipe if water backs up during drain.",
+      "Clean the drain-pump filter / coin trap (front-loaders): open the small front access panel, set a shallow pan and towels underneath, unscrew the filter to clear lint and coins, then reseat it snugly.",
+      "If it overfills or a part has failed: with the washer unplugged and water off, test and replace the water inlet valve or the water-level (pressure) switch. These take a multimeter and some disassembly but are within reach of a confident DIYer.",
+      "If water drips from the center underneath the tub (tub seal/bearing), if the control board is suspected, or if you simply cannot find the source, stop and call an appliance technician."
+    ],
+    "diyVsPro": "DIY-safe: hunting down the leak, fixing detergent dose and load size, leveling the machine, tightening or replacing the fill hoses and their washers, cleaning the door boot, clearing the drain and standpipe, and cleaning the drain-pump filter. A confident DIYer can also replace a torn door boot, a drain pump, a water inlet valve, or a level switch after unplugging the machine and shutting off the water. Call a licensed appliance pro for a tub-seal or bearing leak (a major teardown that often costs more than an old machine is worth), a control-board fault, or any time you cannot isolate the source or are not comfortable working around water and power together.",
+    "typicalCostUSD": "DIY parts: braided stainless-steel fill hoses $10-25 a pair; rubber hose washers $2-5; HE detergent a few dollars; front-load door boot gasket $30-120; drain pump $30-90; water inlet valve $20-60; water-level/pressure switch $15-50. Pro: service call $90-160; common repair $150-400 total including parts; tub seal/bearing replacement $300-500+, which may not be worth it on an older washer.",
+    "timeEstimate": "Leak-hunting 15-30 min; detergent/leveling/hose fixes 15-40 min; door-boot cleaning ~15 min, full boot replacement 1-2 hrs; clearing a drain or standpipe 30-60 min; pump-filter cleaning 15-30 min; pro visit 1-2 hrs, sometimes a second trip if a part must be ordered.",
+    "safetyLevel": "caution",
+    "safetyNote": "Unplug the washer and shut off both water supply valves before working on hoses, the pump filter, or any internal part — water and electricity together is a shock and slip hazard. Mop up standing water before you start, and if water has pooled near the outlet or power cord, cut power at the breaker before you step in. A washer runs on a standard 120V outlet (no gas or 240V involved here), but a wet floor around a plugged-in appliance can still shock you. Don't overtighten plastic hose fittings — snug plus a slight turn is enough, or you can crack them. Leave tub-seal/bearing teardown and control-board work to a licensed appliance pro.",
+    "toolsParts": [
+      "Braided stainless-steel fill hoses (to replace old rubber ones)",
+      "New rubber hose washers",
+      "Channel-lock or adjustable pliers",
+      "Bucket, shallow pan, and towels",
+      "Flashlight",
+      "Bubble/spirit level",
+      "Replacement front-load door boot gasket (if torn)",
+      "Drain snake or auger",
+      "HE (high-efficiency) detergent",
+      "Multimeter (to test the inlet valve or level switch)",
+      "Replacement drain pump, water inlet valve, or level switch (only if a part has failed)"
+    ],
+    "searchTerms": [
+      "washing machine leaking water from bottom",
+      "washer leaking water on floor",
+      "front load washer leaking from door",
+      "washing machine leaking during spin cycle",
+      "why is my washer leaking too much detergent suds",
+      "washer fill hose leaking or burst",
+      "washing machine drain overflow standpipe",
+      "washer leaking when draining",
+      "front load washer door boot seal replacement",
+      "how to find where my washer is leaking"
+    ],
+    "sources": [
+      "Manufacturer use-and-care guides (Whirlpool, LG, Samsung, GE, Maytag)",
+      "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+      "Appliance repair references and parts retailers (e.g., RepairClinic, Sears PartsDirect)",
+      "Detergent-maker HE-detergent dosing guidance (to avoid oversudsing)"
+    ],
+    "disclaimer": "This is general home-maintenance guidance, not a substitute for your washer's manual or a licensed technician; parts, layouts, and steps vary by brand and model, so always unplug the machine and shut off the water before servicing and hire a pro when in doubt.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
   },
   {
     "slug": "appliances-washer-wont-spin",
@@ -2629,6 +3059,97 @@
     "kind": "pillar"
   },
   {
+    "slug": "exterior-ice-dam-prevention",
+    "system": "exterior",
+    "title": "Ice Dams at the Roof Eaves — Causes & Fixes",
+    "question": "Why do ice dams keep forming at my roof eaves and leaking into the house, and how do I prevent them?",
+    "summary": "Ice dams form when heat escaping into the attic melts snow on the upper roof, and that water runs down and refreezes at the cold eave into a ridge of ice that backs water up under the shingles and into the house. The lasting fix is keeping the attic cold — air-seal and insulate the attic floor and keep the roof vented; removing a dam that is already leaking means roof-height, on-ice work, which is where you call a pro.",
+    "commonCauses": [
+      {
+        "cause": "Warm air leaking from the living space up into the attic (around the attic hatch, plumbing stacks, chimneys, top plates, and wiring/pipe penetrations) heats the roof deck and melts the snow above it. This is the real root cause of most ice dams.",
+        "likelihood": "most common",
+        "quickCheck": "On a cold day, feel for drafts around the attic hatch and penetrations, and look for dark, dirty streaks in the insulation — dust filtered out by escaping warm air marks the leak paths."
+      },
+      {
+        "cause": "Too little attic-floor insulation, so heat from the house conducts straight up and warms the roof.",
+        "likelihood": "most common",
+        "quickCheck": "Measure the insulation depth: if the floor joists poke above the insulation or you have less than roughly 10–14 in of blown insulation, you are below the recommended level for a cold climate."
+      },
+      {
+        "cause": "Blocked or missing soffit/ridge ventilation, so the roof deck cannot stay uniformly cold and flush away any heat that gets in.",
+        "likelihood": "common",
+        "quickCheck": "From the ground, check that soffit vents are not painted over or stuffed with insulation; a roof that melts off in fast patches while neighbors' roofs stay snow-covered is signaling heat loss."
+      },
+      {
+        "cause": "Recessed can lights, uninsulated or leaky attic ductwork, and bath/kitchen fans dumping heat (and moist air) directly into the attic.",
+        "likelihood": "common",
+        "quickCheck": "In the attic, look for recessed housings with no airtight cover, crushed or bare flex duct, and a bathroom fan that blows into the attic instead of out through the roof or wall."
+      },
+      {
+        "cause": "Complex roof geometry — long overhangs, valleys, dormers, and low-slope or north-facing sections where the eave runs far colder than the heated field above it.",
+        "likelihood": "less common",
+        "quickCheck": "Note where the ice ridges and icicles recur each winter; if it is always at the same eaves, valleys, or over a porch/addition, geometry is a driver you can't easily change."
+      },
+      {
+        "cause": "Heavy snow plus repeated freeze–thaw weather on a roof that has no self-adhering ice-and-water shield membrane under the eave shingles.",
+        "likelihood": "less common",
+        "quickCheck": "After a snow-then-freeze cycle, look for a thick ice ridge at the eave with icicles, plus interior water stains near exterior walls — no eave membrane means any backup can reach the decking."
+      }
+    ],
+    "fixes": [
+      "After each big storm, safely pull the snow off the lower 3–4 ft of roof with a telescoping roof rake while standing on the ground — removing the snow that feeds the dam. Never get on a ladder or onto the roof to do this, and keep the metal rake well clear of overhead power lines.",
+      "For a dam that is leaking right now, melt a drain channel instead of chopping: fill a nylon stocking or pantyhose leg with calcium chloride ice melt and lay it across the dam so meltwater can run off the roof. Use calcium chloride, not rock salt (sodium chloride) — rock salt corrodes gutters/flashing and kills plants. Never hack at the ice with a hatchet, axe, or hammer; you will wreck the shingles and can fall.",
+      "Cut the heat feeding the attic from inside the house: weatherstrip and insulate the attic hatch/pull-down stairs, and avoid running top-floor recessed lights hot for long stretches.",
+      "The real fix — air-seal the attic floor: from inside the attic, seal every warm-air leak (top plates, wiring/plumbing penetrations, the hatch) with caulk and canned spray foam, and seal the gap around a masonry chimney or metal flue with sheet-metal flashing and high-temperature fire-block sealant, never regular foam. This is the highest-leverage DIY step because it stops the heat that melts the snow.",
+      "Add attic-floor insulation up to the recommended level for your climate (roughly R-49 to R-60 in cold zones) so the attic stays cold. Important: only bury recessed lights rated IC (Insulation Contact); keep a non-IC can 3 in clear or cap it with an airtight cover box first — burying a non-IC fixture is a fire hazard.",
+      "Restore ventilation: install rafter baffles (vent chutes) at the eaves so soffit vents can draw cold air in, and pair them with ridge or upper vents so the deck stays uniformly cold. Do not let insulation block the soffit vents.",
+      "Redirect heat and moisture out of the attic: duct bath and kitchen fans fully to the outside (not into the attic), and seal and insulate any HVAC ducts running through the attic.",
+      "As a stopgap on a chronic problem eave or valley, install UL-listed roof/gutter de-icing heat cables on a GFCI-protected circuit to keep a drain path open — but treat it as a band-aid that burns electricity, not a substitute for air-sealing and insulation.",
+      "When you re-roof, have the roofer install a self-adhering ice-and-water shield membrane at the eaves (from the edge to at least 24 in inside the warm exterior-wall line, or per your local code) so any future ice backup can't leak into the house."
+    ],
+    "diyVsPro": "DIY is reasonable for the prevention and low-risk work: raking snow off the lower roof from the ground, laying a calcium-chloride sock on an active dam, air-sealing and adding insulation in an accessible attic, keeping soffit vents clear, and weatherstripping the attic hatch. Call a pro for anything that puts you at roof height or on the ice: removing an established, already-leaking dam (hire a company that uses low-pressure roof STEAM — never a pressure washer, never chipping), cutting in new soffit or ridge vents, dense-pack or spray-foam insulation jobs, chimney flashing, and installing ice-and-water shield during a re-roof. If dams keep coming back despite raking, get an energy audit or insulation contractor to find and seal the heat leaks. Never climb your own ladder onto a snowy or icy roof — that is the injury that sends people to the ER every winter.",
+    "typicalCostUSD": "DIY: roof rake $30–70; calcium chloride ice melt $15–30/bag; caulk and spray foam for attic air-sealing $50–150; rafter vent baffles $2–4 each; attic-hatch weatherstrip/insulation kit $20–60; DIY blown-in attic insulation materials/rental roughly $500–1,500; heat cables $50–200 per run in materials. Pro: energy audit $200–600 (often utility-rebated); attic air-seal + insulation upgrade $1,500–4,000+; steam removal of an active ice dam roughly $400–1,500 per visit; heat-cable install $400–1,000+; ice-and-water shield added during a re-roof (bundled into the roofing cost).",
+    "timeEstimate": "Roof raking after a storm: 30–60 min. Laying a calcium-chloride sock on a dam: 15–30 min. Air-sealing an accessible attic: a weekend (4–8 hrs). Adding insulation: half a day to a day. Pro air-seal/insulation: about 1 day. Pro steam removal: 1–4 hrs.",
+    "safetyLevel": "call-a-pro",
+    "safetyNote": "The dangerous part is removing an ice dam, not preventing one. Never get on a ladder or onto a snowy, icy roof — falls and falling ice cause serious injuries every winter, and a metal roof rake that touches an overhead power line or service drop can electrocute you, so keep the rake well clear of all wires. Never chop, chip, or hammer at the ice with a hatchet, axe, or hammer: you'll destroy the shingles you're trying to protect and can fall. For a dam that is already leaking, hire a pro who uses low-pressure steam, not a pressure washer. Do the air-sealing and insulation from inside the attic, wear eye protection and a dust mask, and only bury recessed lights rated for insulation contact (IC) — burying a non-IC can is a fire hazard. If you use heat cables, plug them into a GFCI-protected outlet.",
+    "toolsParts": [
+      "Telescoping roof rake (used from the ground)",
+      "Calcium chloride ice melt (not rock salt)",
+      "Nylon stockings or pantyhose (to hold the ice melt)",
+      "Caulk gun and acoustical/fire-block caulk",
+      "Cans of expanding spray foam (plus high-temp fire-block foam/sealant for around flues)",
+      "Sheet-metal flashing for the chimney/flue gap",
+      "Attic-floor insulation (blown-in or batts)",
+      "Rafter vent baffles / insulation chutes",
+      "Weatherstrip and rigid foam for the attic hatch",
+      "IC-rated recessed housings or airtight recessed-light cover boxes",
+      "UL-listed roof/gutter heat cables (optional stopgap)",
+      "Headlamp, work gloves, safety glasses, and a dust mask/respirator for attic work"
+    ],
+    "searchTerms": [
+      "how to prevent ice dams",
+      "ice dam roof leak",
+      "roof rake for ice dams",
+      "calcium chloride ice dam sock",
+      "attic insulation to stop ice dams",
+      "how to get rid of an ice dam",
+      "ice dam removal cost",
+      "why do ice dams form",
+      "heat cables for ice dams",
+      "ice and water shield eaves"
+    ],
+    "sources": [
+      "Building-science and energy guidance (U.S. Dept. of Energy / ENERGY STAR on attic air-sealing, insulation, and ventilation)",
+      "Reputable DIY references (This Old House / Family Handyman)",
+      "Building-code norms (IRC ice-barrier/underlayment and attic ventilation/insulation requirements)",
+      "Home-safety and property-insurer guidance (ladder/fall safety and ice-dam prevention bulletins)"
+    ],
+    "disclaimer": "This is general home-maintenance guidance, not a substitute for an on-site inspection; roofs, attics, and local codes vary, so verify insulation levels and eave-membrane requirements against your local code and prioritize your safety over any DIY fix — if the work involves the roof, height, or ice, hire a licensed professional.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
+  },
+  {
     "slug": "exterior-roof-leak",
     "system": "exterior",
     "title": "Why Your Roof Is Leaking — Causes & Fixes",
@@ -3129,6 +3650,90 @@
     "kind": "pillar"
   },
   {
+    "slug": "hvac-furnace-blowing-cold-air",
+    "system": "hvac",
+    "title": "Furnace Blowing Cold Air — Causes & Fixes",
+    "question": "Why is my furnace blowing cold air instead of heat?",
+    "summary": "A furnace blowing cold air is most often just the thermostat fan set to ON instead of AUTO — the blower then runs nonstop and pushes room-temperature air between heating cycles, which feels cold. The next likely culprits are a dirty filter overheating the unit into a safety (limit) shutdown, or an ignition/pilot/flame-sensor fault that lets the blower run while the burner isn't lit. The fan and filter fixes are free-to-cheap DIY; gas, ignition, and combustion problems are where you call a licensed HVAC pro.",
+    "commonCauses": [
+      {
+        "cause": "Thermostat fan set to ON instead of AUTO — the blower runs continuously, so between heating cycles it pushes unheated, room-temperature air that feels cold. The single most common reason for this exact complaint.",
+        "likelihood": "most common",
+        "quickCheck": "Check the thermostat fan switch: if it's on ON, the air feels cold only between cycles while the house still slowly warms. Switch it to AUTO and see if the cold-air-between-cycles stops."
+      },
+      {
+        "cause": "Clogged air filter choking airflow, so the heat exchanger overheats and the high-limit switch shuts the burner off — but the blower keeps running to cool it down, blowing cold air out the vents.",
+        "likelihood": "most common",
+        "quickCheck": "Pull the filter; if you can't see light through it, it's too dirty. Classic pattern: warm air briefly, then it turns cold and cycles that way."
+      },
+      {
+        "cause": "Thermostat set wrong, dead batteries, or not actually calling for heat (set to COOL/OFF or setpoint below room temp), so the burner never fires.",
+        "likelihood": "common",
+        "quickCheck": "Confirm mode is HEAT and the setpoint is 5+ degrees above room temp; if the display is blank or dim, replace the batteries and wait a minute for a click or call for heat."
+      },
+      {
+        "cause": "Pilot light out (older standing-pilot units) or a failed hot-surface igniter / dirty flame sensor (newer units) — the burner won't light or won't stay lit, so the blower moves cold air.",
+        "likelihood": "common",
+        "quickCheck": "On older units, look through the window for a small pilot flame. On newer ones, watch startup: a glow or clicks with no sustained flame, or a flame that lights then dies in a few seconds, points to ignition/flame-sensor trouble."
+      },
+      {
+        "cause": "Condensate drain clogged on a high-efficiency (condensing) furnace, tripping the float safety switch and locking out the burner while the blower still runs.",
+        "likelihood": "less common",
+        "quickCheck": "Look for standing water in the drain pan or a full condensate trap near a 90%+ efficiency furnace."
+      },
+      {
+        "cause": "No gas supply, a closed gas shutoff, or a component failure (gas valve, control board, igniter) — the fan can run while the burner gets no fuel or no fire command.",
+        "likelihood": "less common",
+        "quickCheck": "Confirm other gas appliances (stove, water heater) still work and the furnace gas shutoff is in-line (parallel) with the pipe; if all the above check out and it's still cold, it needs a tech with a meter."
+      }
+    ],
+    "fixes": [
+      "Set the thermostat fan from ON to AUTO. On AUTO the blower runs only when the air is actually heated, so you stop feeling cool air between cycles. This is free and fixes a large share of 'blowing cold air' complaints on its own.",
+      "Confirm the thermostat is on HEAT with the setpoint at least 5 degrees above the current room temperature; if the screen is blank or dim, install fresh batteries and wait a minute for the call for heat.",
+      "Replace the air filter with the correct size (printed on the old filter's edge). A choked filter overheats the furnace and forces the limit shutdown that blows cold air — swap 1-inch filters every 1-3 months in heating season.",
+      "Walk the house and open every supply register and clear furniture, rugs, and boxes off the supply and return vents so the furnace can move air freely and doesn't overheat.",
+      "Make sure the furnace's on/off switch (looks like a light switch on or beside the unit) is ON and the front access panel is fully closed and latched — a loose panel trips the door safety switch. If an HVAC/furnace breaker is tripped, reset it ONCE; if it trips again immediately, stop and call a pro (that's an electrical fault, not a nuisance trip).",
+      "On a high-efficiency (condensing) furnace, check the condensate drain and pan; if water is backed up, clear the line with a wet/dry vac or brush so the float switch resets.",
+      "On an older standing-pilot furnace, relight the pilot ONLY by following the printed instructions on the unit's label exactly. Do NOT make repeated attempts — if it won't light or won't stay lit, stop and call a pro (thermocouple/gas issue).",
+      "Verify the gas is on: the shutoff handle at the furnace should be in-line (parallel) with the pipe, and confirm your other gas appliances still work.",
+      "If it still blows cold after these checks — or it ignites then goes cold, clicks without firing, or the burner won't stay lit — call a licensed HVAC technician for the igniter, flame sensor, gas valve, or control board."
+    ],
+    "diyVsPro": "DIY is genuinely safe for the common fixes here: switching the fan to AUTO, checking thermostat mode/batteries, changing the filter, opening and clearing vents, reseating the access panel, confirming the power switch, resetting a tripped breaker once, and clearing a condensate drain. Call a licensed HVAC pro for anything involving the gas valve or gas piping, a pilot that won't stay lit, hot-surface igniter or flame-sensor replacement, blower or control-board failure, a breaker that trips repeatedly, or any gas smell — these involve natural gas, 120/240V wiring, and combustion safety that need training and tools.",
+    "typicalCostUSD": "DIY parts: air filter $5-25, thermostat batteries ~$5, new programmable thermostat $25-180, condensate line clearing ~$0. Pro repairs: service call/diagnostic $80-200; flame sensor clean/replace $80-250; hot-surface igniter $150-400; gas valve $300-800; blower motor $400-900; control board $300-700. If an old furnace is failing outright, full replacement runs $3,000-7,500+ (high-efficiency higher).",
+    "timeEstimate": "Fan setting, thermostat, and filter checks: 5-20 minutes. Clearing a condensate drain: 15-30 minutes. A pro diagnostic visit is typically 1-2 hours, and most common part repairs are done the same visit.",
+    "safetyLevel": "caution",
+    "safetyNote": "The most common fix here — switching the thermostat fan to AUTO — is completely safe and free, and the filter, vent, thermostat, panel, and condensate checks are safe DIY. But this is still a gas appliance: if you smell gas (rotten-egg odor) or hear hissing, do NOT touch switches or relight anything — leave the house and call your gas utility's emergency line or 911 from outside. Furnaces produce carbon monoxide, so keep a working CO detector. Never make repeated ignition attempts (they can flood the chamber with gas), and don't keep resetting a breaker or safety lockout that trips again — the control is tripping for a reason. Leave the gas valve, gas line, igniter/flame sensor, blower, control board, and any combustion work to a licensed HVAC technician.",
+    "toolsParts": [
+      "Replacement air filter (correct size)",
+      "Fresh thermostat batteries (usually AA or AAA)",
+      "Flashlight",
+      "Screwdriver or 1/4-inch nut driver (for the access panel)",
+      "Wet/dry vac or brush (for the condensate line)",
+      "Working carbon monoxide detector"
+    ],
+    "searchTerms": [
+      "furnace blowing cold air",
+      "why is my furnace blowing cold air",
+      "furnace blows warm then cold air",
+      "heater blowing cold air",
+      "furnace blowing cold air when set to heat",
+      "thermostat fan on or auto",
+      "furnace fan running but no heat",
+      "furnace blowing cold air intermittently",
+      "gas furnace blowing cold air"
+    ],
+    "sources": [
+      "Manufacturer furnace operation and troubleshooting labels/manuals (e.g., Carrier, Trane, Lennox, Goodman)",
+      "Reputable DIY home-maintenance references (This Old House, Family Handyman)",
+      "General gas-appliance and carbon-monoxide safety guidance (CPSC / U.S. Fire Administration)",
+      "Utility company gas-safety guidance"
+    ],
+    "disclaimer": "This guide is general home-maintenance information, not professional advice for your specific equipment; because furnaces involve natural gas, high-voltage electricity, and carbon monoxide, follow your unit's manual and call a licensed HVAC professional for any gas, ignition, or combustion issue.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
+  },
+  {
     "slug": "hvac-furnace-no-heat",
     "system": "hvac",
     "title": "Furnace Not Heating? Causes & Fixes Before You Call a Pro",
@@ -3304,6 +3909,178 @@
     "verified": true,
     "verifierNote": "Confirmed causes/costs/safety are accurate and correctly set to call-a-pro for this gas appliance; replaced the steel-wool flame-sensor advice (sheds conductive fibers) with fine emery cloth/400-grit/Scotch-Brite plus a no-coarse-abrasive warning, clarified cycle-rate vs. anticipator, and strengthened the \"don't flip switches if you smell gas\" and gas-shutoff wording.",
     "kind": "pillar"
+  },
+  {
+    "slug": "hvac-heat-pump-not-heating",
+    "system": "hvac",
+    "title": "Heat Pump Runs But Won't Heat the House — Causes & Fixes",
+    "question": "Why is my heat pump running but blowing cold air and not heating the house?",
+    "summary": "A heat pump that runs but blows cool air is very often working normally — either in its defrost cycle or just delivering the mild air heat pumps make (supply air is typically ~90-100°F: warm, but cooler than a gas furnace, so it can feel lukewarm). Real faults are usually a dirty filter or blocked airflow, an outdoor unit iced solid from a failed defrost, a stuck reversing valve, or low refrigerant. Filters, thermostat settings, and clearing snow are safe DIY; refrigerant, the reversing valve, 240V backup heat strips, and the breaker panel are pro-only.",
+    "commonCauses": [
+      {
+        "cause": "Normal defrost cycle — in cold weather frost builds on the outdoor coil, so the unit periodically reverses to cooling for a few minutes to melt it. During defrost the outdoor fan stops, the unit may steam, and indoor air can blow cool. This is the single most common reason people think a heat pump is 'broken' when it isn't.",
+        "likelihood": "most common",
+        "quickCheck": "Happens intermittently in cold/damp weather, the outdoor unit is steaming with its fan stopped, and warm air returns on its own within about 5-15 minutes."
+      },
+      {
+        "cause": "Wrong thermostat settings — fan set to 'On' (blows unheated air between cycles so it feels cold), system left on 'Cool', setpoint below room temp, or stuck on 'Emergency Heat.' Em Heat shuts the compressor off and runs only the expensive electric backup, which also masks a failing heat pump.",
+        "likelihood": "common",
+        "quickCheck": "Confirm the thermostat is on 'Heat' (not Cool or Em Heat), fan on 'Auto' (not On), and the setpoint is a few degrees above the current room temperature."
+      },
+      {
+        "cause": "Dirty filter or blocked airflow — a clogged filter or dirty indoor coil starves the air handler, cutting heat output and often icing the coil so the system runs constantly but never warms the house.",
+        "likelihood": "common",
+        "quickCheck": "Pull the air filter — if it's gray and caked, that's your restriction. Also check that supply registers and the return grille aren't blocked by furniture or rugs."
+      },
+      {
+        "cause": "Outdoor unit iced over / defrost system failure — a failed defrost control board, sensor, or a low charge lets the outdoor coil freeze into a solid block of ice, blocking airflow so the unit can no longer pull heat from outside.",
+        "likelihood": "common",
+        "quickCheck": "The outdoor coil is encased in thick ice that never clears between cycles (not just light frost that melts during defrost)."
+      },
+      {
+        "cause": "Stuck reversing valve — the valve that switches refrigerant flow between heating and cooling is stuck (or its solenoid failed) in the cooling position, so the system blows cold air even when it should be heating.",
+        "likelihood": "less common",
+        "quickCheck": "Only cold air from the vents in heat mode, well after any defrost should have finished — needs a pro with gauges to confirm; not a DIY test."
+      },
+      {
+        "cause": "Low refrigerant from a leak — an undercharged system can't move enough heat, giving weak, barely-warm air, long run times, and coil icing. Refrigerant is a sealed, EPA-regulated system.",
+        "likelihood": "less common",
+        "quickCheck": "Weak heat plus visible coil icing, hissing/bubbling near the lines, or oily residue at fittings — diagnosis and recharge require an EPA-certified tech."
+      }
+    ],
+    "fixes": [
+      "Don't panic at cold air in cold weather — let a defrost cycle finish. Wait 10-15 minutes and see if warm air returns on its own before assuming a fault. Resist flipping to Emergency Heat, which just runs the expensive backup and hides the real issue.",
+      "Check the thermostat first: set it to 'Heat' (not Cool or Em Heat), the fan to 'Auto' (not 'On'), and the setpoint a few degrees above room temperature. Leaving the fan on 'On' is the most common 'blowing cold' false alarm.",
+      "Replace the air filter with the correct size and airflow rating, then check it every 1-3 months. A clogged filter is the cheapest and most common real cause of weak heat and coil icing.",
+      "Clear the outdoor unit: remove snow, leaves, and debris, and keep 18-24 inches of clearance on all sides plus overhead. Melt light ice with lukewarm (never boiling) water — never chip it with a screwdriver or ice pick, which can puncture the coil or bend the fins.",
+      "If the outdoor coil is iced solid and won't clear, switch the thermostat to Emergency Heat to keep the house warm and call an HVAC tech — a repeatedly icing unit usually means a failed defrost control, sensor, or low charge.",
+      "Check power: many heat pumps have two disconnects/breakers (indoor air handler and outdoor unit). Reset a tripped breaker once. If it trips again, stop and call a pro — a repeat trip signals a fault, not a nuisance.",
+      "Gently clean the outdoor and indoor coils if they're dirty — power off at the disconnect first, and rinse the outdoor coil from the inside out with a hose or use a foaming coil cleaner and a soft fin brush. If you're not comfortable opening the unit, have a pro do it during a tune-up.",
+      "No warm air even after defrost should be done, or weak heat with icing: leave reversing-valve and refrigerant diagnosis to an HVAC tech. Adding refrigerant is not DIY — U.S. law requires EPA Section 608 certification, and 'just topping it off' ignores the leak that caused it.",
+      "Backup heat not kicking in (electric heat strips, or the gas furnace in a dual-fuel system): hand this to a licensed pro. Electric heat strips run on 240V, and gas backup involves combustion — both carry real shock/fire risk."
+    ],
+    "diyVsPro": "DIY is fine for waiting out a defrost cycle, fixing thermostat settings, replacing the air filter, clearing snow and light ice from the outdoor unit, gently cleaning coils with the power off, and resetting a tripped breaker once. Call a licensed HVAC pro for anything involving refrigerant (leaks, low charge, recharge — legally requires EPA 608 certification), a stuck or failed reversing valve, a failed defrost control board or sensor, a unit that keeps icing solid, 240V electric backup heat strips, gas backup in a dual-fuel system, or a breaker that trips more than once. In short: airflow, settings, and snow are yours; the sealed refrigerant system, 240V, gas, and the breaker panel belong to a pro.",
+    "typicalCostUSD": "DIY: air filter $10-40; foaming coil cleaner and a fin brush/comb $10-30; clearing snow and ice $0. Pro: HVAC diagnostic/service call typically $80-200. Common repairs — defrost control board or sensor $200-600; run/start capacitor $150-400; refrigerant leak repair plus recharge $200-1,500+ depending on the leak and refrigerant type; reversing valve replacement $600-1,500+ (labor-heavy, requires refrigerant recovery); electric heat strip replacement $200-600. Larger compressor or system faults run higher.",
+    "timeEstimate": "Waiting out a defrost cycle: 5-15 minutes. Thermostat check: 5 minutes. Filter swap: 5 minutes. Clearing snow/ice and keeping clearance: 15-30 minutes. DIY coil cleaning: 30-60 minutes. Pro diagnostic visit: usually 1-2 hours; reversing valve or refrigerant repairs can take a half day.",
+    "safetyLevel": "caution",
+    "safetyNote": "The headline fixes — waiting out defrost, thermostat settings, filter changes, and clearing snow — are safe DIY. Always cut power at the disconnect or breaker before opening or reaching into the outdoor unit; the fan and 240V components can injure you. Never chip ice off the coil with a sharp tool — a punctured coil means a refrigerant leak and a big repair. Do NOT open or add to the refrigerant system: U.S. law (EPA Section 608) requires certification, and refrigerant can cause frostbite and displace oxygen. Leave 240V electric heat strips, the breaker panel, the reversing valve, and any refrigerant work to a licensed pro. A breaker that trips repeatedly means a fault — call a pro, don't keep resetting it. For dual-fuel systems with a gas furnace backup: if you smell gas, leave the house and call your gas utility from outside.",
+    "toolsParts": [
+      "Correct-size replacement air filter",
+      "Garden hose or foaming HVAC coil cleaner",
+      "Soft coil/fin brush and fin comb",
+      "Screwdriver / nut driver set",
+      "Soft broom or brush for clearing snow",
+      "Work gloves",
+      "Thermostat and system owner's manuals (for defrost and Em Heat behavior)"
+    ],
+    "searchTerms": [
+      "heat pump blowing cold air in heat mode",
+      "heat pump running but not heating house",
+      "heat pump frozen outside unit in winter",
+      "heat pump defrost mode blowing cold air",
+      "when to use emergency heat on a heat pump",
+      "heat pump reversing valve stuck",
+      "heat pump low on refrigerant no heat",
+      "heat pump air not hot enough from vents",
+      "heat pump aux heat not coming on"
+    ],
+    "sources": [
+      "Manufacturer use-and-care / installation guidance (Carrier, Trane, Lennox, Goodman, Mitsubishi)",
+      "Reputable DIY references (This Old House, Family Handyman)",
+      "ENERGY STAR / U.S. Department of Energy heat pump operation guidance",
+      "EPA Section 608 refrigerant handling requirements"
+    ],
+    "disclaimer": "General home-maintenance guidance, not a substitute for professional HVAC diagnosis; always cut power before servicing the unit, and leave refrigerant, reversing-valve, 240V backup-heat, and gas work to a licensed professional.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
+  },
+  {
+    "slug": "hvac-musty-smell-from-vents",
+    "system": "hvac",
+    "title": "Musty or Dirty-Sock Smell From the AC Vents — Causes & Fixes",
+    "question": "Why does my air conditioner smell musty, moldy, or like dirty socks when it turns on, and how do I get rid of it?",
+    "summary": "A musty, moldy, or \"dirty-sock\" smell that hits when the AC kicks on is almost always mold, mildew, and bacteria growing inside the cool, damp part of the system — on the wet evaporator coil, in standing water in the drain pan, or on a dirty air filter. A fresh filter, a cleared condensate drain, cleaning the accessible coil, and lowering indoor humidity fix most cases. A deep chemical coil cleaning, a UV germicidal light, and duct-mold work are the pro-only steps. The smell itself is a comfort and air-quality issue, not usually a safety emergency — but a rotten-egg or sulfur smell is different and could be a gas leak.",
+    "commonCauses": [
+      {
+        "cause": "Mold and bacteria (biofilm) on the evaporator coil — the classic 'dirty sock syndrome.' The coil is cold and wet whenever the AC runs, so microbes grow on it and release the musty/sour smell that is strongest right when the blower starts.",
+        "likelihood": "most common",
+        "quickCheck": "Is the smell worst in the first minute after the AC or heat pump kicks on, then fade as it runs? That startup timing points straight at the coil."
+      },
+      {
+        "cause": "Standing water and slime in the drain pan / clogged condensate line. Algae plugs the drain, so the water the coil sheds sits in the pan and breeds mold instead of draining away.",
+        "likelihood": "most common",
+        "quickCheck": "Open the air-handler access panel (power off) and look at the pan: standing water, black slime, or little/no flow at the outdoor drain end means a clogged, stagnant drain."
+      },
+      {
+        "cause": "Dirty, damp air filter. A clogged filter traps moisture, dust, and organic matter and cuts airflow, which keeps the coil colder and wetter — a perfect mold farm you smell on every cycle.",
+        "likelihood": "common",
+        "quickCheck": "Pull the filter. If it's gray, grimy, damp, or itself smells musty, it's overdue and likely part of the problem."
+      },
+      {
+        "cause": "High indoor humidity or an oversized / short-cycling AC that never dries the coil. The unit cools fast, shuts off, and the coil stays wet between cycles instead of drying, so mold thrives.",
+        "likelihood": "common",
+        "quickCheck": "Is the house clammy or over ~55-60% relative humidity, or does the AC run in very short bursts? Check with a cheap hygrometer."
+      },
+      {
+        "cause": "Mold or mildew in the ductwork itself, from past condensation or a leak, so the smell rides the airflow into every room.",
+        "likelihood": "less common",
+        "quickCheck": "Does the musty smell come equally from all vents (not just tied to coil startup), or do you see dark spots at the register grilles? That suggests the ducts, not just the coil."
+      },
+      {
+        "cause": "Dry or biofilm-fouled condensate P-trap. A dry trap can let sewer-style odor back up the drain line; a slimy one adds to the musty smell.",
+        "likelihood": "less common",
+        "quickCheck": "If the odor is more sewage-like than musty and there's a condensate trap that may have dried out, pour water into it to reseal and see if it improves."
+      }
+    ],
+    "fixes": [
+      "Replace the air filter with a fresh, correct-size one. This is the cheapest, highest-payoff step: it removes a moldy surface and restores airflow so the coil can dry. Match the size printed on the old filter and use a MERV rating your system is rated for (a too-restrictive filter can worsen airflow).",
+      "Before opening anything, shut the system off at the thermostat AND at the air-handler/furnace breaker or switch, and confirm it's off. You'll be working near electrical components and the blower.",
+      "Clear the drain pan and condensate line: vacuum standing water and slime from the pan with a wet/dry vac, then suck out or flush the drain line from the outdoor end. Pour a cup of distilled white vinegar (or a condensate treatment tablet) into the access port to kill the algae. A draining, dry pan stops the mold from re-brewing.",
+      "Clean the accessible evaporator coil with a no-rinse foaming evaporator-coil cleaner: with power off and the access panel open, spray the reachable coil per the can's directions and let it foam and drain out through the condensate line. This kills the surface mold that causes the dirty-sock smell. Do NOT bend the fins, use a garden hose inside the air handler, or reach past what you can clearly see and safely access.",
+      "Help the coil dry out: run the system on FAN/ON (not AUTO) for a while after cooling, or use a thermostat fan-delay setting if it has one, so the blower keeps running briefly after the compressor stops and dries the coil between cycles.",
+      "Lower indoor humidity to roughly 30-50% (keep it under 60%). Use a dehumidifier in damp climates/basements and make sure the AC is actually pulling humidity down; a chronically clammy house keeps the coil wet and moldy.",
+      "Keep it from coming back: replace the filter on schedule (typically every 1-3 months), and add vinegar or a condensate tablet to the drain line every 1-2 months during cooling season.",
+      "If the smell persists after a clean filter, cleared drain, and surface coil cleaning, have an HVAC pro do a deep chemical coil cleaning and inspect/replace the drain pan. For repeat 'dirty sock' cases, ask about a UV-C germicidal light installed at the coil to suppress regrowth (a pro electrical install), and confirm the system isn't oversized.",
+      "If the musty smell clearly comes from the ducts (all vents, visible mold at registers, not tied to coil startup), get a professional duct inspection and cleaning/remediation — and fix the moisture source. Don't assume duct cleaning alone fixes a coil-based smell; it often doesn't."
+    ],
+    "diyVsPro": "DIY is fine for changing the filter, clearing the drain pan and condensate line, adding vinegar/tablets, spraying a no-rinse foaming cleaner on the accessible part of the coil, adjusting the fan setting, and running a dehumidifier — these solve the large majority of musty AC smells. Call a licensed HVAC pro for a deep chemical cleaning of the full coil, drain-pan replacement, installing a UV germicidal light (electrical work), correcting an oversized/short-cycling system, refrigerant issues, and duct-mold remediation. Any work that opens the sealed refrigerant system or the electrical/gas side of the furnace is pro-only.",
+    "typicalCostUSD": "DIY: air filter $5-$25; no-rinse foaming coil cleaner $10-$20; condensate tablets or vinegar $5-$15; a wet/dry vac if you don't own one $50-$120; a portable dehumidifier $150-$300. Pro: professional coil cleaning $150-$400; drain-line/pan service $100-$300; UV germicidal light installed $250-$800; duct inspection/cleaning $300-$700+.",
+    "timeEstimate": "30-60 minutes to change the filter, clear the drain, and clean the accessible coil. A deep pro coil cleaning or UV-light install is typically a single 1-2 hour visit; duct remediation is longer.",
+    "safetyLevel": "caution",
+    "safetyNote": "A musty/moldy smell is an air-quality problem, not usually an emergency — but it means live mold in the system, so wear gloves and an N95 mask when cleaning, and keep anyone with asthma or allergies out of the area during the work. ALWAYS shut the system off at the thermostat and the air-handler/furnace breaker or switch and confirm power is off before opening the cabinet or touching the coil, blower, or wiring. Never spray water or a hose inside an energized air handler, and never add refrigerant or open the sealed system yourself — that's licensed-only. Important: if the smell is instead a sharp rotten-egg or sulfur odor (not musty), that can be a natural gas leak — leave the house immediately, don't flip any switches, and call your gas utility or 911 from outside. A persistent burning/electrical smell means shut it off at the breaker and call a pro.",
+    "toolsParts": [
+      "Replacement air filter (correct size and rated MERV)",
+      "No-rinse foaming evaporator-coil cleaner",
+      "Distilled white vinegar or condensate-line treatment tablets",
+      "Wet/dry vacuum",
+      "Screwdriver or nut driver (for the access panel)",
+      "Rags or towels",
+      "Flashlight",
+      "Nitrile gloves and an N95 mask (for handling mold)",
+      "Hygrometer to check indoor humidity (optional)"
+    ],
+    "searchTerms": [
+      "musty smell from ac vents",
+      "ac smells like dirty socks",
+      "dirty sock syndrome hvac",
+      "why does my air conditioner smell moldy",
+      "ac smells musty when it turns on",
+      "how to clean mold off evaporator coil",
+      "air conditioner smells like mildew",
+      "get rid of moldy smell from ac",
+      "moldy smell from air vents in house"
+    ],
+    "sources": [
+      "EPA guidance on mold, indoor air quality, and moisture control in HVAC systems",
+      "ENERGY STAR / U.S. Department of Energy guidance on filter changes and HVAC maintenance",
+      "HVAC manufacturer (Carrier, Trane, Lennox) evaporator-coil and condensate-drain cleaning instructions",
+      "Reputable DIY references (This Old House, Family Handyman)"
+    ],
+    "disclaimer": "General guidance only, not a substitute for professional diagnosis. HVAC systems, mold conditions, and local codes vary; deep coil cleaning, electrical, refrigerant, gas, and duct-mold remediation should be handled by a licensed HVAC professional. If you ever smell gas (rotten eggs), leave and call your utility from outside.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
   },
   {
     "slug": "hvac-thermostat-not-working",
@@ -3488,6 +4265,92 @@
     "verified": true,
     "verifierNote": "Confirmed causes, costs (incl. Aeroseal $1,500-3,000), and the \"don't close vents\" warning against current data; softened booster-fan claim to set realistic expectations, reframed thermostat relocation as a wiring/C-wire job (pro if unsure) vs. the DIY fan-ON tip, flagged hardwired in-line fans as needing an electrician, and strengthened safetyNote on joist footing and gas-leak evacuation.",
     "kind": "pillar"
+  },
+  {
+    "slug": "hvac-weak-airflow-from-vents",
+    "system": "hvac",
+    "title": "Weak or Low Airflow From the Vents — Causes & Fixes",
+    "question": "Why is there weak or barely any air coming out of my vents?",
+    "summary": "Weak airflow is almost always a restriction somewhere in the air path: a clogged filter, closed or blocked registers, a dust-caked blower wheel or coil, or leaky/crushed ducts. Most of these are cheap DIY fixes. A failing blower motor or capacitor, refrigerant-side icing, gas-furnace combustion work, and undersized ducts/returns are where you bring in a licensed HVAC pro.",
+    "commonCauses": [
+      {
+        "cause": "Dirty air filter choking the whole system — a clogged filter is the single most common cause of weak airflow and can also freeze the coil or overheat the furnace. A too-high MERV filter the system was never designed for can restrict airflow the same way.",
+        "likelihood": "most common",
+        "quickCheck": "Pull the filter and hold it up to a light. If you can't see light through it, or it's gray and matted, replace it."
+      },
+      {
+        "cause": "Closed, blocked, or too many closed supply registers, or a blocked return grille — furniture, rugs, and drapes over vents, or closing off rooms, starve the system and raise static pressure.",
+        "likelihood": "most common",
+        "quickCheck": "Walk the house: are supply registers fully open and clear, and are the big return grilles unblocked? Air feels weak at every vent, not just one."
+      },
+      {
+        "cause": "Dirty blower wheel (squirrel-cage fan) or a dust-caked evaporator (A-frame) coil — a fuzzy coating on the fan blades or coil fins cripples how much air the system can move. Common on systems that ran without a filter or went years without service.",
+        "likelihood": "common",
+        "quickCheck": "With power OFF at the breaker/disconnect, open the air handler and shine a light on the blower wheel and coil — a gray fuzzy buildup means restricted airflow."
+      },
+      {
+        "cause": "Leaky, crushed, kinked, or disconnected ducts — flex duct pinched behind a joist, a joint that came apart in the attic or crawlspace, or leaky seams that dump conditioned air before it reaches the room.",
+        "likelihood": "common",
+        "quickCheck": "In the attic, crawlspace, or basement, look for kinked flex runs, separated joints, or old tape that let go; you may feel or hear air escaping at seams."
+      },
+      {
+        "cause": "Frozen evaporator coil (cooling mode) — ice on the coil or refrigerant lines physically blocks airflow. Usually caused by the dirty filter/coil above or by low refrigerant.",
+        "likelihood": "common",
+        "quickCheck": "Weak airflow plus visible ice or frost on the indoor coil or the copper lines at the air handler. Set the system to fan-only and see if airflow returns as it thaws."
+      },
+      {
+        "cause": "Weak blower motor, a failed run capacitor, wrong fan-speed setting, or an undersized return/duct system — the fan spins too slowly or the system can't physically move enough air. This is diagnosis-and-pro territory.",
+        "likelihood": "less common",
+        "quickCheck": "Filter, registers, coil, and accessible ducts are all clean and clear, but the blower still spins slowly, hums, or the system is loud and starved — call an HVAC tech for a static-pressure test."
+      }
+    ],
+    "fixes": [
+      "Replace the air filter with the correct size and a moderate MERV (roughly 8-11 for most homes). Very high-MERV or thin fiberglass filters can hurt airflow — match what your system is rated for. Check monthly and change every 1-3 months.",
+      "Open every supply register fully and pull furniture, rugs, and drapes off them. Do NOT close off more than a few registers to 'push' air elsewhere — closing too many raises static pressure, cuts total airflow, and can overheat the blower or freeze the coil.",
+      "Clear and vacuum every return-air grille, and vacuum the return filter grille if you have one. Leave interior doors open or undercut so closed rooms can return air to the system.",
+      "Turn OFF power at the furnace/air-handler switch or breaker, then vacuum and gently brush the blower wheel and the evaporator (A-frame) coil. A no-rinse foaming coil cleaner helps on the coil. Never open the cabinet with the power on.",
+      "If you see ice on the coil or refrigerant lines, that ice is blocking the air. Switch the system to fan-only to thaw it fully, then fix the root cause — a dirty filter/coil, or low refrigerant (which is a pro repair).",
+      "Inspect the ducts you can reach in the attic, crawlspace, or basement: straighten kinked flex duct, reconnect separated joints, support sagging runs so they don't pinch, and seal leaks with UL-181 foil tape or duct mastic — never cloth 'duct tape,' which fails.",
+      "Confirm the system is on the right fan setting (AUTO vs ON) and, after any recent repair, that the blower speed tap wasn't left on a low setting.",
+      "If airflow is still weak after the filter, registers, returns, coil, and accessible ducts are all clean and clear, call an HVAC tech. The likely causes now are a dirty/failing blower motor, a weak run capacitor, hidden duct leaks, low refrigerant, or an undersized return/duct system that needs measurement (a static-pressure test) and possibly added return capacity."
+    ],
+    "diyVsPro": "DIY is fine for changing the filter, opening and unblocking registers and returns, and — with the power switched OFF at the breaker or disconnect — vacuuming/brushing the blower wheel and coil and sealing accessible duct leaks. Call a licensed HVAC pro for a blower motor or run capacitor (the capacitor stores a charge and can shock you), anything refrigerant-related (low charge, a coil that keeps freezing), gas-furnace burner or combustion work, hidden duct leaks inside walls, a static-pressure diagnosis, and any duct or return resizing. If it's a gas furnace and you smell gas or suspect a combustion problem, stop and call a pro or your utility.",
+    "typicalCostUSD": "DIY: pleated air filters $10-40 each (multi-packs cheaper per filter); no-rinse coil cleaner and a soft brush $10-30; UL-181 foil tape or duct mastic $10-25. Pro: HVAC diagnostic/service call typically $75-200; blower wheel or evaporator coil deep-clean $150-450; sealing a few accessible duct leaks $200-700 (whole-home duct sealing more); blower motor replacement $400-900 (variable-speed ECM motors higher); run capacitor replacement $150-400; adding or enlarging a return often $500-1500.",
+    "timeEstimate": "Filter change and opening registers: 5-15 minutes. Clearing return grilles: 10-20 minutes. DIY blower/coil cleaning (power off): 1-3 hours. Inspecting and sealing accessible ducts: 1-3 hours. Thawing a frozen coil: a few hours on fan-only. Pro visit: usually 1-3 hours; duct or return work can be a half to full day.",
+    "safetyLevel": "caution",
+    "safetyNote": "ALWAYS turn off power to the furnace/air handler at the breaker or the unit's disconnect switch before opening the cabinet to reach the blower or coil — never work on it live. The blower's run capacitor can hold a dangerous electrical charge even with power off, so leave capacitor and motor work to a pro. Never run the system without a filter installed, and don't force a very high-MERV filter into a system not rated for it — both strain the blower. On a gas furnace, weak airflow can trip the high-limit and combustion work carries carbon-monoxide risk: leave burner/heat-exchanger service to a licensed pro, and if you smell gas, leave the house and call your gas utility from outside. A working CO alarm near sleeping areas is a must with any gas heat.",
+    "toolsParts": [
+      "Correct-size pleated air filter (MERV ~8-11 for most homes)",
+      "Screwdriver and nut-driver set",
+      "Vacuum or shop vac with brush attachment",
+      "Soft brush for the blower wheel and coil fins",
+      "No-rinse foaming evaporator coil cleaner",
+      "Flashlight or work light",
+      "UL-181 foil tape and/or duct mastic (for duct leaks)",
+      "Work gloves and a dust mask",
+      "Multimeter (optional, for pro-level diagnosis)"
+    ],
+    "searchTerms": [
+      "weak airflow from vents",
+      "low air flow from ac vents",
+      "barely any air coming out of vents",
+      "hvac not blowing hard enough",
+      "furnace weak airflow",
+      "dirty blower wheel low airflow",
+      "why is my ac airflow so weak",
+      "not enough air coming out of registers",
+      "how to increase airflow from hvac vents"
+    ],
+    "sources": [
+      "Manufacturer use-and-care and owner's-manual guidance for furnaces and air handlers (Carrier, Trane, Lennox, Goodman, Rheem)",
+      "Reputable DIY references (This Old House, Family Handyman)",
+      "ENERGY STAR / EPA guidance on air filters and duct sealing",
+      "ACCA / ASHRAE norms on residential airflow and static pressure (specifics depend on your system and local code)"
+    ],
+    "disclaimer": "General home-maintenance guidance, not a substitute for professional inspection; always cut power at the breaker before opening the air handler, and leave refrigerant, capacitor/motor, gas, and combustion work to a licensed HVAC professional.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
   },
   {
     "slug": "insulate-attic-hatch",
@@ -5592,6 +6455,175 @@
     "kind": "pillar"
   },
   {
+    "slug": "plumbing-garbage-disposal-leaking",
+    "system": "plumbing",
+    "title": "Garbage Disposal Leaking Water — Causes & Fixes",
+    "question": "Why is my garbage disposal leaking water under the sink, and how do I find where it's coming from and fix it?",
+    "summary": "A leaking garbage disposal is almost always a loose or worn seal at one of three spots: the top sink flange (where the unit mounts to the sink drain), the side connections (the dishwasher drain hose or the discharge pipe to the P-trap), or — the bad one — the bottom body of the unit itself. The trick is to find the exact spot with a fill-and-dye test before you touch anything. Top-flange and side-connection leaks are cheap, safe DIY reseals. Water dripping from the bottom of the unit or its reset button means an internal seal has failed or the housing is cracked, and the disposal must be replaced, not repaired. Note this is a leak, not a jam — a disposal that hums but won't spin is a completely different fix.",
+    "commonCauses": [
+      {
+        "cause": "Loose or dried-out sink flange seal at the TOP of the unit. This is the ring where the disposal clamps up to the sink drain opening, sealed with plumber's putty or a rubber gasket. Over years the putty dries and shrinks, or the mounting bolts work loose, and water seeps out the top when the basin holds water. Most common source of a disposal leak.",
+        "likelihood": "most common",
+        "quickCheck": "Dry everything, then plug the sink and fill the basin. Look up at the top of the disposal where it meets the sink drain. Water appearing there while the sink is FULL (before you pull the plug) points to the flange."
+      },
+      {
+        "cause": "Loose or worn discharge-pipe connection on the SIDE. The discharge tube runs from the disposal to the P-trap, held either by a bolted flange with a rubber gasket or a slip-joint nut. A gasket that has hardened or bolts that backed off will drip here, but only while water is actually draining through.",
+        "likelihood": "common",
+        "quickCheck": "Fill and then drain the sink while watching the discharge outlet on the side of the unit and the P-trap joints. A leak that appears only while the water is RUNNING OUT is the discharge/drain side, not the flange."
+      },
+      {
+        "cause": "Loose dishwasher drain hose connection on the SIDE. If you have a dishwasher, its drain hose clamps onto an inlet on the disposal body. A loose hose clamp, a cracked hose, or (on a brand-new install) a knockout plug that was never removed can leak here, usually most when the dishwasher drains.",
+        "likelihood": "common",
+        "quickCheck": "Look at the smaller inlet near the top-side of the disposal where a ribbed rubber hose is clamped on. Run the dishwasher (or pour water down it) and watch that clamp and hose for drips."
+      },
+      {
+        "cause": "Cracked disposal body or failed internal shaft seal at the BOTTOM. Age, corrosion, or a hard freeze cracks the housing, or the internal seal above the motor wears out, and water weeps from the very bottom of the unit or around the red reset button. This is not repairable — the unit must be replaced.",
+        "likelihood": "less common",
+        "quickCheck": "Dry the whole unit, run water, then feel the bottom center and the reset button with a paper towel. Water coming from the BOTTOM of the housing (not a connection) means replace it."
+      },
+      {
+        "cause": "Leak is actually the P-trap or drain slip-nuts downstream, not the disposal. A loose slip nut or a shot washer on the trap can drip onto the disposal and run down it, making a healthy disposal look like the culprit. Worth ruling out before you buy a new unit.",
+        "likelihood": "less common",
+        "quickCheck": "Trace the wet path upward with a dry paper towel. If the highest wet point is a trap or tailpiece slip-nut joint downstream of the disposal — and the disposal body above it is dry — the trap is the leak."
+      }
+    ],
+    "fixes": [
+      "Cut power first: unplug the disposal, or if it's hardwired, switch off its breaker and confirm the switch does nothing. Never reach under the sink with power live, and never put your hand or fingers down into the disposal.",
+      "Pinpoint the source with a fill-and-dye test. Dry every surface with paper towels, put a bucket or dry newspaper under the unit, add a few drops of food coloring to a basin of water, then watch: a leak while the sink is FULL = top flange; a leak only while DRAINING = a side/discharge connection; water at the BOTTOM of the unit = internal/cracked (replace).",
+      "Tighten the obvious connections. For a discharge or drain leak, snug the discharge-flange bolts evenly, or hand-tighten slip-joint nuts plus about a quarter turn with pliers. Many leaks are just a connection that loosened over time. Re-test before doing more.",
+      "Fix the dishwasher hose: tighten or replace the hose clamp, and swap a cracked or stiff drain hose (a few dollars). On a new install where the dishwasher never drained, make sure the knockout plug inside the disposal inlet was actually removed.",
+      "Replace the discharge-pipe gasket if tightening didn't stop it. Undo the discharge flange, drop in a fresh rubber gasket ($3-$8), and re-bolt evenly. Replace worn trap/tailpiece washers at the same time if the drain side was leaking.",
+      "Re-seat the top sink flange if that's the source. Support and drop the unit off its mounting ring, scrape off the old plumber's putty, apply a fresh rope of plumber's putty under the flange (or the correct fiber/rubber gasket some brands use — check your model), reset the unit, and tighten the mounting bolts evenly all the way around. Wipe the squeeze-out.",
+      "If the leak is from the BOTTOM of the housing or the reset button, stop — the internal seal is gone or the body is cracked and it cannot be resealed. Replace the whole unit (match the horsepower; 1/3-3/4 HP is typical). A plug-in model is the easiest DIY swap; hardwired means disconnecting the electrical, which is where less-confident folks should call a plumber.",
+      "After ANY fix, run the dye test again and watch for a full minute of filling and draining before you call it done. Then check the cabinet floor over the next day or two — dry means fixed.",
+      "Don't let a leak sit. Standing water rots the cabinet base and can reach the outlet or the unit's wiring, turning a cheap seal job into water and electrical damage."
+    ],
+    "diyVsPro": "Mostly DIY. Running the dye test, tightening connections, replacing a dishwasher hose or a discharge gasket, and re-seating the sink flange with fresh plumber's putty are all safe and low-skill with the power off — no soldering, no gas, no high voltage. Even swapping the entire unit is a common weekend DIY job, easiest on plug-in models where you just unplug, unbolt, and reverse. Call a plumber if: the disposal is hardwired and you're not comfortable disconnecting the electrical, the leak is from the bottom of the unit and you'd rather not lift it out yourself, the leak has been soaking the cabinet or reached the outlet, or you find rot, mold, or persistent leaks after resealing.",
+    "typicalCostUSD": "DIY parts: plumber's putty $3-$6, discharge/flange gasket $3-$8, hose clamp ~$2, dishwasher drain hose $8-$15. A replacement disposal unit runs $80-$250 for a standard 1/3-3/4 HP model ($250-$400 for premium quiet models). Pro: a plumber service call is roughly $90-$200; a reseal or reconnect is about $100-$250; a full disposal replacement installed typically runs $150-$450 including the unit.",
+    "timeEstimate": "Diagnosis with the dye test 15-30 min. Tightening a connection or swapping a hose/gasket 30-60 min. Re-seating the sink flange about 1 hour. A full unit replacement is 1-2 hours DIY, or a single plumber visit.",
+    "safetyLevel": "caution",
+    "safetyNote": "A garbage disposal is a 120V electric motor sitting right next to water, so treat the power seriously: unplug it, or if it's hardwired switch off its breaker AND confirm the wall switch is dead before you reach underneath — and if you're disconnecting hardwired leads, verify they're de-energized with a voltage tester. NEVER put your hand or fingers into the disposal, powered or not; the impellers can injure you. Water pooled in the cabinet near the outlet or the unit's wiring is a shock hazard — cut power and dry it up before working. This is not a gas appliance and there is no 240V or roof work involved, so it stays firmly in DIY territory, but if you're uneasy about the electrical disconnect or the leak is from the bottom of the unit (meaning replacement), a licensed plumber is a reasonable call.",
+    "toolsParts": [
+      "Bucket or dry newspaper and plenty of paper towels/rags",
+      "Flashlight or headlamp",
+      "Food coloring (to trace the leak in the dye test)",
+      "Slip-joint / channel-lock pliers",
+      "Screwdrivers (flat and Phillips) for the hose clamp and flange bolts",
+      "Hex/Allen wrench or the disposal's mounting wrench",
+      "Plumber's putty (and/or the correct flange gasket for your model)",
+      "Replacement discharge-pipe gasket and trap/tailpiece washers",
+      "Replacement dishwasher drain hose and hose clamp (if needed)",
+      "Non-contact voltage tester (to confirm power off on hardwired units)",
+      "Replacement disposal unit, 1/3-3/4 HP, if the body is cracked"
+    ],
+    "searchTerms": [
+      "garbage disposal leaking from bottom",
+      "why is my garbage disposal leaking water",
+      "garbage disposal leaking underneath the sink",
+      "garbage disposal leaking where it meets the sink",
+      "insinkerator leaking from bottom reset button",
+      "garbage disposal leaking from dishwasher hose",
+      "how to fix a leaking garbage disposal",
+      "garbage disposal leaking from flange",
+      "garbage disposal dripping water under sink",
+      "garbage disposal leaking from side pipe"
+    ],
+    "sources": [
+      "Manufacturer install and use-and-care guidance for residential disposals (InSinkErator, Waste King, Moen, GE)",
+      "Reputable DIY references (This Old House, Family Handyman)",
+      "Home-improvement retailer project/how-to guides (Home Depot / Lowe's)",
+      "General plumbing-fixture practice for flange, gasket, and slip-joint connections"
+    ],
+    "disclaimer": "This is general home-maintenance guidance, not professional plumbing advice for your specific unit; models, connections, and local code vary, and if the leak is from the bottom of the housing, involves the electrical connection, or exceeds your comfort level, replace the unit or call a licensed plumber.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
+  },
+  {
+    "slug": "plumbing-gas-water-heater-pilot-wont-stay-lit",
+    "system": "plumbing",
+    "title": "Gas Water Heater Pilot Light Won't Stay Lit — Causes & Fixes",
+    "question": "Why does my gas water heater's pilot light go out as soon as I let go of the knob, and how do I fix it?",
+    "summary": "A pilot that lights but dies the moment you release the knob is almost always a bad, dirty, or misaligned thermocouple — the safety probe that must get hot enough to hold the gas valve open. A weak yellow pilot flame, a dust-clogged FVIR air intake at the base, or a loose thermocouple nut cause the same symptom. These are mostly cheap fixes; the gas control valve, gas-line, and any venting or carbon-monoxide issue are where you stop and call a licensed pro. If you ever smell gas, leave the house and call your gas utility from outside.",
+    "commonCauses": [
+      {
+        "cause": "Bad, dirty, or misaligned thermocouple — this copper probe sits in the pilot flame and makes a tiny millivolt current that holds the gas valve's safety open. If it can't get hot enough or make enough current, the valve shuts off the instant you release the knob and the pilot dies. This is the classic symptom and the #1 cause.",
+        "likelihood": "most common",
+        "quickCheck": "Does the pilot burn fine while you hold the knob down, then go out within a few seconds of releasing it? That points straight at the thermocouple."
+      },
+      {
+        "cause": "Weak or dirty pilot flame — soot, dust, or spider webs in the pilot orifice/tube starve the flame, so it burns small and yellow and never fully wraps the thermocouple tip. A good pilot is blue, steady, and engulfs the top of the probe.",
+        "likelihood": "most common",
+        "quickCheck": "Look at the pilot (use a mirror if needed): a lazy, yellow, flickering flame that barely touches the thermocouple means a dirty/blocked pilot, not necessarily a bad part."
+      },
+      {
+        "cause": "Clogged FVIR air-intake screen or flame arrestor — modern tanks (post-2003) draw combustion air through a screen at the base. In a dusty or linty spot (garage, laundry area) it clogs, starves the burner of air, and the pilot burns weak or won't hold. A badly overheated chamber can also trip the unit's thermal cutoff (TCO), which then blocks the pilot entirely — on many models that cutoff is a one-time part.",
+        "likelihood": "common",
+        "quickCheck": "Heater in a dusty/linty area with lint visible around the base screen, and a lazy pilot? Suspect a starved air intake. If it won't light at all despite good gas, a tripped TCO is likely."
+      },
+      {
+        "cause": "Loose thermocouple connection at the gas control valve — the thin nut where the thermocouple threads into the valve backs off over time, breaking the tiny circuit even though the probe itself is fine.",
+        "likelihood": "common",
+        "quickCheck": "With the gas control OFF, try the thermocouple nut at the valve by hand — if it turns easily, it was too loose to carry the signal."
+      },
+      {
+        "cause": "Failed gas control valve / thermostat — the combined valve houses the electromagnet the thermocouple holds open. When that internal magnet weakens, a clean pilot and a new thermocouple still won't keep the valve open. Less common, and the fix is a whole-valve swap.",
+        "likelihood": "less common",
+        "quickCheck": "Pilot is clean and blue, fully wrapping a known-good or brand-new thermocouple, connections tight — and it still drops out? The valve itself is the suspect."
+      },
+      {
+        "cause": "Draft or venting/backdraft problem — a gust when a door opens, the furnace/AC blower kicking on, wind down the flue, or a blocked vent physically blows the pilot out. This one is also a combustion and carbon-monoxide red flag.",
+        "likelihood": "less common",
+        "quickCheck": "Does the pilot get snuffed when the HVAC runs, a door opens, or it's windy — or do you see soot, melted plastic, or rust streaks near the draft hood? Stop and treat it as a venting/CO issue for a pro."
+      }
+    ],
+    "fixes": [
+      "Relight it correctly first: follow the lighting steps printed on your tank's label. Turn the gas control to OFF, wait about 5 minutes for any gas to clear, set it to PILOT, then press and HOLD the knob while you ignite the pilot (piezo button or long lighter). Keep holding a full 30-60 seconds after the flame catches so the thermocouple heats up before you let go — releasing too early is the single most common false alarm.",
+      "If the tank just came back from a gas outage or is newly installed, air in the line makes the pilot hard to hold — hold the knob longer and expect a few tries to purge the air.",
+      "Inspect the pilot flame: it should be blue, steady, and clearly wrap the top of the thermocouple tip. A small, yellow, or lazy flame means a dirty/blocked pilot or a starved air intake — clean before you replace anything.",
+      "Snug the thermocouple nut where it threads into the gas control valve: with the gas control OFF, tighten it hand-tight plus roughly a quarter turn with a wrench. Do NOT overtighten — crushing the fitting kills the signal just like a loose one does.",
+      "Clean the pilot assembly and the FVIR air-intake screen: with the gas control OFF, vacuum dust and lint from the base intake screen and around the burner, and clear the pilot tube/orifice per your manual. Critical: if the tank's thermal cutoff (TCO) tripped, you must clear the airflow blockage that overheated it BEFORE anything will relight — otherwise it trips again, and on many FVIR units that cutoff is a one-time part needing a pro. Don't just keep resetting a symptom.",
+      "Replace the thermocouple — a cheap ($10-25), common DIY part on a standing-pilot tank. Turn the gas control OFF, disconnect the thermocouple (and pilot/burner assembly as your manual shows), fit an identical-length replacement, reconnect, and relight. Match the length and routing exactly.",
+      "Check for drafts and venting trouble: if the pilot blows out when the furnace/AC runs, a door opens, or it's windy — or you see soot, rust streaks, or melted parts near the vent hood — stop. That's a combustion/carbon-monoxide problem for a licensed pro, not a thermocouple.",
+      "If the pilot is clean and blue, fully engulfs a new thermocouple, the connection is tight, and it STILL won't hold — the gas control valve has likely failed. Replacing the valve is a gas job best left to a pro on most tanks.",
+      "Know when to stop and replace the whole unit: an old heater (roughly 10-12+ years) that also leaks, rusts, or backdrafts is usually not worth chasing — a pro can advise whether repair or replacement is the smarter spend."
+    ],
+    "diyVsPro": "DIY is reasonable for relighting the pilot by the printed instructions, holding the knob the full 30-60 seconds, snugging the thermocouple nut, vacuuming the pilot and FVIR air-intake screen, and swapping a $15 thermocouple on a standard standing-pilot tank. Call a licensed plumber or gas technician for: replacing the gas control valve, any gas-line, union, or flex-connector work, a tripped one-time thermal cutoff, electronic-ignition or power-vent units, and anything involving venting, backdraft, soot, or carbon monoxide. Any time you smell gas, don't troubleshoot — leave and call the utility.",
+    "typicalCostUSD": "DIY: thermocouple $10-25; long lighter and a shop vacuum you likely already own ($0-20). Pro: service call $90-180; thermocouple replacement $150-300 installed; gas control valve $300-600 installed; FVIR/thermal-cutoff service $200-400. If the tank is near end of life, full gas water heater replacement typically runs $1,200-2,500+ installed depending on size, code upgrades, and region.",
+    "timeEstimate": "Relighting the pilot 5-10 minutes; cleaning the pilot and air intake 30-45 minutes; a DIY thermocouple swap 30-60 minutes; a pro visit is usually a single 1-2 hour trip.",
+    "safetyLevel": "caution",
+    "safetyNote": "This is a gas appliance — treat it with respect. If you smell gas (rotten-egg odor) or hear hissing, do NOT touch any switch, flame, or the water heater — leave the house and call your gas utility or 911 from outside. Before relighting, always turn the gas control to OFF and wait about 5 minutes for gas to clear, and only follow the steps printed on your own tank. Leave gas control valve replacement, gas-line work, electronic-ignition units, and any venting, backdraft, soot, or carbon-monoxide problem to a licensed plumber or gas technician — carbon monoxide is odorless and can be deadly, so keep a working CO alarm near sleeping areas. If you are not fully comfortable at any step, stop and call a pro.",
+    "toolsParts": [
+      "Replacement thermocouple (match the length; universal kits exist)",
+      "Two open-end wrenches or an adjustable wrench (for the thermocouple nut)",
+      "Long-reach lighter, or the tank's built-in piezo igniter button",
+      "Flashlight and a small mirror (to see and inspect the pilot flame)",
+      "Shop vacuum and a soft brush (to clear dust/lint from the pilot and FVIR air-intake screen)",
+      "Your water heater's owner's manual, or the lighting-instructions label on the tank",
+      "Working carbon monoxide alarm (safety, not optional near gas appliances)"
+    ],
+    "searchTerms": [
+      "water heater pilot light won't stay lit",
+      "water heater pilot goes out when I release the knob",
+      "how to replace water heater thermocouple",
+      "gas water heater pilot won't stay on",
+      "water heater thermocouple bad symptoms",
+      "water heater pilot light keeps going out",
+      "clean water heater flame arrestor air intake",
+      "water heater won't stay lit after releasing pilot button",
+      "gas control valve water heater replacement cost"
+    ],
+    "sources": [
+      "Manufacturer use-and-care and pilot-lighting instructions (Rheem, A.O. Smith, Bradford White, State)",
+      "Reputable DIY references (This Old House, Family Handyman)",
+      "CPSC / NFPA / U.S. Fire Administration and gas-utility guidance on gas appliances and carbon monoxide"
+    ],
+    "disclaimer": "This is general guidance, not a substitute for professional diagnosis; gas water heaters, ignition types, and local codes vary, so when work involves the gas valve, gas lines, venting, or carbon monoxide — or when in doubt — stop and consult a licensed plumber or gas technician.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
+  },
+  {
     "slug": "plumbing-high-water-pressure",
     "system": "plumbing",
     "title": "My House Water Pressure Is Too High — How to Lower It to Protect Pipes and Appliances",
@@ -7325,6 +8357,91 @@
     "kind": "pillar"
   },
   {
+    "slug": "safety-co-detector-beeping",
+    "system": "safety",
+    "title": "Carbon Monoxide Detector Beeping — Causes & Fixes",
+    "question": "Why is my carbon monoxide detector beeping — is it a real alarm or just a low battery?",
+    "summary": "A carbon monoxide detector making a single short chirp every 30–60 seconds is almost always a maintenance signal — a low battery or an end-of-life sensor (CO sensors wear out in about 7–10 years). But a loud, fast, repeating pattern — typically four beeps, a pause, then four more, often with a red light or a spoken \"carbon monoxide\" warning — means CO may be in your home right now: get everyone and pets outside to fresh air and call 911 from outside. When you cannot tell which sound it is, treat it as a real alarm and evacuate — that error is always the safe one.",
+    "commonCauses": [
+      {
+        "cause": "A real CO alarm — a loud, fast, repeating pattern (usually 4 beeps, a pause, then 4 more), often with a red light or a spoken 'carbon monoxide' warning. This is NOT the occasional single chirp; it means CO may be present now.",
+        "likelihood": "common",
+        "quickCheck": "Listen to the pattern: a loud, repeating 4-beep-pause-4-beep cycle (or a voice warning) = treat as real CO. Do not investigate — get everyone and pets outside and call 911 from outside."
+      },
+      {
+        "cause": "Low battery — a single short chirp every 30–60 seconds. This is a maintenance reminder, not an alarm, and it includes the backup battery in hardwired or plug-in units.",
+        "likelihood": "most common",
+        "quickCheck": "A lone chirp every ~30–60 sec with no loud repeating pattern, often paired with one blinking light, points to a low battery. Swapping the battery (if it is the replaceable type) should stop it."
+      },
+      {
+        "cause": "End of life — CO sensors degrade and expire roughly 7–10 years after manufacture. The unit chirps or announces 'End'/'Err' to tell you to replace the whole alarm, and a fresh battery will NOT stop it.",
+        "likelihood": "common",
+        "quickCheck": "Take the unit off its bracket and read the manufacture / replace-by date on the back. If it is about 7+ years old, or it keeps chirping after a new battery, it has reached end of life."
+      },
+      {
+        "cause": "Loose, wrong-type, or unseated battery — or a leftover pull-tab or a battery drawer that did not fully close.",
+        "likelihood": "common",
+        "quickCheck": "Open the compartment: confirm the correct battery type, correct polarity, fully seated, pull-tab removed, and the drawer clicked shut."
+      },
+      {
+        "cause": "A real but transient, low-level CO source — a car warming up in an attached garage, a backdrafting furnace or water heater, a fireplace, or generator fumes drifting inside. This is still real CO, just intermittent, and must never be dismissed as a 'false alarm.'",
+        "likelihood": "common",
+        "quickCheck": "Did the alarm sound right after starting a vehicle in the garage, lighting a fire, or a fuel appliance kicking on? Ventilate, get out if it keeps sounding, and have the appliance and flue checked."
+      },
+      {
+        "cause": "Dust, high humidity, or a nuisance/malfunction chirp — some units also chirp a distinct error code that varies by brand.",
+        "likelihood": "less common",
+        "quickCheck": "Look for dust around the sensor vents or a very steamy/humid location; check the manual's beep-pattern chart to see if the sound is an error code rather than a low-battery or CO signal."
+      }
+    ],
+    "fixes": [
+      "First, identify the sound. If it is a loud, fast, repeating pattern (typically 4 beeps, pause, 4 beeps) or a spoken 'carbon monoxide' warning, treat it as a real alarm: get everyone and pets outside to fresh air, call 911 (or your gas utility) from outside, and do not re-enter until the fire department or utility says it is safe. When you cannot tell whether it is an alarm or a chirp, evacuate and verify from outside — that error is always the safe one.",
+      "Trust symptoms over the device. If anyone has a headache, dizziness, nausea, drowsiness, confusion, or a flu-like feeling without fever, leave the house and call 911 even if the alarm is only chirping or silent.",
+      "If it is a single chirp every 30–60 seconds and no one has symptoms, replace the battery on a replaceable-battery unit: install a fresh battery of the correct type, confirm polarity and that it is fully seated, close the drawer until it clicks, then press and hold the test button to reset.",
+      "For a sealed 10-year unit, the battery is not replaceable — a chirp on one of these means end of life, so replace the whole alarm.",
+      "Check the date stamped on the back. If the CO alarm is about 7–10 years past its manufacture date, or it keeps chirping after a fresh battery, replace the entire unit — the sensor is spent. Write the install date on the new one with a marker.",
+      "Gently vacuum the vents with a soft brush or use short bursts of canned air to clear dust, then re-test. Keep alarms out of very humid, dead-air, or too-close-to-appliance spots (roughly 10–15 ft from fuel-burning appliances) to cut nuisance chirps.",
+      "If the chirp followed a car in the garage, a fireplace, or a running fuel appliance, treat it as possible real low-level CO: open windows to ventilate, get everyone out if it keeps sounding, and have the appliance, vent, and chimney inspected by a licensed pro — never assume it was a false alarm.",
+      "Never pull the battery or take a CO alarm down just to stop the noise — a disabled CO alarm can be fatal. If you must quiet it while you get a replacement, use the Silence/Hush button (not battery removal) and only after you have confirmed it is a chirp, not a real alarm; then fix or replace it the same day.",
+      "Make sure you have UL 2034 CO alarms on every level of the home and near each sleeping area, and replace them on the manufacturer's schedule so a worn-out sensor never leaves you unprotected."
+    ],
+    "diyVsPro": "Diagnosing the sound, swapping batteries, cleaning the vents, reading the date, and replacing a standalone or plug-in CO alarm like-for-like are all safe DIY jobs. The moment the unit sounds a real, repeating alarm — or anyone feels unwell — it stops being a repair and becomes a 911 / gas-utility emergency. And finding or fixing the CO source itself (furnace, boiler, water heater, gas range, fireplace, a cracked heat exchanger, or a blocked flue or chimney) is licensed-pro work for an HVAC or gas tech, often at roof height, and never a homeowner repair.",
+    "typicalCostUSD": "Battery: $2–$15. Standalone CO alarm: $20–$50; combo smoke/CO ~$40–$70; sealed 10-year unit ~$30–$50. Electrician to replace or add a hardwired/interconnected unit: roughly $100–$250 per alarm, often with a service-call minimum. Finding the source: annual furnace/appliance inspection ~$100–$250; chimney inspection + sweep $150–$400; major combustion/heat-exchanger repair $500–$2,000+. Fire department / gas-utility emergency response: typically free.",
+    "timeEstimate": "Deciding chirp vs. alarm: seconds — and on a real alarm, evacuate immediately. Battery swap, cleaning, or reset: 5–10 minutes. Replacing a hardwired unit with the breaker off: 20–40 minutes.",
+    "safetyLevel": "call-a-pro",
+    "safetyNote": "A CO alarm's whole job is to warn you before you feel anything — carbon monoxide is colorless, odorless, and can kill. Learn the difference: a loud, fast, repeating alarm (usually 4 beeps, pause, repeating, often with a red light or a spoken \"carbon monoxide\" warning) means CO may be present RIGHT NOW — get everyone and pets outside to fresh air and call 911 from outside, and do not re-enter until the fire department or gas utility clears it. A single chirp every 30–60 seconds is only a low-battery or end-of-life reminder. When you cannot tell which it is, treat it as a real alarm and evacuate — that error is always the safe one. If anyone has a headache, dizziness, nausea, drowsiness, or confusion, leave and call 911 even if the alarm is silent. If you also smell gas (a rotten-egg odor), leave immediately and call your gas utility from outside. Never disable or remove a CO alarm to stop the noise, and never troubleshoot a suspected gas or combustion source yourself — that is a job for the fire department, gas utility, or a licensed tech.",
+    "toolsParts": [
+      "Fresh batteries (match your unit's type)",
+      "Replacement UL 2034 CO alarm, or combo smoke/CO alarm",
+      "Step stool or short ladder (never a chair)",
+      "Vacuum with soft brush attachment or a can of compressed air",
+      "Screwdriver (for some brackets or units)",
+      "Non-contact voltage tester (only if working on a hardwired unit)",
+      "Marker (to date the new unit)",
+      "The alarm's manual (for the brand's beep-pattern chart)"
+    ],
+    "searchTerms": [
+      "carbon monoxide detector beeping",
+      "CO detector chirping every 30 seconds",
+      "is my carbon monoxide alarm real or low battery",
+      "carbon monoxide detector 4 beeps meaning",
+      "CO alarm going off but no symptoms",
+      "carbon monoxide detector beeping with new battery",
+      "how to tell if CO alarm is a real alarm",
+      "carbon monoxide detector end of life chirp"
+    ],
+    "sources": [
+      "CO alarm manufacturer guidance (First Alert / Kidde manuals on alarm-vs-chirp beep patterns and end-of-life signals)",
+      "Fire-safety authority guidance (NFPA and U.S. Fire Administration on CO alarms and the Temporal-4 alarm pattern)",
+      "CDC and CPSC consumer guidance on carbon monoxide poisoning",
+      "Reputable DIY references (This Old House, Family Handyman)"
+    ],
+    "disclaimer": "General home-maintenance information, not professional, medical, or emergency advice. Carbon monoxide can be fatal — if a CO alarm sounds a real alarm or anyone feels unwell, get outside and call 911. Beep patterns and replacement intervals vary by model; always follow your alarm's manual and local building code.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
+  },
+  {
     "slug": "safety-replace-detectors",
     "system": "safety",
     "title": "When and How to Replace Smoke & CO Detectors — A Homeowner's Guide",
@@ -7481,6 +8598,87 @@
     "verified": true,
     "verifierNote": "Confirmed chirp diagnostics, 10-year end-of-life, and cleaning advice; softened the hardwired-replacement DIY framing toward \"only if comfortable with line voltage, else call an electrician,\" added a voltage-tester step, reworded the dubious \"clear residual charge\" claim to \"reset per manual,\" corrected CO sensor life to 5–10 yrs, nudged electrician cost to $100–250/unit with service minimum, and made the continuous-alarm note say call 911.",
     "kind": "pillar"
+  },
+  {
+    "slug": "safety-water-heater-tpr-valve-leaking",
+    "system": "safety",
+    "title": "Water Heater Relief (T&P) Valve Dripping or Leaking — Causes & Fixes",
+    "question": "Why is my water heater's temperature/pressure-relief valve dripping water from the discharge pipe, and how do I fix it?",
+    "summary": "A water heater relief (T&P) valve that drips is usually reacting to pressure, not a broken valve. The most common cause is thermal expansion on a closed plumbing system (a pressure-reducing valve, check valve, or backflow preventer on the main and no expansion tank), followed by too-high house water pressure, too-high temperature, or a worn valve that no longer seals. The fixes — an expansion tank, a pressure-gauge check, lowering the temperature to 120°F, or swapping the ~$20 valve — are mostly DIY. Two hard rules: never cap or plug the valve or its discharge pipe (that can turn the tank into a bomb), and if the discharged water is steaming or the valve is gushing, the valve is doing its job against a real overheat — shut the heater off and call a plumber.",
+    "commonCauses": [
+      {
+        "cause": "Thermal expansion on a closed system — when the burner or element heats the water it expands, and if a pressure-reducing valve, check valve, or backflow preventer on the main blocks it from pushing back into the city line, pressure climbs and the valve weeps. The most common modern cause.",
+        "likelihood": "most common",
+        "quickCheck": "The drip appears shortly after the heater recovers (a shower, dishwasher, or overnight heat-up), and you have a PRV/check valve/backflow preventer on the main but no thermal expansion tank near the heater."
+      },
+      {
+        "cause": "House water pressure too high (over ~80 psi) — the incoming supply itself is over the code limit, so normal heating pushes the tank past the valve's 150 psi trip point.",
+        "likelihood": "common",
+        "quickCheck": "Screw a $10-15 pressure gauge onto a hose bib or the laundry faucet; a static reading over 80 psi points to needing a pressure-reducing valve."
+      },
+      {
+        "cause": "Temperature set too high (or a failing thermostat/gas control letting the water overheat) — the water reaches the valve's 210°F temperature trip.",
+        "likelihood": "common",
+        "quickCheck": "Check the setting; if it's above ~130-140°F or the hot water runs scalding/steaming, lower it to 120°F and watch whether the drip stops."
+      },
+      {
+        "cause": "Worn, mineral-fouled, or not-reseated valve — the valve seat is pitted or has grit and no longer seals, or it started dripping right after someone flipped the test lever and it didn't snap back shut.",
+        "likelihood": "common",
+        "quickCheck": "It weeps continuously no matter when the heater runs, or the drip began immediately after the test lever was lifted."
+      },
+      {
+        "cause": "The valve is correctly warning of a genuine overheat/overpressure (runaway heating from a stuck thermostat or gas control) — the least common but the dangerous case.",
+        "likelihood": "less common",
+        "quickCheck": "The discharged water is steaming-hot, the tank rumbles/percolates, or the valve is discharging heavily — treat it as an emergency, not a valve swap."
+      }
+    ],
+    "fixes": [
+      "First figure out which drip you have. Watch when it happens: a drip right after the heater reheats a big draw = thermal expansion or high pressure; a constant weep = a worn valve; steaming water or a gushing valve = a real overheat (skip to the emergency step). Also confirm the water is truly from the T&P valve/discharge pipe, not a fitting above it.",
+      "Lower the temperature. Set a gas heater's dial or both electric thermostats to about 120°F, wait a day, and see if the dripping stops. 120°F is the recommended setpoint for scald and energy reasons anyway, and too-high temperature is a common trigger.",
+      "Test your water pressure. Thread a $10-15 gauge onto a hose bib or the laundry faucet; static house pressure should read under 80 psi. If it's high, or you have a pressure-reducing valve, check valve, or backflow preventer on the main, expansion has nowhere to go when the water heats — the classic weep cause.",
+      "Add a thermal expansion tank if you have a closed system. Install a properly pre-charged expansion tank (pre-charge set to match your house pressure) on the cold supply near the heater. It absorbs the expansion and is the real fix for thermal-expansion weeping — a manageable DIY plumbing job if you're comfortable working on supply lines; otherwise hire a plumber.",
+      "Have a pressure-reducing valve installed if incoming pressure is over 80 psi. This is usually a plumber job on the main line and is often required by code above 80 psi.",
+      "Exercise the valve to clear grit, knowing the risk. With a bucket under the discharge pipe and your hand clear of the hot stream, briefly lift the test lever to flush the seat, then let it snap shut. On an old valve this can make the drip worse because it won't reseat — if so, replace it.",
+      "Replace the T&P valve if it weeps constantly or won't reseat. Set the gas control to OFF/pilot or switch the breaker OFF, close the cold-water inlet, drain a few gallons so the level is below the valve, remove the discharge pipe, unscrew the old valve, and thread in a new one rated 150 psi / 210°F with Teflon tape. Reattach the discharge pipe. The valve is a $15-40 part.",
+      "Never cap, plug, or put a shutoff on the valve or its discharge pipe, and keep the discharge pipe code-correct: same size as the valve outlet, rigid pipe rated for hot water, sloped continuously downhill, no threads on the end, terminating within about 6 inches of the floor or a drain. Blocking it can build the tank to a rupture.",
+      "Emergency: if the water is steaming/scalding, the valve is gushing, or the tank rumbles or percolates, the valve is warning of a real overheat. Shut the heater off (gas control to OFF, or breaker OFF), close the cold inlet, stay clear of the hot discharge, and call a plumber right away — do not just replace the valve."
+    ],
+    "diyVsPro": "Most of the diagnosis and the common fixes are DIY: lowering the temperature, testing water pressure with a gauge, exercising the valve, and swapping the T&P valve itself are homeowner-level jobs (the valve is a ~$20 threaded part). Installing a thermal expansion tank is a moderate DIY plumbing job if you're comfortable working on supply lines. Call a licensed plumber to install or adjust a pressure-reducing valve on your main, and always for the dangerous case — a heater that is actually overheating (steaming water, rumbling tank, gushing valve), which points to a failed thermostat or gas control, not a bad valve. On a gas heater, leave anything touching the gas line or control valve to the pro; you can still set the control to OFF/pilot to service the T&P valve yourself.",
+    "typicalCostUSD": "DIY parts: T&P relief valve $15-40; water pressure gauge $10-15; thermal expansion tank $40-90; Teflon tape and fittings a few dollars. Pro: plumber service call $100-250; T&P valve replaced $150-350 installed; thermal expansion tank installed $150-350; pressure-reducing valve installed $250-450; diagnosing/repairing an overheating heater (thermostat or gas control) $150-500+.",
+    "timeEstimate": "Lowering the temperature or testing pressure: 10-20 minutes, plus waiting a day to see if the drip stops. Replacing the T&P valve: 30-60 minutes including draining a few gallons. Installing an expansion tank: 1-2 hours. A plumber typically handles any of these in a single visit.",
+    "safetyLevel": "caution",
+    "safetyNote": "The T&P valve is a critical over-pressure and over-temperature safeguard — NEVER cap, plug, or install a shutoff on it or its discharge pipe; a blocked valve can let the tank build to a rupture (a steam explosion). If the discharged water is steaming or scalding, the valve is gushing, or the tank rumbles/percolates, the heater is genuinely overheating — shut it off (gas control OFF, or breaker OFF), close the cold inlet, stay clear of the hot stream, and call a plumber immediately. Relief water can be 150-210°F and will burn you. For a GAS heater, do not work on the gas line or control valve — set the control to OFF/pilot to service the valve, and if you smell gas, leave the house and call your gas utility from outside. For an ELECTRIC heater, switch the 240V breaker OFF before servicing and never run an element dry. Keep the discharge pipe rigid, unthreaded at the end, sloped downward, and ending within about 6 inches of the floor or a drain.",
+    "toolsParts": [
+      "Replacement T&P relief valve (rated 150 psi / 210°F, matching your tank's threads — usually 3/4 in)",
+      "Pipe wrench or large channel-lock pliers",
+      "Water pressure test gauge (hose-bib type)",
+      "Teflon/PTFE thread tape",
+      "Thermal expansion tank (if you have a closed system)",
+      "Rigid CPVC or copper pipe and fittings for the discharge line (if replacing it)",
+      "Garden hose (to drain the tank below the valve)",
+      "Bucket and towels",
+      "Screwdriver (to reach electric thermostats / adjust the setting)"
+    ],
+    "searchTerms": [
+      "water heater relief valve leaking",
+      "why is my water heater t&p valve dripping",
+      "water heater pressure relief valve dripping from pipe",
+      "water heater overflow pipe dripping water",
+      "temperature pressure relief valve leaking water heater",
+      "how to replace leaking water heater relief valve",
+      "water heater relief valve leaking thermal expansion tank",
+      "is water heater discharge pipe dripping normal"
+    ],
+    "sources": [
+      "Water heater manufacturer installation and use guidance (Rheem, A.O. Smith, Bradford White)",
+      "Plumbing code on T&P valves, discharge piping, and thermal expansion on closed systems (IRC P2804 / Uniform Plumbing Code)",
+      "T&P relief valve manufacturer documentation (e.g., Watts) on relief settings and replacement",
+      "Reputable DIY references (This Old House, Family Handyman)"
+    ],
+    "disclaimer": "General home-maintenance guidance, not a substitute for a professional inspection; a water heater's relief valve is a life-safety device, so never block it, and if the water is steaming hot or you're unsure, shut the heater off and call a licensed plumber. Local plumbing codes vary.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
   },
   {
     "slug": "sound-existing-wall-no-demo",
@@ -8363,6 +9561,100 @@
     "kind": "pillar"
   },
   {
+    "slug": "yard-downspout-drainage",
+    "system": "yard",
+    "title": "Downspouts Dumping Water at the Foundation — Causes & Fixes",
+    "question": "Why is my downspout dumping water right next to the foundation, and how do I stop the pooling and wet basement?",
+    "summary": "A downspout that spills roof water right at the foundation is usually missing an extension, sitting on a cracked or back-tilted splash block, or tied into a buried drain line that has clogged or crushed — and it's often made worse by soil that slopes back toward the house. Most fixes are cheap, safe DIY; water already inside the basement, a collapsed buried line, or foundation cracks are where you call a pro.",
+    "commonCauses": [
+      {
+        "cause": "Downspout has no extension — it discharges within a foot of the wall, concentrating hundreds of gallons of roof runoff right against the foundation and into the backfill soil that leads to the basement.",
+        "likelihood": "most common",
+        "quickCheck": "During or right after rain, look at where each downspout ends. If water spills within a few feet of the wall or a wet/eroded spot sits under the elbow, that's your source."
+      },
+      {
+        "cause": "Splash block is missing, cracked, or tilted back toward the house — so instead of throwing water out, it channels it straight down along the foundation.",
+        "likelihood": "most common",
+        "quickCheck": "Set a level on the splash block. It should slope AWAY from the house. If it's flat, tipped back, sunk into the mud, or gone, water is running toward the wall."
+      },
+      {
+        "cause": "The ground next to the foundation slopes toward the house (negative grade). Backfill around a foundation settles over the years, creating a trough that catches roof and surface water.",
+        "likelihood": "common",
+        "quickCheck": "Rest a 4-ft level on a straight board against the wall. The soil should fall about 6 inches over the first 10 feet away from the house (~5%, the IRC minimum). If it's flat or drops toward the wall, regrade."
+      },
+      {
+        "cause": "Buried underground drain line (downspout tied into a pipe to daylight or a storm drain) is clogged with leaves, sediment, or roots, or is crushed — so water backs up and overflows at the base of the downspout.",
+        "likelihood": "common",
+        "quickCheck": "Run a garden hose into the downspout inlet. If water backs up at the top, or never comes out the daylight/pop-up outlet, the buried line is blocked or broken."
+      },
+      {
+        "cause": "Clogged or overflowing gutters — water sheets over the gutter lip at a corner and pours down the wall instead of going through the downspout at all.",
+        "likelihood": "common",
+        "quickCheck": "Watch the gutters during a hard rain. Waterfalls over the front edge, or vertical dirt streaks and staining on the siding below, mean the gutter or the downspout screen is clogged."
+      },
+      {
+        "cause": "Too few or undersized downspouts, or a leaking/disconnected elbow — the system can't move the roof's volume, so it overwhelms and dumps at the base.",
+        "likelihood": "less common",
+        "quickCheck": "Rough rule: one downspout per ~600–1,000 sq ft of roof. Check every seam and elbow for gaps or drips during rain; a popped-apart joint leaks right at the foundation."
+      }
+    ],
+    "fixes": [
+      "Start cheapest: set or replace the splash block. Put a solid splash block (concrete or heavy plastic) under each downspout and pitch it so it clearly slopes away from the house. This alone fixes many minor pooling problems for a few dollars.",
+      "Add downspout extensions to carry water away from the foundation. Rigid or flexible (roll-out/auto-close) extensions should discharge at least 4–6 feet from the wall — farther if the grade allows — onto a spot that drains away, not back toward the house or a neighbor's property.",
+      "Clean the gutters and flush the downspouts so the system actually carries water. Scoop out debris, then run a hose from the top; if a downspout won't clear, tap it or push a plumber's snake down from the top to break the clog.",
+      "Test and clear a buried drain line. Run a hose into the inlet and check the outlet. If it's blocked, snake it or have it hydro-jetted (rented/pro). A line crushed by roots or settling has to be dug up and the bad section replaced.",
+      "Add a pop-up emitter at the end of a buried line so discharged water surfaces well away from the house. Note pop-ups can silt shut over time — clear them yearly, and don't rely on one if the buried pipe itself is clogged.",
+      "Regrade the soil against the foundation. Build up soil (not loose mulch) so the first 10 feet slopes away ~6 inches, tamping in layers. Keep the finished soil at least 6 inches below the siding, sill plate, or brick weep holes so you don't trap moisture against the wall.",
+      "Where you can't route runoff across the surface, direct the downspout into a proper underground drainage system to daylight or a dry well — sized and pitched (about 1% fall) so it moves water away, not into the soil beside the foundation. Confirm where the water ends up first.",
+      "Never tie roof downspouts into the sanitary sewer, and never send water onto a neighbor's land or back toward any foundation — both can violate local stormwater codes and create liability. Check with your municipality before connecting to any storm system.",
+      "Call 811 before you dig for any buried line or dry well. It's free, legally required in the US, and marks buried gas, electric, and utility lines. Wait for the marks before putting a shovel in the ground.",
+      "If water is already reaching the basement/crawlspace, foundation cracks are weeping, or the wall stays wet after you've fixed the surface drainage, stop and call a foundation/waterproofing pro — you may need interior drain tile and a sump pump or exterior excavation and waterproofing."
+    ],
+    "diyVsPro": "Splash blocks, downspout extensions, cleaning gutters and downspouts, adding a pop-up emitter, and building up a modest amount of soil to regrade a short run are all safe weekend DIY for a careful homeowner — and they solve the large majority of downspout-at-foundation problems. Call a pro when a buried drain line is crushed or root-blocked and needs excavation, when regrading has to move large volumes of earth or affects neighbors, when you need to connect to a municipal storm drain, and especially when water is already getting into the basement or crawlspace, foundation cracks are weeping, or the wall stays wet after the surface fixes. Chronic foundation water is a structural and mold issue — a landscape-drainage contractor or a foundation-waterproofing specialist (or a structural/civil engineer for cracks) is worth it.",
+    "typicalCostUSD": "DIY: splash block $5–15 each; downspout extension $8–30 each; pop-up emitter kit $10–25; gutter/downspout cleaning $0 with your own ladder; a load of topsoil for regrading $30–150. Pro: gutter cleaning $100–250; snaking or hydro-jetting a buried drain line $150–500; digging up and replacing a buried downspout drain / new underground drainage $1,000–3,000+; regrading around the foundation $500–3,000. Basement waterproofing: interior drain tile + sump pump $3,000–10,000+; exterior foundation excavation and waterproofing $5,000–15,000+.",
+    "timeEstimate": "Splash block or downspout extension: 15–30 minutes each. Cleaning gutters and flushing downspouts: 1–3 hours. Snaking/testing a buried line: 1–2 hours. Regrading a short run: a half to full day. Digging up and replacing a buried drain line: a weekend DIY or a 1–2 day pro job. Basement waterproofing: a pro job of several days.",
+    "safetyLevel": "caution",
+    "safetyNote": "Call 811 before any digging for buried drain lines or a dry well, and wait for the utility marks — hitting a gas or electric line can be deadly. Water at the foundation is not cosmetic: chronic moisture causes structural damage, mold, and mosquito breeding, so treat basement or crawlspace intrusion as urgent. If standing water in a basement is anywhere near outlets, a furnace, a water heater, a sump pump, or the electrical panel, do NOT wade in — the water can be energized; shut off power from a dry location or call an electrician or your utility first. Cleaning gutters means ladder work: set the ladder on firm level ground, keep three points of contact, and never overreach — most gutter-related injuries are falls. Keep any DIY trenches shallow (roughly knee-deep); deeper trenches can collapse. Don't excavate a deep trench right against the foundation footing, which can undermine the wall — leave that to a pro. Never redirect roof water onto a neighbor's property or into the sanitary sewer.",
+    "toolsParts": [
+      "Splash blocks (concrete or heavy plastic)",
+      "Downspout extensions (rigid or flexible roll-out)",
+      "Downspout adapter/connector and screws",
+      "Pop-up emitter kit",
+      "4-inch drain pipe (solid for downspout runs)",
+      "Garden hose (to flush and test lines)",
+      "Plumber's snake / drain auger",
+      "Gutter scoop and gloves",
+      "Sturdy extension or step ladder",
+      "Shovel and trenching shovel",
+      "4-foot level and a straight board",
+      "Topsoil and a hand tamper",
+      "Marking paint and tape measure"
+    ],
+    "searchTerms": [
+      "downspout dumping water at foundation",
+      "water pooling next to foundation after rain",
+      "how to extend downspout away from house",
+      "buried downspout drain clogged how to clear",
+      "splash block vs downspout extension",
+      "wet basement after heavy rain gutters",
+      "regrade soil around foundation for drainage",
+      "downspout pop up emitter not working",
+      "gutter overflowing water running down wall",
+      "how far should downspout drain from house"
+    ],
+    "sources": [
+      "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+      "IRC grading guidance (R401.3: minimum 6-inch fall within the first 10 feet from the foundation)",
+      "811 'call before you dig' utility-locate requirements",
+      "EPA / municipal stormwater guidance on roof runoff and not connecting downspouts to the sanitary sewer",
+      "Foundation-waterproofing and basement-water best practices"
+    ],
+    "disclaimer": "This is general guidance for a typical US home, not a substitute for professional assessment — water reaching a basement, crawlspace, or foundation crack, or any tie-in to municipal storm systems, should be evaluated by a licensed contractor or engineer, and local grading, easement, and stormwater rules vary, so check with your municipality before regrading or redirecting water.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
+  },
+  {
     "slug": "yard-drainage",
     "system": "yard",
     "title": "Standing Water in Your Yard — Causes & Fixes",
@@ -8535,6 +9827,92 @@
     "verified": true,
     "verifierNote": "Confirmed causes/fixes/costs and the DIY-appropriate \"caution\" level; corrected the 2-ft depth to defer to frost line (3-4 ft in cold climates), added 811 lead-time, ground-contact lumber rating (UC4A/UC4B), hot-dip galvanized fasteners, wet-concrete caustic + silica-dust warnings, scoped the no-dig brace away from end posts, and updated lumber/concrete/pro cost ranges to 2026.",
     "kind": "pillar"
+  },
+  {
+    "slug": "yard-outdoor-faucet-leaking",
+    "system": "yard",
+    "title": "Outdoor Faucet Leaking or Dripping — Causes & Fixes",
+    "question": "Why is my outdoor faucet (hose bib / spigot) leaking or dripping, and how do I fix it?",
+    "summary": "A leaking outdoor faucet is usually a worn washer or stem packing (drips from the spout, or seeps around the handle when you open it), a stuck vacuum breaker on top, or a bad hose washer — all cheap, low-risk DIY fixes. The one that isn't cheap: a pipe split by a winter freeze, which leaks inside the wall only when you turn the faucet on and often needs a plumber. Disconnecting hoses before the first hard freeze prevents most burst faucets.",
+    "commonCauses": [
+      {
+        "cause": "Worn seat washer inside the valve — the rubber washer that seals the water off has hardened or torn, so the faucet drips from the SPOUT even with the handle turned fully off. The single most common leak.",
+        "likelihood": "most common",
+        "quickCheck": "With the handle shut all the way, watch the spout opening for a steady drip. A drip from the opening (not the handle) points to a worn washer or a scored valve seat."
+      },
+      {
+        "cause": "Worn stem packing or a loose packing nut — water seeps out from AROUND the handle/stem when the faucet is turned on. The packing (or O-ring) behind the packing nut has dried out or the nut has backed off.",
+        "likelihood": "common",
+        "quickCheck": "Turn the faucet on and look at the base of the handle. Water weeping out around the stem (not the spout) means the packing nut is loose or the packing/O-ring is worn."
+      },
+      {
+        "cause": "Vacuum breaker (anti-siphon cap) leaking — the small dome or cap on top of many modern hose bibs weeps or sprays water when the faucet runs. Its internal check seal is stuck or worn. It's a backflow-prevention part, not the valve itself.",
+        "likelihood": "common",
+        "quickCheck": "Run the faucet and watch the cap on top. Water dribbling or spitting from the top cap (while the spout works fine) means the vacuum breaker seal needs a repair kit or a new cap."
+      },
+      {
+        "cause": "Frost-split / freeze-cracked pipe — the faucet leaks ONLY when turned on, and water shows up inside the wall, basement, or crawlspace. Classic after winter, especially if a garden hose was left attached to a freeze-proof faucet over a hard freeze. This is a hidden-damage leak, not a surface drip.",
+        "likelihood": "common",
+        "quickCheck": "Open the faucet and have someone watch the inside wall or basement right below it. Water appearing inside the house means a split pipe or cracked frost-free sillcock — shut it off immediately."
+      },
+      {
+        "cause": "Leak at the hose connection — a worn, flattened, or missing rubber hose washer, or a cross-threaded coupling where the garden hose screws on. The faucet body is fine; only the threaded joint leaks.",
+        "likelihood": "common",
+        "quickCheck": "Does it only leak with a hose attached, right at the threaded joint? Unscrew the hose and check the flat rubber washer inside the coupling for cracks or that it's gone."
+      },
+      {
+        "cause": "Corroded or cracked faucet body / loose mounting — an old galvanized or brass bib has cracked, or the whole faucet has worked loose in the wall, so it leaks or wobbles.",
+        "likelihood": "less common",
+        "quickCheck": "Look for a hairline crack, green corrosion, or a faucet that moves when you push it. A cracked body means replacing the whole faucet, not a washer."
+      }
+    ],
+    "fixes": [
+      "Find and use the shutoff first. Locate the indoor shutoff valve on the pipe feeding the outdoor faucet (often in the basement, crawlspace, or utility area near where the pipe passes through the wall), or use the home's main shutoff. Close it before taking anything apart so you're not fighting live water pressure, then open the outdoor faucet to drain the line.",
+      "Fix a leak at the hose connection: unscrew the garden hose, pull out the small flat rubber hose washer inside the coupling, and replace it if it's cracked, flattened, or missing (a few cents each). Hand-tighten the hose and don't cross-thread it.",
+      "Leak around the handle/stem when running: first snug the packing nut (the large nut behind the handle) about 1/8 to 1/4 turn with a wrench. If it still weeps, shut off the water, remove the handle screw and handle, unscrew the packing nut, and replace the packing washer or stem O-ring with a matching repair kit.",
+      "Drip from the spout when closed (worn washer/seat): with the water shut off, unscrew the packing/bonnet nut and pull the stem straight out. On a standard hose bib the rubber washer is on the end of the stem — replace it. If the brass seat it presses against feels rough or pitted, dress it smooth or replace the seat. Reassemble and test.",
+      "Frost-free (freeze-proof) sillcock repair: the washer sits at the FAR inner end of the long stem, inside the heated wall. Shut the water off, unscrew the packing nut, and pull the entire long stem straight out; replace the washer/O-ring with the manufacturer's kit (match the brand — Woodford, Prier, Mansfield, Aqua-Frost — and the stem length). Reassemble and confirm it still drains itself when shut off.",
+      "Vacuum breaker leaking from the top: pop off or unscrew the cap on top and install a vacuum-breaker repair kit or a new cap (a $5-15 part). Match the brand of the faucet.",
+      "Freeze-split pipe or sillcock: if water appears inside when you open the faucet, you have a cracked pipe or split frost-free barrel — shut the water off and leave it off. Replacing the whole sillcock (threaded, push-fit like SharkBite, or soldered) is a moderate DIY job if you have easy access and are comfortable; if it means opening a finished wall, soldering copper near framing, or you can't reach it, call a plumber. Don't keep running it — the leak is inside your wall.",
+      "Whole-faucet replacement: if the bib is old, corroded, or cracked at the body, replace the entire hose bib or sillcock instead of chasing individual parts. On a frost-free unit, buy one long enough to reach fully through your wall and install it pitched slightly downward toward the outside so it self-drains.",
+      "Prevent the next freeze burst: every fall before the first hard freeze, disconnect and drain all garden hoses (a hose left on a frost-free faucet is the number-one cause of a split), shut off and drain any standard outdoor faucet at its indoor valve, and add an insulated foam faucet cover for extra protection in mild freezes."
+    ],
+    "diyVsPro": "DIY is fine for the common fixes — replacing washers, stem packing, O-rings, and hose washers, and swapping a vacuum-breaker cap or kit. These are cheap parts, hand tools, and low risk once the water is off. Replacing an accessible frost-free sillcock that threads on or uses a push-fit fitting is a reasonable DIY job too. Call a licensed plumber when water leaks inside the wall, basement, or crawlspace as you run the faucet (a freeze-split pipe behind the wall), when the sillcock is soldered copper and you're not comfortable using a torch near wood framing, when the faucet is buried in a finished wall that needs opening and drywall repair, or when the indoor shutoff valve itself is stuck or leaking.",
+    "typicalCostUSD": "DIY: washer, packing, and O-ring repair kits $5-15; rubber hose washers a few dollars a pack; vacuum-breaker cap or repair kit $5-15; a full frost-free sillcock $15-45 (push-fit or threaded). Pro: a plumber service call typically runs $100-250; outdoor faucet/sillcock replacement commonly lands $150-400, and $250-600+ if a freeze-split pipe inside the wall requires opening the wall, soldering, or drywall repair.",
+    "timeEstimate": "Hose washer swap: 5-10 minutes. Packing or stem-washer replacement: 20-45 minutes. Vacuum-breaker kit: 10-20 minutes. Full sillcock replacement: 1-3 hours depending on access and whether it's soldered.",
+    "safetyLevel": "low",
+    "safetyNote": "This is low-risk plumbing with no gas or electricity involved. The main rule: know where your main water shutoff is and close the supply before you take the faucet apart, or you'll get sprayed and can flood the area. Watch for the freeze-damage case — if water shows up inside your wall, basement, or crawlspace when you open the outdoor faucet, you have a split pipe; shut the water off and stop running it, because hidden water inside a wall causes rot and mold. If a repair needs soldering copper near wood framing, a torch is a real fire risk — use a heat shield or hand it to a plumber. And leaving a garden hose attached over winter is the most common cause of a burst frost-free faucet, so always disconnect hoses before a freeze.",
+    "toolsParts": [
+      "Adjustable wrench or channel-lock pliers",
+      "Screwdriver (for the handle screw)",
+      "Faucet/sillcock repair kit — stem washer, packing washer, O-rings (match the brand)",
+      "Replacement rubber hose washers",
+      "Vacuum-breaker repair kit or cap (if the faucet has one)",
+      "Replacement hose bib or frost-free sillcock (if replacing the whole faucet — match length and thread)",
+      "Teflon (PTFE) thread tape and/or pipe-joint compound",
+      "Insulated outdoor faucet cover (for winter freeze protection)",
+      "Bucket and rags"
+    ],
+    "searchTerms": [
+      "outdoor faucet dripping when turned off",
+      "hose bib leaking around handle",
+      "frost free sillcock leaking inside wall",
+      "how to replace outdoor faucet washer",
+      "outdoor faucet vacuum breaker leaking",
+      "spigot leaks when hose attached",
+      "burst outdoor faucet after winter freeze",
+      "freeze proof faucet won't stop dripping",
+      "how to winterize outdoor faucet"
+    ],
+    "sources": [
+      "Manufacturer repair and installation guidance for outdoor faucets/sillcocks (Woodford, Prier, Mansfield, Aqua-Frost)",
+      "Reputable DIY home-improvement references (This Old House, Family Handyman)",
+      "Common plumbing-code norms for anti-siphon/vacuum-breaker backflow prevention and cold-climate winterizing guidance"
+    ],
+    "disclaimer": "General DIY home-maintenance guidance, not a substitute for a licensed plumber. Faucet types, wall construction, and local plumbing/backflow codes vary; if water is leaking inside a wall, the faucet is soldered in place, or you're unsure, consult a professional. Always shut off the water supply before disassembling any faucet.",
+    "verified": false,
+    "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+    "kind": "spoke"
   },
   {
     "slug": "yard-sprinkler-repair",

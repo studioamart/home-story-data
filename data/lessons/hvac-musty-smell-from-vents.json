@@ -1,0 +1,87 @@
+{
+  "slug": "hvac-musty-smell-from-vents",
+  "system": "hvac",
+  "title": "Musty or Dirty-Sock Smell From the AC Vents \u2014 Causes & Fixes",
+  "question": "Why does my air conditioner smell musty, moldy, or like dirty socks when it turns on, and how do I get rid of it?",
+  "summary": "A musty, moldy, or \"dirty-sock\" smell that hits when the AC kicks on is almost always mold, mildew, and bacteria growing inside the cool, damp part of the system \u2014 on the wet evaporator coil, in standing water in the drain pan, or on a dirty air filter. A fresh filter, a cleared condensate drain, cleaning the accessible coil, and lowering indoor humidity fix most cases. A deep chemical coil cleaning, a UV germicidal light, and duct-mold work are the pro-only steps. The smell itself is a comfort and air-quality issue, not usually a safety emergency \u2014 but a rotten-egg or sulfur smell is different and could be a gas leak.",
+  "commonCauses": [
+    {
+      "cause": "Mold and bacteria (biofilm) on the evaporator coil \u2014 the classic 'dirty sock syndrome.' The coil is cold and wet whenever the AC runs, so microbes grow on it and release the musty/sour smell that is strongest right when the blower starts.",
+      "likelihood": "most common",
+      "quickCheck": "Is the smell worst in the first minute after the AC or heat pump kicks on, then fade as it runs? That startup timing points straight at the coil."
+    },
+    {
+      "cause": "Standing water and slime in the drain pan / clogged condensate line. Algae plugs the drain, so the water the coil sheds sits in the pan and breeds mold instead of draining away.",
+      "likelihood": "most common",
+      "quickCheck": "Open the air-handler access panel (power off) and look at the pan: standing water, black slime, or little/no flow at the outdoor drain end means a clogged, stagnant drain."
+    },
+    {
+      "cause": "Dirty, damp air filter. A clogged filter traps moisture, dust, and organic matter and cuts airflow, which keeps the coil colder and wetter \u2014 a perfect mold farm you smell on every cycle.",
+      "likelihood": "common",
+      "quickCheck": "Pull the filter. If it's gray, grimy, damp, or itself smells musty, it's overdue and likely part of the problem."
+    },
+    {
+      "cause": "High indoor humidity or an oversized / short-cycling AC that never dries the coil. The unit cools fast, shuts off, and the coil stays wet between cycles instead of drying, so mold thrives.",
+      "likelihood": "common",
+      "quickCheck": "Is the house clammy or over ~55-60% relative humidity, or does the AC run in very short bursts? Check with a cheap hygrometer."
+    },
+    {
+      "cause": "Mold or mildew in the ductwork itself, from past condensation or a leak, so the smell rides the airflow into every room.",
+      "likelihood": "less common",
+      "quickCheck": "Does the musty smell come equally from all vents (not just tied to coil startup), or do you see dark spots at the register grilles? That suggests the ducts, not just the coil."
+    },
+    {
+      "cause": "Dry or biofilm-fouled condensate P-trap. A dry trap can let sewer-style odor back up the drain line; a slimy one adds to the musty smell.",
+      "likelihood": "less common",
+      "quickCheck": "If the odor is more sewage-like than musty and there's a condensate trap that may have dried out, pour water into it to reseal and see if it improves."
+    }
+  ],
+  "fixes": [
+    "Replace the air filter with a fresh, correct-size one. This is the cheapest, highest-payoff step: it removes a moldy surface and restores airflow so the coil can dry. Match the size printed on the old filter and use a MERV rating your system is rated for (a too-restrictive filter can worsen airflow).",
+    "Before opening anything, shut the system off at the thermostat AND at the air-handler/furnace breaker or switch, and confirm it's off. You'll be working near electrical components and the blower.",
+    "Clear the drain pan and condensate line: vacuum standing water and slime from the pan with a wet/dry vac, then suck out or flush the drain line from the outdoor end. Pour a cup of distilled white vinegar (or a condensate treatment tablet) into the access port to kill the algae. A draining, dry pan stops the mold from re-brewing.",
+    "Clean the accessible evaporator coil with a no-rinse foaming evaporator-coil cleaner: with power off and the access panel open, spray the reachable coil per the can's directions and let it foam and drain out through the condensate line. This kills the surface mold that causes the dirty-sock smell. Do NOT bend the fins, use a garden hose inside the air handler, or reach past what you can clearly see and safely access.",
+    "Help the coil dry out: run the system on FAN/ON (not AUTO) for a while after cooling, or use a thermostat fan-delay setting if it has one, so the blower keeps running briefly after the compressor stops and dries the coil between cycles.",
+    "Lower indoor humidity to roughly 30-50% (keep it under 60%). Use a dehumidifier in damp climates/basements and make sure the AC is actually pulling humidity down; a chronically clammy house keeps the coil wet and moldy.",
+    "Keep it from coming back: replace the filter on schedule (typically every 1-3 months), and add vinegar or a condensate tablet to the drain line every 1-2 months during cooling season.",
+    "If the smell persists after a clean filter, cleared drain, and surface coil cleaning, have an HVAC pro do a deep chemical coil cleaning and inspect/replace the drain pan. For repeat 'dirty sock' cases, ask about a UV-C germicidal light installed at the coil to suppress regrowth (a pro electrical install), and confirm the system isn't oversized.",
+    "If the musty smell clearly comes from the ducts (all vents, visible mold at registers, not tied to coil startup), get a professional duct inspection and cleaning/remediation \u2014 and fix the moisture source. Don't assume duct cleaning alone fixes a coil-based smell; it often doesn't."
+  ],
+  "diyVsPro": "DIY is fine for changing the filter, clearing the drain pan and condensate line, adding vinegar/tablets, spraying a no-rinse foaming cleaner on the accessible part of the coil, adjusting the fan setting, and running a dehumidifier \u2014 these solve the large majority of musty AC smells. Call a licensed HVAC pro for a deep chemical cleaning of the full coil, drain-pan replacement, installing a UV germicidal light (electrical work), correcting an oversized/short-cycling system, refrigerant issues, and duct-mold remediation. Any work that opens the sealed refrigerant system or the electrical/gas side of the furnace is pro-only.",
+  "typicalCostUSD": "DIY: air filter $5-$25; no-rinse foaming coil cleaner $10-$20; condensate tablets or vinegar $5-$15; a wet/dry vac if you don't own one $50-$120; a portable dehumidifier $150-$300. Pro: professional coil cleaning $150-$400; drain-line/pan service $100-$300; UV germicidal light installed $250-$800; duct inspection/cleaning $300-$700+.",
+  "timeEstimate": "30-60 minutes to change the filter, clear the drain, and clean the accessible coil. A deep pro coil cleaning or UV-light install is typically a single 1-2 hour visit; duct remediation is longer.",
+  "safetyLevel": "caution",
+  "safetyNote": "A musty/moldy smell is an air-quality problem, not usually an emergency \u2014 but it means live mold in the system, so wear gloves and an N95 mask when cleaning, and keep anyone with asthma or allergies out of the area during the work. ALWAYS shut the system off at the thermostat and the air-handler/furnace breaker or switch and confirm power is off before opening the cabinet or touching the coil, blower, or wiring. Never spray water or a hose inside an energized air handler, and never add refrigerant or open the sealed system yourself \u2014 that's licensed-only. Important: if the smell is instead a sharp rotten-egg or sulfur odor (not musty), that can be a natural gas leak \u2014 leave the house immediately, don't flip any switches, and call your gas utility or 911 from outside. A persistent burning/electrical smell means shut it off at the breaker and call a pro.",
+  "toolsParts": [
+    "Replacement air filter (correct size and rated MERV)",
+    "No-rinse foaming evaporator-coil cleaner",
+    "Distilled white vinegar or condensate-line treatment tablets",
+    "Wet/dry vacuum",
+    "Screwdriver or nut driver (for the access panel)",
+    "Rags or towels",
+    "Flashlight",
+    "Nitrile gloves and an N95 mask (for handling mold)",
+    "Hygrometer to check indoor humidity (optional)"
+  ],
+  "searchTerms": [
+    "musty smell from ac vents",
+    "ac smells like dirty socks",
+    "dirty sock syndrome hvac",
+    "why does my air conditioner smell moldy",
+    "ac smells musty when it turns on",
+    "how to clean mold off evaporator coil",
+    "air conditioner smells like mildew",
+    "get rid of moldy smell from ac",
+    "moldy smell from air vents in house"
+  ],
+  "sources": [
+    "EPA guidance on mold, indoor air quality, and moisture control in HVAC systems",
+    "ENERGY STAR / U.S. Department of Energy guidance on filter changes and HVAC maintenance",
+    "HVAC manufacturer (Carrier, Trane, Lennox) evaporator-coil and condensate-drain cleaning instructions",
+    "Reputable DIY references (This Old House, Family Handyman)"
+  ],
+  "disclaimer": "General guidance only, not a substitute for professional diagnosis. HVAC systems, mold conditions, and local codes vary; deep coil cleaning, electrical, refrigerant, gas, and duct-mold remediation should be handled by a licensed HVAC professional. If you ever smell gas (rotten eggs), leave and call your utility from outside.",
+  "verified": false,
+  "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+  "kind": "spoke"
+}

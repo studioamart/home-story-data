@@ -1,0 +1,85 @@
+{
+  "slug": "safety-co-detector-beeping",
+  "system": "safety",
+  "title": "Carbon Monoxide Detector Beeping \u2014 Causes & Fixes",
+  "question": "Why is my carbon monoxide detector beeping \u2014 is it a real alarm or just a low battery?",
+  "summary": "A carbon monoxide detector making a single short chirp every 30\u201360 seconds is almost always a maintenance signal \u2014 a low battery or an end-of-life sensor (CO sensors wear out in about 7\u201310 years). But a loud, fast, repeating pattern \u2014 typically four beeps, a pause, then four more, often with a red light or a spoken \"carbon monoxide\" warning \u2014 means CO may be in your home right now: get everyone and pets outside to fresh air and call 911 from outside. When you cannot tell which sound it is, treat it as a real alarm and evacuate \u2014 that error is always the safe one.",
+  "commonCauses": [
+    {
+      "cause": "A real CO alarm \u2014 a loud, fast, repeating pattern (usually 4 beeps, a pause, then 4 more), often with a red light or a spoken 'carbon monoxide' warning. This is NOT the occasional single chirp; it means CO may be present now.",
+      "likelihood": "common",
+      "quickCheck": "Listen to the pattern: a loud, repeating 4-beep-pause-4-beep cycle (or a voice warning) = treat as real CO. Do not investigate \u2014 get everyone and pets outside and call 911 from outside."
+    },
+    {
+      "cause": "Low battery \u2014 a single short chirp every 30\u201360 seconds. This is a maintenance reminder, not an alarm, and it includes the backup battery in hardwired or plug-in units.",
+      "likelihood": "most common",
+      "quickCheck": "A lone chirp every ~30\u201360 sec with no loud repeating pattern, often paired with one blinking light, points to a low battery. Swapping the battery (if it is the replaceable type) should stop it."
+    },
+    {
+      "cause": "End of life \u2014 CO sensors degrade and expire roughly 7\u201310 years after manufacture. The unit chirps or announces 'End'/'Err' to tell you to replace the whole alarm, and a fresh battery will NOT stop it.",
+      "likelihood": "common",
+      "quickCheck": "Take the unit off its bracket and read the manufacture / replace-by date on the back. If it is about 7+ years old, or it keeps chirping after a new battery, it has reached end of life."
+    },
+    {
+      "cause": "Loose, wrong-type, or unseated battery \u2014 or a leftover pull-tab or a battery drawer that did not fully close.",
+      "likelihood": "common",
+      "quickCheck": "Open the compartment: confirm the correct battery type, correct polarity, fully seated, pull-tab removed, and the drawer clicked shut."
+    },
+    {
+      "cause": "A real but transient, low-level CO source \u2014 a car warming up in an attached garage, a backdrafting furnace or water heater, a fireplace, or generator fumes drifting inside. This is still real CO, just intermittent, and must never be dismissed as a 'false alarm.'",
+      "likelihood": "common",
+      "quickCheck": "Did the alarm sound right after starting a vehicle in the garage, lighting a fire, or a fuel appliance kicking on? Ventilate, get out if it keeps sounding, and have the appliance and flue checked."
+    },
+    {
+      "cause": "Dust, high humidity, or a nuisance/malfunction chirp \u2014 some units also chirp a distinct error code that varies by brand.",
+      "likelihood": "less common",
+      "quickCheck": "Look for dust around the sensor vents or a very steamy/humid location; check the manual's beep-pattern chart to see if the sound is an error code rather than a low-battery or CO signal."
+    }
+  ],
+  "fixes": [
+    "First, identify the sound. If it is a loud, fast, repeating pattern (typically 4 beeps, pause, 4 beeps) or a spoken 'carbon monoxide' warning, treat it as a real alarm: get everyone and pets outside to fresh air, call 911 (or your gas utility) from outside, and do not re-enter until the fire department or utility says it is safe. When you cannot tell whether it is an alarm or a chirp, evacuate and verify from outside \u2014 that error is always the safe one.",
+    "Trust symptoms over the device. If anyone has a headache, dizziness, nausea, drowsiness, confusion, or a flu-like feeling without fever, leave the house and call 911 even if the alarm is only chirping or silent.",
+    "If it is a single chirp every 30\u201360 seconds and no one has symptoms, replace the battery on a replaceable-battery unit: install a fresh battery of the correct type, confirm polarity and that it is fully seated, close the drawer until it clicks, then press and hold the test button to reset.",
+    "For a sealed 10-year unit, the battery is not replaceable \u2014 a chirp on one of these means end of life, so replace the whole alarm.",
+    "Check the date stamped on the back. If the CO alarm is about 7\u201310 years past its manufacture date, or it keeps chirping after a fresh battery, replace the entire unit \u2014 the sensor is spent. Write the install date on the new one with a marker.",
+    "Gently vacuum the vents with a soft brush or use short bursts of canned air to clear dust, then re-test. Keep alarms out of very humid, dead-air, or too-close-to-appliance spots (roughly 10\u201315 ft from fuel-burning appliances) to cut nuisance chirps.",
+    "If the chirp followed a car in the garage, a fireplace, or a running fuel appliance, treat it as possible real low-level CO: open windows to ventilate, get everyone out if it keeps sounding, and have the appliance, vent, and chimney inspected by a licensed pro \u2014 never assume it was a false alarm.",
+    "Never pull the battery or take a CO alarm down just to stop the noise \u2014 a disabled CO alarm can be fatal. If you must quiet it while you get a replacement, use the Silence/Hush button (not battery removal) and only after you have confirmed it is a chirp, not a real alarm; then fix or replace it the same day.",
+    "Make sure you have UL 2034 CO alarms on every level of the home and near each sleeping area, and replace them on the manufacturer's schedule so a worn-out sensor never leaves you unprotected."
+  ],
+  "diyVsPro": "Diagnosing the sound, swapping batteries, cleaning the vents, reading the date, and replacing a standalone or plug-in CO alarm like-for-like are all safe DIY jobs. The moment the unit sounds a real, repeating alarm \u2014 or anyone feels unwell \u2014 it stops being a repair and becomes a 911 / gas-utility emergency. And finding or fixing the CO source itself (furnace, boiler, water heater, gas range, fireplace, a cracked heat exchanger, or a blocked flue or chimney) is licensed-pro work for an HVAC or gas tech, often at roof height, and never a homeowner repair.",
+  "typicalCostUSD": "Battery: $2\u2013$15. Standalone CO alarm: $20\u2013$50; combo smoke/CO ~$40\u2013$70; sealed 10-year unit ~$30\u2013$50. Electrician to replace or add a hardwired/interconnected unit: roughly $100\u2013$250 per alarm, often with a service-call minimum. Finding the source: annual furnace/appliance inspection ~$100\u2013$250; chimney inspection + sweep $150\u2013$400; major combustion/heat-exchanger repair $500\u2013$2,000+. Fire department / gas-utility emergency response: typically free.",
+  "timeEstimate": "Deciding chirp vs. alarm: seconds \u2014 and on a real alarm, evacuate immediately. Battery swap, cleaning, or reset: 5\u201310 minutes. Replacing a hardwired unit with the breaker off: 20\u201340 minutes.",
+  "safetyLevel": "call-a-pro",
+  "safetyNote": "A CO alarm's whole job is to warn you before you feel anything \u2014 carbon monoxide is colorless, odorless, and can kill. Learn the difference: a loud, fast, repeating alarm (usually 4 beeps, pause, repeating, often with a red light or a spoken \"carbon monoxide\" warning) means CO may be present RIGHT NOW \u2014 get everyone and pets outside to fresh air and call 911 from outside, and do not re-enter until the fire department or gas utility clears it. A single chirp every 30\u201360 seconds is only a low-battery or end-of-life reminder. When you cannot tell which it is, treat it as a real alarm and evacuate \u2014 that error is always the safe one. If anyone has a headache, dizziness, nausea, drowsiness, or confusion, leave and call 911 even if the alarm is silent. If you also smell gas (a rotten-egg odor), leave immediately and call your gas utility from outside. Never disable or remove a CO alarm to stop the noise, and never troubleshoot a suspected gas or combustion source yourself \u2014 that is a job for the fire department, gas utility, or a licensed tech.",
+  "toolsParts": [
+    "Fresh batteries (match your unit's type)",
+    "Replacement UL 2034 CO alarm, or combo smoke/CO alarm",
+    "Step stool or short ladder (never a chair)",
+    "Vacuum with soft brush attachment or a can of compressed air",
+    "Screwdriver (for some brackets or units)",
+    "Non-contact voltage tester (only if working on a hardwired unit)",
+    "Marker (to date the new unit)",
+    "The alarm's manual (for the brand's beep-pattern chart)"
+  ],
+  "searchTerms": [
+    "carbon monoxide detector beeping",
+    "CO detector chirping every 30 seconds",
+    "is my carbon monoxide alarm real or low battery",
+    "carbon monoxide detector 4 beeps meaning",
+    "CO alarm going off but no symptoms",
+    "carbon monoxide detector beeping with new battery",
+    "how to tell if CO alarm is a real alarm",
+    "carbon monoxide detector end of life chirp"
+  ],
+  "sources": [
+    "CO alarm manufacturer guidance (First Alert / Kidde manuals on alarm-vs-chirp beep patterns and end-of-life signals)",
+    "Fire-safety authority guidance (NFPA and U.S. Fire Administration on CO alarms and the Temporal-4 alarm pattern)",
+    "CDC and CPSC consumer guidance on carbon monoxide poisoning",
+    "Reputable DIY references (This Old House, Family Handyman)"
+  ],
+  "disclaimer": "General home-maintenance information, not professional, medical, or emergency advice. Carbon monoxide can be fatal \u2014 if a CO alarm sounds a real alarm or anyone feels unwell, get outside and call 911. Beep patterns and replacement intervals vary by model; always follow your alarm's manual and local building code.",
+  "verified": false,
+  "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+  "kind": "spoke"
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "hvac-furnace-blowing-cold-air",
+  "system": "hvac",
+  "title": "Furnace Blowing Cold Air \u2014 Causes & Fixes",
+  "question": "Why is my furnace blowing cold air instead of heat?",
+  "summary": "A furnace blowing cold air is most often just the thermostat fan set to ON instead of AUTO \u2014 the blower then runs nonstop and pushes room-temperature air between heating cycles, which feels cold. The next likely culprits are a dirty filter overheating the unit into a safety (limit) shutdown, or an ignition/pilot/flame-sensor fault that lets the blower run while the burner isn't lit. The fan and filter fixes are free-to-cheap DIY; gas, ignition, and combustion problems are where you call a licensed HVAC pro.",
+  "commonCauses": [
+    {
+      "cause": "Thermostat fan set to ON instead of AUTO \u2014 the blower runs continuously, so between heating cycles it pushes unheated, room-temperature air that feels cold. The single most common reason for this exact complaint.",
+      "likelihood": "most common",
+      "quickCheck": "Check the thermostat fan switch: if it's on ON, the air feels cold only between cycles while the house still slowly warms. Switch it to AUTO and see if the cold-air-between-cycles stops."
+    },
+    {
+      "cause": "Clogged air filter choking airflow, so the heat exchanger overheats and the high-limit switch shuts the burner off \u2014 but the blower keeps running to cool it down, blowing cold air out the vents.",
+      "likelihood": "most common",
+      "quickCheck": "Pull the filter; if you can't see light through it, it's too dirty. Classic pattern: warm air briefly, then it turns cold and cycles that way."
+    },
+    {
+      "cause": "Thermostat set wrong, dead batteries, or not actually calling for heat (set to COOL/OFF or setpoint below room temp), so the burner never fires.",
+      "likelihood": "common",
+      "quickCheck": "Confirm mode is HEAT and the setpoint is 5+ degrees above room temp; if the display is blank or dim, replace the batteries and wait a minute for a click or call for heat."
+    },
+    {
+      "cause": "Pilot light out (older standing-pilot units) or a failed hot-surface igniter / dirty flame sensor (newer units) \u2014 the burner won't light or won't stay lit, so the blower moves cold air.",
+      "likelihood": "common",
+      "quickCheck": "On older units, look through the window for a small pilot flame. On newer ones, watch startup: a glow or clicks with no sustained flame, or a flame that lights then dies in a few seconds, points to ignition/flame-sensor trouble."
+    },
+    {
+      "cause": "Condensate drain clogged on a high-efficiency (condensing) furnace, tripping the float safety switch and locking out the burner while the blower still runs.",
+      "likelihood": "less common",
+      "quickCheck": "Look for standing water in the drain pan or a full condensate trap near a 90%+ efficiency furnace."
+    },
+    {
+      "cause": "No gas supply, a closed gas shutoff, or a component failure (gas valve, control board, igniter) \u2014 the fan can run while the burner gets no fuel or no fire command.",
+      "likelihood": "less common",
+      "quickCheck": "Confirm other gas appliances (stove, water heater) still work and the furnace gas shutoff is in-line (parallel) with the pipe; if all the above check out and it's still cold, it needs a tech with a meter."
+    }
+  ],
+  "fixes": [
+    "Set the thermostat fan from ON to AUTO. On AUTO the blower runs only when the air is actually heated, so you stop feeling cool air between cycles. This is free and fixes a large share of 'blowing cold air' complaints on its own.",
+    "Confirm the thermostat is on HEAT with the setpoint at least 5 degrees above the current room temperature; if the screen is blank or dim, install fresh batteries and wait a minute for the call for heat.",
+    "Replace the air filter with the correct size (printed on the old filter's edge). A choked filter overheats the furnace and forces the limit shutdown that blows cold air \u2014 swap 1-inch filters every 1-3 months in heating season.",
+    "Walk the house and open every supply register and clear furniture, rugs, and boxes off the supply and return vents so the furnace can move air freely and doesn't overheat.",
+    "Make sure the furnace's on/off switch (looks like a light switch on or beside the unit) is ON and the front access panel is fully closed and latched \u2014 a loose panel trips the door safety switch. If an HVAC/furnace breaker is tripped, reset it ONCE; if it trips again immediately, stop and call a pro (that's an electrical fault, not a nuisance trip).",
+    "On a high-efficiency (condensing) furnace, check the condensate drain and pan; if water is backed up, clear the line with a wet/dry vac or brush so the float switch resets.",
+    "On an older standing-pilot furnace, relight the pilot ONLY by following the printed instructions on the unit's label exactly. Do NOT make repeated attempts \u2014 if it won't light or won't stay lit, stop and call a pro (thermocouple/gas issue).",
+    "Verify the gas is on: the shutoff handle at the furnace should be in-line (parallel) with the pipe, and confirm your other gas appliances still work.",
+    "If it still blows cold after these checks \u2014 or it ignites then goes cold, clicks without firing, or the burner won't stay lit \u2014 call a licensed HVAC technician for the igniter, flame sensor, gas valve, or control board."
+  ],
+  "diyVsPro": "DIY is genuinely safe for the common fixes here: switching the fan to AUTO, checking thermostat mode/batteries, changing the filter, opening and clearing vents, reseating the access panel, confirming the power switch, resetting a tripped breaker once, and clearing a condensate drain. Call a licensed HVAC pro for anything involving the gas valve or gas piping, a pilot that won't stay lit, hot-surface igniter or flame-sensor replacement, blower or control-board failure, a breaker that trips repeatedly, or any gas smell \u2014 these involve natural gas, 120/240V wiring, and combustion safety that need training and tools.",
+  "typicalCostUSD": "DIY parts: air filter $5-25, thermostat batteries ~$5, new programmable thermostat $25-180, condensate line clearing ~$0. Pro repairs: service call/diagnostic $80-200; flame sensor clean/replace $80-250; hot-surface igniter $150-400; gas valve $300-800; blower motor $400-900; control board $300-700. If an old furnace is failing outright, full replacement runs $3,000-7,500+ (high-efficiency higher).",
+  "timeEstimate": "Fan setting, thermostat, and filter checks: 5-20 minutes. Clearing a condensate drain: 15-30 minutes. A pro diagnostic visit is typically 1-2 hours, and most common part repairs are done the same visit.",
+  "safetyLevel": "caution",
+  "safetyNote": "The most common fix here \u2014 switching the thermostat fan to AUTO \u2014 is completely safe and free, and the filter, vent, thermostat, panel, and condensate checks are safe DIY. But this is still a gas appliance: if you smell gas (rotten-egg odor) or hear hissing, do NOT touch switches or relight anything \u2014 leave the house and call your gas utility's emergency line or 911 from outside. Furnaces produce carbon monoxide, so keep a working CO detector. Never make repeated ignition attempts (they can flood the chamber with gas), and don't keep resetting a breaker or safety lockout that trips again \u2014 the control is tripping for a reason. Leave the gas valve, gas line, igniter/flame sensor, blower, control board, and any combustion work to a licensed HVAC technician.",
+  "toolsParts": [
+    "Replacement air filter (correct size)",
+    "Fresh thermostat batteries (usually AA or AAA)",
+    "Flashlight",
+    "Screwdriver or 1/4-inch nut driver (for the access panel)",
+    "Wet/dry vac or brush (for the condensate line)",
+    "Working carbon monoxide detector"
+  ],
+  "searchTerms": [
+    "furnace blowing cold air",
+    "why is my furnace blowing cold air",
+    "furnace blows warm then cold air",
+    "heater blowing cold air",
+    "furnace blowing cold air when set to heat",
+    "thermostat fan on or auto",
+    "furnace fan running but no heat",
+    "furnace blowing cold air intermittently",
+    "gas furnace blowing cold air"
+  ],
+  "sources": [
+    "Manufacturer furnace operation and troubleshooting labels/manuals (e.g., Carrier, Trane, Lennox, Goodman)",
+    "Reputable DIY home-maintenance references (This Old House, Family Handyman)",
+    "General gas-appliance and carbon-monoxide safety guidance (CPSC / U.S. Fire Administration)",
+    "Utility company gas-safety guidance"
+  ],
+  "disclaimer": "This guide is general home-maintenance information, not professional advice for your specific equipment; because furnaces involve natural gas, high-voltage electricity, and carbon monoxide, follow your unit's manual and call a licensed HVAC professional for any gas, ignition, or combustion issue.",
+  "verified": false,
+  "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+  "kind": "spoke"
+}

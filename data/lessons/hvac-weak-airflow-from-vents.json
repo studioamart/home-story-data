@@ -1,0 +1,86 @@
+{
+  "slug": "hvac-weak-airflow-from-vents",
+  "system": "hvac",
+  "title": "Weak or Low Airflow From the Vents \u2014 Causes & Fixes",
+  "question": "Why is there weak or barely any air coming out of my vents?",
+  "summary": "Weak airflow is almost always a restriction somewhere in the air path: a clogged filter, closed or blocked registers, a dust-caked blower wheel or coil, or leaky/crushed ducts. Most of these are cheap DIY fixes. A failing blower motor or capacitor, refrigerant-side icing, gas-furnace combustion work, and undersized ducts/returns are where you bring in a licensed HVAC pro.",
+  "commonCauses": [
+    {
+      "cause": "Dirty air filter choking the whole system \u2014 a clogged filter is the single most common cause of weak airflow and can also freeze the coil or overheat the furnace. A too-high MERV filter the system was never designed for can restrict airflow the same way.",
+      "likelihood": "most common",
+      "quickCheck": "Pull the filter and hold it up to a light. If you can't see light through it, or it's gray and matted, replace it."
+    },
+    {
+      "cause": "Closed, blocked, or too many closed supply registers, or a blocked return grille \u2014 furniture, rugs, and drapes over vents, or closing off rooms, starve the system and raise static pressure.",
+      "likelihood": "most common",
+      "quickCheck": "Walk the house: are supply registers fully open and clear, and are the big return grilles unblocked? Air feels weak at every vent, not just one."
+    },
+    {
+      "cause": "Dirty blower wheel (squirrel-cage fan) or a dust-caked evaporator (A-frame) coil \u2014 a fuzzy coating on the fan blades or coil fins cripples how much air the system can move. Common on systems that ran without a filter or went years without service.",
+      "likelihood": "common",
+      "quickCheck": "With power OFF at the breaker/disconnect, open the air handler and shine a light on the blower wheel and coil \u2014 a gray fuzzy buildup means restricted airflow."
+    },
+    {
+      "cause": "Leaky, crushed, kinked, or disconnected ducts \u2014 flex duct pinched behind a joist, a joint that came apart in the attic or crawlspace, or leaky seams that dump conditioned air before it reaches the room.",
+      "likelihood": "common",
+      "quickCheck": "In the attic, crawlspace, or basement, look for kinked flex runs, separated joints, or old tape that let go; you may feel or hear air escaping at seams."
+    },
+    {
+      "cause": "Frozen evaporator coil (cooling mode) \u2014 ice on the coil or refrigerant lines physically blocks airflow. Usually caused by the dirty filter/coil above or by low refrigerant.",
+      "likelihood": "common",
+      "quickCheck": "Weak airflow plus visible ice or frost on the indoor coil or the copper lines at the air handler. Set the system to fan-only and see if airflow returns as it thaws."
+    },
+    {
+      "cause": "Weak blower motor, a failed run capacitor, wrong fan-speed setting, or an undersized return/duct system \u2014 the fan spins too slowly or the system can't physically move enough air. This is diagnosis-and-pro territory.",
+      "likelihood": "less common",
+      "quickCheck": "Filter, registers, coil, and accessible ducts are all clean and clear, but the blower still spins slowly, hums, or the system is loud and starved \u2014 call an HVAC tech for a static-pressure test."
+    }
+  ],
+  "fixes": [
+    "Replace the air filter with the correct size and a moderate MERV (roughly 8-11 for most homes). Very high-MERV or thin fiberglass filters can hurt airflow \u2014 match what your system is rated for. Check monthly and change every 1-3 months.",
+    "Open every supply register fully and pull furniture, rugs, and drapes off them. Do NOT close off more than a few registers to 'push' air elsewhere \u2014 closing too many raises static pressure, cuts total airflow, and can overheat the blower or freeze the coil.",
+    "Clear and vacuum every return-air grille, and vacuum the return filter grille if you have one. Leave interior doors open or undercut so closed rooms can return air to the system.",
+    "Turn OFF power at the furnace/air-handler switch or breaker, then vacuum and gently brush the blower wheel and the evaporator (A-frame) coil. A no-rinse foaming coil cleaner helps on the coil. Never open the cabinet with the power on.",
+    "If you see ice on the coil or refrigerant lines, that ice is blocking the air. Switch the system to fan-only to thaw it fully, then fix the root cause \u2014 a dirty filter/coil, or low refrigerant (which is a pro repair).",
+    "Inspect the ducts you can reach in the attic, crawlspace, or basement: straighten kinked flex duct, reconnect separated joints, support sagging runs so they don't pinch, and seal leaks with UL-181 foil tape or duct mastic \u2014 never cloth 'duct tape,' which fails.",
+    "Confirm the system is on the right fan setting (AUTO vs ON) and, after any recent repair, that the blower speed tap wasn't left on a low setting.",
+    "If airflow is still weak after the filter, registers, returns, coil, and accessible ducts are all clean and clear, call an HVAC tech. The likely causes now are a dirty/failing blower motor, a weak run capacitor, hidden duct leaks, low refrigerant, or an undersized return/duct system that needs measurement (a static-pressure test) and possibly added return capacity."
+  ],
+  "diyVsPro": "DIY is fine for changing the filter, opening and unblocking registers and returns, and \u2014 with the power switched OFF at the breaker or disconnect \u2014 vacuuming/brushing the blower wheel and coil and sealing accessible duct leaks. Call a licensed HVAC pro for a blower motor or run capacitor (the capacitor stores a charge and can shock you), anything refrigerant-related (low charge, a coil that keeps freezing), gas-furnace burner or combustion work, hidden duct leaks inside walls, a static-pressure diagnosis, and any duct or return resizing. If it's a gas furnace and you smell gas or suspect a combustion problem, stop and call a pro or your utility.",
+  "typicalCostUSD": "DIY: pleated air filters $10-40 each (multi-packs cheaper per filter); no-rinse coil cleaner and a soft brush $10-30; UL-181 foil tape or duct mastic $10-25. Pro: HVAC diagnostic/service call typically $75-200; blower wheel or evaporator coil deep-clean $150-450; sealing a few accessible duct leaks $200-700 (whole-home duct sealing more); blower motor replacement $400-900 (variable-speed ECM motors higher); run capacitor replacement $150-400; adding or enlarging a return often $500-1500.",
+  "timeEstimate": "Filter change and opening registers: 5-15 minutes. Clearing return grilles: 10-20 minutes. DIY blower/coil cleaning (power off): 1-3 hours. Inspecting and sealing accessible ducts: 1-3 hours. Thawing a frozen coil: a few hours on fan-only. Pro visit: usually 1-3 hours; duct or return work can be a half to full day.",
+  "safetyLevel": "caution",
+  "safetyNote": "ALWAYS turn off power to the furnace/air handler at the breaker or the unit's disconnect switch before opening the cabinet to reach the blower or coil \u2014 never work on it live. The blower's run capacitor can hold a dangerous electrical charge even with power off, so leave capacitor and motor work to a pro. Never run the system without a filter installed, and don't force a very high-MERV filter into a system not rated for it \u2014 both strain the blower. On a gas furnace, weak airflow can trip the high-limit and combustion work carries carbon-monoxide risk: leave burner/heat-exchanger service to a licensed pro, and if you smell gas, leave the house and call your gas utility from outside. A working CO alarm near sleeping areas is a must with any gas heat.",
+  "toolsParts": [
+    "Correct-size pleated air filter (MERV ~8-11 for most homes)",
+    "Screwdriver and nut-driver set",
+    "Vacuum or shop vac with brush attachment",
+    "Soft brush for the blower wheel and coil fins",
+    "No-rinse foaming evaporator coil cleaner",
+    "Flashlight or work light",
+    "UL-181 foil tape and/or duct mastic (for duct leaks)",
+    "Work gloves and a dust mask",
+    "Multimeter (optional, for pro-level diagnosis)"
+  ],
+  "searchTerms": [
+    "weak airflow from vents",
+    "low air flow from ac vents",
+    "barely any air coming out of vents",
+    "hvac not blowing hard enough",
+    "furnace weak airflow",
+    "dirty blower wheel low airflow",
+    "why is my ac airflow so weak",
+    "not enough air coming out of registers",
+    "how to increase airflow from hvac vents"
+  ],
+  "sources": [
+    "Manufacturer use-and-care and owner's-manual guidance for furnaces and air handlers (Carrier, Trane, Lennox, Goodman, Rheem)",
+    "Reputable DIY references (This Old House, Family Handyman)",
+    "ENERGY STAR / EPA guidance on air filters and duct sealing",
+    "ACCA / ASHRAE norms on residential airflow and static pressure (specifics depend on your system and local code)"
+  ],
+  "disclaimer": "General home-maintenance guidance, not a substitute for professional inspection; always cut power at the breaker before opening the air handler, and leave refrigerant, capacitor/motor, gas, and combustion work to a licensed HVAC professional.",
+  "verified": false,
+  "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+  "kind": "spoke"
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "yard-downspout-drainage",
+  "system": "yard",
+  "title": "Downspouts Dumping Water at the Foundation \u2014 Causes & Fixes",
+  "question": "Why is my downspout dumping water right next to the foundation, and how do I stop the pooling and wet basement?",
+  "summary": "A downspout that spills roof water right at the foundation is usually missing an extension, sitting on a cracked or back-tilted splash block, or tied into a buried drain line that has clogged or crushed \u2014 and it's often made worse by soil that slopes back toward the house. Most fixes are cheap, safe DIY; water already inside the basement, a collapsed buried line, or foundation cracks are where you call a pro.",
+  "commonCauses": [
+    {
+      "cause": "Downspout has no extension \u2014 it discharges within a foot of the wall, concentrating hundreds of gallons of roof runoff right against the foundation and into the backfill soil that leads to the basement.",
+      "likelihood": "most common",
+      "quickCheck": "During or right after rain, look at where each downspout ends. If water spills within a few feet of the wall or a wet/eroded spot sits under the elbow, that's your source."
+    },
+    {
+      "cause": "Splash block is missing, cracked, or tilted back toward the house \u2014 so instead of throwing water out, it channels it straight down along the foundation.",
+      "likelihood": "most common",
+      "quickCheck": "Set a level on the splash block. It should slope AWAY from the house. If it's flat, tipped back, sunk into the mud, or gone, water is running toward the wall."
+    },
+    {
+      "cause": "The ground next to the foundation slopes toward the house (negative grade). Backfill around a foundation settles over the years, creating a trough that catches roof and surface water.",
+      "likelihood": "common",
+      "quickCheck": "Rest a 4-ft level on a straight board against the wall. The soil should fall about 6 inches over the first 10 feet away from the house (~5%, the IRC minimum). If it's flat or drops toward the wall, regrade."
+    },
+    {
+      "cause": "Buried underground drain line (downspout tied into a pipe to daylight or a storm drain) is clogged with leaves, sediment, or roots, or is crushed \u2014 so water backs up and overflows at the base of the downspout.",
+      "likelihood": "common",
+      "quickCheck": "Run a garden hose into the downspout inlet. If water backs up at the top, or never comes out the daylight/pop-up outlet, the buried line is blocked or broken."
+    },
+    {
+      "cause": "Clogged or overflowing gutters \u2014 water sheets over the gutter lip at a corner and pours down the wall instead of going through the downspout at all.",
+      "likelihood": "common",
+      "quickCheck": "Watch the gutters during a hard rain. Waterfalls over the front edge, or vertical dirt streaks and staining on the siding below, mean the gutter or the downspout screen is clogged."
+    },
+    {
+      "cause": "Too few or undersized downspouts, or a leaking/disconnected elbow \u2014 the system can't move the roof's volume, so it overwhelms and dumps at the base.",
+      "likelihood": "less common",
+      "quickCheck": "Rough rule: one downspout per ~600\u20131,000 sq ft of roof. Check every seam and elbow for gaps or drips during rain; a popped-apart joint leaks right at the foundation."
+    }
+  ],
+  "fixes": [
+    "Start cheapest: set or replace the splash block. Put a solid splash block (concrete or heavy plastic) under each downspout and pitch it so it clearly slopes away from the house. This alone fixes many minor pooling problems for a few dollars.",
+    "Add downspout extensions to carry water away from the foundation. Rigid or flexible (roll-out/auto-close) extensions should discharge at least 4\u20136 feet from the wall \u2014 farther if the grade allows \u2014 onto a spot that drains away, not back toward the house or a neighbor's property.",
+    "Clean the gutters and flush the downspouts so the system actually carries water. Scoop out debris, then run a hose from the top; if a downspout won't clear, tap it or push a plumber's snake down from the top to break the clog.",
+    "Test and clear a buried drain line. Run a hose into the inlet and check the outlet. If it's blocked, snake it or have it hydro-jetted (rented/pro). A line crushed by roots or settling has to be dug up and the bad section replaced.",
+    "Add a pop-up emitter at the end of a buried line so discharged water surfaces well away from the house. Note pop-ups can silt shut over time \u2014 clear them yearly, and don't rely on one if the buried pipe itself is clogged.",
+    "Regrade the soil against the foundation. Build up soil (not loose mulch) so the first 10 feet slopes away ~6 inches, tamping in layers. Keep the finished soil at least 6 inches below the siding, sill plate, or brick weep holes so you don't trap moisture against the wall.",
+    "Where you can't route runoff across the surface, direct the downspout into a proper underground drainage system to daylight or a dry well \u2014 sized and pitched (about 1% fall) so it moves water away, not into the soil beside the foundation. Confirm where the water ends up first.",
+    "Never tie roof downspouts into the sanitary sewer, and never send water onto a neighbor's land or back toward any foundation \u2014 both can violate local stormwater codes and create liability. Check with your municipality before connecting to any storm system.",
+    "Call 811 before you dig for any buried line or dry well. It's free, legally required in the US, and marks buried gas, electric, and utility lines. Wait for the marks before putting a shovel in the ground.",
+    "If water is already reaching the basement/crawlspace, foundation cracks are weeping, or the wall stays wet after you've fixed the surface drainage, stop and call a foundation/waterproofing pro \u2014 you may need interior drain tile and a sump pump or exterior excavation and waterproofing."
+  ],
+  "diyVsPro": "Splash blocks, downspout extensions, cleaning gutters and downspouts, adding a pop-up emitter, and building up a modest amount of soil to regrade a short run are all safe weekend DIY for a careful homeowner \u2014 and they solve the large majority of downspout-at-foundation problems. Call a pro when a buried drain line is crushed or root-blocked and needs excavation, when regrading has to move large volumes of earth or affects neighbors, when you need to connect to a municipal storm drain, and especially when water is already getting into the basement or crawlspace, foundation cracks are weeping, or the wall stays wet after the surface fixes. Chronic foundation water is a structural and mold issue \u2014 a landscape-drainage contractor or a foundation-waterproofing specialist (or a structural/civil engineer for cracks) is worth it.",
+  "typicalCostUSD": "DIY: splash block $5\u201315 each; downspout extension $8\u201330 each; pop-up emitter kit $10\u201325; gutter/downspout cleaning $0 with your own ladder; a load of topsoil for regrading $30\u2013150. Pro: gutter cleaning $100\u2013250; snaking or hydro-jetting a buried drain line $150\u2013500; digging up and replacing a buried downspout drain / new underground drainage $1,000\u20133,000+; regrading around the foundation $500\u20133,000. Basement waterproofing: interior drain tile + sump pump $3,000\u201310,000+; exterior foundation excavation and waterproofing $5,000\u201315,000+.",
+  "timeEstimate": "Splash block or downspout extension: 15\u201330 minutes each. Cleaning gutters and flushing downspouts: 1\u20133 hours. Snaking/testing a buried line: 1\u20132 hours. Regrading a short run: a half to full day. Digging up and replacing a buried drain line: a weekend DIY or a 1\u20132 day pro job. Basement waterproofing: a pro job of several days.",
+  "safetyLevel": "caution",
+  "safetyNote": "Call 811 before any digging for buried drain lines or a dry well, and wait for the utility marks \u2014 hitting a gas or electric line can be deadly. Water at the foundation is not cosmetic: chronic moisture causes structural damage, mold, and mosquito breeding, so treat basement or crawlspace intrusion as urgent. If standing water in a basement is anywhere near outlets, a furnace, a water heater, a sump pump, or the electrical panel, do NOT wade in \u2014 the water can be energized; shut off power from a dry location or call an electrician or your utility first. Cleaning gutters means ladder work: set the ladder on firm level ground, keep three points of contact, and never overreach \u2014 most gutter-related injuries are falls. Keep any DIY trenches shallow (roughly knee-deep); deeper trenches can collapse. Don't excavate a deep trench right against the foundation footing, which can undermine the wall \u2014 leave that to a pro. Never redirect roof water onto a neighbor's property or into the sanitary sewer.",
+  "toolsParts": [
+    "Splash blocks (concrete or heavy plastic)",
+    "Downspout extensions (rigid or flexible roll-out)",
+    "Downspout adapter/connector and screws",
+    "Pop-up emitter kit",
+    "4-inch drain pipe (solid for downspout runs)",
+    "Garden hose (to flush and test lines)",
+    "Plumber's snake / drain auger",
+    "Gutter scoop and gloves",
+    "Sturdy extension or step ladder",
+    "Shovel and trenching shovel",
+    "4-foot level and a straight board",
+    "Topsoil and a hand tamper",
+    "Marking paint and tape measure"
+  ],
+  "searchTerms": [
+    "downspout dumping water at foundation",
+    "water pooling next to foundation after rain",
+    "how to extend downspout away from house",
+    "buried downspout drain clogged how to clear",
+    "splash block vs downspout extension",
+    "wet basement after heavy rain gutters",
+    "regrade soil around foundation for drainage",
+    "downspout pop up emitter not working",
+    "gutter overflowing water running down wall",
+    "how far should downspout drain from house"
+  ],
+  "sources": [
+    "Reputable DIY references (This Old House, Family Handyman, Bob Vila)",
+    "IRC grading guidance (R401.3: minimum 6-inch fall within the first 10 feet from the foundation)",
+    "811 'call before you dig' utility-locate requirements",
+    "EPA / municipal stormwater guidance on roof runoff and not connecting downspouts to the sanitary sewer",
+    "Foundation-waterproofing and basement-water best practices"
+  ],
+  "disclaimer": "This is general guidance for a typical US home, not a substitute for professional assessment \u2014 water reaching a basement, crawlspace, or foundation crack, or any tie-in to municipal storm systems, should be evaluated by a licensed contractor or engineer, and local grading, easement, and stormwater rules vary, so check with your municipality before regrading or redirecting water.",
+  "verified": false,
+  "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+  "kind": "spoke"
+}

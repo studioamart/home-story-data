@@ -1,0 +1,93 @@
+{
+  "slug": "appliances-dishwasher-not-cleaning",
+  "system": "appliances",
+  "title": "Dishwasher Runs but Dishes Come Out Dirty \u2014 Causes & Fixes",
+  "question": "Why does my dishwasher run but leave dishes dirty, gritty, or filmy?",
+  "summary": "A dishwasher that runs but leaves dishes dirty, gritty, or filmy almost always has a clogged filter or clogged spray-arm jets, water arriving too cold to dissolve detergent, hard-water mineral film, old detergent or missing rinse aid, or dishes loaded so the spray can't reach them. Nearly every cause is a cheap, safe DIY fix; drain, pump, and water-heating faults are where you call an appliance pro.",
+  "commonCauses": [
+    {
+      "cause": "Clogged filter at the bottom of the tub \u2014 trapped food and grease get sprayed back onto the dishes, leaving grit. On most dishwashers made in the last 10-15 years the filter is manual-clean and needs rinsing regularly, which many owners never do. Most common cause.",
+      "likelihood": "most common",
+      "quickCheck": "Pull out the lower rack and twist out the cylindrical filter at the tub floor; if it's caked with food, grease, or sludge, that's very likely it."
+    },
+    {
+      "cause": "Blocked spray-arm jets \u2014 the tiny holes that shoot water get plugged with food bits or mineral scale, so whole areas of the rack get little or no spray",
+      "likelihood": "most common",
+      "quickCheck": "Spin each spray arm by hand (it should turn freely), then hold it up to the light and look for gunk in the little jet holes; a weak or lopsided spray leaves dishes dirty on one side or the top rack."
+    },
+    {
+      "cause": "Inlet water arriving too cold \u2014 dishwashers need roughly 120 F to dissolve detergent and cut grease, and if cold water sits in the supply line the first fill is lukewarm",
+      "likelihood": "common",
+      "quickCheck": "Run the kitchen hot tap nearest the dishwasher until it's hot, then start the cycle; if results clearly improve, the machine was filling with cold water."
+    },
+    {
+      "cause": "Hard-water mineral film \u2014 dissolved calcium and magnesium leave a cloudy or gritty white film on dishes and the tub, and it builds up on the spray arms too",
+      "likelihood": "common",
+      "quickCheck": "Wipe a filmy glass with a little white vinegar; if the film rinses away it's hard-water/detergent scale (fixable), not a broken machine. Note: permanent cloudiness that won't wipe off is glass etching and can't be reversed."
+    },
+    {
+      "cause": "Old or caked detergent, or an empty rinse-aid dispenser \u2014 dishwasher detergent (especially the enzymes) loses power as it ages or absorbs moisture, and without rinse aid dishes come out spotted and filmy",
+      "likelihood": "common",
+      "quickCheck": "Is the detergent fresh, dry, and clump-free? Check the rinse-aid reservoir; if it's empty or the indicator is low, that alone causes spotting and film."
+    },
+    {
+      "cause": "Overloading or wrong loading \u2014 dishes nest together, tall items block the spray arms from spinning, or soiled sides face away from the center, so the water never reaches them",
+      "likelihood": "common",
+      "quickCheck": "Did you cram it full, put big pots or platters where they block an arm, or load bowls/mugs facing up so they fill with dirty water? Reload with space and try one cycle."
+    },
+    {
+      "cause": "Poor drainage or a dirty, greasy tub \u2014 if the machine doesn't fully drain, dishes get rinsed in dirty water; a neglected tub also grows grease and biofilm",
+      "likelihood": "less common",
+      "quickCheck": "Look for standing water in the tub bottom after a finished cycle; more than a cup pooled means a drain or pump issue rather than a spray problem."
+    }
+  ],
+  "fixes": [
+    "Scrape plates but stop pre-rinsing to spotless. Modern enzyme detergents need a little food residue to grip; bone-clean dishes can actually come out worse. Just knock big scraps into the trash and load.",
+    "Clean the filter \u2014 this is the single highest-payoff fix. Twist out the filter assembly at the tub floor, rinse it under hot running water, and gently scrub with a soft brush or old toothbrush to clear trapped food and grease. Do this every week or two.",
+    "Clear the spray arms. Snap or unscrew each arm off (most pop off or unthread by hand or with a nut driver), rinse them, and poke each blocked jet hole clear with a toothpick or a thin piece of wire, then make sure they spin freely when reinstalled.",
+    "Run an empty hot cycle with a cleaner to strip grease and mineral film: use a commercial dishwasher cleaner, or set a bowl with 1-2 cups of plain white vinegar on the top rack, or use citric-acid powder. Do this monthly-ish if you have hard water. Run only one cleaning product per cycle \u2014 never mix cleaners.",
+    "Fix the water temperature. Set your water heater to about 120 F, and run the kitchen hot tap until it's hot right before starting the dishwasher so the first fill isn't cold. Many machines also have a 'heated wash' or 'sanitize' option that boosts temperature.",
+    "Refill the rinse-aid dispenser and use fresh detergent stored in a dry, sealed place. If film or spotting persists, try a different detergent form (a quality pod or powder) since old or cheap detergent is a common culprit.",
+    "Load for coverage, not capacity: leave space between items, angle bowls and mugs face-down toward the spray, keep tall pots and platters from blocking the arms, and put the dirtiest surfaces toward the center where the spray is strongest.",
+    "For recurring hard-water film, treat regularly with citric acid or a rinse-aid boost, and consider whether a whole-house water softener makes sense; if the film won't wipe off at all, it's etched glass and only prevention (less detergent, softer water) helps going forward.",
+    "If dishes stay dirty after all of the above, or water pools in the bottom and won't drain, the drain hose, drain pump, wash pump, water inlet valve, or heating element may be at fault \u2014 that's diagnosis-and-repair work for an appliance tech (or a plumber for a clogged drain line)."
+  ],
+  "diyVsPro": "All of the real fixes here are safe DIY with no tools beyond a brush: cleaning the filter, clearing the spray-arm jets, running a vinegar or citric-acid cycle, setting the water temperature, refilling rinse aid, using fresh detergent, and reloading correctly. Swapping a cracked spray arm or a worn filter is an easy snap-in replacement. Call an appliance technician if the dishwasher won't drain (standing water), won't heat the wash water, has a weak or noisy wash pump/motor, isn't filling (a bad inlet valve), or shows control-board faults \u2014 those involve the pump, heater, valve, or electronics. Call a plumber if the clog is in the household drain line rather than the machine. Stop and get a pro immediately if the unit trips its breaker, smells like burning, or leaks onto the floor.",
+  "typicalCostUSD": "DIY: filter and spray-arm cleaning cost about $0; dishwasher cleaner or citric-acid powder $5-15; rinse aid $4-8; fresh detergent $8-20; replacement spray arm $15-45; replacement filter $15-40 (all model-specific). Pro repair: service call $90-160; common repairs such as a drain pump, wash pump, water inlet valve, or heating element run $150-400 total including labor.",
+  "timeEstimate": "Filter and spray-arm cleaning: 15-30 minutes. A vinegar or cleaner maintenance cycle: about 1-1.5 hours, mostly the machine running unattended. Reloading and a test wash: one normal cycle. Pro diagnosis and repair: typically a single 1-2 hour visit, sometimes a second trip if a part must be ordered.",
+  "safetyLevel": "low",
+  "safetyNote": "Cleaning the filter and spray arms, running a vinegar or citric-acid cycle, adding rinse aid, and adjusting how you load are all low-risk tasks done with the door open and the cycle off. Watch for sharp objects (glass shards, knife tips) and hot water when you reach into the tub. Never mix cleaning products \u2014 do not run bleach in the same cycle as vinegar or any product containing ammonia, because the combination makes toxic gas; use only one cleaner at a time. If you ever go beyond cleaning into the machine's wiring, pump, or heater, cut power at the breaker (or unplug it) first and confirm it's off. If the dishwasher trips its breaker, smells like burning, or leaks water onto the floor, stop and call a pro.",
+  "toolsParts": [
+    "Soft brush or old toothbrush (for the filter)",
+    "Toothpick or thin wire (to clear spray-arm jet holes)",
+    "White vinegar, citric-acid powder, or a commercial dishwasher cleaner",
+    "Rinse aid",
+    "Fresh dishwasher detergent (stored dry and sealed)",
+    "Kitchen/meat thermometer (to check inlet water is around 120 F)",
+    "Nut driver or screwdriver (some spray arms unscrew)",
+    "Towels for spills",
+    "Replacement spray arm or filter if cracked or worn (model-specific)"
+  ],
+  "searchTerms": [
+    "dishwasher not cleaning dishes",
+    "dishes come out dirty after dishwasher",
+    "white film on dishes from dishwasher",
+    "how to clean dishwasher filter",
+    "dishwasher spray arm clogged",
+    "dishwasher leaves grit on dishes",
+    "hard water film on dishes dishwasher",
+    "dishwasher not cleaning top rack",
+    "cloudy glasses after dishwasher",
+    "dishwasher dishes still dirty gritty"
+  ],
+  "sources": [
+    "Manufacturer use-and-care guides (Whirlpool, Bosch, GE, KitchenAid, LG, Samsung, Maytag)",
+    "Reputable DIY references (This Old House, Family Handyman, Consumer Reports)",
+    "Appliance-repair references and parts retailers (e.g., RepairClinic)",
+    "General hard-water and water-quality guidance (EPA / water-utility resources)"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for your dishwasher's manual or a licensed technician; filter design, detergent, and part names vary by brand and model, so confirm against your manufacturer and, if dishes stay dirty after cleaning and reloading, have the drain, pump, or heater checked by a pro.",
+  "verified": false,
+  "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+  "kind": "spoke"
+}
