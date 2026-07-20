@@ -1,0 +1,90 @@
+{
+  "slug": "appliances-range-hood-weak",
+  "system": "appliances",
+  "title": "Range Hood or Over-the-Range Microwave Vent Pulling Weak? Fix Grease, Smoke, and Poor Suction",
+  "question": "My range hood (or the vent fan in my over-the-range microwave) barely pulls any air and leaves grease and smoke hanging in the kitchen — how do I fix the weak suction?",
+  "summary": "Weak pull is usually a maintenance problem, not a dead motor: a grease-clogged metal filter, a spent charcoal filter, or a stuck damper is choking the airflow. The thing most people miss is that many hoods and almost all over-the-range microwaves run in \"recirculating\" (ductless) mode — they push air through a charcoal filter and blow it right back into the room, so they never truly remove grease and smoke no matter how strong the fan is. Start by cleaning the grease filter and finding out whether your unit is actually vented outside; those two steps solve the large majority of cases.",
+  "commonCauses": [
+    {
+      "cause": "Grease-clogged metal mesh filter starving the fan of airflow",
+      "likelihood": "most common",
+      "quickCheck": "Slide the filter out and hold it up to a light — if you can't see daylight through the mesh, or it feels sticky/tacky, it's choked with grease."
+    },
+    {
+      "cause": "Recirculating (ductless) setup with a spent charcoal filter — or a unit that was never vented outside",
+      "likelihood": "common",
+      "quickCheck": "Run the fan on high and feel for exhaust blowing out of a slot at the top-front of the hood back into the room; if air recirculates into the kitchen (not out a duct), it's ductless and depends on a replaceable charcoal filter."
+    },
+    {
+      "cause": "Stuck or grease-caked exterior damper (the backdraft flap at the wall or roof cap)",
+      "likelihood": "common",
+      "quickCheck": "With the fan on high, go outside and watch the vent cap — the flapper should swing open with airflow. If it's stuck shut, painted over, or clogged with lint/grease/nest debris, the fan can't push air out."
+    },
+    {
+      "cause": "Over-the-range microwave blower set to the wrong mode, or its internal damper/discharge installed backwards",
+      "likelihood": "less common",
+      "quickCheck": "Check the model's use-and-care manual: OTR microwaves can be configured for top (vertical) duct, rear (horizontal) duct, or recirculate. If it's set to recirculate but a duct exists (or vice-versa), airflow is fighting a closed path."
+    },
+    {
+      "cause": "Crushed, undersized, over-long, or grease-caked duct run with too many elbows",
+      "likelihood": "less common",
+      "quickCheck": "Trace the duct in the cabinet/attic — look for kinked flexible foil duct, long runs, several 90-degree bends, or a heavy grease coating narrowing the pipe."
+    }
+  ],
+  "fixes": [
+    "Turn the unit off (and if you'll open any panel on an over-the-range microwave, unplug it or shut its breaker first). Remove the metal mesh grease filters — they pop or slide out by a small tab or handle.",
+    "Degrease the filters: soak them in hot water with grease-cutting dish soap (a scoop of baking soda helps), scrub with a soft brush, rinse, and dry fully. Many metal mesh filters can also go in the dishwasher on the top rack, but note that aluminum filters may darken or oxidize from alkaline detergents or long baking-soda soaks — that discoloration is cosmetic, not damage. Reinstall only when fully dry. Do this monthly for heavy cooks.",
+    "Figure out whether you're vented or recirculating. Look on top of/behind the hood for a duct leaving the house, and outside for a wall or roof vent cap. If air just blows back into the room, it's a ductless (recirculating) setup.",
+    "If recirculating: replace the charcoal/carbon filter — it cannot be washed and is usually spent every 6–12 months. Find the exact replacement by your model number; on OTR microwaves it clips in behind the grease filter or above the door.",
+    "If it's an OTR microwave: confirm the blower is set for your actual installation (vertical duct, rear duct, or recirculate) per the use-and-care manual, and that the discharge damper/blower wheel isn't installed backwards. Correct it if it's fighting a blocked path.",
+    "Inspect and clean the duct run: straighten any crushed flexible duct, wipe out grease you can safely reach, and note excessive length or too many bends — rigid smooth metal duct with as few elbows as possible moves the most air.",
+    "Clear the exterior damper: at the wall or roof cap, free the backdraft flap so it swings open easily, wipe off grease, and remove any fine insect screen clogged with lint (fine mesh behind a kitchen hood clogs fast and kills airflow).",
+    "Check the built-in backdraft damper at the hood/microwave outlet too — the little flapper where the duct connects should open fully and not be stuck by hardened grease.",
+    "Clean the blower/fan wheel if it's caked — a grease-loaded fan wheel spins but moves little air. Reach it per the manual with power off; do not disassemble the microwave's electrical section yourself.",
+    "Reassemble and test: run on high and hold a single sheet of tissue near the filter — strong suction pulls and holds it. Poor pull after all this points to a mode/duct problem or a failing motor.",
+    "For a real, lasting fix if you cook a lot and your hood is ductless: convert it to vent outside (a pro job if it means new duct through walls or roof). A ducted hood is the only setup that truly removes grease and smoke rather than just filtering some of it."
+  ],
+  "diyVsPro": "DIY is fine for the fixes that solve most cases: cleaning grease filters, replacing charcoal filters, clearing and cleaning dampers and duct you can reach safely, and correcting an OTR microwave's vent mode per its manual. Stop and call a licensed pro when: the vent cap is at roof height or otherwise unsafe to reach (fall risk — hire it out); you need to run new ductwork through walls, ceilings, or the roof; the problem is electrical inside the microwave or hood (an OTR microwave's high-voltage capacitor can hold a lethal charge even unplugged — do not open its cabinet); the range is gas and the work touches the gas line; or you suspect the hood is backdrafting a gas furnace/water heater and pulling combustion gases (CO) into the house.",
+  "typicalCostUSD": "DIY parts are cheap: replacement metal grease filters $10–30, charcoal/carbon filters $10–40, degreaser $5–15, a new backdraft damper or vent cap $10–50. Pro work: a professional hood/duct grease cleaning runs about $100–300; an appliance tech for a failed blower/motor $150–400; running new duct or converting a ductless hood to vented commonly $500–2,000+ depending on the wall/roof run.",
+  "timeEstimate": "30–45 minutes to clean filters and swap a charcoal filter; 1–3 hours to also inspect and clear the duct and dampers; a half to full day (or a pro visit) if new ductwork is involved.",
+  "safetyLevel": "caution",
+  "safetyNote": "Grease is flammable — a badly clogged filter over an open burner is a real grease-fire risk, so clean it and never leave cooking unattended. Electrical: before opening any panel on an over-the-range microwave, unplug it or shut off its breaker and verify it's dead with a non-contact tester; even then, do NOT open the microwave's internal cabinet — its capacitor can store a lethal charge for a long time after being unplugged (a non-contact AC tester will NOT show that stored charge), so leave internal electrical/motor work to an appliance pro. Gas: do not disturb the gas line on a gas range. If you ever smell gas (rotten-egg odor) near a gas appliance, do not flip switches or the fan — leave the house and call your gas utility or 911 from outside. Roof and high wall vent caps carry a fall risk — hire that out rather than balancing on a ladder. Combustion safety: a very powerful hood (roughly 400 CFM and up) in a tightly sealed home can create enough negative pressure to backdraft a gas furnace or water heater and pull carbon monoxide into the house — make sure combustion appliances vent properly and keep a working CO alarm nearby. If a CO alarm sounds, or anyone has headache, dizziness, or nausea, get everyone outside and call 911 — do not stay to troubleshoot. If ductwork or insulation is pre-mid-1980s and you must disturb it, have suspect material tested for asbestos before cutting.",
+  "toolsParts": [
+    "Screwdriver set (Phillips/flat)",
+    "Grease-cutting dish soap or degreaser",
+    "Baking soda",
+    "Bucket of hot water",
+    "Soft scrub brush and old toothbrush",
+    "Microfiber cloths",
+    "Nitrile gloves",
+    "Flashlight or headlamp",
+    "Sturdy step ladder",
+    "Replacement charcoal/carbon filter (matched to model number)",
+    "Replacement metal mesh grease filter (if bent or damaged)",
+    "Tissue paper or a light ribbon/strip of plastic (airflow test — no open flame near grease)",
+    "Non-contact voltage tester",
+    "Foil HVAC tape (not cloth 'duct tape') for duct joints",
+    "Replacement backdraft damper or exterior vent cap (if stuck/broken)"
+  ],
+  "searchTerms": [
+    "range hood not pulling air",
+    "over the range microwave fan weak suction",
+    "how to clean range hood grease filter",
+    "range hood recirculating vs vented outside",
+    "replace charcoal filter over the range microwave",
+    "range hood vent damper stuck closed",
+    "kitchen exhaust fan weak airflow fix",
+    "convert ductless range hood to vented"
+  ],
+  "sources": [
+    "U.S. Department of Energy — home ventilation and exhaust fan guidance",
+    "ENERGY STAR — kitchen and whole-home ventilation guidance",
+    "Home Ventilating Institute (HVI) — range hood airflow (CFM) standards",
+    "Manufacturer use-and-care / installation manuals (GE, Whirlpool, Broan) — filter cleaning and venting-mode instructions",
+    "U.S. EPA — indoor air quality and combustion/CO safety guidance"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional advice; when work involves electrical, gas, roof access, or combustion-appliance safety, consult a licensed professional and follow your appliance's manual.",
+  "verified": false,
+  "verifierNote": "AI-drafted from standard home-maintenance practice and then adversarially QA-reviewed for safety/accuracy: removed an open-flame (candle) airflow test near grease filters, added emergency routing for gas smell (leave + call utility/911) and CO alarm/symptoms (leave + call 911), and noted that alkaline cleaners/dishwashers can cosmetically darken aluminum filters. Still AI-generated and pending human review.",
+  "kind": "spoke"
+}

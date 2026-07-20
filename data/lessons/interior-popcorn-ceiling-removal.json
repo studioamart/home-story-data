@@ -1,0 +1,90 @@
+{
+  "slug": "interior-popcorn-ceiling-removal",
+  "system": "interior",
+  "title": "How to Remove a Popcorn Ceiling Safely (Including Asbestos Testing)",
+  "question": "I want to get rid of the popcorn ceiling in my older home — how do I remove it safely, and do I need to worry about asbestos first?",
+  "summary": "Removing a popcorn (textured) ceiling is a doable DIY job, but the single most important step happens before any scraping: if the texture was sprayed before the mid-1980s — or you don't know its age — have it lab-tested for asbestos and do not disturb it until the result is negative. You cannot tell by looking, and scraping asbestos texture releases fibers that cause serious lung disease. On an asbestos-negative ceiling, the safe, low-dust method is to lightly mist the texture with water, let it soak, and scrape it off wet — but painted popcorn resists water, so mist a test patch first to confirm it will actually soften.",
+  "commonCauses": [
+    {
+      "cause": "Unpainted, water-permeable texture — the ideal candidate for wet-scraping",
+      "likelihood": "common",
+      "quickCheck": "Dab a spot with a wet sponge and wait a few minutes; if the texture softens, smears, or comes off on the sponge, it will wet-scrape easily."
+    },
+    {
+      "cause": "Painted or sealed texture that water can't penetrate",
+      "likelihood": "common",
+      "quickCheck": "Mist a small patch and wait 10-15 minutes; if the water beads up and the surface stays hard and dry, it's sealed with paint and won't scrape cleanly."
+    },
+    {
+      "cause": "Texture sprayed before the mid-1980s — possible asbestos",
+      "likelihood": "common",
+      "quickCheck": "Find the home's build or last remodel date; any spray texture from before the mid-1980s (or of unknown age) must be lab-tested before you touch it."
+    },
+    {
+      "cause": "Thin or already-damaged drywall / visible seams under the texture",
+      "likelihood": "less common",
+      "quickCheck": "Scrape a small test area; if the drywall face paper tears or taped seams show through, expect to re-tape and skim-coat after removal."
+    },
+    {
+      "cause": "Water-stained or sagging texture from a past or active leak",
+      "likelihood": "less common",
+      "quickCheck": "Look for brown rings, soft spots, or drooping; if present, find and fix the leak first and check for mold before removing anything."
+    }
+  ],
+  "fixes": [
+    "Test for asbestos FIRST — the single non-negotiable step. If the texture was sprayed before the mid-1980s, or you don't know its age, do not scrape, sand, or dry-brush it. The safest way to sample is to hire a certified asbestos inspector, and some states and localities legally require a licensed professional to take the sample — check your local rules before you cut anything. If you use a DIY test kit instead, wear a P100 respirator and gloves, turn off the HVAC, lightly mist a quarter-sized spot to keep fibers down, cut a small (teaspoon-size) sample into a sealed zip bag, wet-wipe the area afterward (never dry-sweep or vacuum), and send it to an accredited PLM lab. If any sample tests positive, STOP: hire a licensed asbestos abatement contractor. DIY removal and normal-trash disposal of asbestos texture are unsafe and illegal in most areas.",
+    "Confirm it will wet-scrape. Once you have an asbestos-negative result, mist a small patch with water and wait 10-15 minutes. If it darkens and softens, the wet method will work. If water beads and the surface stays hard, the ceiling is painted/sealed — plan to skim-coat over it or use a wallpaper-style steamer instead of expecting an easy scrape.",
+    "Clear and seal the room. Remove all furniture, turn off the HVAC so dust can't spread through the ducts, and cover the floor and walls with 6-mil plastic sheeting taped at the edges. This debris is wet, heavy, and messy — containment saves hours of cleanup.",
+    "Kill the power and drop the fixtures. Turn off the breaker to any ceiling lights or fans and confirm the wires are dead with a non-contact voltage tester before touching them. Remove fixtures, fans, and vent covers; cover the exposed electrical boxes and any smoke detectors with plastic and tape so dust can't foul them.",
+    "Mist one 4x4-foot section at a time. Fill a garden pump sprayer with warm water (a squirt of dish soap helps it cling) and lightly mist a section until it's damp, not soaked. Let it absorb about 10-15 minutes. Over-wetting can ruin the drywall paper underneath — mist, don't blast.",
+    "Scrape at a low angle. Use a 6-inch drywall/putty knife with the corners rounded off (to avoid gouging), held nearly flat, and push under the softened texture — it should peel off in wet sheets. A scraper with a debris-bag attachment, or a mud pan held below, catches the mess.",
+    "Work section by section, re-misting as you go. Keep sections small so the water doesn't dry before you reach them. Avoid soaking screw heads and taped seams, which can tear the drywall face paper.",
+    "Let it dry, then repair. After the whole ceiling is scraped and fully dry, skim-coat any gouges and re-tape or mud any seams or paper tears with joint compound, feathering the edges smooth.",
+    "Sand, prime, and paint. Once the compound is fully dry, sand the ceiling smooth with a pole sander while wearing an N95 (or better) respirator and eye protection — even asbestos-free gypsum and joint-compound dust irritates the lungs and eyes. Seal any water stains and the raw compound with a stain-blocking primer, then finish with two coats of flat ceiling paint.",
+    "Reinstall and restore. Put the fixtures, fans, and vent covers back, uncover the smoke detectors and confirm they still work, restore power at the breaker, and bag up the plastic and debris for disposal."
+  ],
+  "diyVsPro": "DIY is reasonable for a standard-height, asbestos-negative, unpainted popcorn ceiling in one or two rooms — it's mostly labor and patience. Stop and call a licensed pro if: the asbestos test is positive (abatement is specialized and legally regulated); you find lead paint; the ceiling is vaulted or high enough to need scaffolding (fall risk); there is water damage, sagging, or mold; the drywall underneath is damaged and needs replacement; or the texture is heavily painted and scraping simply isn't working, in which case a drywall contractor can skim-coat or overlay it instead. When in doubt about the texture's age, having a certified inspector sample it is cheap insurance against disturbing asbestos.",
+  "typicalCostUSD": "DIY materials: about $50-300 (sprayer, plastic sheeting, scrapers, joint compound, primer, ceiling paint). Asbestos lab test: roughly $50-100 per sample with a DIY kit plus lab fee, or $250-600 for a professional inspection/survey. Pro removal of asbestos-free popcorn: about $1-3 per sq ft, or roughly $1,000-3,000 for a typical room or small home. Licensed asbestos abatement is much higher — often $3-10+ per sq ft, commonly $3,000-15,000+ depending on area and local regulations.",
+  "timeEstimate": "One average room: a weekend to remove and scrape (about a day), plus 2-4 more days on and off for patching, drying, sanding, priming, and painting. Whole-house jobs run 1-2+ weeks. Asbestos lab results usually take a few days to about a week.",
+  "safetyLevel": "caution",
+  "safetyNote": "The real hazard is asbestos: popcorn texture sprayed before the mid-1980s may contain it, and disturbing it releases microscopic fibers that cause lung disease and cancer. You cannot tell by looking — the only way to know is a lab test. Do not scrape, sand, or dry-brush any pre-1980s or unknown-age texture until it tests negative. Prefer a certified inspector to take the sample — some jurisdictions legally require a licensed professional to do it — and if you use a DIY kit, mist the spot first, wear a P100 respirator, turn off the HVAC, and wet-wipe (never vacuum) afterward. If it tests positive, stop and hire a licensed asbestos abatement contractor, because self-removal and normal-trash disposal are unsafe and often illegal. Older painted texture and homes built before 1978 can also have lead paint — test if unsure. For the electrical work, shut off the breaker to ceiling fixtures and confirm the wires are dead with a non-contact voltage tester before touching them; if you cover smoke detectors during the work, uncover and test them the moment you finish. Wear a P100/N100 respirator and eye protection even on asbestos-free ceilings — wet drywall dust is still a lung and eye irritant. If the ceiling is water-stained or sagging, find and fix the leak first and treat any mold larger than about 10 sq ft as a professional job. High or vaulted ceilings that require scaffolding are a fall risk — hire that out.",
+  "toolsParts": [
+    "Asbestos test kit or certified inspector (accredited PLM lab)",
+    "P100/N100 respirator",
+    "Safety goggles and disposable gloves",
+    "Garden pump sprayer",
+    "6-inch and 10-inch drywall/putty knives (corners rounded)",
+    "Ceiling scraper with debris-bag attachment (optional)",
+    "Mud pan",
+    "6-mil plastic sheeting",
+    "Painter's tape and drop cloths",
+    "Non-contact voltage tester",
+    "Step ladder or scaffold",
+    "Joint compound and drywall tape",
+    "Pole sander and drywall sanding sponges",
+    "Stain-blocking primer",
+    "Flat ceiling paint and roller",
+    "Work light"
+  ],
+  "searchTerms": [
+    "how to remove popcorn ceiling",
+    "popcorn ceiling asbestos test",
+    "does my popcorn ceiling have asbestos",
+    "wet scrape popcorn ceiling method",
+    "remove painted popcorn ceiling",
+    "popcorn ceiling removal cost",
+    "textured ceiling removal diy",
+    "when did they stop using asbestos in popcorn ceilings"
+  ],
+  "sources": [
+    "U.S. Environmental Protection Agency (EPA) — asbestos in the home and how to handle asbestos-containing materials",
+    "U.S. Consumer Product Safety Commission (CPSC) and EPA — 'Asbestos in Your Home' booklet",
+    "U.S. EPA — mold guidance (professional help recommended for areas larger than about 10 sq ft)",
+    "OSHA — asbestos exposure and handling standards",
+    "Manufacturer instructions for joint compound, stain-blocking primer, and asbestos test kits"
+  ],
+  "disclaimer": "This guide is general home-maintenance information, not professional inspection or advice; asbestos, lead, electrical, and structural hazards carry real risk, so test when in doubt and consult a licensed professional and your local regulations before proceeding.",
+  "verified": false,
+  "verifierNote": "AI-drafted from standard home-maintenance practice and EPA/CPSC asbestos-safety guidance, then adversarially QA-reviewed for safety: asbestos sampling now prefers a certified inspector (with a note that some jurisdictions require it) and adds HVAC-off + wet-wipe precautions for the DIY-kit path; the reinstall step and safety note now require uncovering and testing smoke detectors; sanding PPE aligned to N95-or-better. Still pending review by a qualified human / licensed inspector before it is relied upon.",
+  "kind": "pillar"
+}

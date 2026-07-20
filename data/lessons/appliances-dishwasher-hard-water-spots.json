@@ -1,0 +1,86 @@
+{
+  "slug": "appliances-dishwasher-hard-water-spots",
+  "system": "appliances",
+  "title": "Dishwasher Leaving White Film or Spots on Dishes? The Hard-Water Fix",
+  "question": "Why do my dishes and glasses come out of the dishwasher covered in white film, cloudiness, and spots, and how do I get them clean again?",
+  "summary": "Cloudy, spotty dishes almost always mean hard-water minerals, low rinse aid, or the wrong detergent — not a broken machine. The single biggest and cheapest fix is rinse aid, which most people leave empty or switched off. The key test first: soak a spotted glass in white vinegar for five minutes — if the film wipes off, it's mineral spotting you can fix; if the cloudiness stays, it's permanent glass etching (caused by too much detergent plus soft water and heat) that cannot be reversed. The common mistake is adding MORE detergent, which fixes nothing and can permanently etch glass.",
+  "commonCauses": [
+    {
+      "cause": "Rinse aid is empty or the dispenser is turned off — rinse aid sheets water off so it dries without spots",
+      "likelihood": "most common",
+      "quickCheck": "Open the rinse-aid cap next to the detergent cup and check the level window; if it reads empty or the dial is at 0/off, that's likely it. Spots are worst on glass and plastic when rinse aid is low."
+    },
+    {
+      "cause": "Hard water — high dissolved calcium and magnesium dry into white mineral deposits",
+      "likelihood": "most common",
+      "quickCheck": "Dip a hard-water test strip under the tap, or check your water utility's annual report; above about 7 grains per gallon (120 mg/L) is hard. Soak a spotted glass in white vinegar for 5 minutes — if the film clears, it's mineral."
+    },
+    {
+      "cause": "Wrong or too little detergent — gel with no water-softening builders, or old clumped powder that lost potency",
+      "likelihood": "common",
+      "quickCheck": "Feel the powder for hard clumps and check the dose. Run one load with a fresh pac or tablet that lists enzymes and builders and see if spotting drops."
+    },
+    {
+      "cause": "Scale buildup clogging the spray arms and filter, so dishes never get properly rinsed",
+      "likelihood": "common",
+      "quickCheck": "Pull the bottom filter and look closely at the spray-arm holes. White crust or grit in the holes means weak spray and poor rinsing."
+    },
+    {
+      "cause": "Permanent glass etching from soft water plus too much detergent plus high heat — this is damage, not residue",
+      "likelihood": "less common",
+      "quickCheck": "Soak the cloudy glass in white vinegar for 5 minutes. If the cloudiness does NOT come off, the glass is etched — permanent, and no cleaner or setting will fix it."
+    }
+  ],
+  "fixes": [
+    "Find out which problem you have first. Soak a spotted glass in white vinegar (or rub it with a vinegar-dampened cloth) for about 5 minutes. If the film clears, it's hard-water mineral deposits and everything below will help. If the cloudiness stays, it's permanent glass etching — stop chasing it, and instead cut back detergent and heat going forward so it doesn't spread to other glasses.",
+    "Refill the rinse aid and turn the dispenser on. Fill the reservoir, and if your machine has a rinse-aid dial (often 1–6), turn it up a notch or two. This is the single highest-impact fix for spots and cloudy drying.",
+    "Test your water hardness with a strip, or look up your water utility's report in grains per gallon (gpg). Above ~7 gpg (120 mg/L) is hard and needs the extra steps below; very hard is above ~10 gpg.",
+    "Use a fresh, quality detergent — a powder or pac/tablet that lists enzymes and water-softening builders. Store powder somewhere dry so it doesn't clump and weaken. For hard water, add a citric-acid hard-water booster (such as Lemi Shine) to the main wash.",
+    "Wash hot. Run the kitchen hot-water tap until it runs hot BEFORE starting the cycle so the first fill is around 120°F, and use a heated / hi-temp wash plus a heated or extended dry. (Skip the extra-hot cycle if your water is soft and you saw etching in step 1 — heat makes etching worse.)",
+    "Deep-clean the machine. Remove and rinse the bottom filter under the tap, clear any scale from the spray-arm holes with a toothpick or thin wire, and wipe the door and rubber gasket.",
+    "Descale the interior. Run an empty hot cycle with a made-for-dishwasher cleaner (Affresh or Finish tablet), or put 1–2 tablespoons of citric-acid powder in the detergent cup and run empty. Use it alone with no detergent in the machine. Prefer citric acid or a dishwasher cleaner over routine vinegar — acid used often can degrade rubber seals over time.",
+    "Stop overloading. Leave space between items, don't nest bowls or glasses over each other, and make sure nothing blocks the spray arms from spinning, so water actually reaches every surface.",
+    "If your machine has a built-in water softener (many Bosch and other European-style units have a salt cap in the tub floor), fill it with dishwasher/regeneration salt and set the hardness dial to your gpg. Most standard U.S. machines do not have this — skip if yours doesn't.",
+    "Re-test. Run one normal load and inspect the results. Plastics spot the worst, so judge mostly by glass and metal.",
+    "If spots persist and your water is very hard (roughly 10–15+ gpg), the permanent fix is a whole-house water softener, which is a plumbing job for a licensed plumber. Important second-order effect: once your water is softened, CUT your detergent dose and skip the extra-hot cycle — soft water plus a full detergent scoop is exactly what causes permanent glass etching."
+  ],
+  "diyVsPro": "All of the routine fixes — rinse aid, detergent choice, a citric-acid or dishwasher-cleaner descale, and cleaning the filter and spray arms — are safe, low-cost DIY. Call a licensed plumber if you decide to install a whole-house or point-of-use water softener, since that ties into your plumbing. Call an appliance technician if, after descaling and cleaning, dishes still come out gritty or with stuck-on food (not just spots) — that points to a failing wash pump, heating element, or water-inlet valve, not water chemistry, and any of those repairs mean live electrical and plumbing connections. And accept that etched glass is permanent: no repair, cleaner, or setting restores it.",
+  "typicalCostUSD": "DIY is cheap: about $10–35 total for rinse aid ($8–15), a hard-water test strip, and a citric-acid booster or dishwasher-cleaner tablets ($5–10). A whole-house water softener, the permanent fix for very hard water, typically runs about $800–3,000 installed by a plumber. Etched glass cannot be restored at any price.",
+  "timeEstimate": "About 15–20 minutes of hands-on work (refill rinse aid, add a booster, clean the filter and spray arms), plus one roughly 1–2 hour descaling cycle that runs on its own.",
+  "safetyLevel": "low",
+  "safetyNote": "The one real hazard is mixing cleaners: white vinegar, citric acid, or any acidic hard-water booster combined with chlorine bleach or a bleach-based product (including some older bleach-containing powder detergents) releases toxic chlorine gas — dangerous, and potentially fatal in an enclosed kitchen. Run any acid or descaling product in an empty machine, by itself, with no detergent residue left inside, never combine products in the same cycle, and keep the room ventilated. Hot water and heated-dry surfaces can scald — let the cycle finish and the tub cool before reaching in. Keep detergent pods and powders away from children (a serious poisoning risk; call Poison Control at 1-800-222-1222 if swallowed). If you unplug or pull the dishwasher out for deeper service, that becomes electrical and plumbing work — shut off the circuit breaker AND the water supply first, and confirm the power is dead with a non-contact voltage tester before touching any wiring, or simply hire an appliance technician.",
+  "toolsParts": [
+    "Rinse aid (e.g., Finish Jet-Dry)",
+    "Hard-water test strips",
+    "Fresh powder or pac/tablet detergent with enzymes and builders",
+    "Citric-acid hard-water booster (e.g., Lemi Shine)",
+    "Citric-acid powder or a dishwasher cleaner tablet (Affresh / Finish) for descaling",
+    "White vinegar (for the diagnostic soak test)",
+    "Dishwasher / regeneration salt (only if your machine has a built-in softener)",
+    "Microfiber cloth",
+    "Soft toothbrush",
+    "Toothpick or thin wire to clear spray-arm holes",
+    "Rubber gloves"
+  ],
+  "searchTerms": [
+    "white film on dishes after dishwasher",
+    "hard water spots on glasses in dishwasher",
+    "dishwasher leaving white residue how to fix",
+    "cloudy glasses from dishwasher hard water",
+    "best rinse aid for hard water dishwasher",
+    "how to descale a dishwasher with citric acid",
+    "dishwasher glass etching vs hard water film",
+    "why are my dishes coming out spotty"
+  ],
+  "sources": [
+    "U.S. Geological Survey (USGS) — water hardness reference (grains per gallon and mg/L)",
+    "American Cleaning Institute — automatic dishwashing and detergent guidance",
+    "Appliance manufacturer use-and-care manuals (Bosch, Whirlpool, GE) — rinse aid, detergent, and built-in water-softener/salt settings",
+    "Dishwasher cleaner manufacturer instructions (Affresh, Finish) — descaling directions",
+    "U.S. Department of Energy — recommended hot water temperature (~120°F)"
+  ],
+  "disclaimer": "This guide is general home-maintenance information, not professional advice; follow your appliance's manual and consult a licensed pro for anything beyond routine cleaning or if you are unsure.",
+  "verified": false,
+  "verifierNote": "AI-drafted and passed an adversarial AI QA/safety review (hardness thresholds, vinegar diagnostic, etching mechanism, and chlorine-gas chemistry checked; electrical/poison cautions strengthened). Still AI-only and pending human verification before publish.",
+  "kind": "spoke"
+}

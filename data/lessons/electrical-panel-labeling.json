@@ -1,0 +1,85 @@
+{
+  "slug": "electrical-panel-labeling",
+  "system": "electrical",
+  "title": "How to Map and Label Your Breaker Panel Safely (Two-Person Method)",
+  "question": "How do I figure out which breaker controls what in my house and label the panel correctly, without doing anything dangerous?",
+  "summary": "You can fully map and label a breaker panel without ever removing the metal cover or touching anything live — you just flip one breaker at a time and record what turns off. The safest, most accurate way is a two-person method: one person at the panel, one walking the house calling out what died. The thing most people get wrong is assuming one room equals one breaker; in reality outlets in a single room are often split across two or three circuits, and one breaker can feed parts of several rooms, so you must test every outlet, not guess.",
+  "commonCauses": [
+    {
+      "cause": "The original builder directory was never filled in, or uses vague labels like 'lights' and 'outlets'",
+      "likelihood": "most common",
+      "quickCheck": "Open the panel door (not the inner cover) and read the paper directory — if it's blank, penciled vaguely, or half the lines say 'spare,' it was never truly mapped."
+    },
+    {
+      "cause": "Renovations, additions, or a new appliance added or moved circuits and nobody updated the label",
+      "likelihood": "common",
+      "quickCheck": "Count the breaker switches and compare to the directory lines; extra breakers, or skinny half-height 'tandem' breakers with no matching label, were usually added later to gain slots."
+    },
+    {
+      "cause": "Outlets in one room are split across multiple circuits, or one breaker feeds parts of several rooms",
+      "likelihood": "common",
+      "quickCheck": "Plug a lamp or phone charger into several outlets in one room, flip one breaker off, and see which go dead — they usually won't all match the room."
+    },
+    {
+      "cause": "A run of outlets is protected by a single upstream GFCI device, so it looks like 'nothing' is on that breaker",
+      "likelihood": "less common",
+      "quickCheck": "If a group of outlets is dead but no breaker is off, look for a tripped GFCI outlet (bathroom, kitchen, garage, outdoor) with a popped 'reset' button feeding the chain — or a tripped GFCI/AFCI breaker at the panel."
+    },
+    {
+      "cause": "A 240V double-pole breaker, or a handle-tied multi-wire branch circuit (two breakers sharing one neutral), behaves as a linked pair",
+      "likelihood": "less common",
+      "quickCheck": "A single wide double-pole breaker (or two handles factory-tied) feeds one 240V appliance — label it by the appliance (dryer, range, AC, EV charger), don't test outlets. A metal handle-tie joining two 120V breakers is usually a shared-neutral multi-wire circuit — label both lines. Note: a skinny tandem/duplex breaker is different — it is two independent circuits stacked in one slot, NOT a linked pair, so test each half separately."
+    }
+  ],
+  "fixes": [
+    "Leave the panel's inner metal cover (the deadfront) ON and never touch the bus bars, breaker terminals, or any wire — this whole job is done just by flipping the breaker handles. Open only the outer door.",
+    "Make a numbered map that matches the panel layout: if the panel already prints breaker numbers, use those exactly; otherwise number every breaker to match its physical position (most panels run odd numbers down the left column, even down the right). Note the amperage printed on each handle (15, 20, 30, 40, 50).",
+    "Turn things ON around the house so you can see them go dead: switch on a lamp or plug a charger into outlets in each room, turn on overhead lights, and note appliances. Give your helper a phone call or walkie-talkie so you can hear each other.",
+    "One person stays at the panel and flips a single breaker OFF, calls out its number, waits, then flips it back ON before moving to the next. Do them one at a time so results never overlap.",
+    "The helper walks the house and reports exactly what died — test every outlet with a plug-in receptacle tester or a lamp, not just the obvious ones, plus lights, fans, and hardwired items. Record breaker number, room, and specific loads on your map.",
+    "Handle the big 240V double-pole breakers by reading the appliance, not by leaving them off: label the dryer, electric range/oven, water heater, central AC, and EV charger directly. A handle-tied pair of 120V breakers is usually a shared-neutral multi-wire circuit — label both lines. Don't leave the fridge, freezer, sump pump, aquarium, medical devices, or a running computer off longer than a quick test.",
+    "Hunt the 'mystery' breakers that seem to kill nothing: check garage and outdoor outlets, GFCI-protected chains, the doorbell/transformer, hardwired smoke alarms, HVAC air handler, furnace, sump pump, and sprinkler controller before writing 'spare.'",
+    "Verify there's no double-counting — every outlet and light should map to exactly one breaker (except a shared-neutral multi-wire pair, which legitimately feeds two 120V legs). Re-test any room where outlets split across circuits until each is accounted for.",
+    "Write the final directory in plain language (room plus purpose, e.g. 'Kitchen counter outlets — south wall'), not just 'outlets.' Vague labels are why panels get re-mapped.",
+    "Print or hand-write a clean, durable directory and mount it inside the panel door; a label maker or waterproof card beats pencil, which fades. NEC 408.4 actually requires every circuit be legibly and specifically identified.",
+    "Reset everything: confirm all breakers are back ON, reset any GFCI outlets or GFCI/AFCI breakers you tripped, verify the fridge and freezer are running, and reset clocks or microwave/oven timers that lost power."
+  ],
+  "diyVsPro": "DIY is appropriate for the entire mapping-and-labeling job, because the panel cover stays closed and you only flip breaker handles — the same action you take to reset a tripped breaker. Stop and call a licensed electrician if any of these appear: you feel you need to remove the inner cover to identify a circuit; you smell burning or hot plastic, see scorch marks, melted insulation, or rust/water in the panel; a breaker or the panel face is hot to the touch; you find two wires under one breaker screw ('double-tapped'); the panel brand is Federal Pacific (FPE Stab-Lok), Zinsco, or Challenger (known fire-hazard panels); you have aluminum branch wiring; or you actually want to add, move, or replace a circuit rather than just label it.",
+  "typicalCostUSD": "DIY: about $10-40 for a plug-in outlet tester, a marker, and durable labels (a $30-50 circuit-breaker finder tool is optional). Hiring an electrician to map and label a typical panel runs roughly $75-250 for about an hour (service-call minimums push the low end up); more if they find and fix panel problems.",
+  "timeEstimate": "1-3 hours for an average home, faster with two people and a plug-in tester.",
+  "safetyLevel": "caution",
+  "safetyNote": "The safety rule for this job is simple: never remove the panel's inner metal cover (the deadfront) and never touch the bus bars, breaker terminals, or any wire — flipping the plastic breaker handles with the cover on is a normal, low-risk homeowner action, but the exposed interior carries lethal, un-fused voltage that a tester and a breaker do NOT protect you from. When confirming an outlet is dead, verify it with a plug-in receptacle tester or non-contact voltage tester rather than trusting the label. Work with dry hands, stand on a dry floor, and use a flashlight instead of removing anything for light. If you ever smell burning plastic, see scorching, melted insulation, rust, water, or an obsolete fire-hazard panel (Federal Pacific, Zinsco, Challenger), stop and call a licensed electrician — do not open the panel to investigate. Don't leave a refrigerator, freezer, sump pump, aquarium, home medical equipment, or a running computer without power longer than a brief test.",
+  "toolsParts": [
+    "Plug-in receptacle / outlet tester (three-light type)",
+    "Non-contact voltage tester",
+    "A lamp or phone charger to move between outlets",
+    "Two phones or a pair of walkie-talkies",
+    "Notepad or a spreadsheet on a phone/tablet",
+    "Painter's tape and a marker to tag outlets as you go",
+    "Label maker or a printed, waterproof directory card",
+    "Flashlight or headlamp",
+    "Pen or fine-tip permanent marker",
+    "Camera or phone to photograph the existing directory",
+    "Optional: a circuit-breaker finder tool (transmitter + receiver) for solo mapping"
+  ],
+  "searchTerms": [
+    "how to label a breaker panel",
+    "which breaker controls what outlet",
+    "map circuit breakers two person method",
+    "how to identify electrical circuits in house",
+    "breaker panel directory template",
+    "circuit breaker finder tool",
+    "how to make a panel schedule",
+    "label breaker box without opening it"
+  ],
+  "sources": [
+    "NFPA 70 (National Electrical Code), Section 408.4 — requirement that every circuit be legibly and specifically identified in a panel directory",
+    "Electrical Safety Foundation International (ESFI) — home electrical safety guidance",
+    "U.S. Consumer Product Safety Commission (CPSC) — home electrical hazard and panel safety information",
+    "Panel manufacturer guidance (e.g., Square D, Eaton, Siemens) — panel schedule and labeling instructions"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed electrician; if anything looks or smells wrong at the panel, stop and get a professional.",
+  "verified": false,
+  "verifierNote": "AI-drafted from standard home-maintenance and electrical-safety practice, then passed an adversarial QA correction pass: fixed cause 5's conflation of multi-wire branch circuits (shared neutral, handle-tied) with tandem/duplex breakers (two independent circuits, not linked); clarified 240V double-pole vs handle-tied 120V labeling; tightened breaker-numbering guidance; confirmed the no-cover-removal method and the NEC 408.4 citation. Still pending licensed-electrician human review; verified stays false.",
+  "kind": "spoke"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "plumbing-shutoff-valve-stuck",
+  "system": "plumbing",
+  "title": "Stuck Water Shutoff Valve: How to Free a Seized Valve (or Replace It With a Quarter-Turn)",
+  "question": "The shutoff valve under my sink won't turn — it's completely stuck. How do I free it without cracking the pipe, and should I just replace it?",
+  "summary": "Most people crank a seized valve hard in one direction and snap the stem or crack the pipe inside the wall — turning a small job into a flood. The right move is gentle: penetrating oil, patience, and back-and-forth wiggling, never brute force. And here's the key insight: even if you free an old multi-turn compression/globe or gate valve, it will often drip afterward because its rubber washer, metal seat, or packing is already shot — so the real, lasting fix is usually to swap it for a quarter-turn ball valve.",
+  "commonCauses": [
+    {
+      "cause": "Mineral scale and corrosion have seized the valve stem after years without use",
+      "likelihood": "most common",
+      "quickCheck": "The handle turns a little then stops hard, and you can see white or green crust on the stem, packing nut, or threads."
+    },
+    {
+      "cause": "The packing nut is corroded or over-tightened, binding the stem",
+      "likelihood": "common",
+      "quickCheck": "The handle turns but the stem barely moves; loosening the packing nut a quarter turn suddenly frees it (then re-snug just enough to stop the stem drip)."
+    },
+    {
+      "cause": "The sealing surface is shot — a multi-turn compression/globe stop's rubber washer is swollen, hardened, or torn; or a gate valve's metal wedge and seat are corroded so they no longer seat",
+      "likelihood": "common",
+      "quickCheck": "The valve turns fine but water won't fully stop, or it keeps dripping from the outlet after you close it — the sealing surface is gone, not the stem."
+    },
+    {
+      "cause": "An old gate valve's stem has stripped internally, so the handle spins without moving the gate",
+      "likelihood": "less common",
+      "quickCheck": "The handle spins freely with almost no resistance and the water flow doesn't change at all — the stem is disconnected from the gate inside."
+    },
+    {
+      "cause": "Dried paint or debris has locked the handle to the bonnet",
+      "likelihood": "rare",
+      "quickCheck": "You can see a paint skin bridging the handle-to-body joint, or the handle is physically bound but the rest looks clean."
+    }
+  ],
+  "fixes": [
+    "Find and test your main water shutoff FIRST — usually where the supply enters the house, near the meter, or by the water heater. Also locate the outdoor curb/street shutoff and, if you have one, a meter key. Never work on a stuck fixture valve until you have a way to stop water upstream.",
+    "Shut off the water upstream before you touch the stuck valve. For a fixture stop (under a sink or toilet), close the main so a failure can't flood the house. If the stuck valve IS the main, be ready to use the curb shutoff or call your water utility.",
+    "Relieve pressure: open a faucet on that line (and a lower one in the house) to drain it and confirm which valve feeds what. Working on a drained line is far safer than a pressurized one.",
+    "Do NOT force it. Spray penetrating oil (PB B'laster or Liquid Wrench) onto the stem and packing nut and wait 15–30 minutes. Then try gentle back-and-forth — nudge it slightly open, slightly closed — instead of cranking hard one way.",
+    "Add leverage or mild heat if it's still stuck: grip the handle nub with pliers or fit the proper valve handle, and warm the valve body with a hair dryer (NEVER an open flame near supply lines or any gas). Use steady, patient pressure — not sharp jerks that snap the stem.",
+    "If the handle turns but water won't fully stop, or it drips from the packing nut, loosen the packing nut about a quarter turn (this often frees a bound stem). If water keeps flowing through when closed, the internal seat is bad — plan to replace the valve.",
+    "If it frees and holds: exercise it fully open and closed a few times, then snug the packing nut just until the stem stops weeping. Done. But know that a just-freed old valve can seize again — replacing it now saves a future emergency.",
+    "If it drips at the STEM after use, tighten the packing nut 1/8 turn at a time (or repack it). If it drips from the OUTLET because it won't seal shut, the seat is worn out — replace the whole valve; don't keep fighting it.",
+    "To replace it, first confirm the pipe type and size. Under-sink supply stops are usually 1/2\" nominal copper or PEX on the inlet with a 3/8\" compression outlet. Shut the main, drain the line, and set a bucket and rags underneath.",
+    "Pick the replacement that matches your pipe and your skill: compression quarter-turn stop (no solder, easiest DIY — you can reuse the pipe's existing ferrule if it's undamaged), push-fit like SharkBite (tool-free, but the pipe must be clean, round, and deburred — a crimped compression ferrule will NOT slide off, so cut the pipe just below it to expose a fresh section), threaded (use PTFE tape/sealant), or sweat/solder copper (torch required — more skill and fire risk).",
+    "Remove and install: for a compression valve, unscrew the compression nut using two wrenches — one backing up the pipe so you don't twist and crack it. If the old ferrule is intact, you can reuse it and just fit the new valve body and nut; otherwise cut the pipe below the old ferrule and use a new nut and ferrule. Seat the new quarter-turn valve hand-tight, then about one more turn with a wrench while backing up the pipe. For push-fit, cut cleanly, deburr, mark the insertion depth, and push it fully home.",
+    "Restore water SLOWLY and check for leaks at both the joint and the stem while the line refills. Operate the new valve fully open and closed. \"Done\" means a firm 90-degree quarter turn, complete shutoff, and zero drips at the joint or stem."
+  ],
+  "diyVsPro": "DIY is reasonable for an accessible fixture shutoff (under a sink or behind a toilet) that uses compression or push-fit fittings, as long as you can shut the main and reach the valve. Stop and call a licensed plumber if: the stuck or leaking valve is your MAIN house shutoff (whole-house flood risk); the pipe is old galvanized steel that may crack when disturbed; the connection is soldered copper and you're not confident with a torch (burn and in-wall fire risk); the valve is inside a wall or somewhere you can't fully reach; you cannot stop the water upstream; or forcing it already started a leak you can't control. Anything involving the street/curb stop or a gas-appliance supply line is not a DIY job — call the water utility (or a plumber/gas pro), not yourself.",
+  "typicalCostUSD": "DIY: roughly $8–25 in parts — a quarter-turn ball/angle stop runs $6–15, push-fit valves $10–20, plus penetrating oil and PTFE tape. Pro: about $150–350 to replace a fixture shutoff, and $200–600+ for a main shutoff replacement, more if the water has to be shut off at the street.",
+  "timeEstimate": "Freeing a stuck valve: 20–45 minutes including soak time. Replacing a fixture shutoff: 30–60 minutes for a comfortable DIYer.",
+  "safetyLevel": "caution",
+  "safetyNote": "The real hazards here are water damage and broken pipe, not shock or fire — but they can still get expensive fast. (1) Flooding: a valve you crack or a fitting you can't seat can dump water quickly, so always know where the main and the outdoor curb shutoff are and shut the main before you start. (2) Snapping old pipe: over-forcing a seized valve can break the stem or crack brittle galvanized or copper pipe inside a wall — use two wrenches and back up the pipe, and never crank hard in one direction. (3) Heat and flame: if you sweat/solder copper, torch work near framing or insulation is a fire risk — keep a fire-resistant cloth and an extinguisher handy, and NEVER use an open flame to try to free a valve. (4) Boundaries: if the shutoff is on a GAS appliance line, this is a different, higher-risk job — stop, and if you ever smell gas, leave the building and call your gas utility or 911 from outside, creating no sparks or flame. (5) Hot-water lines can scald — let them cool, and shut the water heater's supply if you're working on the hot side.",
+  "toolsParts": [
+    "Two adjustable wrenches (one to back up the pipe)",
+    "Tongue-and-groove (channel-lock) pliers",
+    "Penetrating oil (PB B'laster or Liquid Wrench)",
+    "Replacement quarter-turn ball/angle stop valve (correct size and connection type)",
+    "New compression nut and ferrule/sleeve (if replacing a compression valve)",
+    "PTFE (Teflon) thread seal tape",
+    "Tubing/pipe cutter (for copper or PEX)",
+    "Deburring tool or emery cloth",
+    "Bucket and absorbent rags/towels",
+    "Hair dryer for gentle heat (NOT a torch)",
+    "Flashlight or headlamp",
+    "Push-fit fitting such as SharkBite (tool-free alternative)",
+    "Replacement valve packing or O-rings (if re-packing)",
+    "Basin wrench (for tight spots under a sink)",
+    "Meter/curb key (only if you must reach the street shutoff)"
+  ],
+  "searchTerms": [
+    "shutoff valve won't turn",
+    "stuck water valve under sink",
+    "replace shutoff valve with quarter turn",
+    "gate valve seized how to free",
+    "shutoff valve drips after closing",
+    "how to replace angle stop valve",
+    "main water shutoff valve stuck",
+    "compression shutoff valve replacement"
+  ],
+  "sources": [
+    "Uniform Plumbing Code / International Plumbing Code — requirements for accessible fixture supply stops",
+    "U.S. EPA WaterSense — home leak detection and water shutoff guidance",
+    "Valve and push-fit fitting manufacturer installation instructions (e.g., quarter-turn angle stops, SharkBite push-to-connect)",
+    "Local water utility guidance — operating the main and curb/street shutoff"
+  ],
+  "disclaimer": "This is general home-maintenance information, not professional plumbing advice; when in doubt — or when the work involves your main shutoff, a gas line, or pipes you can't safely reach — consult a licensed plumber.",
+  "verified": false,
+  "verifierNote": "AI-drafted from standard home-plumbing practice, then adversarially QA-reviewed: corrected a gate-valve sealing-mechanism error (gate valves seal metal-to-metal, not with a rubber washer) and clarified that push-fit fittings need a ferrule-free, freshly cut pipe section. Still pending human review before publish.",
+  "kind": "spoke"
+}

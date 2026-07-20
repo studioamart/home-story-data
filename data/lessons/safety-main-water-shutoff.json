@@ -1,0 +1,88 @@
+{
+  "slug": "safety-main-water-shutoff",
+  "system": "safety",
+  "title": "How to Find, Test, and Label Your Main Water Shutoff Before a Pipe Bursts",
+  "question": "Where is my main water shutoff valve, and how do I make sure it actually works before a pipe bursts and floods my house?",
+  "summary": "The mistake most people make is waiting until water is already spraying to go hunting for the valve — by then, a valve that hasn't been touched in years may be seized or won't fully close. The fix is a 30-minute drill you do now: find your main shutoff, actually test that it stops the water, test every fixture shutoff, and label them all so anyone in the house can act in 60 seconds. Know the difference between your house main (inside, works by hand) and the utility's curb/meter valve at the street (utility property, needs a special key, and a last resort). A valve you've tested and labeled is worth ten you assume will work.",
+  "commonCauses": [
+    {
+      "cause": "Nobody in the household actually knows where the main shutoff is or which way it closes",
+      "likelihood": "most common",
+      "quickCheck": "Ask each adult and any house-sitter to walk to the valve and show you within 30 seconds — if anyone can't, that is the failure point."
+    },
+    {
+      "cause": "The main valve is seized or stiff from years of never being turned",
+      "likelihood": "common",
+      "quickCheck": "Try to operate it by hand right now — a lever that won't swing or a wheel that won't budge means it is frozen and unreliable."
+    },
+    {
+      "cause": "An old gate valve (round wheel handle) closes but still lets water pass",
+      "likelihood": "common",
+      "quickCheck": "Close it fully, then open a faucet — if water keeps flowing after a minute, the valve is not sealing and needs replacing."
+    },
+    {
+      "cause": "Fixture shutoffs under toilets/sinks are seized, corroded, or were never installed",
+      "likelihood": "common",
+      "quickCheck": "Turn the small oval valve under a toilet clockwise — if it won't turn, weeps, or there is no valve, that fixture can't be isolated."
+    },
+    {
+      "cause": "The only working shutoff is the utility's curb/meter valve at the street, which needs a special key most people don't own and is the utility's property",
+      "likelihood": "less common",
+      "quickCheck": "Confirm you have a hand-operated valve inside where the line enters the house; if the only shutoff is in the street meter box, plan to have a plumber add an inside valve rather than relying on the curb stop."
+    }
+  ],
+  "fixes": [
+    "Find the main shutoff: follow the water supply pipe from the meter inward. It's usually where the line enters the house — a basement or crawlspace wall facing the street, a mechanical room near the water heater, the garage, or (in warm climates) an outside wall or a ground box near the foundation.",
+    "Identify the valve type so you know how it closes. A ball valve has a lever: open when the lever is in line with the pipe, closed when it sits crosswise (perpendicular) to the pipe — a quarter turn. A gate valve has a round wheel: turn it clockwise (righty-tighty) many full turns to close.",
+    "Know your other shutoffs too. The utility's curb/meter valve in the street box is a backup, but it is usually the water company's property, can be stiff or brittle, and operating it may damage the meter or break local rules — treat it as a last resort behind a working inside valve. The cold-water inlet valve on top of the water heater only isolates the heater, not the whole house.",
+    "Test the main NOW, not during a leak: close it fully, then open the highest and lowest faucets in the house — flow should drop to nothing within about a minute. Then reopen the main slowly (fast reopening can cause a water-hammer bang). If it passed, exercising it once a year keeps it from seizing.",
+    "If the main is stiff, do not force it. A snapped valve creates the exact flood you're preventing. Apply penetrating oil, work it gently back and forth, and if it still won't move or it leaks at the stem when operated, stop and plan a plumber replacement.",
+    "Test each fixture shutoff — every toilet, sink, the dishwasher, the washing machine, and the water heater. Turn each off and back on so they don't seize, and note any that won't close (they need replacing).",
+    "Label everything with waterproof tags: at the main write 'MAIN WATER SHUTOFF — turn to close' with the direction, and tag fixture valves too. Cheap laminated tags on zip ties survive damp basements.",
+    "Make a map: photograph each valve's location, mark them on a simple floor-plan sketch, and share it with everyone who lives there plus any house-sitter — the person home during a burst pipe may not be you.",
+    "Stage the tools where you can grab them fast: keep a meter/curb key, channel-lock pliers, and a flashlight at or near the main valve, not scattered in a garage bin.",
+    "Consider upgrades if warranted: replace an aging gate valve with a quarter-turn ball valve (plumber job), and if you travel often, add a whole-house automatic leak-detection shutoff that closes the water when it senses a leak.",
+    "Re-test the main and fixture valves every year and after any plumbing work — a valve that worked last year can seize by the next."
+  ],
+  "diyVsPro": "Locating, gently testing, labeling, and mapping your valves is squarely DIY and something every homeowner should do. Stop and call a licensed plumber if: the main valve is seized and won't move, it leaks at the stem or body when you operate it, it closes but still passes water (a failed gate valve), it's badly corroded, or your only shutoff is the utility's curb stop and you want an inside valve added. Note that operating the utility's curb stop yourself may be against your water company's rules and can damage the meter — so an inside valve is the right long-term fix. Replacing a main shutoff often requires the city to shut the water at the street and may involve cutting or soldering the line — that is plumber work, not a first DIY project.",
+  "typicalCostUSD": "DIY find/test/label kit: roughly $0-40 (tags, marker, a meter/curb key, penetrating oil). Plumber replacing a main shutoff valve: about $150-500, more if the city must shut the street main or access is tight/soldered copper. Whole-house automatic leak-detection shutoff device: roughly $150-700 for the unit, plus installation.",
+  "timeEstimate": "About 30-60 minutes to find, test, label, and map everything the first time; roughly 10 minutes for the annual re-test.",
+  "safetyLevel": "low",
+  "safetyNote": "This is low-risk hand-valve work, but respect a few real hazards. Forcing a stuck or corroded valve can snap it and cause the flood you're trying to prevent — turn gently, and if it resists, stop and call a plumber. The street curb/meter valve is usually the utility's property; it can be brittle, and operating it may damage the meter or violate local rules — treat it as a last resort behind a working inside valve and check your utility's policy. In an actual leak, water and electricity together are dangerous: if water is near outlets, appliances, or the electrical panel, do not stand in the water — shut off power at the breaker first, and if you can't reach the breaker safely, call the utility or an electrician. If you shut the water off for a while and drain the system, also turn a tank water heater to 'pilot'/off (gas) or off at its breaker (electric) so an energized element can't dry-fire and burn out. Near a gas water heater, if you smell gas, leave immediately and call the gas utility or 911 from outside — do not create any spark or flame, and do no gas-line work yourself beyond the manufacturer's pilot instructions. Wear gloves and use a flashlight, never an open flame, in tight or dark spaces.",
+  "toolsParts": [
+    "Flashlight or headlamp",
+    "Water meter / curb key (4-way key)",
+    "Channel-lock or adjustable pliers",
+    "Penetrating oil (e.g., PB Blaster or Liquid Wrench)",
+    "Waterproof valve tags or laminated labels",
+    "Zip ties for attaching tags",
+    "Permanent marker",
+    "Work gloves",
+    "Smartphone (for photos and the valve map)",
+    "Bucket and towels (for testing and drips)",
+    "Printed floor plan or notebook to mark locations",
+    "Optional: quarter-turn ball valve for a pro upgrade",
+    "Optional: whole-house automatic leak-detection shutoff device"
+  ],
+  "searchTerms": [
+    "where is my main water shutoff valve",
+    "how to turn off water to house",
+    "main water shut off valve won't turn stuck",
+    "gate valve vs ball valve water main",
+    "water meter shut off key",
+    "how to shut off water to a toilet",
+    "label main water shutoff valve",
+    "whole house automatic water leak shutoff"
+  ],
+  "sources": [
+    "Ready.gov (FEMA) — know how and where to shut off home utilities before an emergency",
+    "American Red Cross — home flood and utility-shutoff preparedness guidance",
+    "U.S. EPA WaterSense — household leak detection and water-system guidance",
+    "Insurance Institute for Business & Home Safety (IBHS) — residential water-damage prevention",
+    "International Residential Code (IRC) — main and fixture water shutoff-valve requirements"
+  ],
+  "disclaimer": "This is general home-maintenance information, not professional plumbing advice; if a valve is seized, leaking, or needs replacement, consult a licensed plumber.",
+  "verified": false,
+  "verifierNote": "AI-drafted from standard home-maintenance and emergency-preparedness practice, then adversarially QA-reviewed for safety and technical accuracy: clarified that the curb/meter valve is utility property and a last resort, that the water-heater inlet valve isolates only the heater (not the whole house), added slow-reopen (water-hammer) and drain-before-dry-fire notes, and reinforced the no-gas-line-work boundary. Still pending human review.",
+  "kind": "spoke"
+}

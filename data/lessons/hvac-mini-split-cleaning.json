@@ -1,0 +1,90 @@
+{
+  "slug": "hvac-mini-split-cleaning",
+  "system": "hvac",
+  "title": "How to Clean a Ductless Mini-Split That Smells Musty or Blows Weak",
+  "question": "My ductless mini-split smells musty and blows weak — how do I clean the filters and blower wheel without wrecking the electronics?",
+  "summary": "The musty smell almost never comes from the mesh filters most people wash — it's mold and biofilm growing on the always-damp blower wheel, evaporator coil, and drain pan inside the head. Washing the filters restores some airflow, but to kill the smell you also have to clean the barrel-shaped blower wheel and the coil and flush the condensate drain. The insight most people miss: the reason it keeps coming back is that the inside stays wet after cooling — running fan or dry mode (or the remote's self-clean function) after each cooling cycle dries it out and stops the mold from regrowing.",
+  "commonCauses": [
+    {
+      "cause": "Clogged or filthy mesh filters choking airflow",
+      "likelihood": "most common",
+      "quickCheck": "Lift the hinged front panel and slide out the filters — if they're gray, furry, or you can't see light through the mesh, that's your weak airflow."
+    },
+    {
+      "cause": "Mold and biofilm on the blower wheel and evaporator coil (the real source of the musty smell)",
+      "likelihood": "common",
+      "quickCheck": "Shine a flashlight up into the air outlet at the barrel-shaped fan and the fins above it — black, green, or slimy specks and a smell that's strongest right at the vent mean biofilm, not the filters."
+    },
+    {
+      "cause": "Slimy or clogged condensate drain pan and line",
+      "likelihood": "common",
+      "quickCheck": "Look for standing water in the pan, a slow or gurgling drain, or dripping — and check that water actually runs out the drain hose outside when the unit cools."
+    },
+    {
+      "cause": "Unit always left in cooling mode and never dried out, so mold keeps regrowing",
+      "likelihood": "less common",
+      "quickCheck": "Ask yourself: does the smell come back within a day of running AC, and do you ever run fan-only, dry mode, or a self-clean cycle? If never, the coil never dries."
+    },
+    {
+      "cause": "Dirty outdoor condenser coil cutting overall performance",
+      "likelihood": "less common",
+      "quickCheck": "Look at the outdoor unit's fins — if they're matted with leaves, grass clippings, cottonwood fluff, or dust, the whole system is working harder and cooling less."
+    }
+  ],
+  "fixes": [
+    "Cut the power first. Before any wet cleaning or opening the case, switch off the mini-split at its wall disconnect box or turn off its breaker — this usually kills both the indoor head and the outdoor unit on the same circuit. Confirm the head is dead: no lights, and it won't respond to the remote. If you open the head far enough to reach the terminal block, double-check it's de-energized with a non-contact voltage tester before touching anything. Water on a live control board can shock you and destroy the electronics.",
+    "Wash the filters. Lift the front panel (it hinges up and clicks in place), slide out the mesh filters, and vacuum off the loose dust. Wash them in lukewarm water with a little dish soap, rinse, and let them air-dry completely — never reinstall them wet. Any small deodorizing/plasma sub-filters are usually replaced, not washed; check your manual.",
+    "Protect the electronics and vacuum the accessible parts. The control board is usually behind the right end of the head — cover that side with a plastic bag or sheeting and painter's tape. With a soft brush and vacuum, gently clean the visible coil fins and intake grille, and wipe the cover and louvers with a damp microfiber cloth. Don't bend the thin aluminum fins.",
+    "Clean the evaporator coil. With power off and electronics covered, spray a no-rinse, self-rinsing coil cleaner made for indoor evaporator coils (not a strong acidic or caustic outdoor-condenser cleaner) onto the aluminum fins, spraying parallel to the fins so you don't bend them. Let it foam and dwell per the label; it loosens grime and drips down into the drain pan.",
+    "Clean the blower wheel — this is the musty-smell source and the hardest part. Hang a mini-split cleaning bib/bag kit under the head to catch runoff. Spray coil cleaner into the barrel-shaped fan while slowly turning it by hand, then rinse it with clean water from a hand pump sprayer, letting everything drain into the bag. Keep water and cleaner off the blower motor (usually at one end of the wheel), and wear eye protection. If the blades are packed solid with black gunk, this may need a pro (see below).",
+    "Flush the condensate drain. Pour clean water (some people use a diluted white-vinegar mix — avoid bleach, which can corrode some pans and off-gas) through the drain pan and confirm it runs freely out the hose outside. If it's clogged, put a wet/dry vac on the outdoor end of the drain line for 30-60 seconds to suck out the slime.",
+    "Clean the outdoor unit. Turn off its power too. Clear leaves and debris from around it, then gently rinse the condenser fins with a garden hose at normal pressure — straight on or from the inside out. Never use a pressure washer, and keep water off the electrical box.",
+    "Dry and reassemble. Make sure the filters and interior are fully dry, slide the filters back in, remove the plastic covering the electronics, and close the front panel.",
+    "Restore power and test. Run fan-only for 20-30 minutes to dry the inside, then switch to cool. Confirm the airflow is strong and the musty smell is gone. If the smell is still there, the mold is deeper than a surface clean can reach — call a pro.",
+    "Prevent it coming back. Enable the remote's self-clean / 'blow' / dry function, or manually run fan or dry mode for 15-30 minutes after each cooling session so the coil and blower dry out. Wash the filters every 2-4 weeks during cooling season, and do a full coil/blower clean once a year."
+  ],
+  "diyVsPro": "DIY is reasonable for washing filters, wiping and vacuuming the accessible coil, doing a light coil-cleaner-and-bib-bag clean, flushing the drain, and rinsing the outdoor unit. Stop and call a licensed HVAC pro if: the musty smell remains after a thorough cleaning (mold is deep in the coil or blower and needs full disassembly or head removal); you see visible mold larger than roughly 10 square feet or water damage on the wall behind the unit; the job would require taking the head off the wall or disturbing the copper refrigerant lines; you see ice on the lines, oily residue, or hear hissing (possible refrigerant leak — a licensed tech only); the unit trips its breaker or acts up electrically; or DIY cleaning would void an active warranty. A professional deep clean with full teardown is the safe call in any of those cases.",
+  "typicalCostUSD": "DIY: about $15-60 in supplies (foaming coil cleaner ~$10-20, a mini-split cleaning bib/bag kit ~$25-40, plus brushes and cloths you likely own). Professional deep clean: roughly $100-300 per indoor head, sometimes up to ~$350 for a full teardown.",
+  "timeEstimate": "20-30 minutes for filters only; 1-2 hours for a thorough coil, blower, and drain cleaning per head.",
+  "safetyLevel": "caution",
+  "safetyNote": "Electricity plus water is the main hazard: always shut off the mini-split at its disconnect or breaker before any wet cleaning, and verify the head is dead (no lights, no response to the remote; where you can safely reach the wiring, confirm with a non-contact voltage tester). Water on the live control board — usually behind the right end of the head — can shock you and ruin the unit, so cover that side with plastic before spraying anything. Heads mount high on the wall, so work from a stable step ladder or platform, never a chair. Do not touch the copper refrigerant lines or bend the aluminum fins; if you see ice on the lines, oily residue, or hear hissing, stop and call a licensed HVAC pro — that's a possible refrigerant leak, not a DIY job. The black slime is mold: wear an N95 and gloves, and if mold covers more than about 10 square feet or the wall behind the unit is water-damaged, stop and hire an HVAC or remediation professional. Never use a pressure washer on either the indoor or outdoor unit.",
+  "toolsParts": [
+    "Step ladder or stable platform",
+    "Non-contact voltage tester",
+    "Phillips screwdriver",
+    "Vacuum with soft brush attachment",
+    "Soft-bristle detail brush",
+    "Microfiber cloths",
+    "Mild dish soap",
+    "No-rinse foaming evaporator coil cleaner (indoor/HVAC-safe)",
+    "Mini-split cleaning bib/bag kit with drain hose",
+    "Hand pump pressure sprayer for clean rinse water",
+    "Nitrile gloves",
+    "N95 mask and safety glasses",
+    "Plastic sheeting or trash bags plus painter's tape",
+    "Bucket",
+    "Garden hose for the outdoor coil",
+    "Distilled white vinegar for the drain line (optional)"
+  ],
+  "searchTerms": [
+    "how to clean mini split musty smell",
+    "ductless mini split blower wheel cleaning",
+    "mini split smells like mildew when cooling",
+    "clean mini split evaporator coil DIY",
+    "mini split cleaning bag kit how to use",
+    "mini split weak airflow dirty filter",
+    "how to clean ductless AC head unit",
+    "mini split condensate drain cleaning"
+  ],
+  "sources": [
+    "U.S. Department of Energy / ENERGY STAR — ductless heating and cooling maintenance guidance",
+    "EPA — 'A Brief Guide to Mold, Moisture and Your Home' (the ~10-square-foot cleanup guideline)",
+    "ACCA (Air Conditioning Contractors of America) — residential HVAC maintenance best practices",
+    "Manufacturer owner's manuals (e.g., Mitsubishi Electric, Daikin, Fujitsu) — filter, coil, and self-clean instructions",
+    "ASHRAE — indoor air quality and coil/condensate maintenance references"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for your unit's owner's manual or a licensed HVAC professional; when in doubt, shut off the power and call a pro.",
+  "verified": false,
+  "verifierNote": "AI-drafted from standard home-maintenance practice, then adversarially QA-reviewed for safety and technical accuracy: added non-contact-voltage-tester verification where wiring is reachable, required an indoor evaporator-rated self-rinsing coil cleaner (not a harsh acidic/caustic condenser cleaner) to avoid coil damage indoors, added keeping water off the blower motor, and a no-bleach caution on the drain flush; refrigerant-line, mold-area, and height routing confirmed adequate. Still pending human / licensed-HVAC sign-off before publishing.",
+  "kind": "spoke"
+}

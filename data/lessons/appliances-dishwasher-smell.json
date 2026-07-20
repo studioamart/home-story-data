@@ -1,0 +1,87 @@
+{
+  "slug": "appliances-dishwasher-smell",
+  "system": "appliances",
+  "title": "Why Your Dishwasher Smells Bad — and How to Deep Clean and Fix the Odor for Good",
+  "question": "My dishwasher smells musty and sometimes like rotten eggs or sewage even after washing — how do I get rid of the smell for good?",
+  "summary": "Most dishwasher smells come from rotting food trapped in the bottom filter, a slimy biofilm on the spray arms and door gasket, or a drain hose that lets dirty sink water flow back in. The step almost everyone skips is pulling out and hand-cleaning the removable filter — deodorizer tablets alone won't touch the gunk underneath it. A musty or eggy smell is usually rot inside the machine, while a true sewer smell often points to a drain-hose or air-gap problem under the sink rather than the dishwasher itself.",
+  "commonCauses": [
+    {
+      "cause": "Clogged filter with trapped, rotting food debris",
+      "likelihood": "most common",
+      "quickCheck": "Pull out the bottom rack and twist out the cylindrical filter in the tub floor — if you see trapped food, grease, or slime, this is your smell."
+    },
+    {
+      "cause": "Biofilm and grime on spray arms, door gasket, and tub edges",
+      "likelihood": "common",
+      "quickCheck": "Run a finger along the rubber door gasket and the bottom lip of the tub — black or pink slime on your finger is bacterial biofilm."
+    },
+    {
+      "cause": "Garbage disposal or its knockout plug (dirty disposal, or new install with the plug never removed) blocking or backfeeding the drain",
+      "likelihood": "common",
+      "quickCheck": "If the dishwasher drains slowly or leaves dirty standing water — and especially if a disposal was recently installed — the disposal or its unremoved knockout plug is the likely culprit."
+    },
+    {
+      "cause": "Drain hose not looped high / missing or clogged air gap letting sink water and sewer gas back-flow",
+      "likelihood": "less common",
+      "quickCheck": "If the smell is sewer-like and gets worse right after you run the sink, look under the sink: the drain hose should rise to the underside of the countertop before dropping to its connection."
+    },
+    {
+      "cause": "Standing water in the sump from a partial drain clog",
+      "likelihood": "less common",
+      "quickCheck": "Lift the filter and look into the sump well underneath — pooled water that never fully drains rots and stinks between cycles."
+    }
+  ],
+  "fixes": [
+    "Empty the dishwasher, pull out the bottom rack, and scoop any standing water from the sump with a cup or turkey baster, then sponge it dry so you can work.",
+    "Remove the filter: twist the cylindrical filter counterclockwise (or per your manual) and lift out the filter assembly, including the flat mesh screen under it. Rinse everything under hot water and scrub with an old toothbrush and a drop of dish soap until no food or greasy film remains.",
+    "Take off the spray arms (they usually unclip or twist off) and clear each spray hole with a toothpick or thin wire, then flush them under the tap — clogged holes leave water pooling and food sitting.",
+    "Wipe the door gasket, the bottom lip of the tub where the door seals, and the detergent dispenser with a cloth dampened in warm soapy water or a 50/50 white vinegar solution. Get into the folds where black or pink slime hides.",
+    "Reassemble the spray arms and lock the filter firmly back in — a loose filter lets food back into the pump and can damage it.",
+    "Run an empty hot cycle to cut grease and odor: put 1 cup of white vinegar in a dishwasher-safe bowl on the top rack and run the hottest/longest setting. Caveat: some makers (e.g., Bosch) warn that repeated vinegar use can degrade rubber seals — if your manual advises against it, use a dishwasher-cleaner tablet (Affresh or Finish) instead. Never add bleach to the vinegar cycle (toxic gas), and do not use bleach at all in a stainless-steel-interior tub — it corrodes stainless.",
+    "For stains or lingering odor, run a second short hot cycle with a cup of baking soda sprinkled across the tub floor — a separate cycle from the vinegar, never mixed (they neutralize each other).",
+    "Fix the drain path: under the sink, confirm the drain hose has a high loop (rises to the underside of the countertop before dropping down) or that your air gap is present and clean — this stops dirty sink water and sewer gas from flowing back into the tub. In areas that require an air gap by code, keep the air gap rather than relying on the loop alone.",
+    "If a garbage disposal is connected, confirm its knockout plug was removed when installed, then freshen the disposal by grinding ice and a little citrus peel while running cold water.",
+    "If dirty water still pools after all this, you likely have a partial clog in the drain hose, pump, or check valve — this needs deeper diagnosis rather than more cleaning.",
+    "Keep it fresh: scrape plates (but don't pre-rinse to bare), run a hot wash regularly, use rinse aid, clean the filter about once a month, and leave the door cracked open to dry between cycles."
+  ],
+  "diyVsPro": "Cleaning the filter, spray arms, and gasket, running vinegar/baking-soda cycles, and adding a drain high loop are all safe DIY jobs for anyone. Stop and call a licensed appliance technician if dirty water keeps pooling after you've cleaned the filter (a pump, check-valve, or internal drain clog), if the machine leaks, or if it's hardwired and a fix would mean opening electrical connections. Call a licensed plumber if a true sewer-gas smell persists after the machine is clean and the drain hose is looped correctly — that points to a drain or vent problem in the home's plumbing, not the dishwasher.",
+  "typicalCostUSD": "DIY cleaning: about $5–25 (white vinegar, baking soda, a brush; optional dishwasher cleaner tablets run $5–10). Appliance service call: $100–250; a drain, pump, or valve repair $150–400+. A plumber for a drain/vent issue: $150–350.",
+  "timeEstimate": "30–60 minutes of hands-on cleaning, plus 1–2 hours to run one or two hot cycles.",
+  "safetyLevel": "caution",
+  "safetyNote": "Never mix bleach with vinegar or any acid — it makes toxic chlorine gas; use only one cleaner per cycle and rinse between them, and never use bleach in a stainless-steel-interior dishwasher (it corrodes stainless). If you reach near the pump, wiring, or standing water, first switch the dishwasher off at its wall switch or breaker and confirm it's off before putting your hands in; a hardwired unit that needs its junction box opened is a job for an electrician or appliance tech. Wear gloves and feel carefully in the sump for broken glass. If you find heavy black mold on the gasket, mold spreading beyond routine slime (roughly larger than 10 sq ft), or water damage in the cabinet below the unit, stop and have it assessed by a professional. A rotten-egg smell coming from the tap water itself (not from food in the machine), or a sewer smell that persists after cleaning, can be a plumbing or venting problem for a licensed plumber.",
+  "toolsParts": [
+    "Rubber gloves",
+    "Old toothbrush or small scrub brush",
+    "Sponge and microfiber cloths",
+    "White vinegar",
+    "Baking soda",
+    "Dishwasher cleaner tablets (e.g., Affresh or Finish — optional)",
+    "Toothpick or thin wire (to clear spray-arm holes)",
+    "Cup or turkey baster (to scoop standing water)",
+    "Dish soap",
+    "Screwdriver (some filters/spray arms, per manual)",
+    "Flashlight",
+    "Rinse aid",
+    "Owner's manual"
+  ],
+  "searchTerms": [
+    "why does my dishwasher smell bad",
+    "how to clean dishwasher filter",
+    "dishwasher smells like sewage",
+    "dishwasher rotten egg smell",
+    "clean dishwasher with vinegar",
+    "dishwasher smells musty",
+    "clean dishwasher spray arms",
+    "dishwasher drain hose high loop"
+  ],
+  "sources": [
+    "Manufacturer owner's / use-and-care manuals (Whirlpool, Bosch, GE, KitchenAid) — filter and interior cleaning instructions, including vinegar cautions",
+    "U.S. Environmental Protection Agency (EPA) — mold and moisture control guidance (professional remediation for mold over ~10 sq ft)",
+    "U.S. Consumer Product Safety Commission (CPSC) — safe use of household cleaners (do not mix bleach with acids)",
+    "International Residential Code (IRC) / local plumbing code — dishwasher drain high loop and air gap requirements"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional advice; if you're unsure or the problem persists, consult a qualified appliance technician or licensed plumber.",
+  "verified": false,
+  "verifierNote": "AI-drafted, then AI QA-reviewed for safety and technical accuracy: added a manufacturer vinegar-caveat (repeated vinegar can degrade rubber seals; use a cleaner tablet if the manual says so), reinforced the bleach hazard (never mix with acid, never use in stainless-steel interiors), and clarified the baking-soda separate-cycle note. Still pending human verification.",
+  "kind": "spoke"
+}

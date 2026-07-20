@@ -1,0 +1,87 @@
+{
+  "slug": "plumbing-toilet-tank-sweating",
+  "system": "plumbing",
+  "title": "Toilet Tank Sweating and Dripping on the Floor: Why It Happens and How to Stop It",
+  "question": "My toilet tank sweats and drips water onto the floor every summer — why is it wet and how do I stop the puddles?",
+  "summary": "In warm, humid weather the cold water sitting in the tank keeps the porcelain surface below the dew point, so moisture in the room air condenses on the outside and runs down to the floor — it's sweating, not a leak. The mistake most people make is tightening bolts or swapping gaskets to chase a leak that isn't there; the real fixes are drying out the room air, insulating the tank, and stopping any running toilet that keeps feeding it cold water. A foam tank-liner kit fixes most stubborn cases; an anti-sweat mixing valve is a last resort. Left dripping for months, condensation can rot the subfloor and grow mold, so don't just mop it forever.",
+  "commonCauses": [
+    {
+      "cause": "Cold incoming fill water meeting warm, humid bathroom air — the tank surface drops below the dew point and the room's moisture condenses on it",
+      "likelihood": "most common",
+      "quickCheck": "Touch the tank — it feels cold, and the whole outside is evenly beaded with clear water that wipes off and comes right back, worst in summer."
+    },
+    {
+      "cause": "High indoor humidity and poor bathroom ventilation (no exhaust fan, or it's rarely run) raising the dew point of the room air",
+      "likelihood": "common",
+      "quickCheck": "The mirror fogs during showers, windows sweat, and the room feels muggy long after; there's no working exhaust fan or nobody runs it."
+    },
+    {
+      "cause": "A running toilet (leaky flapper) that keeps the fill valve pulling in fresh cold water and keeps the tank cold",
+      "likelihood": "common",
+      "quickCheck": "You hear the toilet refill or hiss on its own between uses; add dye to the tank and colored water appears in the bowl without flushing."
+    },
+    {
+      "cause": "Heavy toilet use constantly refilling the tank with cold water so it never warms up",
+      "likelihood": "less common",
+      "quickCheck": "The sweating toilet is the busiest one in the house and the drips get worst right after each flush and refill."
+    },
+    {
+      "cause": "A real leak mistaken for condensation — a loose supply nut, tank-to-bowl bolts, or a failing tank-to-bowl gasket",
+      "likelihood": "less common",
+      "quickCheck": "Dry everything bone-dry, then watch for water returning at one specific fitting or the tank-to-bowl seam rather than evenly across the whole tank."
+    }
+  ],
+  "fixes": [
+    "Confirm it's sweating, not a leak. Wipe the whole tank bone-dry with a towel and watch for 10-20 minutes. If fine water beads reappear evenly over the cold outside of the tank, it's condensation. If water returns at one spot — a bolt, the supply nut, or the tank-to-bowl seam — it's a leak, so fix that instead. Also drop a few drops of food coloring into the tank water; if colored water shows in the bowl or on the floor within 30 minutes, you have a flapper or tank-to-bowl-gasket leak (colored = leak; clear puddles = condensation).",
+    "Lower the bathroom humidity first — it's the cheapest fix and often enough. Run the exhaust fan during every shower and for 20-30 minutes after, crack a window, and in a damp room add a small dehumidifier. Aim to keep indoor humidity under about 50% (EPA guidance). Mild sweating frequently stops here.",
+    "Stop any running toilet. A leaky flapper makes the fill valve run and constantly draw in cold water, keeping the tank cold and worsening the sweat. If you hear periodic refilling or hissing, replace the flapper (a $10-15 universal part): shut the supply valve, flush to empty, unhook the old flapper, snap on the new one, refill, and confirm it seals with no phantom refills. If it still cycles after a fresh flapper, the fill valve or flush-valve seat is likely worn — swap the fill valve or call a plumber.",
+    "Empty and dry the tank to prep it for insulation. Turn off the supply valve behind the toilet, flush to drain the tank, then sponge and towel the inside completely dry. Wipe the inner walls with rubbing alcohol so the adhesive will grip.",
+    "Install a foam tank-liner kit ($20-40). Measure the four inside walls, cut the foam panels to fit around the fill valve and flush parts, and glue them to the dry inner walls with the included adhesive or silicone. Keep the foam clear of the flapper, float, and fill valve so nothing binds or sticks.",
+    "Let the adhesive cure fully before refilling — usually about 24 hours with the water off (follow the kit instructions). Curing with water in the tank can pop the panels loose and undo the job.",
+    "Turn the water back on, refill, and test. Flush a few times and check that the flapper and float still move freely and the tank seals. The insulated wall keeps the porcelain surface above the dew point, so the outside should stay dry within a day or two.",
+    "Only if humidity control plus insulation still isn't enough in a very humid climate, consider having an anti-sweat (tempering/mixing) valve installed on the toilet supply. It blends a little hot water into the fill so the tank never gets cold enough to sweat. Know the tradeoffs first: it uses hot water (ongoing energy cost) and some local plumbing codes restrict connecting hot water to a toilet, so confirm it's allowed where you live. It taps a hot-water line and often needs soldering — use a licensed plumber and don't attempt the hot-supply connection yourself unless you're fully confident. Insulation is the preferred permanent fix; treat this valve as a last resort.",
+    "Protect and inspect the floor. Until the sweating stops, keep a towel or a drip tray at the base of the toilet. Then check the subfloor around it — if it's soft, spongy, stained, or you find mold, stop and get it assessed. Months of dripping can cause hidden rot and mold that need repair, not just a dry tank."
+  ],
+  "diyVsPro": "DIY is fine for the whole normal path: controlling humidity, replacing a flapper or fill valve, and installing a foam tank-liner kit — all low-risk, hand-tool work. Stop and call a licensed plumber if the permanent fix means tapping a hot-water line for an anti-sweat/tempering valve and it requires soldering or you're unsure of the supply connections, if the tank is cracked or the tank-to-bowl gasket keeps leaking despite reseating, or if the drip turns out to be a supply-line leak you can't stop. Call a flooring or mold-remediation pro (not a plumber) if the subfloor around the toilet is soft, spongy, or discolored, or if you find mold larger than about 10 square feet — that's water-damage repair, not a plumbing job.",
+  "typicalCostUSD": "DIY: foam tank-liner kit $20-40; replacement flapper $10-15; fill valve $12-20; small dehumidifier $80-250 (optional). Pro: anti-sweat/tempering valve installed $150-400; a plumber diagnostic or repair visit $100-250; subfloor or mold repair costs much more if damage already exists.",
+  "timeEstimate": "Humidity fixes: immediate. Flapper or fill-valve swap: 15-45 minutes. Tank-liner install: 1-2 hours plus about 24 hours to cure before use. Anti-sweat valve: a half-day pro job.",
+  "safetyLevel": "low",
+  "safetyNote": "The water itself is clean condensation, so the everyday hazards are slips on the wet floor and long-term water damage. Wipe up puddles and keep a mat down until the sweating stops. If the subfloor around the toilet is soft, spongy, or discolored, or if you find mold larger than about 10 square feet, stop DIY and bring in a remediation or flooring pro — hidden rot and mold are health and structural problems, not a mopping job. If a permanent fix means tapping a hot-water line for an anti-sweat valve and it requires soldering or you're unsure of the supply connections, hire a licensed plumber and confirm hot-to-toilet is allowed by local code. Always shut off the supply valve and drain the tank before working inside it, and never over-tighten porcelain fittings — the tank can crack.",
+  "toolsParts": [
+    "Rubber gloves",
+    "Sponge and old towels",
+    "Toilet tank foam insulation liner kit (with adhesive)",
+    "Utility knife or scissors",
+    "Silicone adhesive (if not included in the kit)",
+    "Rubbing alcohol and a clean rag (to prep the tank walls)",
+    "Food coloring or dye tablets (for the leak test)",
+    "Replacement flapper (if the toilet runs)",
+    "Replacement fill valve (if a new flapper doesn't stop the running)",
+    "Adjustable wrench",
+    "Bucket",
+    "Bathroom exhaust fan or a small dehumidifier",
+    "Drip tray or absorbent mat for the toilet base",
+    "Anti-sweat / tempering (mixing) valve — last-resort permanent fix, pro install"
+  ],
+  "searchTerms": [
+    "toilet tank sweating",
+    "toilet tank condensation dripping on floor",
+    "how to stop toilet tank from sweating",
+    "toilet tank insulation kit",
+    "anti-sweat valve toilet",
+    "toilet sweating in summer humidity",
+    "why is my toilet tank wet outside",
+    "condensation on toilet tank fix"
+  ],
+  "sources": [
+    "U.S. EPA — indoor humidity and mold guidance (keep indoor humidity below about 50%; 'A Brief Guide to Mold, Moisture and Your Home', ~10 sq ft DIY mold limit)",
+    "U.S. EPA WaterSense — toilet leak detection dye test for flappers",
+    "Fluidmaster / Korky — toilet tank liner and fill-valve/flapper installation instructions (manufacturer guidance)",
+    "This Old House / Family Handyman — toilet tank condensation ('sweating') repair references",
+    "International/Uniform Plumbing Code — hot-water connection and tempering/anti-sweat valve requirements (verify local amendments)"
+  ],
+  "disclaimer": "This guide is general home-maintenance information, not professional advice; if you're unsure or the problem persists, consult a licensed plumber.",
+  "verified": false,
+  "verifierNote": "AI-drafted, then adversarially QA-reviewed for safety and technical accuracy: condensation mechanism, dry-test/dye-test leak diagnostics, inside-tank foam-insulation physics, and pro-routing for soldering/hot-line valves and mold/rot all checked and sound. Edits made to rank insulation over the anti-sweat valve, disclose that valve's energy/code tradeoffs, add a fill-valve fallback, and correct the dehumidifier cost. Still pending licensed-plumber field verification; verified stays false.",
+  "kind": "spoke"
+}

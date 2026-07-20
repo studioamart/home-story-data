@@ -1,0 +1,90 @@
+{
+  "slug": "electrical-bathroom-exhaust-fan-weak",
+  "system": "electrical",
+  "title": "Bathroom Exhaust Fan Is Weak, Loud, or Leaving the Mirror Foggy — How to Clean, Fix, or Upgrade It",
+  "question": "My bathroom exhaust fan barely pulls any air — the mirror stays fogged and I'm getting mold on the ceiling. How do I make it work better, or replace it?",
+  "summary": "A bathroom fan that \"doesn't work\" is usually choked with dust or venting into the attic instead of outside — not actually broken. The thing most people miss: a fan that is undersized (too few CFM for the room) or shuts off too soon will never clear the steam no matter how new it is. Start by cleaning it and confirming it really vents outdoors, then right-size it and add a timer or humidity switch. Persistent fog and ceiling mold almost always trace back to airflow leaving the room too slowly, or not leaving the house at all.",
+  "commonCauses": [
+    {
+      "cause": "Fan grille and blower wheel are clogged with dust and lint, choking airflow",
+      "likelihood": "most common",
+      "quickCheck": "Pull off the grille cover and look at the blower wheel and grille slots — a thick gray felt of dust means airflow is badly restricted."
+    },
+    {
+      "cause": "Fan is undersized (too few CFM) for the size of the bathroom",
+      "likelihood": "common",
+      "quickCheck": "Read the CFM on the fan label, measure the room (length x width), and compare to about 1 CFM per square foot (50 CFM minimum) — a 50 CFM fan in a large or high-ceiling bath is too small."
+    },
+    {
+      "cause": "Poor or wrong venting — duct dumps into the attic/soffit, or the run is long, crushed, or kinked",
+      "likelihood": "common",
+      "quickCheck": "Follow the duct in the attic: if it ends in the attic or soffit instead of a roof or wall cap, or it sags/kinks, that is the problem. Hold a tissue at the outside cap — it should flutter out strongly when the fan runs."
+    },
+    {
+      "cause": "Exterior vent cap or backdraft damper is stuck, blocked, or full of a bird/insect nest",
+      "likelihood": "less common",
+      "quickCheck": "At the outside cap, check the flap: if it is stuck shut, painted over, or packed with lint or nesting, air can't escape even with a strong fan."
+    },
+    {
+      "cause": "Motor bearings are worn — the fan is loud, hums, or barely spins even after cleaning",
+      "likelihood": "less common",
+      "quickCheck": "After cleaning, the fan still grinds, rattles, or turns slowly, and the motor runs hot or just hums — the motor is failing and needs a new unit or retrofit kit."
+    }
+  ],
+  "fixes": [
+    "Kill the power and verify it is dead. Turn off the breaker for the bathroom fan (it may share the circuit with the light, and the box can hold always-hot feed wires — so switching off the wall switch is NOT enough). At the fan, remove the grille and use a non-contact voltage tester to confirm no wires are live before touching anything. First prove the tester itself works by holding it on a wire or outlet you know is live, so a dead battery or shielded wire doesn't give you a false 'safe' reading.",
+    "Clean the grille and blower first. Pull the spring-clip grille and wash it in warm soapy water. Vacuum the blower wheel and motor housing with a brush attachment and wipe the blades. Let everything dry and reinstall — this alone often restores most of the airflow.",
+    "Test the airflow. With the fan running, hold a single sheet of toilet paper flat against the grille — a healthy fan holds it up on its own. An incense or match-smoke test works too: the smoke should get pulled in briskly.",
+    "Right-size it if it is underpowered. Use one sizing method, not both: for a bath up to about 100 sq ft, size at roughly 1 CFM per square foot (50 CFM minimum). For a larger bath, size by fixtures instead — about 50 CFM each for the toilet, the shower, and the tub, and about 100 CFM for a jetted tub, then add them up. Bump the target up for ceilings over 8-9 feet (size by air volume, not just floor area). If the existing fan is below that number, plan to upgrade the unit.",
+    "Inspect the duct run in the attic. Confirm the duct goes all the way outside to a roof or wall cap — never ending in the attic or soffit, which just dumps moisture into your house. Replace crushed or sagging flex with 4-inch rigid or insulated smooth duct, keep it as short and straight as possible, seal joints with foil HVAC tape (not cloth duct tape), and insulate any duct in cold, unconditioned space to stop condensation.",
+    "Clear the exterior vent cap. Check that the cap flap swings freely and closes when the fan is off; remove lint, leaves, and any bird or insect nests. A blocked cap or stuck damper strangles even a strong new fan.",
+    "Upgrade the unit for a weak or loud fan. Pick an ENERGY STAR fan sized to your CFM and quiet — 1.0 to 1.5 sones or lower. Many brands sell retrofit motor/blower kits that drop into the existing housing with no attic access, which is the easiest DIY path. Match the duct size (usually 4 inches).",
+    "Wire the new fan to code. With power still off and re-confirmed dead, connect like-colored wires (black to black, white to white, ground to ground) using proper wire connectors, and match the number of leads — a combo fan/light or fan/heater unit has extra wires and may need its own circuit, so if the connections don't map one-to-one, stop and get an electrician. Secure the housing to the framing, reconnect the duct with a clamp and foil tape, and cap any unused wires.",
+    "Add a humidity-sensing or countdown timer switch. Swap the plain on/off switch for a timer or humidity-sensing switch so the fan runs long enough on its own — during the shower and at least 20 minutes after.",
+    "Restore power and verify the fix. Turn the breaker back on (if it is a GFCI breaker or the circuit runs through a GFCI, reset it), run the fan, repeat the tissue or smoke test, and confirm outside that the cap flap opens and air is actually leaving the house. The mirror should clear within a few minutes of a hot shower.",
+    "Deal with any existing mold. Wipe small surface mold (under about 10 square feet) with detergent or a mold cleaner and dry the area fully, wearing at least an N95. Larger mold, or any soft/stained ceiling that points to hidden water damage, needs a professional — do not just paint over it."
+  ],
+  "diyVsPro": "DIY is fine for cleaning the fan, dropping a retrofit motor/blower kit into an existing housing, and swapping the wall switch — all with the breaker off and the wires confirmed dead. Stop and call a licensed electrician if there is no accessible junction box, the wiring is aluminum, there is no ground wire, the circuit trips or is clearly overloaded, the fan is a combo heater unit needing its own circuit, or you are not fully comfortable making the connections. Call a roofer or HVAC pro for any new roof or wall penetration, any work done at roof height, or running new duct through a finished ceiling. Call a remediation pro for mold larger than about 10 square feet or any sign of water intrusion, and if the ceiling is pre-mid-1980s textured/\"popcorn,\" test for asbestos before drilling or sanding.",
+  "typicalCostUSD": "DIY: $20-$40 for a timer/humidity switch; $20-$150 for a standard fan unit or retrofit kit ($150-$300 for a premium quiet or humidity-sensing model). Pro install of a new fan runs about $250-$700, and adding a brand-new roof or wall vent penetration can push it to $400-$1,000+.",
+  "timeEstimate": "Cleaning: 20-40 minutes. Retrofit or unit swap in an existing housing: 1-2 hours. Full replacement with new ducting or a new exterior vent: a half to full day.",
+  "safetyLevel": "caution",
+  "safetyNote": "Electrical: always shut off the breaker AND confirm the wires are dead with a non-contact voltage tester before touching anything — and prove the tester works on a known-live wire first, since a dead battery can read 'safe' when it isn't. The fan often shares a circuit with the light and the box can hold always-hot feed wires, so the wall switch being off is not enough. Work overhead from a stable ladder with solid footing and don't overreach. Any venting work at roof height is a fall risk — hire a roofer, don't do it yourself. Never vent the fan into the attic or soffit; trapped moisture rots framing and grows mold. If the ceiling is pre-mid-1980s textured or \"popcorn,\" it may contain asbestos — test before sanding or drilling, never disturb it dry. Mold larger than about 10 square feet, or any hidden water damage, calls for a professional and at least an N95 respirator.",
+  "toolsParts": [
+    "Non-contact voltage tester",
+    "Phillips and flathead screwdrivers",
+    "Stepladder",
+    "Shop vacuum with brush attachment",
+    "Mild detergent and cloths",
+    "Replacement fan unit or drop-in retrofit motor/blower kit",
+    "4-inch rigid or insulated smooth duct",
+    "Foil (aluminum) HVAC tape",
+    "Duct/hose clamps",
+    "Wire connectors (wire nuts)",
+    "Tape measure",
+    "Work gloves",
+    "N95 dust mask/respirator",
+    "Exterior vent cap with backdraft damper",
+    "Humidity-sensing or countdown timer switch"
+  ],
+  "searchTerms": [
+    "bathroom exhaust fan weak airflow",
+    "how to clean bathroom exhaust fan",
+    "bathroom fan CFM size calculator",
+    "bathroom fan venting into attic mold",
+    "replace bathroom exhaust fan retrofit kit",
+    "quiet bathroom fan sones rating",
+    "bathroom fan humidity sensor timer switch",
+    "bathroom mirror fogs mold ceiling fan"
+  ],
+  "sources": [
+    "U.S. Department of Energy (energy.gov) — home ventilation and whole-house/spot exhaust guidance",
+    "ENERGY STAR — ventilating fans specifications (CFM airflow and sones loudness)",
+    "Home Ventilating Institute (HVI) — bathroom fan sizing recommendations",
+    "ASHRAE Standard 62.2 — residential ventilation and local exhaust rates",
+    "EPA (epa.gov) — mold cleanup and indoor moisture control guidance"
+  ],
+  "disclaimer": "General home-maintenance guidance only; verify against your local building codes and your fan manufacturer's instructions, and consult a licensed professional for electrical, roof, or mold work.",
+  "verified": false,
+  "verifierNote": "AI-drafted from standard home-maintenance practice and public ventilation and electrical-safety guidance; QA pass corrected CFM sizing (separated the HVI square-footage vs. fixture-count methods) and hardened the electrical steps (prove the voltage tester on a known-live source; always-hot feed wires; combo fan/heater wiring). Still pending human review.",
+  "kind": "spoke"
+}

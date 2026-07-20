@@ -1,0 +1,91 @@
+{
+  "slug": "yard-tree-roots-foundation",
+  "system": "yard",
+  "title": "Tree Roots Near the House: Will They Crack Your Foundation, Sewer Line, or Driveway?",
+  "question": "There's a big tree right next to my house and I'm worried its roots will crack my foundation, break my sewer line, or lift my driveway. How do I tell if there's real damage, and when do I call an arborist or a plumber?",
+  "summary": "The scary picture of roots crushing a foundation is mostly a myth — healthy roots do not break sound concrete. The real risks are indirect: in clay soils, roots pull moisture out of the ground, the soil shrinks, and the house settles unevenly; roots invade a sewer pipe only where a joint or crack is already leaking; and shallow surface roots lift driveways and walkways. Figure out which of these is actually happening before you cut anything — reflexively chopping large structural roots can topple or kill the tree without fixing the crack.",
+  "commonCauses": [
+    {
+      "cause": "Clay soil drying and shrinking as tree roots pull moisture out, so the house settles unevenly (differential settlement) — the true mechanism behind most tree-related foundation damage in clay regions.",
+      "likelihood": "most common",
+      "quickCheck": "Check if your soil is clay — it cracks into hard plates when dry and turns sticky when wet. Then look for stair-step cracks in brick or block on the side facing the tree, and doors or windows that stick worse in the dry season."
+    },
+    {
+      "cause": "Roots infiltrating a sewer lateral that already has a cracked joint or leak (roots follow the water, they do not drill through intact pipe).",
+      "likelihood": "common",
+      "quickCheck": "Watch for slow drains, gurgling toilets, or backups that keep returning — especially with an older clay or cast-iron line. A plumber's camera run down the cleanout confirms roots inside the pipe."
+    },
+    {
+      "cause": "Shallow feeder roots lifting driveway, sidewalk, or patio slabs from underneath.",
+      "likelihood": "common",
+      "quickCheck": "Look for raised, tented, or cracked concrete near the tree; press on the lifted section and trace it back to a root running just under the slab."
+    },
+    {
+      "cause": "A root wedging into a pre-existing foundation crack — real structural harm from this is uncommon because roots follow cracks, they rarely start them.",
+      "likelihood": "less common",
+      "quickCheck": "Inspect the crack itself: is a root actually growing inside it, or is the crack from settlement with no root present? A root sitting in a crack it did not cause is not the same as root pressure."
+    },
+    {
+      "cause": "Soil heave after a large tree is removed from clay soil — the ground reabsorbs moisture, swells, and pushes the slab up.",
+      "likelihood": "rare",
+      "quickCheck": "If a big tree was taken out on clay soil and new cracks or floor lifting showed up within a few months, suspect moisture rebound (heave) rather than root pressure."
+    }
+  ],
+  "fixes": [
+    "Measure the distance from the trunk to the house wall, and identify the species and its mature size. Fast, thirsty, shallow-rooted trees (willow, poplar, silver maple, elm) near the house on clay soil are the higher-risk case; slow, deep-rooted trees far from the wall are usually fine.",
+    "Identify your soil type. Clay that cracks when dry and gets sticky when wet is 'expansive' and drives most moisture-related settlement. Sandy, fast-draining soil rarely has this problem — which changes how worried you should be.",
+    "Walk the full perimeter and inspect the foundation. Photograph every crack with the date. Note the pattern: hairline vertical cracks are usually cosmetic; wide, stair-step cracks through brick or block, especially on the tree side, plus sticking doors or gaps at the trim, point to real movement.",
+    "Monitor the cracks over time before spending money. Tape a crack-monitoring gauge across a suspect crack (or draw dated pencil marks and measure the gap). Re-check over several weeks to a few months — a crack that is not widening is not an emergency.",
+    "Check floors for slope with a level or by rolling a marble; a floor that clearly slopes toward the tree side supports a settlement diagnosis.",
+    "Inspect all hardscape — driveway, walkway, patio — for tented or cracked slabs, and trace lifts to surface roots.",
+    "Screen the sewer line for symptoms: slow drains, gurgling, recurring backups. If any show up, have a licensed plumber run a camera down the cleanout before assuming the tree is at fault — the fix depends on where and how bad the intrusion is.",
+    "Do NOT reflexively cut large roots near the foundation. Cutting structural roots (roughly wrist-thick or bigger) can destabilize a mature tree and create a fall hazard, and it will not reverse settlement. Root pruning near a big tree is arborist work.",
+    "For confirmed root intrusion in a pipe: a plumber clears it by mechanical cutting or hydro-jetting, then the lasting fix is a trenchless liner (cured-in-place pipe) or replacing the damaged section. A labeled foaming root killer (dichlobenil-based, the RootX type) applied to the line slows regrowth but is only a stopgap, not a repair. Avoid copper-sulfate crystal killers if you have a septic system or metal pipe — copper kills the septic bacteria, can corrode metal, is toxic to aquatic life, and is restricted by many wastewater agencies; check local rules and follow the label exactly.",
+    "For lifted hardscape: careful root pruning at a safe distance plus a root barrier installed when the slab is repoured redirects roots downward. Call 811 to locate buried utilities before any digging.",
+    "For prevention or an ongoing risk, install an HDPE root barrier between the tree and the foundation or pipe, and in clay regions keep soil moisture steady (soaker hose during drought, mulch to slow drying) to reduce the shrink-swell that cracks foundations.",
+    "Escalate the diagnosis to the right professional: a structural engineer or foundation contractor for progressive cracks and sloped floors, a licensed plumber for pipe intrusion, and an ISA certified arborist for any root cutting or tree removal near the house."
+  ],
+  "diyVsPro": "DIY is fine for the whole diagnostic phase: measuring distance to the house, identifying the species and soil type, walking the perimeter to photograph and date cracks, taping on a crack gauge and monitoring over weeks, checking floors for slope, spotting surface roots on hardscape, and flushing a labeled dichlobenil foaming root killer as sewer maintenance (not on a septic system, and per label only). Stop and call a licensed pro when: cracks are wider than about 1/4 inch, run in a stair-step pattern through brick or block, are actively widening, or come with sticking doors, trim gaps, or sloping floors (structural engineer first, then a foundation contractor); you get recurring drain backups or gurgling (licensed plumber with a sewer camera); any root roughly 1-2 inches or thicker needs cutting near a mature tree, or the tree itself needs removal near the house (ISA certified arborist — cutting structural roots can make a tree fall); or any digging is required (call 811 to locate utilities first, every time).",
+  "typicalCostUSD": "DIY monitoring $10-40 (crack gauge, tape measure). Pro assessments: ISA certified arborist $100-500, sewer camera scope $100-400, structural engineer evaluation $400-1,200. Fixes vary widely: sewer root clearing / hydro-jet $200-800, trenchless pipe reline $3,000-$12,000+, full lateral replacement $4,000-$25,000; driveway or walkway section repair $1,000-$5,000; root barrier install $500-$3,000; foundation underpinning if warranted $5,000-$40,000+.",
+  "timeEstimate": "DIY inspection 1-2 hours, then monitor cracks over several weeks to a few months to judge whether they are actually moving. Pro camera scope or assessment is usually same-day; repairs range from a day (root clearing, a slab section) to a week or more (pipe replacement, foundation piering).",
+  "safetyLevel": "caution",
+  "safetyNote": "The dangerous parts here are not the inspection — they are the interventions, so hand those off. Never cut large structural roots on a mature tree yourself: it can make the tree unstable and fall, which is a life and property hazard — leave root pruning near big trees to an ISA certified arborist. Call 811 (Call Before You Dig) before ANY digging for a root barrier or inspection pit; hitting a buried gas or electric line can be fatal, and the locate is free. Never do tree work near overhead power lines — utility or line-clearance pro only, and stay off ladders and roofs (fall risk — hire it out). Treat sewer work as a biohazard and a confined-space/trench-collapse risk: do not enter trenches or vaults — that is licensed-plumber work. Use chemical root killers strictly per label and never on a septic system (copper-sulfate types kill the tank bacteria and can corrode metal pipe); many areas restrict them, so check local rules. Finally, do not dismiss structural signs: cracks that are wide, stair-stepped, actively widening, or paired with sticking doors and sloping floors can mean real settlement — get a structural engineer rather than just patching and hoping.",
+  "toolsParts": [
+    "Tape measure",
+    "Crack-monitoring gauge (or calipers plus dated pencil marks)",
+    "Smartphone for dated photos",
+    "Flashlight",
+    "Carpenter's level or a marble (to check for sloping floors)",
+    "Plant-ID app or a tree reference guide",
+    "811 / Call-Before-You-Dig utility locate (free service)",
+    "Foaming root killer, dichlobenil-based (RootX type), used strictly per label — avoid copper sulfate on septic systems or metal pipe",
+    "HDPE root-barrier panels",
+    "Sewer camera (plumber-provided or rental)",
+    "Soil moisture meter (optional)",
+    "Soaker hose for steady watering in clay soils",
+    "Mulch to slow soil drying",
+    "Contact for an ISA certified arborist",
+    "Contact for a licensed plumber",
+    "Contact for a structural engineer"
+  ],
+  "searchTerms": [
+    "tree roots damaging foundation",
+    "how far should a tree be from house foundation",
+    "tree roots in sewer line signs",
+    "tree roots lifting driveway repair",
+    "will tree roots crack my foundation",
+    "root barrier for foundation and pipes",
+    "when to call an arborist for a tree near the house",
+    "expansive clay soil foundation cracks tree"
+  ],
+  "sources": [
+    "International Society of Arboriculture (ISA) / Trees Are Good — tree roots, critical root zone, and structures guidance",
+    "USDA Forest Service and university cooperative extension horticulture programs — trees near buildings and root behavior",
+    "U.S. EPA — sanitary sewer infiltration/inflow and root-intrusion-at-pipe-defect guidance",
+    "Common Ground Alliance (call811.com) — Call Before You Dig safe-digging guidance"
+  ],
+  "disclaimer": "General home-maintenance guidance only — not a substitute for an on-site inspection by a licensed arborist, plumber, or structural engineer for your specific tree, soil, and structure.",
+  "verified": false,
+  "verifierNote": "AI-drafted from standard arboriculture and home-maintenance practice, then adversarially QA-reviewed for safety and technical accuracy — root-killer chemistry was corrected (foaming = dichlobenil, not copper sulfate) and septic/metal-pipe/regulatory caveats were added. Still pending human expert review before publishing.",
+  "kind": "pillar"
+}

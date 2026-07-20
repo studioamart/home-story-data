@@ -1,0 +1,85 @@
+{
+  "slug": "plumbing-drain-gurgle-vent",
+  "system": "plumbing",
+  "title": "Gurgling Drains and a Bubbling Toilet: How to Diagnose and Fix a Blocked Plumbing Vent",
+  "question": "My drains gurgle and glug and my toilet bubbles when the sink or washing machine drains, and everything empties slowly — what's causing it and how do I fix it?",
+  "summary": "Here is what most people get wrong: they keep snaking the one slow drain, but gurgling plus a toilet that bubbles when a DIFFERENT fixture drains is an air problem, not a clog in that pipe. Draining water needs air pulled in behind it through the vent; when the vent is blocked or a shared drain is restricted, the water instead pulls air backward through the nearest trap — that glug is the sound of it, and it can siphon a trap dry and let sewer gas in. Fix the air path (clear the vent, replace a failed air admittance valve, or clear the main line), not just the water. If several fixtures gurgle or the lowest drains back up, treat it as a possible main-line or sewer blockage and stop running water immediately.",
+  "commonCauses": [
+    {
+      "cause": "Partial blockage in the main drain or sewer line (grease, wipes, roots) restricting both flow and air — the toilet, as the lowest fixture, burps air when a sink, tub, or washer drains",
+      "likelihood": "most common",
+      "quickCheck": "Run the bathroom sink or tub and watch the nearest toilet: if it bubbles or its water level rises/drops, and things get worse the more fixtures you run at once, the restriction is downstream in the shared line, not in that one drain. Check whether the lowest drain in the home (basement floor drain, first-floor tub) backs up."
+    },
+    {
+      "cause": "Blocked vent stack on the roof — leaves, a bird or wasp nest, a dead animal, or winter frost/ice closing the pipe that lets air into the drain system",
+      "likelihood": "common",
+      "quickCheck": "The gurgle is tied to draining and you sometimes catch a whiff of sewer gas; it may have started after a storm or a hard freeze. From the ground you often can't see the clog — a plumber runs a hose down the roof vent or drops an auger to confirm."
+    },
+    {
+      "cause": "Failed or stuck air admittance valve (AAV, often called a Studor vent) under a sink or on an island, common in newer homes and remodels — these one-way valves can stick closed after a few years",
+      "likelihood": "common",
+      "quickCheck": "Open the cabinet under the gurgling sink or the island base and look for a small plastic valve on the drain pipe above the trap. If that single fixture gurgles and drains slowly, the AAV is a likely, cheap culprit."
+    },
+    {
+      "cause": "Inadequate or missing venting from a DIY install — an island sink with no proper loop vent, a fixture added without a vent, or a trap arm run too long",
+      "likelihood": "less common",
+      "quickCheck": "The gurgle started right after a remodel or an addition, or it affects a fixture that was clearly self-installed. Compare it to a properly vented fixture nearby that drains quietly with no glug."
+    },
+    {
+      "cause": "Full septic tank or blocked sewer main (roots, grease, or a collapsed pipe) backing pressure up into the house",
+      "likelihood": "less common",
+      "quickCheck": "Multiple fixtures gurgle or back up at the same time, water pools at the lowest drain, or you notice wet ground and odor over the septic field or sewer line. A camera inspection confirms it — do not keep running water if backups appear."
+    }
+  ],
+  "fixes": [
+    "Confirm it is an air problem, not a local clog. Run a nearby fixture and watch the toilet. If the toilet bubbles or a trap gurgles when a DIFFERENT fixture drains, air is being pulled through the traps — that points to venting or a shared-drain restriction, not a simple clog in one pipe. Note whether only one fixture is affected or several before you do anything else.",
+    "Rule out the urgent case FIRST: a main-line or sewer backup. If MULTIPLE fixtures gurgle, or the lowest drains (basement floor drain, first-floor tub or toilet) back up when you run water, stop using water — do not run the washer or dishwasher, and hold off on the trap-refill step below — then call a drain pro. This can flood the home with sewage; treat it as the priority.",
+    "Once you've ruled out a backup, refill any unused traps — it's free. A rarely-used floor drain, guest sink, or spare tub can evaporate its trap water, letting sewer gas in and causing odd gurgles. Pour about a quart of water down each, plus a splash of mineral oil to slow future evaporation.",
+    "If the gurgling fixture has an air admittance valve, replace it. Under the sink or in the island base, unscrew the small mechanical vent and thread on a matching new one (about $15-30; size to the pipe, commonly 1.5 inch), sealing it per the maker's instructions (many use an O-ring; some use PTFE thread tape). A stuck-closed AAV is a common, cheap fix — where your local code permits AAVs.",
+    "For a single slow, gurgling fixture, clean the P-trap and snake the trap arm. Put a bucket under it, loosen the slip nuts, clear the trap, then run a hand auger (about 25 ft) through the trap arm to rule out a local clog before blaming the vent. Do not pour chemical drain cleaner — it won't fix an air path and it's hazardous.",
+    "Clear the roof vent stack — hire a plumber for this. Reaching the stack means working on a roof (fall risk), so pay a pro: they run a garden hose or an auger down the vent to flush a nest or debris. Do not go up yourself. If water backs up out of the vent, the blockage is below it — that's a main-line job.",
+    "If only one fixture is still affected after clearing its trap and the vent, suspect inadequate venting from the install. A licensed plumber checks the trap-arm length, the vent distance, and island-sink venting against code and reworks the pipe. This often means opening a wall and may require a permit — not a DIY fix.",
+    "If several fixtures are involved, or you have a septic system with slow drains everywhere, get a camera inspection plus a main-line cleaning, and have the septic tank level checked and pumped if full. Roots, grease, or a full tank restrict both flow and air. This is pro work.",
+    "Verify the fix. Trigger a large drain event — fill and drain a tub, then flush the toilet — and confirm no gurgle, no bubbling toilet, traps that stay full, and normal drain speed. Recheck after a day of normal use. If sewer smell returns, a trap got siphoned dry: refill it and re-investigate the vent."
+  ],
+  "diyVsPro": "DIY is fine for the diagnosis (watching how fixtures react to each other), refilling dry traps, swapping a stuck air admittance valve, cleaning a P-trap, and hand-snaking a single fixture's trap arm. Stop and call a licensed plumber if: reaching the vent means getting on the roof (fall risk — always hire this out); multiple fixtures gurgle or the lowest drains back up (a main-line or sewer clog, with sewage risk); the fix requires opening walls or adding/relocating venting (needs code compliance and usually a permit); a septic system is involved; or sewage has backed up or you smell persistent sewer gas you can't clear by refilling traps.",
+  "typicalCostUSD": "DIY (air admittance valve swap, trap cleaning, hand auger): $10-50 in parts. Pro roof-vent or drain clearing: $150-400. Main-line camera inspection plus sewer cleaning: $250-800. Re-venting or re-piping to code with a permit: $500-2,500+. Septic tank pump-out: $300-600.",
+  "timeEstimate": "DIY diagnosis and an AAV or trap fix: 30-60 minutes. Pro roof-vent or main-line clearing: 1-3 hours. Re-venting inside walls: a half to full day.",
+  "safetyLevel": "caution",
+  "safetyNote": "Real hazards here are heights, sewage, and sewer gas. Roof: clearing a vent stack means working on a roof — a genuine fall risk. Do not do it yourself; hire a plumber. Sewage backup: if drains back up, stop running water immediately; wastewater carries pathogens, so wear gloves, never touch it barehanded, ventilate, and get a pro. Sewer gas: a dry or siphoned trap lets sewer gas (methane, hydrogen sulfide, and other gases) into the home — it's noxious and can be hazardous in enclosed spaces; refill traps, open windows, and call a plumber if the smell persists. Chemical drain cleaners: do not pour them for a vent problem — they won't restore air flow, they can splash and burn skin and eyes, and mixing products can react dangerously; if a drain already has cleaner in it, tell the plumber. Finally, do not confuse a natural-gas smell (the rotten-egg odorant the utility adds) with sewer gas — if you suspect a gas leak, leave the building and call the gas utility or 911 from outside, and do not create any ignition source (no switches, no flames).",
+  "toolsParts": [
+    "Headlamp or flashlight",
+    "Nitrile gloves",
+    "Bucket and rags",
+    "Adjustable or channel-lock pliers",
+    "Hand drain auger (about 25 ft)",
+    "Replacement air admittance valve (size to pipe, commonly 1.5 in)",
+    "PTFE thread-seal tape",
+    "Replacement P-trap kit and slip-joint washers",
+    "Garden hose (for a pro to flush the vent)",
+    "Mineral oil (to slow trap evaporation)",
+    "Cup/sink plunger and a flanged toilet plunger",
+    "Longer drain/vent auger (pro)",
+    "Sewer inspection camera (pro or rental)"
+  ],
+  "searchTerms": [
+    "drains gurgle when toilet flushes",
+    "toilet bubbles when sink drains",
+    "gurgling drain blocked plumbing vent",
+    "clogged vent stack symptoms",
+    "why is my drain glugging and slow",
+    "slow drain and sewer smell in house",
+    "air admittance valve not working",
+    "how to clear a plumbing vent on the roof"
+  ],
+  "sources": [
+    "International Plumbing Code (IPC) and Uniform Plumbing Code (UPC) — drain-waste-vent (DWV) sizing, trap, and venting requirements",
+    "IAPMO — Uniform Plumbing Code venting and air admittance valve standards",
+    "U.S. EPA — SepticSmart homeowner guidance on septic system care",
+    "Oatey / Studor — air admittance valve (AAV) installation instructions"
+  ],
+  "disclaimer": "General guidance only — plumbing systems and local codes vary, so when in doubt, or when work involves the roof, the main line, or a septic system, consult a licensed plumber.",
+  "verified": false,
+  "verifierNote": "AI-drafted from standard plumbing-code and home-maintenance practice, then adversarially QA-reviewed for safety and technical accuracy. QA changes: moved the urgent main-line/backup 'stop running water' check ahead of any water-running (trap-refill) step; softened the AAV sealing instruction to follow the manufacturer's method; clarified the natural-gas-leak response (leave, call from outside, no ignition source). Roof, sewer, and gas hazards are routed to a pro or the utility. Still pending human review.",
+  "kind": "spoke"
+}

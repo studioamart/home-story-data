@@ -1,0 +1,86 @@
+{
+  "slug": "exterior-window-screen-rescreen",
+  "system": "exterior",
+  "title": "How to Re-Screen a Torn Window or Door Screen (Remove the Spline, Roll in New Mesh Without Waves)",
+  "question": "The screen on my window (or screen door) is torn — how do I replace the mesh myself and get it tight without ripples?",
+  "summary": "Re-screening is one of the easiest home repairs: you pry out the old rubber spline, lay in new mesh, and roll fresh spline back into the frame's groove to lock the mesh in place. The mistake most people make is pulling the mesh drum-tight by hand — that bows the thin aluminum frame and leaves permanent waves. Instead, keep the mesh only lightly snug, let the spline roller do the tensioning, and work opposite sides in turn. For a first-timer, standard charcoal fiberglass mesh is the most forgiving choice and hides waves better than shiny gray.",
+  "commonCauses": [
+    {
+      "cause": "Sun/UV degradation — the mesh gets brittle over years and finally cracks or tears",
+      "likelihood": "most common",
+      "quickCheck": "Gently press or flex the mesh near a corner; if the fiberglass strands crumble, snap, or feel stiff instead of springy, it's sun-rotted and the whole panel needs re-screening, not a patch."
+    },
+    {
+      "cause": "Pet claws or impact (a ball, a bird, a person leaning on it)",
+      "likelihood": "common",
+      "quickCheck": "Look for a single localized hole or slash with healthy mesh all around it — often low on a screen door at cat/dog height, or a clean puncture from an impact."
+    },
+    {
+      "cause": "Spline dried out, shrank, and popped out of the groove, letting the mesh sag",
+      "likelihood": "common",
+      "quickCheck": "Run a finger around the frame channel; if the rubber spline is loose, cracked, or missing in spots and the mesh is baggy rather than torn, the spline failed."
+    },
+    {
+      "cause": "Bent or twisted frame (dropped, pried, or warped in heat)",
+      "likelihood": "less common",
+      "quickCheck": "Lay the frame flat on a table; if a corner lifts or it rocks, the frame is warped — new mesh will never tension evenly until the frame is straightened or replaced."
+    },
+    {
+      "cause": "Loose original install — waves and slack that were there from day one",
+      "likelihood": "less common",
+      "quickCheck": "If the mesh has visible ripples but no hole and never sat taut, it was rolled in too loose (or over-stretched) originally."
+    }
+  ],
+  "fixes": [
+    "Remove the screen panel from the window or door and lay it flat on a table or two sawhorses. Always work on a hard, flat surface indoors or on a patio — never on grass, and never leaning out of the opening.",
+    "Find the spline seam (usually at one corner), lift the end with an awl or small flat screwdriver, and pull the old rubber spline out of the groove by hand all the way around. Keep a short piece to match the diameter later.",
+    "Peel off the old mesh. Vacuum or brush the spline groove clean and wipe the frame. Check the frame is flat and square — a bent frame will not tension evenly and must be straightened or replaced first.",
+    "Match your materials: buy new spline the SAME diameter as the old (common sizes run about 0.125\" to 0.250\" / roughly 3.2–6.4 mm; the surest method is to measure the groove or take the old piece to the store and match it). Choose mesh — standard charcoal fiberglass for most windows (cheap, forgiving, easiest for beginners), heavier pet-resistant polyester for doors and pets, aluminum for durability (stiffer and harder to work crease-free), or solar/sun mesh to cut heat and glare.",
+    "Cut the new mesh 1–2 inches larger than the frame on every side so you have material to grip. Lay it over the frame squared up, with the weave lines running parallel to the frame edges.",
+    "Start on one side (a short side is easy for a first panel). Using the rounded (convex) wheel of the spline roller, press the mesh down into the groove, then feed the end of the new spline into a corner and roll it in with the grooved (concave) wheel. Do this first side, then the OPPOSITE side, then the two remaining sides — for a beginner this keeps the panel square better than rolling all four in one lap around the frame.",
+    "Key move: keep the mesh only lightly snug and let the roller create the tension. Do NOT yank it drum-tight by hand — that bows a thin aluminum frame and bakes in permanent waves. A slight bow of the frame toward the center as you do the second side is normal and pulls flat.",
+    "Roll the spline fully and evenly into each groove with steady pressure, keeping the weave straight as you go so the lines stay parallel to the frame. At corners, press the single spline down into the corner rather than cutting it — one continuous piece holds better.",
+    "After all four sides are splined, check for waves. The mesh should sit flat and taut with no ripples. If a side ripples, pull that spline back out and re-roll it with slightly less hand tension.",
+    "Trim the excess mesh with a sharp utility knife, cutting along the OUTER edge of the spline with the blade angled away from the groove, so you don't nick the spline or slice into the good mesh. Replace the blade if it drags.",
+    "Reinstall the panel, confirm any pull-tabs, clips, or plunger pins seat properly, and gently push the mesh to verify it's tensioned but not straining the frame. Done = flat, taut, no waves, spline seated all the way around."
+  ],
+  "diyVsPro": "DIY is fine for almost every standard window or door screen — it's cheap, low-risk tabletop work, and the tools pay for themselves after one panel. Stop and use a screen shop or handyman when: the frame itself is bent, cracked, or corroded (that's re-fabrication, not re-screening); it's a large fixed patio, porch, or pool-enclosure panel; it's a retractable/roll-up or spring-loaded screen with a mechanism inside; it uses a hidden-spline or tension-fit system you can't identify; or the window is on an upper floor and can't be safely removed and carried down from inside. Many local hardware and screen shops will re-screen a frame you bring in for a modest fee.",
+  "typicalCostUSD": "DIY: about $10–$30 per screen in materials — a roll of mesh covers several panels, and spline plus a spline roller are a few dollars each and reusable. Screen shop or handyman: roughly $20–$60 per standard panel, and more for large, specialty, or retractable screens.",
+  "timeEstimate": "About 20–40 minutes per screen once you have the tools; your very first one may take up to an hour.",
+  "safetyLevel": "low",
+  "safetyNote": "The real hazards are minor but worth respecting. Utility-knife cuts: always cut away from your body, use a fresh sharp blade (a dull one slips), and keep your other hand clear of the cut line. Fiberglass mesh sheds fine strands that irritate skin and eyes — wear gloves, avoid rubbing your eyes, and wash your hands and forearms afterward. Height is the one thing that turns this from easy to dangerous: never lean out of an open window, work from a ladder, or reinstall a screen while reaching out over a drop — always remove the panel and work at a stable table indoors, and if an upper-floor screen can't be safely taken out from inside, hire it out. This task involves no electrical, gas, structural, or combustion work.",
+  "toolsParts": [
+    "Spline roller (dual convex/concave wheel)",
+    "New spline, matched to the old diameter (measure or bring a sample)",
+    "Replacement screen mesh — fiberglass (charcoal), pet-resistant polyester, aluminum, or solar",
+    "Utility knife with fresh blades",
+    "Awl or small flat-head screwdriver (to lift the old spline)",
+    "Scissors or shears (to cut mesh oversize)",
+    "Tape measure",
+    "Flat work surface — table or two sawhorses",
+    "Spring clamps (to hold the mesh square while starting)",
+    "Shop vacuum or stiff brush (to clean the groove)",
+    "Work gloves (fiberglass strands irritate skin)",
+    "Marker (to note the spline start point)"
+  ],
+  "searchTerms": [
+    "how to replace a window screen",
+    "rescreen window mesh spline",
+    "what size spline for window screen",
+    "fix torn screen door mesh",
+    "window screen repair without waves",
+    "best screen mesh for pets",
+    "how to use a spline roller",
+    "charcoal vs gray fiberglass screen mesh"
+  ],
+  "sources": [
+    "This Old House — window and door screen replacement guidance",
+    "Family Handyman — how to re-screen a window or screen door",
+    "Screen mesh manufacturer installation instructions (e.g., Phifer, Saint-Gobain ADFORS)",
+    "U.S. Department of Energy — solar screens and window heat-gain guidance"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional advice; confirm materials and methods for your specific screen and conditions, and consult a qualified professional if anything is beyond your comfort level.",
+  "verified": false,
+  "verifierNote": "AI-drafted from standard home-maintenance practice and adversarially QA-reviewed for safety and technical accuracy. Corrections applied: broadened the spline-diameter range to include wider grooves (up to ~0.250\") while keeping the 'match the old piece' guidance, softened the start-side/lap wording, and cleaned the DOE source to a plain descriptive string. Task confirmed low-risk with the height hazard properly mitigated. Still pending final human review.",
+  "kind": "spoke"
+}

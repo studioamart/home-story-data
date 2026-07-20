@@ -1,0 +1,88 @@
+{
+  "slug": "hvac-condensate-pump-not-working",
+  "system": "hvac",
+  "title": "Condensate Pump Not Working: Water Around the Furnace or AC Shut Off",
+  "question": "My furnace/AC condensate pump stopped pumping and now there's water pooling around the unit (or my system shut itself off) — how do I fix it?",
+  "summary": "A condensate pump collects the water your high-efficiency furnace or AC coil makes and lifts it up and out to a drain. When it quits, water pools on the floor — or the pump's high-water safety switch interrupts the low-voltage signal to your furnace/AC to stop a flood, shutting the system off. The mistake most people make is assuming the motor died and buying a new pump; the real cause is usually a reservoir clogged with algae slime or a stuck float, which a 15-minute cleaning fixes. And if your system shut itself off, that safety switch is doing its job, not failing.",
+  "commonCauses": [
+    {
+      "cause": "Reservoir, intake screen, or impeller clogged with algae slime, sludge, and rust",
+      "likelihood": "most common",
+      "quickCheck": "Open the pump lid; slimy gunk, sludge, or rust in the tank — or a pump that hums but moves no water — points to a fouled intake or impeller."
+    },
+    {
+      "cause": "Float switch stuck or jammed by debris, so the pump never triggers",
+      "likelihood": "common",
+      "quickCheck": "With the pump plugged in, nudge the float up with a dry wooden or plastic stick — never a bare hand in powered, standing water; if the pump kicks on, the float was stuck and the pump itself is fine."
+    },
+    {
+      "cause": "Discharge tubing kinked, clogged, or blocked by a stuck check valve",
+      "likelihood": "common",
+      "quickCheck": "You hear the pump run but no water leaves the outlet; with the pump unplugged, disconnect the tube at the pump outlet, then run it briefly into a bucket — if water then shoots out, the tubing or check valve is the blockage."
+    },
+    {
+      "cause": "No power — unplugged, tripped GFCI outlet, or a switched-off receptacle",
+      "likelihood": "less common",
+      "quickCheck": "Confirm the pump is plugged in, test the outlet with a lamp or outlet tester, press any GFCI reset button, and check the breaker."
+    },
+    {
+      "cause": "Burned-out pump motor",
+      "likelihood": "less common",
+      "quickCheck": "With confirmed power, a clean tank, and a free-moving float, the pump stays dead silent (or hums without moving water) — the motor is shot and the unit needs replacing."
+    }
+  ],
+  "fixes": [
+    "Turn the HVAC system OFF at the thermostat (and the furnace power switch) so no new condensate is made while you work, then UNPLUG the condensate pump from its outlet. This stops the pump cycling and removes shock risk before you touch anything wet.",
+    "Confirm the pump has power in the first place: with the pump still unplugged, verify the receptacle is live (test it with a lamp or outlet tester), make sure any inline wall switch is on, press the GFCI reset, and check the breaker. If it was simply dead at the outlet, restoring power may be the whole fix.",
+    "Remove the pump lid and reservoir cover. Bail or shop-vac out the standing water so you can see and reach the tank, float, and intake — and so you are not reaching into standing water later.",
+    "Clean the tank and float: scrub the reservoir with warm water and a little dish soap, then a diluted vinegar (about 1 part vinegar to 4 parts water) rinse to kill algae. Make sure the float slides freely up and down and clear any gunk around the intake screen and impeller area. Avoid straight bleach as an ongoing treatment — it corrodes aluminum coil components over time.",
+    "Test the pump with clean water: plug it back in, pour clean water into the tank until the float rises, and confirm the pump hums AND actually pushes water out the discharge tube. Watch the far end of the tube to verify flow. Keep your hands out of the tank while it is plugged in.",
+    "If it hums but no water leaves, suspect the discharge line: UNPLUG the pump, disconnect the tube at the pump outlet, then plug it back in and run it briefly with the outlet aimed into a bucket to confirm it can push water. Unplug again, clear any kink or clog in the tubing, and inspect the check valve. Replace a stuck check valve, installing it with its flow arrow pointing toward the drain.",
+    "Check the discharge routing: it must run to an approved drain with vertical lift within the pump's rating (commonly up to about 15-20 ft) and no low spots that trap water. Re-secure the tube so it can't kink.",
+    "Once the water level is back to normal, the high-water safety float drops and the furnace/AC can run again — no separate reset is usually needed, but confirm the safety switch float moves freely.",
+    "Add a maintenance habit to prevent the clog coming back: drop a condensate pan treatment tablet (or a small cup of the diluted vinegar) into the tank, and clear the primary AC drain line if it's slow, since upstream sludge is what feeds the pump.",
+    "If, after cleaning, the pump stays silent with confirmed power or hums without moving water, the motor is dead — replace the whole unit. These pumps are inexpensive; match the reservoir size, GPH/lift rating, and whether the original had a safety-shutoff switch, and wire the safety switch back the same way.",
+    "Verify the repair: turn the HVAC back on and watch a full cycle. Confirm the reservoir fills and then empties, water flows steadily out the discharge end, and no water pools on the floor. Check again a day later."
+  ],
+  "diyVsPro": "DIY is fine for the common jobs: cleaning the reservoir and float, clearing or replacing discharge tubing and the check valve, testing with water, and swapping in a like-for-like plug-in pump. Stop and call a licensed pro (HVAC tech or, for wiring, an electrician) if: the pump is hardwired rather than plugged into an outlet, the outlet or cord is damaged or scorched, there is standing water touching electrical parts you can't de-energize, the clog is inside the furnace or the AC coil's primary drain, you'd need to open a gas furnace's cabinet or touch 24V control wiring you're unsure about, or repeated overflows have grown mold beyond roughly 10 sq ft or soaked into flooring or structure.",
+  "typicalCostUSD": "DIY cleaning: about $0-15 in supplies. A new plug-in condensate pump runs roughly $40-100 for the part, so a DIY replacement totals about $40-120. A pro service call is roughly $100-250, or about $150-350 for a pump replaced with labor.",
+  "timeEstimate": "Clean and test: 30-60 minutes. Full pump replacement: 1-2 hours.",
+  "safetyLevel": "caution",
+  "safetyNote": "The hazard is electricity next to water. Always UNPLUG the pump before reaching into the tank or handling wet parts, and never put your hand in standing water while the pump is powered — test the float with a dry non-conductive stick instead. If the pump is hardwired instead of plugged in, shut its breaker AND verify the wires are dead with a non-contact voltage tester before touching them — if you're not confident doing that, hire an electrician. High-efficiency furnace condensate is mildly acidic, so wear nitrile gloves and eye protection and avoid skin/eye contact. This pump usually sits next to a gas furnace: if you ever smell gas, leave the house and call your gas utility or 911 from outside — do not flip switches or create any spark. If repeated overflows have caused mold larger than about 10 sq ft, or water has intruded into flooring, drywall, or structure, bring in a professional rather than cleaning it yourself.",
+  "toolsParts": [
+    "Non-contact voltage tester or plug-in outlet tester",
+    "Wet/dry shop vacuum",
+    "Bucket and absorbent towels/rags",
+    "Nitrile gloves and safety glasses",
+    "White vinegar (or condensate pan treatment tablets)",
+    "Dish soap",
+    "Small brush or old toothbrush",
+    "Dry wooden or plastic stick (to test the float without reaching in)",
+    "Flashlight or headlamp",
+    "Screwdriver set",
+    "Replacement condensate pump matched on GPH/lift rating (with safety switch if the original had one)",
+    "Vinyl discharge tubing (3/8 in or 1/2 in ID)",
+    "Inline check valve",
+    "Zip ties or small hose clamps"
+  ],
+  "searchTerms": [
+    "condensate pump not pumping",
+    "furnace condensate pump not working",
+    "AC condensate pump stopped working",
+    "condensate pump humming but not pumping",
+    "condensate pump overflow shut off furnace",
+    "how to clean a condensate pump",
+    "condensate pump float stuck",
+    "replace furnace condensate pump"
+  ],
+  "sources": [
+    "ENERGY STAR / U.S. Department of Energy (energy.gov) — HVAC maintenance guidance",
+    "Condensate pump manufacturer owner/installation manuals (e.g. Little Giant, DiversiTech, Hartell)",
+    "U.S. EPA (epa.gov) — mold cleanup guidance, including the ~10 sq ft do-it-yourself threshold",
+    "International Residential Code (IRC M1411) — condensate disposal and secondary/overflow protection requirements"
+  ],
+  "disclaimer": "This is general home-maintenance guidance, not professional advice; conditions vary, so when in doubt consult a licensed HVAC or electrical professional.",
+  "verified": false,
+  "verifierNote": "AI-drafted, then adversarially QA-reviewed and corrected for safety and accuracy — notably a float-test step that told the homeowner to lift the float by hand with the 120V pump plugged in (a shock path that contradicted the guide's own no-hands-in-powered-water rule); it now uses a dry non-conductive stick, and the discharge-line test unplugs before disconnecting and runs into a bucket. Still pending licensed human sign-off, so verified stays false.",
+  "kind": "spoke"
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "electrical-motion-flood-light-stays-on",
+  "system": "electrical",
+  "title": "Outdoor Motion-Sensor Flood Light Stays On, Won't Trigger, or Flickers: Causes and Fixes",
+  "question": "My outdoor motion-sensor flood light stays on all night and won't shut off — how do I get it back to only coming on when it senses motion?",
+  "summary": "Most of the time a misbehaving motion flood light is not a broken sensor — it is the wall switch accidentally putting the light into a constant-ON override mode, or the three little dials (TIME, SENSITIVITY/RANGE, and DUSK) set wrong. The fix people skip: cut power for 30–60 seconds to reset the override, then re-tune the dials in daylight before buying anything. Bugs and spiderwebs crawling across the lens are a surprisingly common cause of re-triggering all night. If the light flickers or faintly glows instead of turning fully off, the usual culprit is an LED bulb that is not rated for motion-sensor fixtures — swap it for a compatible one.",
+  "commonCauses": [
+    {
+      "cause": "Wall switch accidentally triggered the light's constant-ON (manual override / dusk-to-dawn) mode. Most of these fixtures switch to a stay-on mode if you flip the wall switch off-then-on within a second or two.",
+      "likelihood": "most common",
+      "quickCheck": "Turn power off at the wall switch or breaker for a full 30–60 seconds, then back on. If it returns to motion-only mode, the override was on."
+    },
+    {
+      "cause": "TIME / DURATION dial set too high or to a 'continuous' mark, so each trigger keeps the light on for many minutes or all night.",
+      "likelihood": "common",
+      "quickCheck": "Look at the TIME dial on the sensor head. If it is near maximum or a lock/infinity/continuous symbol, that is why it stays on so long."
+    },
+    {
+      "cause": "DUSK/photocell setting wrong — set to always-on or TEST (stays on), or set to full-dark so it won't come on at dusk.",
+      "likelihood": "common",
+      "quickCheck": "In daylight, cover the small round photocell with one hand and wave your other hand in front of the sensor — the light should come on. If it does, the sensor works; then check the DUSK dial is on AUTO, not TEST/always-on."
+    },
+    {
+      "cause": "Sensor placement or sensitivity is picking up constant motion/heat — swaying warm branches, passing cars or people, warm exhaust from an HVAC/dryer/soffit vent, sun-heated or reflective surfaces bouncing moving heat, or (very common overnight) bugs and spiderwebs crawling across the lens. PIR sensors fire on moving heat, not on visible light.",
+      "likelihood": "common",
+      "quickCheck": "At night, watch the detection zone for a few minutes. If moving branches, traffic, warm exhaust, or insects on the lens keep re-firing it, that is your trigger."
+    },
+    {
+      "cause": "LED bulb not compatible with the motion sensor's electronics — the small trickle current that keeps the sensor alive leaks through the LED, causing flicker or a faint glow when it should be off.",
+      "likelihood": "common",
+      "quickCheck": "Swap in a bulb explicitly labeled 'for use with motion sensors / electronic (occupancy) switches.' If the flicker or glow stops, the old bulb was the problem."
+    }
+  ],
+  "fixes": [
+    "Reset a stuck override first: turn power OFF at the wall switch or breaker for a full 30–60 seconds, then back ON. Restore the switch to the position the manual calls 'AUTO' (usually fully ON) and avoid the quick off-on flip that arms constant-ON mode.",
+    "In daylight and on a stable ladder, set the three dials: TIME to its shortest setting (about 1 minute) for testing, RANGE/SENSITIVITY to the middle, and DUSK/LUX starting from the moon icon. Use TEST mode if present so it triggers regardless of ambient light.",
+    "Test the photocell: cover it with one hand during the day and wave your other hand in front of the sensor — the light should come on (covering it only tells the sensor it's dark; it still needs motion unless it's in TEST or dusk-to-dawn mode). If the dial was on TEST or 'always-on,' move it back to AUTO so it only works after dark.",
+    "Aim and reposition the sensor head: mount roughly 6–10 ft high and angle it so people cross the beam side-to-side (PIR sensors detect crossing motion far better than someone walking straight toward them). Point it away from streets, sidewalks off your property, HVAC/dryer vents, and sun-heated or reflective surfaces.",
+    "Clear the detection zone of constant triggers: trim overhanging branches, brush insects and spiderwebs off the lens and housing, redirect exhaust vents, remove or cover shiny surfaces, and use the fixture's included lens shields or masking tape on the lens to block areas you don't want watched.",
+    "Inspect and clean the sensor: wipe the lens with a microfiber cloth, and look for cracks or condensation inside the head. If you need to open the head to dry it out, turn the circuit OFF at the breaker first; then reseal gaps with outdoor-rated silicone — moisture inside can short the electronics and hold the light on.",
+    "For flicker or faint glow with LEDs: replace the bulb with one rated 'for use with motion sensors / electronic switches.' If it still glows, that fixture's sensor leaks current — replace the whole unit with an integrated-LED motion flood designed as one piece.",
+    "Check the bulb and wiring safely: shut the circuit OFF at the breaker, confirm it is dead at the fixture with a non-contact voltage tester, then re-seat the bulb and tighten any loose wire-nut connections. Reset any tripped GFCI on the circuit.",
+    "Set your final settings and dial back in: TIME to about 5–10 minutes, SENSITIVITY to taste, DUSK so it activates when it gets dark enough for you. Give the sensor a 30–60 second warm-up after power-on before judging it.",
+    "Confirm 'done' at night: walk across the zone — the light should come on within a step or two, stay on for the set time, then shut off on its own and not re-trigger from nothing or stay on all night. If it still misbehaves after all settings and a full reset, the PIR module is likely failed and the sensor head or whole fixture needs replacing."
+  ],
+  "diyVsPro": "DIY is fine for everything that doesn't open line-voltage wiring: resetting the override, adjusting the TIME/SENSITIVITY/DUSK dials, testing the photocell, repositioning or masking the sensor, cleaning the lens (including clearing bugs/webs), trimming branches, and swapping bulbs. Stop and call a licensed electrician if the real fix is replacing a hardwired fixture and you are not comfortable with 120V wiring; if you can't identify or kill the right breaker; if you see scorched, melted, or brittle insulation, a burning smell, or water inside the junction box; if the home has aluminum wiring or the fixture lacks a ground; or if the light sits at roof/second-story height needing an extension ladder you can't safely stabilize. New circuits or relocating wiring need a permit and a pro.",
+  "typicalCostUSD": "DIY: $0 if it's just a reset or dial change; about $8–20 for a motion-sensor-compatible LED bulb; about $25–80 for a replacement integrated-LED motion flood fixture. Pro: roughly $100–250 for an electrician to diagnose and replace a hardwired fixture, more if it's high up or the wiring is complex.",
+  "timeEstimate": "10–20 minutes for a reset and dial adjustments; 30–60 minutes for a bulb swap or repositioning; 1–2 hours to replace a hardwired fixture.",
+  "safetyLevel": "caution",
+  "safetyNote": "This is an outdoor (wet-location) 120V circuit, so treat it seriously. Before touching any wiring or opening the sensor head, shut the circuit OFF at the breaker — not just the wall switch — and confirm the fixture is dead with a non-contact voltage tester before you open it. Never work on a live circuit or a wet fixture; make sure the circuit is GFCI-protected and all seals are weatherproof, since water plus electricity is a shock hazard. Use a stable ladder with a spotter; if the light is at roof height or needs an extension ladder you can't fully stabilize, stop and hire a pro — falls are the bigger risk than the wiring. If you find scorched or melted insulation, a burning smell, or water inside the junction box, stop and call a licensed electrician.",
+  "toolsParts": [
+    "Non-contact voltage tester",
+    "Insulated Phillips and flat-head screwdrivers",
+    "Stable step ladder (plus a spotter/helper)",
+    "Waterproof wire connectors / wire nuts",
+    "Outdoor-rated silicone sealant",
+    "LED bulbs rated for motion sensors / electronic switches",
+    "Microfiber cloth for the sensor lens",
+    "Pruning shears for branches in the detection zone",
+    "Replacement integrated-LED motion flood fixture (if needed)",
+    "Multimeter (optional, for continuity/voltage checks)",
+    "Electrical tape",
+    "Work gloves",
+    "The fixture's owner's manual for dial and override settings"
+  ],
+  "searchTerms": [
+    "motion sensor light stays on all night",
+    "motion flood light won't turn off",
+    "motion sensor light won't trigger",
+    "motion sensor light flickering with LED bulb",
+    "how to reset motion sensor flood light",
+    "motion light dusk to dawn setting explained",
+    "adjust motion sensor light sensitivity and time",
+    "outdoor motion light stuck on constant"
+  ],
+  "sources": [
+    "Manufacturer installation and owner's manual for the specific motion flood light — dial settings and the switch pattern that arms/clears constant-ON override",
+    "U.S. Department of Energy (energy.gov) — LED lighting and outdoor lighting controls guidance",
+    "ENERGY STAR — outdoor lighting and motion/occupancy sensor guidance",
+    "National Electrical Code (NFPA 70) — outdoor wet-location wiring and GFCI requirements"
+  ],
+  "disclaimer": "This guide is general home-maintenance information, not professional advice; when in doubt about line-voltage wiring, working at height, or a fixture that shows heat or water damage, hire a licensed electrician.",
+  "verified": false,
+  "verifierNote": "AI-drafted, then adversarially QA-reviewed for electrical safety and PIR/photocell accuracy: corrected the photocell test (covering it only simulates darkness — the light still needs motion or TEST mode), fixed cause #4's PIR physics (fires on moving heat, not reflected visible light; a lamp on the head affects the photocell, not stay-on), added insects/spiderwebs on the lens as a common overnight re-trigger, and added a power-off caveat before opening the sensor head. Still pending licensed-electrician human review before publish.",
+  "kind": "spoke"
+}

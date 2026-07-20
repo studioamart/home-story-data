@@ -1,0 +1,78 @@
+{
+  "slug": "plumbing-showerhead-clog",
+  "system": "plumbing",
+  "title": "Weak or Sputtering Shower? How to Clean or Replace a Clogged Showerhead",
+  "question": "One of my showers has weak, sputtering water while the rest of the house is fine. How do I clean or replace the clogged showerhead?",
+  "summary": "When only one shower is weak but every other faucet in the house runs normally, the problem is almost never your home's water pressure — it's mineral scale clogging the showerhead's spray nozzles or the small inlet screen behind it. The mistake most people make is replacing the whole head or calling a plumber when a 30-minute white-vinegar soak clears it for about a dollar. The other commonly missed culprit is the little screen, washer, or flow restrictor at the pipe connection, which catches grit and scale and is easy to forget. Clean those, and full flow usually returns.",
+  "commonCauses": [
+    {
+      "cause": "Mineral scale (limescale) plugging the spray nozzles, common with hard water",
+      "likelihood": "most common",
+      "quickCheck": "Look for white, crusty deposits on the face of the head; with the water running, rub the rubber nozzle tips with your finger and watch for flow to improve where you rub."
+    },
+    {
+      "cause": "Clogged inlet screen / filter washer or flow restrictor hidden where the head meets the shower arm",
+      "likelihood": "common",
+      "quickCheck": "Unscrew the head and inspect the small mesh screen, washer, and flow restrictor at the base for trapped grit, sand, or scale."
+    },
+    {
+      "cause": "Sediment or pipe flakes from a water heater flush, new plumbing work, or old galvanized pipe",
+      "likelihood": "less common",
+      "quickCheck": "If the weak flow started right after plumbing work or a water heater service, check the inlet screen for metallic or rubbery flakes."
+    },
+    {
+      "cause": "Kinked or scaled handheld hose, or a partially closed fixture shut-off valve",
+      "likelihood": "less common",
+      "quickCheck": "On a handheld unit, detach the hose and run water straight from the shower arm — strong flow there means the hose or its washer is the blockage."
+    }
+  ],
+  "fixes": [
+    "Confirm it is the fixture, not the house: run other faucets and showers. If they are fine, the blockage is at this showerhead. Turn on this shower and study the spray — dead or weak zones point straight to clogged nozzles.",
+    "Try the no-tools test first: with water running, gently rub the rubber nozzle tips with your finger or a soft brush. Many rubber-tipped heads shed scale this way and flow improves on the spot.",
+    "Bag-soak without removing anything: fill a sturdy plastic bag with plain white vinegar, slip it over the head so all nozzles are submerged, and secure it with a rubber band or zip tie. Soak 30 minutes for light scale, up to a few hours or overnight for heavy buildup.",
+    "Protect special finishes: do not leave vinegar on brass, plated, or 'living finish' heads (oil-rubbed bronze, some brushed finishes) more than an hour or two — the acid can dull them. Check the maker's care guide first, and rinse well after soaking.",
+    "For a deeper clean, remove the head: wrap the shower arm in a cloth and hold it steady with one wrench so the pipe cannot twist in the wall, then turn the head counterclockwise by hand or with a cloth- or tape-wrapped wrench so you do not scratch the chrome.",
+    "Clean the inlet screen, filter washer, and flow restrictor at the base of the head — the single most forgotten cause. Rinse and brush off grit and scale, soaking in vinegar if crusted. Keep the parts in order and reassemble them the same way (do not discard the flow restrictor — it is required and keeps you within the legal flow limit).",
+    "Clear the nozzles: after soaking, scrub the face with an old toothbrush and poke stubborn holes with a toothpick, safety pin, or needle. Flush the head backward under a running tap to push debris out the front.",
+    "Reinstall: wrap the shower arm threads with 2 to 3 turns of PTFE (plumber's) tape in the clockwise direction (so it tightens rather than unwinds as you screw the head on), then hand-thread the head on carefully to avoid cross-threading.",
+    "Snug it up: with a cloth-wrapped wrench, tighten only about a quarter to half turn past hand-tight. Do not overtighten — you can crack the head or strip the threads.",
+    "Test and prevent: run the shower and check for even, full flow with no drip at the joint (re-tape if it leaks). If flow is still weak after a thorough cleaning, replace the head — standard US shower arms use 1/2-inch NPT threads, so almost any head fits. With hard water, re-soak every few months or add a shower filter or whole-house softener."
+  ],
+  "diyVsPro": "This is a beginner-friendly DIY job — no special skills, the water stays off at the shower handle (no need to shut the house main), and the parts are cheap. Stop and call a licensed plumber if: flow is weak at several fixtures at once (that points to a house-wide issue like a failing pressure regulator or a partly closed main valve, not the head); the shower arm is corroded or seized and turning it feels like the pipe is twisting inside the wall (forcing it can snap the pipe behind the tile); you keep finding sediment or flakes that suggest a failing water heater dip tube or corroding galvanized pipe; or you notice any water or dampness behind the shower wall.",
+  "typicalCostUSD": "DIY cleaning: about $0-10 (white vinegar and a roll of PTFE tape). Replacement showerhead: roughly $15-60 for a good one, $100+ for premium. A plumber visit — only needed if the arm is seized or the problem is house-wide — typically runs about $100-250.",
+  "timeEstimate": "15-30 minutes of hands-on work, plus 30 minutes to overnight of unattended vinegar soaking.",
+  "safetyLevel": "low",
+  "safetyNote": "Hazards here are minor but real. Turn the shower off before removing the head, and if the water was hot, let it cool or leave it off so you are not scalded. The tub or shower floor gets slippery — lay down a towel or non-slip mat and keep steady footing while you use a wrench. Wear eye protection or at least keep your face back when poking nozzles (bits of scale can flick out) and when handling vinegar, which is a mild acid — avoid splashing it in your eyes and rinse with water if you do. Never mix vinegar with bleach or other cleaners; the combination can release toxic gas. Use only firm, moderate force on the shower arm — brace it with a second wrench so it cannot rotate, and if it will not budge or the pipe feels like it is twisting inside the wall, stop and call a plumber, because a cracked pipe behind the tile turns a $5 fix into a wall-opening repair.",
+  "toolsParts": [
+    "Distilled white vinegar",
+    "Sturdy plastic bag (freezer or sandwich bag)",
+    "Rubber band or zip tie to hold the bag on",
+    "Adjustable wrench or channel-lock pliers",
+    "Old toothbrush or soft-bristle brush",
+    "Toothpick, safety pin, or sewing needle for the nozzle holes",
+    "PTFE (plumber's / Teflon) tape",
+    "Soft cloth or rag to protect the finish and improve grip",
+    "Replacement showerhead with 1/2-inch NPT thread (if cleaning fails)",
+    "Replacement inlet screen or washer (optional, if damaged)",
+    "Safety glasses (optional)"
+  ],
+  "searchTerms": [
+    "how to clean a clogged showerhead",
+    "showerhead low water pressure one shower",
+    "clean showerhead with vinegar overnight",
+    "showerhead sputtering weak flow fix",
+    "remove mineral buildup from showerhead",
+    "how to replace a showerhead 1/2 inch",
+    "clogged showerhead screen flow restrictor",
+    "hard water showerhead scale cleaning"
+  ],
+  "sources": [
+    "U.S. Department of Energy — federal showerhead flow-rate standard (maximum 2.5 gpm at 80 psi) and water-heating efficiency guidance",
+    "U.S. EPA WaterSense — water-efficient showerhead specification and labeling (2.0 gpm)",
+    "Showerhead manufacturer cleaning and installation guides (e.g., Moen, Delta, Kohler)"
+  ],
+  "disclaimer": "This guide is general home-maintenance information, not professional plumbing advice; if the weak flow extends beyond this one fixture or anything feels stuck or unsafe, consult a licensed plumber.",
+  "verified": false,
+  "verifierNote": "AI-drafted from standard home-maintenance practice, then adversarially QA-reviewed for plumbing accuracy and safety; cause order, fix sequence, PTFE tape direction, 1/2-inch NPT thread, and DOE/EPA flow figures all check out, and no unsafe step was found. Still pending final human review before publishing.",
+  "kind": "spoke"
+}
