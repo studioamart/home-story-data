@@ -42,6 +42,9 @@ jobs:
       - name: Rebuild manifests
         run: node scripts/build-manifest.mjs
 
+      - name: Check lesson publishing policy
+        run: node --test scripts/*.test.mjs
+
       - name: Commit manifests if changed
         run: |
           FILES="data/manifest.json data/lessons.json data/lessons-manifest.json"

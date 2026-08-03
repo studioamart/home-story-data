@@ -24,6 +24,7 @@ import { createHash } from 'node:crypto';
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { isPublishableLesson } from './lesson-publish-policy.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = join(ROOT, 'data');
@@ -96,13 +97,22 @@ function buildLessons() {
     .filter((f) => f.endsWith('.json') && f !== 'index.json')
     .sort();
   if (files.length === 0) { console.error('Refusing to publish: no lesson files.'); process.exit(1); }
-  const lessons = files.map((f) => {
+  const sources = files.map((f) => {
     let j;
     try { j = JSON.parse(readFileSync(join(dir, f), 'utf8')); }
     catch (e) { console.error(`lessons/${f} is not valid JSON:`, e.message); process.exit(1); }
     if (!j || !j.slug) { console.error(`lessons/${f} has no slug — refusing to publish.`); process.exit(1); }
     return j;
   });
+  // Drafts stay in source control for review, but never enter the public feed.
+  // Fail closed: only the exact boolean `true` is publishable.
+  const lessons = sources.filter(isPublishableLesson);
+  if (lessons.length === 0) {
+    console.error('Refusing to publish: no verified lessons.');
+    process.exit(1);
+  }
+  const excluded = sources.length - lessons.length;
+  if (excluded > 0) console.log(`  excluded ${excluded} unverified lesson drafts.`);
   // Deterministic serialization (files already sorted by slug) so the sha is stable.
   const combined = JSON.stringify(lessons, null, 2) + '\n';
   writeFileSync(join(DATA, 'lessons.json'), combined);
