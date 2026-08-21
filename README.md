@@ -1,6 +1,6 @@
 # homestory-data
 
-Public dataset for **Home Story** (Team AM): home-maintenance task templates
+Public dataset for **Home Story** (Studio AM): home-maintenance task templates
 with intervals, seasonal anchors, and typical cost ranges.
 
 - `data/home-tasks.json` — the dataset (schema 1). 8 systems, month-based
@@ -20,9 +20,9 @@ take precedence; corrections are welcome via issues.
 
 - The Home Story iOS app (v1 ships this data bundled; over-the-air updates
   read `data/manifest.json` once enabled).
-- teamam.org (planned: task pages, like the vehicle maintenance pages).
+- studioam.art (planned: task pages, like the vehicle maintenance pages).
 
-Sibling repo: [carstory-data](https://github.com/support-teamam/carstory-data).
+Sibling repo: [carstory-data](https://github.com/studioamart/garage-story-data).
 
 ## Disclaimer
 
@@ -33,7 +33,7 @@ data, and some descriptions are produced with the help of automated (AI) tools.
 
 It is **not** professional, medical, veterinary, or manufacturer advice. Always
 verify against manufacturer documentation or a qualified professional before acting. The data is provided "as is", without
-warranty of any kind, and you use it at your own risk. Team AM is not affiliated
+warranty of any kind, and you use it at your own risk. Studio AM is not affiliated
 with any manufacturer or brand referenced.
 
-Full terms: https://teamam.org/terms
+Full terms: https://studioam.art/terms
