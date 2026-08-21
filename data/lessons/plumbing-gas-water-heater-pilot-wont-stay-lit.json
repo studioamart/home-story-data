@@ -1,57 +1,57 @@
 {
   "slug": "plumbing-gas-water-heater-pilot-wont-stay-lit",
   "system": "plumbing",
-  "title": "Gas Water Heater Pilot Light Won't Stay Lit \u2014 Causes & Fixes",
+  "title": "Gas Water Heater Pilot Light Won't Stay Lit: Causes & Fixes",
   "question": "Why does my gas water heater's pilot light go out as soon as I let go of the knob, and how do I fix it?",
-  "summary": "A pilot that lights but dies the moment you release the knob is almost always a bad, dirty, or misaligned thermocouple \u2014 the safety probe that must get hot enough to hold the gas valve open. A weak yellow pilot flame, a dust-clogged FVIR air intake at the base, or a loose thermocouple nut cause the same symptom. These are mostly cheap fixes; the gas control valve, gas-line, and any venting or carbon-monoxide issue are where you stop and call a licensed pro. If you ever smell gas, leave the house and call your gas utility from outside.",
+  "summary": "A pilot that lights but dies the moment you release the knob is almost always a bad, dirty, or misaligned thermocouple, the safety probe that must get hot enough to hold the gas valve open. A weak yellow pilot flame, a dust-clogged FVIR air intake at the base, or a loose thermocouple nut cause the same symptom. These are mostly cheap fixes; the gas control valve, gas-line, and any venting or carbon-monoxide issue are where you stop and call a licensed pro. If you ever smell gas, leave the house and call your gas utility from outside.",
   "commonCauses": [
     {
-      "cause": "Bad, dirty, or misaligned thermocouple \u2014 this copper probe sits in the pilot flame and makes a tiny millivolt current that holds the gas valve's safety open. If it can't get hot enough or make enough current, the valve shuts off the instant you release the knob and the pilot dies. This is the classic symptom and the #1 cause.",
+      "cause": "Bad, dirty, or misaligned thermocouple: this copper probe sits in the pilot flame and makes a tiny millivolt current that holds the gas valve's safety open. If it can't get hot enough or make enough current, the valve shuts off the instant you release the knob and the pilot dies. This is the classic symptom and the #1 cause.",
       "likelihood": "most common",
       "quickCheck": "Does the pilot burn fine while you hold the knob down, then go out within a few seconds of releasing it? That points straight at the thermocouple."
     },
     {
-      "cause": "Weak or dirty pilot flame \u2014 soot, dust, or spider webs in the pilot orifice/tube starve the flame, so it burns small and yellow and never fully wraps the thermocouple tip. A good pilot is blue, steady, and engulfs the top of the probe.",
+      "cause": "Weak or dirty pilot flame: soot, dust, or spider webs in the pilot orifice/tube starve the flame, so it burns small and yellow and never fully wraps the thermocouple tip. A good pilot is blue, steady, and engulfs the top of the probe.",
       "likelihood": "most common",
       "quickCheck": "Look at the pilot (use a mirror if needed): a lazy, yellow, flickering flame that barely touches the thermocouple means a dirty/blocked pilot, not necessarily a bad part."
     },
     {
-      "cause": "Clogged FVIR air-intake screen or flame arrestor \u2014 modern tanks (post-2003) draw combustion air through a screen at the base. In a dusty or linty spot (garage, laundry area) it clogs, starves the burner of air, and the pilot burns weak or won't hold. A badly overheated chamber can also trip the unit's thermal cutoff (TCO), which then blocks the pilot entirely \u2014 on many models that cutoff is a one-time part.",
+      "cause": "Clogged FVIR air-intake screen or flame arrestor: modern tanks (post-2003) draw combustion air through a screen at the base. In a dusty or linty spot (garage, laundry area) it clogs, starves the burner of air, and the pilot burns weak or won't hold. A badly overheated chamber can also trip the unit's thermal cutoff (TCO), which then blocks the pilot entirely; on many models that cutoff is a one-time part.",
       "likelihood": "common",
       "quickCheck": "Heater in a dusty/linty area with lint visible around the base screen, and a lazy pilot? Suspect a starved air intake. If it won't light at all despite good gas, a tripped TCO is likely."
     },
     {
-      "cause": "Loose thermocouple connection at the gas control valve \u2014 the thin nut where the thermocouple threads into the valve backs off over time, breaking the tiny circuit even though the probe itself is fine.",
+      "cause": "Loose thermocouple connection at the gas control valve: the thin nut where the thermocouple threads into the valve backs off over time, breaking the tiny circuit even though the probe itself is fine.",
       "likelihood": "common",
-      "quickCheck": "With the gas control OFF, try the thermocouple nut at the valve by hand \u2014 if it turns easily, it was too loose to carry the signal."
+      "quickCheck": "With the gas control OFF, try the thermocouple nut at the valve by hand: if it turns easily, it was too loose to carry the signal."
     },
     {
-      "cause": "Failed gas control valve / thermostat \u2014 the combined valve houses the electromagnet the thermocouple holds open. When that internal magnet weakens, a clean pilot and a new thermocouple still won't keep the valve open. Less common, and the fix is a whole-valve swap.",
+      "cause": "Failed gas control valve / thermostat: the combined valve houses the electromagnet the thermocouple holds open. When that internal magnet weakens, a clean pilot and a new thermocouple still won't keep the valve open. Less common, and the fix is a whole-valve swap.",
       "likelihood": "less common",
-      "quickCheck": "Pilot is clean and blue, fully wrapping a known-good or brand-new thermocouple, connections tight \u2014 and it still drops out? The valve itself is the suspect."
+      "quickCheck": "Pilot is clean and blue, fully wrapping a known-good or brand-new thermocouple, connections tight, and it still drops out? The valve itself is the suspect."
     },
     {
-      "cause": "Draft or venting/backdraft problem \u2014 a gust when a door opens, the furnace/AC blower kicking on, wind down the flue, or a blocked vent physically blows the pilot out. This one is also a combustion and carbon-monoxide red flag.",
+      "cause": "Draft or venting/backdraft problem: a gust when a door opens, the furnace/AC blower kicking on, wind down the flue, or a blocked vent physically blows the pilot out. This one is also a combustion and carbon-monoxide red flag.",
       "likelihood": "less common",
-      "quickCheck": "Does the pilot get snuffed when the HVAC runs, a door opens, or it's windy \u2014 or do you see soot, melted plastic, or rust streaks near the draft hood? Stop and treat it as a venting/CO issue for a pro."
+      "quickCheck": "Does the pilot get snuffed when the HVAC runs, a door opens, or it's windy, or do you see soot, melted plastic, or rust streaks near the draft hood? Stop and treat it as a venting/CO issue for a pro."
     }
   ],
   "fixes": [
-    "Relight it correctly first: follow the lighting steps printed on your tank's label. Turn the gas control to OFF, wait about 5 minutes for any gas to clear, set it to PILOT, then press and HOLD the knob while you ignite the pilot (piezo button or long lighter). Keep holding a full 30-60 seconds after the flame catches so the thermocouple heats up before you let go \u2014 releasing too early is the single most common false alarm.",
-    "If the tank just came back from a gas outage or is newly installed, air in the line makes the pilot hard to hold \u2014 hold the knob longer and expect a few tries to purge the air.",
-    "Inspect the pilot flame: it should be blue, steady, and clearly wrap the top of the thermocouple tip. A small, yellow, or lazy flame means a dirty/blocked pilot or a starved air intake \u2014 clean before you replace anything.",
-    "Snug the thermocouple nut where it threads into the gas control valve: with the gas control OFF, tighten it hand-tight plus roughly a quarter turn with a wrench. Do NOT overtighten \u2014 crushing the fitting kills the signal just like a loose one does.",
-    "Clean the pilot assembly and the FVIR air-intake screen: with the gas control OFF, vacuum dust and lint from the base intake screen and around the burner, and clear the pilot tube/orifice per your manual. Critical: if the tank's thermal cutoff (TCO) tripped, you must clear the airflow blockage that overheated it BEFORE anything will relight \u2014 otherwise it trips again, and on many FVIR units that cutoff is a one-time part needing a pro. Don't just keep resetting a symptom.",
-    "Replace the thermocouple \u2014 a cheap ($10-25), common DIY part on a standing-pilot tank. Turn the gas control OFF, disconnect the thermocouple (and pilot/burner assembly as your manual shows), fit an identical-length replacement, reconnect, and relight. Match the length and routing exactly.",
-    "Check for drafts and venting trouble: if the pilot blows out when the furnace/AC runs, a door opens, or it's windy \u2014 or you see soot, rust streaks, or melted parts near the vent hood \u2014 stop. That's a combustion/carbon-monoxide problem for a licensed pro, not a thermocouple.",
-    "If the pilot is clean and blue, fully engulfs a new thermocouple, the connection is tight, and it STILL won't hold \u2014 the gas control valve has likely failed. Replacing the valve is a gas job best left to a pro on most tanks.",
-    "Know when to stop and replace the whole unit: an old heater (roughly 10-12+ years) that also leaks, rusts, or backdrafts is usually not worth chasing \u2014 a pro can advise whether repair or replacement is the smarter spend."
+    "Relight it correctly first: follow the lighting steps printed on your tank's label. Turn the gas control to OFF, wait about 5 minutes for any gas to clear, set it to PILOT, then press and HOLD the knob while you ignite the pilot (piezo button or long lighter). Keep holding a full 30-60 seconds after the flame catches so the thermocouple heats up before you let go; releasing too early is the single most common false alarm.",
+    "If the tank just came back from a gas outage or is newly installed, air in the line makes the pilot hard to hold; hold the knob longer and expect a few tries to purge the air.",
+    "Inspect the pilot flame: it should be blue, steady, and clearly wrap the top of the thermocouple tip. A small, yellow, or lazy flame means a dirty/blocked pilot or a starved air intake; clean before you replace anything.",
+    "Snug the thermocouple nut where it threads into the gas control valve: with the gas control OFF, tighten it hand-tight plus roughly a quarter turn with a wrench. Do NOT overtighten; crushing the fitting kills the signal just like a loose one does.",
+    "Clean the pilot assembly and the FVIR air-intake screen: with the gas control OFF, vacuum dust and lint from the base intake screen and around the burner, and clear the pilot tube/orifice per your manual. Critical: if the tank's thermal cutoff (TCO) tripped, you must clear the airflow blockage that overheated it BEFORE anything will relight; otherwise it trips again, and on many FVIR units that cutoff is a one-time part needing a pro. Don't just keep resetting a symptom.",
+    "Replace the thermocouple, a cheap ($10-25), common DIY part on a standing-pilot tank. Turn the gas control OFF, disconnect the thermocouple (and pilot/burner assembly as your manual shows), fit an identical-length replacement, reconnect, and relight. Match the length and routing exactly.",
+    "Check for drafts and venting trouble: if the pilot blows out when the furnace/AC runs, a door opens, or it's windy, or you see soot, rust streaks, or melted parts near the vent hood, stop. That's a combustion/carbon-monoxide problem for a licensed pro, not a thermocouple.",
+    "If the pilot is clean and blue, fully engulfs a new thermocouple, the connection is tight, and it STILL won't hold, the gas control valve has likely failed. Replacing the valve is a gas job best left to a pro on most tanks.",
+    "Know when to stop and replace the whole unit: an old heater (roughly 10-12+ years) that also leaks, rusts, or backdrafts is usually not worth chasing; a pro can advise whether repair or replacement is the smarter spend."
   ],
-  "diyVsPro": "DIY is reasonable for relighting the pilot by the printed instructions, holding the knob the full 30-60 seconds, snugging the thermocouple nut, vacuuming the pilot and FVIR air-intake screen, and swapping a $15 thermocouple on a standard standing-pilot tank. Call a licensed plumber or gas technician for: replacing the gas control valve, any gas-line, union, or flex-connector work, a tripped one-time thermal cutoff, electronic-ignition or power-vent units, and anything involving venting, backdraft, soot, or carbon monoxide. Any time you smell gas, don't troubleshoot \u2014 leave and call the utility.",
+  "diyVsPro": "DIY is reasonable for relighting the pilot by the printed instructions, holding the knob the full 30-60 seconds, snugging the thermocouple nut, vacuuming the pilot and FVIR air-intake screen, and swapping a $15 thermocouple on a standard standing-pilot tank. Call a licensed plumber or gas technician for: replacing the gas control valve, any gas-line, union, or flex-connector work, a tripped one-time thermal cutoff, electronic-ignition or power-vent units, and anything involving venting, backdraft, soot, or carbon monoxide. Any time you smell gas, don't troubleshoot. Leave and call the utility.",
   "typicalCostUSD": "DIY: thermocouple $10-25; long lighter and a shop vacuum you likely already own ($0-20). Pro: service call $90-180; thermocouple replacement $150-300 installed; gas control valve $300-600 installed; FVIR/thermal-cutoff service $200-400. If the tank is near end of life, full gas water heater replacement typically runs $1,200-2,500+ installed depending on size, code upgrades, and region.",
   "timeEstimate": "Relighting the pilot 5-10 minutes; cleaning the pilot and air intake 30-45 minutes; a DIY thermocouple swap 30-60 minutes; a pro visit is usually a single 1-2 hour trip.",
   "safetyLevel": "caution",
-  "safetyNote": "This is a gas appliance \u2014 treat it with respect. If you smell gas (rotten-egg odor) or hear hissing, do NOT touch any switch, flame, or the water heater \u2014 leave the house and call your gas utility or 911 from outside. Before relighting, always turn the gas control to OFF and wait about 5 minutes for gas to clear, and only follow the steps printed on your own tank. Leave gas control valve replacement, gas-line work, electronic-ignition units, and any venting, backdraft, soot, or carbon-monoxide problem to a licensed plumber or gas technician \u2014 carbon monoxide is odorless and can be deadly, so keep a working CO alarm near sleeping areas. If you are not fully comfortable at any step, stop and call a pro.",
+  "safetyNote": "This is a gas appliance: treat it with respect. If you smell gas (rotten-egg odor) or hear hissing, do NOT touch any switch, flame, or the water heater. Leave the house and call your gas utility or 911 from outside. Before relighting, always turn the gas control to OFF and wait about 5 minutes for gas to clear, and only follow the steps printed on your own tank. Leave gas control valve replacement, gas-line work, electronic-ignition units, and any venting, backdraft, soot, or carbon-monoxide problem to a licensed plumber or gas technician; carbon monoxide is odorless and can be deadly, so keep a working CO alarm near sleeping areas. If you are not fully comfortable at any step, stop and call a pro.",
   "toolsParts": [
     "Replacement thermocouple (match the length; universal kits exist)",
     "Two open-end wrenches or an adjustable wrench (for the thermocouple nut)",
@@ -77,7 +77,7 @@
     "Reputable DIY references (This Old House, Family Handyman)",
     "CPSC / NFPA / U.S. Fire Administration and gas-utility guidance on gas appliances and carbon monoxide"
   ],
-  "disclaimer": "This is general guidance, not a substitute for professional diagnosis; gas water heaters, ignition types, and local codes vary, so when work involves the gas valve, gas lines, venting, or carbon monoxide \u2014 or when in doubt \u2014 stop and consult a licensed plumber or gas technician.",
+  "disclaimer": "This is general guidance, not a substitute for professional diagnosis; gas water heaters, ignition types, and local codes vary, so when work involves the gas valve, gas lines, venting, or carbon monoxide, or when in doubt, stop and consult a licensed plumber or gas technician.",
   "verified": false,
   "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
   "kind": "spoke"

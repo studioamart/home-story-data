@@ -1,57 +1,57 @@
 {
   "slug": "appliances-gas-range-burner-wont-light",
   "system": "appliances",
-  "title": "Gas Stove Burner Clicks But Won't Light \u2014 Causes & Fixes",
+  "title": "Gas Stove Burner Clicks But Won't Light: Causes & Fixes",
   "question": "Why does my gas stove burner keep clicking but won't light or won't stay lit?",
-  "summary": "A gas burner that clicks but won't light (or won't stay lit) is almost always clogged or wet burner ports, a burner cap knocked out of alignment, or moisture and food on the spark igniter \u2014 usually right after cooking, a boil-over, or cleaning. These are safe to fix yourself with the burner off and cool. Leave a truly failed igniter or spark module to an appliance tech, leave anything on the gas line or valve to a licensed pro, and if you ever smell gas, stop, leave, and call your utility from outside.",
+  "summary": "A gas burner that clicks but won't light (or won't stay lit) is almost always clogged or wet burner ports, a burner cap knocked out of alignment, or moisture and food on the spark igniter, usually right after cooking, a boil-over, or cleaning. These are safe to fix yourself with the burner off and cool. Leave a failed igniter or spark module to an appliance tech, leave anything on the gas line or valve to a licensed pro, and if you ever smell gas, stop, leave, and call your utility from outside.",
   "commonCauses": [
     {
-      "cause": "Clogged or wet burner ports \u2014 food debris, boil-over, or grease blocks the small gas ports around the burner head, so gas can't reach the spark or the flame won't carry all the way around. The burner clicks but won't light, or lights weakly and won't stay lit. This is the single most common cause.",
+      "cause": "Clogged or wet burner ports: food debris, boil-over, or grease blocks the small gas ports around the burner head, so gas can't reach the spark or the flame won't carry all the way around. The burner clicks but won't light, or lights weakly and won't stay lit. This is the single most common cause.",
       "likelihood": "most common",
-      "quickCheck": "Look at the ring of little ports on the burner head \u2014 crusted, greasy, or wet? A blocked port can't pass gas to the igniter."
+      "quickCheck": "Look at the ring of little ports on the burner head. Crusted, greasy, or wet? A blocked port can't pass gas to the igniter."
     },
     {
-      "cause": "Misaligned burner cap \u2014 after cleaning, the removable cap sits off-center or tilted, so its ports don't line up with the igniter and the gas won't catch (or lights unevenly and dies).",
+      "cause": "Misaligned burner cap: after cleaning, the removable cap sits off-center or tilted, so its ports don't line up with the igniter and the gas won't catch (or lights unevenly and dies).",
       "likelihood": "common",
-      "quickCheck": "Lift the cap, set it flat and centered so it seats fully, then try again \u2014 if it lights, the cap was off."
+      "quickCheck": "Lift the cap, set it flat and centered so it seats fully, then try again: if it lights, the cap was off."
     },
     {
-      "cause": "Moisture after cleaning or a boil-over \u2014 water trapped under the cap or on the ceramic igniter makes it click without sparking, so the burner won't light until it dries out.",
+      "cause": "Moisture after cleaning or a boil-over: water trapped under the cap or on the ceramic igniter makes it click without sparking, so the burner won't light until it dries out.",
       "likelihood": "common",
       "quickCheck": "Did it stop working right after you wiped the stovetop or something boiled over? Let it air-dry (or gently blow-dry) and retry."
     },
     {
-      "cause": "Dirty or greasy spark igniter \u2014 the ceramic spark electrode next to the burner is soiled, so it sparks weakly (orange instead of blue-white) or not at all.",
+      "cause": "Dirty or greasy spark igniter: the ceramic spark electrode next to the burner is soiled, so it sparks weakly (orange instead of blue-white) or not at all.",
       "likelihood": "common",
-      "quickCheck": "In a dim kitchen, watch the spark at that burner \u2014 weak, yellow, or missing spark points to a dirty or failing igniter."
+      "quickCheck": "In a dim kitchen, watch the spark at that burner: weak, yellow, or missing spark points to a dirty or failing igniter."
     },
     {
-      "cause": "Failed spark igniter, electrode, or ignition (spark) module \u2014 the part or its switch fails, so one burner won't click at all, or all burners click nonstop even with the knobs off.",
+      "cause": "Failed spark igniter, electrode, or ignition (spark) module: the part or its switch fails, so one burner won't click at all, or all burners click nonstop even with the knobs off.",
       "likelihood": "less common",
-      "quickCheck": "Constant clicking that won't stop, or no click at all after everything is clean and dry, points to a failed switch/electrode/module \u2014 a repair, not a cleaning."
+      "quickCheck": "Constant clicking that won't stop, or no click at all after everything is clean and dry, points to a failed switch/electrode/module, a repair, not a cleaning."
     },
     {
-      "cause": "Gas supply issue \u2014 the shutoff behind the range is partly closed, the propane tank is empty, or the supply is interrupted, so the burner starves.",
+      "cause": "Gas supply issue: the shutoff behind the range is partly closed, the propane tank is empty, or the supply is interrupted, so the burner starves.",
       "likelihood": "less common",
-      "quickCheck": "Do the other burners light? If none of them do, check that the gas shutoff behind the range is fully open and (for propane) the tank isn't empty \u2014 other gas appliances working confirms supply is fine."
+      "quickCheck": "Do the other burners light? If none of them do, check that the gas shutoff behind the range is fully open and (for propane) the tank isn't empty; other gas appliances working confirms supply is fine."
     }
   ],
   "fixes": [
-    "If it stopped working right after cleaning or a spill, turn the burner off and let everything dry \u2014 wait 15-30 minutes, or gently blow-dry the burner head and igniter with a hair dryer on low, then retry. Trapped moisture is a very common and free fix.",
+    "If it stopped working right after cleaning or a spill, turn the burner off and let everything dry: wait 15-30 minutes, or gently blow-dry the burner head and igniter with a hair dryer on low, then retry. Trapped moisture is a very common and free fix.",
     "Reseat the burner cap: once it's cool, lift it off and set it back flat, centered, and fully seated so its ports line up with the igniter. A cap knocked out of place is one of the most common 'won't light' causes.",
-    "Clean the burner ports with the burner off and cool: clear each little port with a straightened paperclip or a sewing needle/pin \u2014 avoid wooden toothpicks, which can snap off inside \u2014 and wipe grease off the burner head. Don't ream the ports larger; just clear them.",
-    "Wash the removable cap and burner head in warm soapy water, scrub the ports clean, then dry them completely before putting them back \u2014 reinstalling them wet just recreates the problem.",
+    "Clean the burner ports with the burner off and cool: clear each little port with a straightened paperclip or a sewing needle/pin (avoid wooden toothpicks, which can snap off inside) and wipe grease off the burner head. Don't ream the ports larger; just clear them.",
+    "Wash the removable cap and burner head in warm soapy water, scrub the ports clean, then dry them completely before putting them back; reinstalling them wet just recreates the problem.",
     "Gently clean around the ceramic spark igniter with a dry old toothbrush or cloth to clear off food and grease; a dirty igniter sparks weakly.",
-    "With everything dry and reassembled, watch the spark in a dim kitchen \u2014 a healthy igniter throws a strong blue-white spark. A weak, orange, or missing spark points to a failing igniter.",
+    "With everything dry and reassembled, watch the spark in a dim kitchen: a healthy igniter throws a strong blue-white spark. A weak, orange, or missing spark points to a failing igniter.",
     "If only one burner won't light, the problem is that burner's cap, ports, or igniter. If none light, confirm the gas shutoff behind the range is fully open (and for propane the tank isn't empty) and that other gas appliances work.",
-    "If the burner clicks nonstop even with all knobs off, or won't spark at all after cleaning, the spark switch/electrode or ignition module has likely failed \u2014 call an appliance tech for the part swap.",
+    "If the burner clicks nonstop even with all knobs off, or won't spark at all after cleaning, the spark switch/electrode or ignition module has likely failed; call an appliance tech for the part swap.",
     "If you ever smell gas: turn the burner off, do not flip switches or light anything, and open windows to ventilate. If the smell persists, leave the house and call your gas utility from outside."
   ],
-  "diyVsPro": "DIY is fine for the whole cleaning routine on the cooktop surface \u2014 clearing the burner ports, washing and reseating the caps, drying out moisture, and brushing off the spark igniter \u2014 all with the burner off and cool. Call a licensed appliance tech to replace a failed spark igniter, electrode, or ignition module, and to diagnose a burner that clicks nonstop. Call a licensed plumber or gas fitter \u2014 never DIY \u2014 for anything on the gas supply itself: the shutoff valve behind the range, the regulator, the flexible gas connector, or converting between natural gas and propane. If you smell gas that doesn't clear after ventilating, stop and call your utility.",
+  "diyVsPro": "DIY is fine for the whole cleaning routine on the cooktop surface: clearing the burner ports, washing and reseating the caps, drying out moisture, and brushing off the spark igniter, all with the burner off and cool. Call a licensed appliance tech to replace a failed spark igniter, electrode, or ignition module, and to diagnose a burner that clicks nonstop. Call a licensed plumber or gas fitter (never DIY) for anything on the gas supply itself: the shutoff valve behind the range, the regulator, the flexible gas connector, or converting between natural gas and propane. If you smell gas that doesn't clear after ventilating, stop and call your utility.",
   "typicalCostUSD": "DIY: cleaning is $0-10 (paperclip, old toothbrush, dish soap). A replacement spark igniter/electrode typically runs $10-40 and a burner cap $15-40 (model-specific). Pro: an appliance repair service call is usually $90-180, with an igniter or spark-module repair landing around $150-350 total parts + labor. Gas-line, valve, or regulator work by a licensed plumber/gas fitter often runs $150-400 or more.",
   "timeEstimate": "Reseating the cap and drying: 5-30 minutes. Cleaning ports and washing caps: 15-30 minutes. DIY spark igniter/electrode replacement: 30-60 minutes. Pro repair: usually a single 1-2 hour visit.",
   "safetyLevel": "caution",
-  "safetyNote": "Gas is unforgiving. Clean burners only when they are off and fully cool, and never ream the ports larger. If a burner clicks with the knob on but doesn't light within a few seconds, turn it off, let the gas clear, and ventilate before trying again \u2014 don't let raw gas keep flowing or pool. Never work on the gas supply line, shutoff valve, regulator, or flexible connector yourself; that is licensed-pro work. If you smell gas (a rotten-egg odor), do not flip switches or light a flame \u2014 turn off the burner, open windows, and if the smell persists, leave the house and call your gas utility or 911 from outside.",
+  "safetyNote": "Gas is unforgiving. Clean burners only when they are off and fully cool, and never ream the ports larger. If a burner clicks with the knob on but doesn't light within a few seconds, turn it off, let the gas clear, and ventilate before trying again; don't let raw gas keep flowing or pool. Never work on the gas supply line, shutoff valve, regulator, or flexible connector yourself; that is licensed-pro work. If you smell gas (a rotten-egg odor), do not flip switches or light a flame. Turn off the burner, open windows, and if the smell persists, leave the house and call your gas utility or 911 from outside.",
   "toolsParts": [
     "Straightened paperclip or sewing needle/pin (to clear the ports)",
     "Soft old toothbrush",
@@ -77,7 +77,7 @@
     "Reputable DIY repair references (This Old House, Family Handyman)",
     "CPSC / NFPA gas appliance and gas-leak safety guidance"
   ],
-  "disclaimer": "General home-maintenance guidance, not a substitute for professional service \u2014 clean gas burners only with the burner off and cool, and leave igniter/spark-module replacement and any work on the gas line, valve, or regulator to a licensed pro. If you smell gas, stop, leave, and call your gas utility from outside.",
+  "disclaimer": "General home-maintenance guidance, not a substitute for professional service. Clean gas burners only with the burner off and cool, and leave igniter/spark-module replacement and any work on the gas line, valve, or regulator to a licensed pro. If you smell gas, stop, leave, and call your gas utility from outside.",
   "verified": false,
   "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
   "kind": "spoke"

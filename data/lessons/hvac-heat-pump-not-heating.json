@@ -1,57 +1,57 @@
 {
   "slug": "hvac-heat-pump-not-heating",
   "system": "hvac",
-  "title": "Heat Pump Runs But Won't Heat the House \u2014 Causes & Fixes",
+  "title": "Heat Pump Runs But Won't Heat the House: Causes & Fixes",
   "question": "Why is my heat pump running but blowing cold air and not heating the house?",
-  "summary": "A heat pump that runs but blows cool air is very often working normally \u2014 either in its defrost cycle or just delivering the mild air heat pumps make (supply air is typically ~90-100\u00b0F: warm, but cooler than a gas furnace, so it can feel lukewarm). Real faults are usually a dirty filter or blocked airflow, an outdoor unit iced solid from a failed defrost, a stuck reversing valve, or low refrigerant. Filters, thermostat settings, and clearing snow are safe DIY; refrigerant, the reversing valve, 240V backup heat strips, and the breaker panel are pro-only.",
+  "summary": "A heat pump that runs but blows cool air is very often working normally: either in its defrost cycle or just delivering the mild air heat pumps make (supply air is typically ~90-100\u00b0F: warm, but cooler than a gas furnace, so it can feel lukewarm). Real faults are usually a dirty filter or blocked airflow, an outdoor unit iced solid from a failed defrost, a stuck reversing valve, or low refrigerant. Filters, thermostat settings, and clearing snow are safe DIY; refrigerant, the reversing valve, 240V backup heat strips, and the breaker panel are pro-only.",
   "commonCauses": [
     {
-      "cause": "Normal defrost cycle \u2014 in cold weather frost builds on the outdoor coil, so the unit periodically reverses to cooling for a few minutes to melt it. During defrost the outdoor fan stops, the unit may steam, and indoor air can blow cool. This is the single most common reason people think a heat pump is 'broken' when it isn't.",
+      "cause": "Normal defrost cycle: in cold weather frost builds on the outdoor coil, so the unit periodically reverses to cooling for a few minutes to melt it. During defrost the outdoor fan stops, the unit may steam, and indoor air can blow cool. This is the single most common reason people think a heat pump is 'broken' when it isn't.",
       "likelihood": "most common",
       "quickCheck": "Happens intermittently in cold/damp weather, the outdoor unit is steaming with its fan stopped, and warm air returns on its own within about 5-15 minutes."
     },
     {
-      "cause": "Wrong thermostat settings \u2014 fan set to 'On' (blows unheated air between cycles so it feels cold), system left on 'Cool', setpoint below room temp, or stuck on 'Emergency Heat.' Em Heat shuts the compressor off and runs only the expensive electric backup, which also masks a failing heat pump.",
+      "cause": "Wrong thermostat settings: fan set to 'On' (blows unheated air between cycles so it feels cold), system left on 'Cool', setpoint below room temp, or stuck on 'Emergency Heat.' Em Heat shuts the compressor off and runs only the expensive electric backup, which also masks a failing heat pump.",
       "likelihood": "common",
       "quickCheck": "Confirm the thermostat is on 'Heat' (not Cool or Em Heat), fan on 'Auto' (not On), and the setpoint is a few degrees above the current room temperature."
     },
     {
-      "cause": "Dirty filter or blocked airflow \u2014 a clogged filter or dirty indoor coil starves the air handler, cutting heat output and often icing the coil so the system runs constantly but never warms the house.",
+      "cause": "Dirty filter or blocked airflow: a clogged filter or dirty indoor coil starves the air handler, cutting heat output and often icing the coil so the system runs constantly but never warms the house.",
       "likelihood": "common",
-      "quickCheck": "Pull the air filter \u2014 if it's gray and caked, that's your restriction. Also check that supply registers and the return grille aren't blocked by furniture or rugs."
+      "quickCheck": "Pull the air filter: if it's gray and caked, that's your restriction. Also check that supply registers and the return grille aren't blocked by furniture or rugs."
     },
     {
-      "cause": "Outdoor unit iced over / defrost system failure \u2014 a failed defrost control board, sensor, or a low charge lets the outdoor coil freeze into a solid block of ice, blocking airflow so the unit can no longer pull heat from outside.",
+      "cause": "Outdoor unit iced over / defrost system failure: a failed defrost control board, sensor, or a low charge lets the outdoor coil freeze into a solid block of ice, blocking airflow so the unit can no longer pull heat from outside.",
       "likelihood": "common",
       "quickCheck": "The outdoor coil is encased in thick ice that never clears between cycles (not just light frost that melts during defrost)."
     },
     {
-      "cause": "Stuck reversing valve \u2014 the valve that switches refrigerant flow between heating and cooling is stuck (or its solenoid failed) in the cooling position, so the system blows cold air even when it should be heating.",
+      "cause": "Stuck reversing valve: the valve that switches refrigerant flow between heating and cooling is stuck (or its solenoid failed) in the cooling position, so the system blows cold air even when it should be heating.",
       "likelihood": "less common",
-      "quickCheck": "Only cold air from the vents in heat mode, well after any defrost should have finished \u2014 needs a pro with gauges to confirm; not a DIY test."
+      "quickCheck": "Only cold air from the vents in heat mode, well after any defrost should have finished: needs a pro with gauges to confirm; not a DIY test."
     },
     {
-      "cause": "Low refrigerant from a leak \u2014 an undercharged system can't move enough heat, giving weak, barely-warm air, long run times, and coil icing. Refrigerant is a sealed, EPA-regulated system.",
+      "cause": "Low refrigerant from a leak: an undercharged system can't move enough heat, giving weak, barely-warm air, long run times, and coil icing. Refrigerant is a sealed, EPA-regulated system.",
       "likelihood": "less common",
-      "quickCheck": "Weak heat plus visible coil icing, hissing/bubbling near the lines, or oily residue at fittings \u2014 diagnosis and recharge require an EPA-certified tech."
+      "quickCheck": "Weak heat plus visible coil icing, hissing/bubbling near the lines, or oily residue at fittings; diagnosis and recharge require an EPA-certified tech."
     }
   ],
   "fixes": [
-    "Don't panic at cold air in cold weather \u2014 let a defrost cycle finish. Wait 10-15 minutes and see if warm air returns on its own before assuming a fault. Resist flipping to Emergency Heat, which just runs the expensive backup and hides the real issue.",
+    "Don't panic at cold air in cold weather; let a defrost cycle finish. Wait 10-15 minutes and see if warm air returns on its own before assuming a fault. Resist flipping to Emergency Heat, which just runs the expensive backup and hides the real issue.",
     "Check the thermostat first: set it to 'Heat' (not Cool or Em Heat), the fan to 'Auto' (not 'On'), and the setpoint a few degrees above room temperature. Leaving the fan on 'On' is the most common 'blowing cold' false alarm.",
     "Replace the air filter with the correct size and airflow rating, then check it every 1-3 months. A clogged filter is the cheapest and most common real cause of weak heat and coil icing.",
-    "Clear the outdoor unit: remove snow, leaves, and debris, and keep 18-24 inches of clearance on all sides plus overhead. Melt light ice with lukewarm (never boiling) water \u2014 never chip it with a screwdriver or ice pick, which can puncture the coil or bend the fins.",
-    "If the outdoor coil is iced solid and won't clear, switch the thermostat to Emergency Heat to keep the house warm and call an HVAC tech \u2014 a repeatedly icing unit usually means a failed defrost control, sensor, or low charge.",
-    "Check power: many heat pumps have two disconnects/breakers (indoor air handler and outdoor unit). Reset a tripped breaker once. If it trips again, stop and call a pro \u2014 a repeat trip signals a fault, not a nuisance.",
-    "Gently clean the outdoor and indoor coils if they're dirty \u2014 power off at the disconnect first, and rinse the outdoor coil from the inside out with a hose or use a foaming coil cleaner and a soft fin brush. If you're not comfortable opening the unit, have a pro do it during a tune-up.",
-    "No warm air even after defrost should be done, or weak heat with icing: leave reversing-valve and refrigerant diagnosis to an HVAC tech. Adding refrigerant is not DIY \u2014 U.S. law requires EPA Section 608 certification, and 'just topping it off' ignores the leak that caused it.",
-    "Backup heat not kicking in (electric heat strips, or the gas furnace in a dual-fuel system): hand this to a licensed pro. Electric heat strips run on 240V, and gas backup involves combustion \u2014 both carry real shock/fire risk."
+    "Clear the outdoor unit: remove snow, leaves, and debris, and keep 18-24 inches of clearance on all sides plus overhead. Melt light ice with lukewarm (never boiling) water; never chip it with a screwdriver or ice pick, which can puncture the coil or bend the fins.",
+    "If the outdoor coil is iced solid and won't clear, switch the thermostat to Emergency Heat to keep the house warm and call an HVAC tech; a repeatedly icing unit usually means a failed defrost control, sensor, or low charge.",
+    "Check power: many heat pumps have two disconnects/breakers (indoor air handler and outdoor unit). Reset a tripped breaker once. If it trips again, stop and call a pro; a repeat trip signals a fault, not a nuisance.",
+    "Gently clean the outdoor and indoor coils if they're dirty: power off at the disconnect first, and rinse the outdoor coil from the inside out with a hose or use a foaming coil cleaner and a soft fin brush. If you're not comfortable opening the unit, have a pro do it during a tune-up.",
+    "No warm air even after defrost should be done, or weak heat with icing: leave reversing-valve and refrigerant diagnosis to an HVAC tech. Adding refrigerant is not DIY: U.S. law requires EPA Section 608 certification, and 'just topping it off' ignores the leak that caused it.",
+    "Backup heat not kicking in (electric heat strips, or the gas furnace in a dual-fuel system): hand this to a licensed pro. Electric heat strips run on 240V, and gas backup involves combustion; both carry real shock/fire risk."
   ],
-  "diyVsPro": "DIY is fine for waiting out a defrost cycle, fixing thermostat settings, replacing the air filter, clearing snow and light ice from the outdoor unit, gently cleaning coils with the power off, and resetting a tripped breaker once. Call a licensed HVAC pro for anything involving refrigerant (leaks, low charge, recharge \u2014 legally requires EPA 608 certification), a stuck or failed reversing valve, a failed defrost control board or sensor, a unit that keeps icing solid, 240V electric backup heat strips, gas backup in a dual-fuel system, or a breaker that trips more than once. In short: airflow, settings, and snow are yours; the sealed refrigerant system, 240V, gas, and the breaker panel belong to a pro.",
-  "typicalCostUSD": "DIY: air filter $10-40; foaming coil cleaner and a fin brush/comb $10-30; clearing snow and ice $0. Pro: HVAC diagnostic/service call typically $80-200. Common repairs \u2014 defrost control board or sensor $200-600; run/start capacitor $150-400; refrigerant leak repair plus recharge $200-1,500+ depending on the leak and refrigerant type; reversing valve replacement $600-1,500+ (labor-heavy, requires refrigerant recovery); electric heat strip replacement $200-600. Larger compressor or system faults run higher.",
+  "diyVsPro": "DIY is fine for waiting out a defrost cycle, fixing thermostat settings, replacing the air filter, clearing snow and light ice from the outdoor unit, gently cleaning coils with the power off, and resetting a tripped breaker once. Call a licensed HVAC pro for anything involving refrigerant (leaks, low charge, recharge; legally requires EPA 608 certification), a stuck or failed reversing valve, a failed defrost control board or sensor, a unit that keeps icing solid, 240V electric backup heat strips, gas backup in a dual-fuel system, or a breaker that trips more than once. In short: airflow, settings, and snow are yours; the sealed refrigerant system, 240V, gas, and the breaker panel belong to a pro.",
+  "typicalCostUSD": "DIY: air filter $10-40; foaming coil cleaner and a fin brush/comb $10-30; clearing snow and ice $0. Pro: HVAC diagnostic/service call typically $80-200. Common repairs: defrost control board or sensor $200-600; run/start capacitor $150-400; refrigerant leak repair plus recharge $200-1,500+ depending on the leak and refrigerant type; reversing valve replacement $600-1,500+ (labor-heavy, requires refrigerant recovery); electric heat strip replacement $200-600. Larger compressor or system faults run higher.",
   "timeEstimate": "Waiting out a defrost cycle: 5-15 minutes. Thermostat check: 5 minutes. Filter swap: 5 minutes. Clearing snow/ice and keeping clearance: 15-30 minutes. DIY coil cleaning: 30-60 minutes. Pro diagnostic visit: usually 1-2 hours; reversing valve or refrigerant repairs can take a half day.",
   "safetyLevel": "caution",
-  "safetyNote": "The headline fixes \u2014 waiting out defrost, thermostat settings, filter changes, and clearing snow \u2014 are safe DIY. Always cut power at the disconnect or breaker before opening or reaching into the outdoor unit; the fan and 240V components can injure you. Never chip ice off the coil with a sharp tool \u2014 a punctured coil means a refrigerant leak and a big repair. Do NOT open or add to the refrigerant system: U.S. law (EPA Section 608) requires certification, and refrigerant can cause frostbite and displace oxygen. Leave 240V electric heat strips, the breaker panel, the reversing valve, and any refrigerant work to a licensed pro. A breaker that trips repeatedly means a fault \u2014 call a pro, don't keep resetting it. For dual-fuel systems with a gas furnace backup: if you smell gas, leave the house and call your gas utility from outside.",
+  "safetyNote": "The headline fixes (waiting out defrost, thermostat settings, filter changes, and clearing snow) are safe DIY. Always cut power at the disconnect or breaker before opening or reaching into the outdoor unit; the fan and 240V components can injure you. Never chip ice off the coil with a sharp tool: a punctured coil means a refrigerant leak and a big repair. Do NOT open or add to the refrigerant system: U.S. law (EPA Section 608) requires certification, and refrigerant can cause frostbite and displace oxygen. Leave 240V electric heat strips, the breaker panel, the reversing valve, and any refrigerant work to a licensed pro. A breaker that trips repeatedly means a fault; call a pro, don't keep resetting it. For dual-fuel systems with a gas furnace backup: if you smell gas, leave the house and call your gas utility from outside.",
   "toolsParts": [
     "Correct-size replacement air filter",
     "Garden hose or foaming HVAC coil cleaner",

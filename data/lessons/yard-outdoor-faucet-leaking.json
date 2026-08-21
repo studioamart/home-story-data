@@ -1,37 +1,37 @@
 {
   "slug": "yard-outdoor-faucet-leaking",
   "system": "yard",
-  "title": "Outdoor Faucet Leaking or Dripping \u2014 Causes & Fixes",
+  "title": "Outdoor Faucet Leaking or Dripping: Causes & Fixes",
   "question": "Why is my outdoor faucet (hose bib / spigot) leaking or dripping, and how do I fix it?",
-  "summary": "A leaking outdoor faucet is usually a worn washer or stem packing (drips from the spout, or seeps around the handle when you open it), a stuck vacuum breaker on top, or a bad hose washer \u2014 all cheap, low-risk DIY fixes. The one that isn't cheap: a pipe split by a winter freeze, which leaks inside the wall only when you turn the faucet on and often needs a plumber. Disconnecting hoses before the first hard freeze prevents most burst faucets.",
+  "summary": "A leaking outdoor faucet is usually a worn washer or stem packing (drips from the spout, or seeps around the handle when you open it), a stuck vacuum breaker on top, or a bad hose washer, all cheap, low-risk DIY fixes. The one that isn't cheap: a pipe split by a winter freeze, which leaks inside the wall only when you turn the faucet on and often needs a plumber. Disconnecting hoses before the first hard freeze prevents most burst faucets.",
   "commonCauses": [
     {
-      "cause": "Worn seat washer inside the valve \u2014 the rubber washer that seals the water off has hardened or torn, so the faucet drips from the SPOUT even with the handle turned fully off. The single most common leak.",
+      "cause": "Worn seat washer inside the valve: the rubber washer that seals the water off has hardened or torn, so the faucet drips from the SPOUT even with the handle turned fully off. The single most common leak.",
       "likelihood": "most common",
       "quickCheck": "With the handle shut all the way, watch the spout opening for a steady drip. A drip from the opening (not the handle) points to a worn washer or a scored valve seat."
     },
     {
-      "cause": "Worn stem packing or a loose packing nut \u2014 water seeps out from AROUND the handle/stem when the faucet is turned on. The packing (or O-ring) behind the packing nut has dried out or the nut has backed off.",
+      "cause": "Worn stem packing or a loose packing nut: water seeps out from AROUND the handle/stem when the faucet is turned on. The packing (or O-ring) behind the packing nut has dried out or the nut has backed off.",
       "likelihood": "common",
       "quickCheck": "Turn the faucet on and look at the base of the handle. Water weeping out around the stem (not the spout) means the packing nut is loose or the packing/O-ring is worn."
     },
     {
-      "cause": "Vacuum breaker (anti-siphon cap) leaking \u2014 the small dome or cap on top of many modern hose bibs weeps or sprays water when the faucet runs. Its internal check seal is stuck or worn. It's a backflow-prevention part, not the valve itself.",
+      "cause": "Vacuum breaker (anti-siphon cap) leaking: the small dome or cap on top of many modern hose bibs weeps or sprays water when the faucet runs. Its internal check seal is stuck or worn. It's a backflow-prevention part, not the valve itself.",
       "likelihood": "common",
       "quickCheck": "Run the faucet and watch the cap on top. Water dribbling or spitting from the top cap (while the spout works fine) means the vacuum breaker seal needs a repair kit or a new cap."
     },
     {
-      "cause": "Frost-split / freeze-cracked pipe \u2014 the faucet leaks ONLY when turned on, and water shows up inside the wall, basement, or crawlspace. Classic after winter, especially if a garden hose was left attached to a freeze-proof faucet over a hard freeze. This is a hidden-damage leak, not a surface drip.",
+      "cause": "Frost-split / freeze-cracked pipe: the faucet leaks ONLY when turned on, and water shows up inside the wall, basement, or crawlspace. Classic after winter, especially if a garden hose was left attached to a freeze-proof faucet over a hard freeze. This is a hidden-damage leak, not a surface drip.",
       "likelihood": "common",
-      "quickCheck": "Open the faucet and have someone watch the inside wall or basement right below it. Water appearing inside the house means a split pipe or cracked frost-free sillcock \u2014 shut it off immediately."
+      "quickCheck": "Open the faucet and have someone watch the inside wall or basement right below it. Water appearing inside the house means a split pipe or cracked frost-free sillcock; shut it off immediately."
     },
     {
-      "cause": "Leak at the hose connection \u2014 a worn, flattened, or missing rubber hose washer, or a cross-threaded coupling where the garden hose screws on. The faucet body is fine; only the threaded joint leaks.",
+      "cause": "Leak at the hose connection: a worn, flattened, or missing rubber hose washer, or a cross-threaded coupling where the garden hose screws on. The faucet body is fine; only the threaded joint leaks.",
       "likelihood": "common",
       "quickCheck": "Does it only leak with a hose attached, right at the threaded joint? Unscrew the hose and check the flat rubber washer inside the coupling for cracks or that it's gone."
     },
     {
-      "cause": "Corroded or cracked faucet body / loose mounting \u2014 an old galvanized or brass bib has cracked, or the whole faucet has worked loose in the wall, so it leaks or wobbles.",
+      "cause": "Corroded or cracked faucet body / loose mounting: an old galvanized or brass bib has cracked, or the whole faucet has worked loose in the wall, so it leaks or wobbles.",
       "likelihood": "less common",
       "quickCheck": "Look for a hairline crack, green corrosion, or a faucet that moves when you push it. A cracked body means replacing the whole faucet, not a washer."
     }
@@ -40,25 +40,25 @@
     "Find and use the shutoff first. Locate the indoor shutoff valve on the pipe feeding the outdoor faucet (often in the basement, crawlspace, or utility area near where the pipe passes through the wall), or use the home's main shutoff. Close it before taking anything apart so you're not fighting live water pressure, then open the outdoor faucet to drain the line.",
     "Fix a leak at the hose connection: unscrew the garden hose, pull out the small flat rubber hose washer inside the coupling, and replace it if it's cracked, flattened, or missing (a few cents each). Hand-tighten the hose and don't cross-thread it.",
     "Leak around the handle/stem when running: first snug the packing nut (the large nut behind the handle) about 1/8 to 1/4 turn with a wrench. If it still weeps, shut off the water, remove the handle screw and handle, unscrew the packing nut, and replace the packing washer or stem O-ring with a matching repair kit.",
-    "Drip from the spout when closed (worn washer/seat): with the water shut off, unscrew the packing/bonnet nut and pull the stem straight out. On a standard hose bib the rubber washer is on the end of the stem \u2014 replace it. If the brass seat it presses against feels rough or pitted, dress it smooth or replace the seat. Reassemble and test.",
-    "Frost-free (freeze-proof) sillcock repair: the washer sits at the FAR inner end of the long stem, inside the heated wall. Shut the water off, unscrew the packing nut, and pull the entire long stem straight out; replace the washer/O-ring with the manufacturer's kit (match the brand \u2014 Woodford, Prier, Mansfield, Aqua-Frost \u2014 and the stem length). Reassemble and confirm it still drains itself when shut off.",
+    "Drip from the spout when closed (worn washer/seat): with the water shut off, unscrew the packing/bonnet nut and pull the stem straight out. On a standard hose bib the rubber washer is on the end of the stem; replace it. If the brass seat it presses against feels rough or pitted, dress it smooth or replace the seat. Reassemble and test.",
+    "Frost-free (freeze-proof) sillcock repair: the washer sits at the FAR inner end of the long stem, inside the heated wall. Shut the water off, unscrew the packing nut, and pull the entire long stem straight out; replace the washer/O-ring with the manufacturer's kit (match the brand [Woodford, Prier, Mansfield, Aqua-Frost] and the stem length). Reassemble and confirm it still drains itself when shut off.",
     "Vacuum breaker leaking from the top: pop off or unscrew the cap on top and install a vacuum-breaker repair kit or a new cap (a $5-15 part). Match the brand of the faucet.",
-    "Freeze-split pipe or sillcock: if water appears inside when you open the faucet, you have a cracked pipe or split frost-free barrel \u2014 shut the water off and leave it off. Replacing the whole sillcock (threaded, push-fit like SharkBite, or soldered) is a moderate DIY job if you have easy access and are comfortable; if it means opening a finished wall, soldering copper near framing, or you can't reach it, call a plumber. Don't keep running it \u2014 the leak is inside your wall.",
+    "Freeze-split pipe or sillcock: if water appears inside when you open the faucet, you have a cracked pipe or split frost-free barrel; shut the water off and leave it off. Replacing the whole sillcock (threaded, push-fit like SharkBite, or soldered) is a moderate DIY job if you have easy access and are comfortable; if it means opening a finished wall, soldering copper near framing, or you can't reach it, call a plumber. Don't keep running it: the leak is inside your wall.",
     "Whole-faucet replacement: if the bib is old, corroded, or cracked at the body, replace the entire hose bib or sillcock instead of chasing individual parts. On a frost-free unit, buy one long enough to reach fully through your wall and install it pitched slightly downward toward the outside so it self-drains.",
     "Prevent the next freeze burst: every fall before the first hard freeze, disconnect and drain all garden hoses (a hose left on a frost-free faucet is the number-one cause of a split), shut off and drain any standard outdoor faucet at its indoor valve, and add an insulated foam faucet cover for extra protection in mild freezes."
   ],
-  "diyVsPro": "DIY is fine for the common fixes \u2014 replacing washers, stem packing, O-rings, and hose washers, and swapping a vacuum-breaker cap or kit. These are cheap parts, hand tools, and low risk once the water is off. Replacing an accessible frost-free sillcock that threads on or uses a push-fit fitting is a reasonable DIY job too. Call a licensed plumber when water leaks inside the wall, basement, or crawlspace as you run the faucet (a freeze-split pipe behind the wall), when the sillcock is soldered copper and you're not comfortable using a torch near wood framing, when the faucet is buried in a finished wall that needs opening and drywall repair, or when the indoor shutoff valve itself is stuck or leaking.",
+  "diyVsPro": "DIY is fine for the common fixes: replacing washers, stem packing, O-rings, and hose washers, and swapping a vacuum-breaker cap or kit. These are cheap parts, hand tools, and low risk once the water is off. Replacing an accessible frost-free sillcock that threads on or uses a push-fit fitting is a reasonable DIY job too. Call a licensed plumber when water leaks inside the wall, basement, or crawlspace as you run the faucet (a freeze-split pipe behind the wall), when the sillcock is soldered copper and you're not comfortable using a torch near wood framing, when the faucet is buried in a finished wall that needs opening and drywall repair, or when the indoor shutoff valve itself is stuck or leaking.",
   "typicalCostUSD": "DIY: washer, packing, and O-ring repair kits $5-15; rubber hose washers a few dollars a pack; vacuum-breaker cap or repair kit $5-15; a full frost-free sillcock $15-45 (push-fit or threaded). Pro: a plumber service call typically runs $100-250; outdoor faucet/sillcock replacement commonly lands $150-400, and $250-600+ if a freeze-split pipe inside the wall requires opening the wall, soldering, or drywall repair.",
   "timeEstimate": "Hose washer swap: 5-10 minutes. Packing or stem-washer replacement: 20-45 minutes. Vacuum-breaker kit: 10-20 minutes. Full sillcock replacement: 1-3 hours depending on access and whether it's soldered.",
   "safetyLevel": "low",
-  "safetyNote": "This is low-risk plumbing with no gas or electricity involved. The main rule: know where your main water shutoff is and close the supply before you take the faucet apart, or you'll get sprayed and can flood the area. Watch for the freeze-damage case \u2014 if water shows up inside your wall, basement, or crawlspace when you open the outdoor faucet, you have a split pipe; shut the water off and stop running it, because hidden water inside a wall causes rot and mold. If a repair needs soldering copper near wood framing, a torch is a real fire risk \u2014 use a heat shield or hand it to a plumber. And leaving a garden hose attached over winter is the most common cause of a burst frost-free faucet, so always disconnect hoses before a freeze.",
+  "safetyNote": "This is low-risk plumbing with no gas or electricity involved. The main rule: know where your main water shutoff is and close the supply before you take the faucet apart, or you'll get sprayed and can flood the area. Watch for the freeze-damage case: if water shows up inside your wall, basement, or crawlspace when you open the outdoor faucet, you have a split pipe; shut the water off and stop running it, because hidden water inside a wall causes rot and mold. If a repair needs soldering copper near wood framing, a torch is a real fire risk; use a heat shield or hand it to a plumber. And leaving a garden hose attached over winter is the most common cause of a burst frost-free faucet, so always disconnect hoses before a freeze.",
   "toolsParts": [
     "Adjustable wrench or channel-lock pliers",
     "Screwdriver (for the handle screw)",
-    "Faucet/sillcock repair kit \u2014 stem washer, packing washer, O-rings (match the brand)",
+    "Faucet/sillcock repair kit: stem washer, packing washer, O-rings (match the brand)",
     "Replacement rubber hose washers",
     "Vacuum-breaker repair kit or cap (if the faucet has one)",
-    "Replacement hose bib or frost-free sillcock (if replacing the whole faucet \u2014 match length and thread)",
+    "Replacement hose bib or frost-free sillcock (if replacing the whole faucet; match length and thread)",
     "Teflon (PTFE) thread tape and/or pipe-joint compound",
     "Insulated outdoor faucet cover (for winter freeze protection)",
     "Bucket and rags"

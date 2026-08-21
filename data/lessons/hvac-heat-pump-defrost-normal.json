@@ -3,7 +3,7 @@
   "system": "hvac",
   "title": "Heat Pump Blowing Cool Air, Steaming, or Whooshing in Winter: Normal Defrost or a Real Problem?",
   "question": "In winter my heat pump sometimes blows cool air, steams like it's smoking outside, and makes a whoosh sound. Is it broken, or is this normal?",
-  "summary": "In cold, damp weather frost builds up on your heat pump's outdoor coil, so the unit runs a short \"defrost cycle\" to melt it off. During defrost the outdoor fan stops, a whoosh sound happens as the system briefly reverses to cooling mode, steam rises off the outdoor unit as ice melts, and your vents may blow cooler air for a few minutes. This is normal and self-correcting. The key insight most people miss: real defrost is brief (usually under ~10-15 minutes) and warm air returns on its own — a genuine fault looks like ice that never melts, the unit stuck defrosting, or no heat at all.",
+  "summary": "In cold, damp weather frost builds up on your heat pump's outdoor coil, so the unit runs a short \"defrost cycle\" to melt it off. During defrost the outdoor fan stops, a whoosh sound happens as the system briefly reverses to cooling mode, steam rises off the outdoor unit as ice melts, and your vents may blow cooler air for a few minutes. This is normal and self-correcting. The key insight most people miss: real defrost is brief (usually under ~10-15 minutes) and warm air returns on its own; a fault looks like ice that never melts, the unit stuck defrosting, or no heat at all.",
   "commonCauses": [
     {
       "cause": "Normal automatic defrost cycle melting frost off the outdoor coil",
@@ -13,35 +13,35 @@
     {
       "cause": "Cold plus high humidity (near-freezing damp air, snow, or fog) making defrost happen more often",
       "likelihood": "common",
-      "quickCheck": "Note the outdoor conditions — frequent defrosts at 25-40F with damp/foggy/snowy air are expected; they taper off as the air dries or warms."
+      "quickCheck": "Note the outdoor conditions: frequent defrosts at 25-40F with damp/foggy/snowy air are expected; they taper off as the air dries or warms."
     },
     {
       "cause": "Restricted outdoor airflow from snow, leaves, or debris piled around or on the unit, causing extra frost",
       "likelihood": "common",
-      "quickCheck": "Look at the outdoor unit — if snow, leaves, or grass block the coil fins or the fan, or clearance is under ~18-24 inches, airflow is choked and frost builds faster."
+      "quickCheck": "Look at the outdoor unit: if snow, leaves, or grass block the coil fins or the fan, or clearance is under ~18-24 inches, airflow is choked and frost builds faster."
     },
     {
       "cause": "Backup (auxiliary) heat not tempering the air during defrost, so the indoor air feels cold",
       "likelihood": "less common",
-      "quickCheck": "During a defrost, hold your hand at a vent — if air is cold rather than just cool, and you never see 'AUX/EM heat' on the thermostat, the backup strips may not be engaging."
+      "quickCheck": "During a defrost, hold your hand at a vent: if air is cold rather than just cool, and you never see 'AUX/EM heat' on the thermostat, the backup strips may not be engaging."
     },
     {
-      "cause": "Actual fault: stuck reversing valve, failed defrost sensor/control board, low refrigerant, or iced-over fan — abnormal icing or no heat",
+      "cause": "Actual fault: stuck reversing valve, failed defrost sensor/control board, low refrigerant, or iced-over fan, giving abnormal icing or no heat",
       "likelihood": "less common",
       "quickCheck": "After a cycle the coil should be mostly clear; if ice encases the whole unit or fan blades, never melts, the unit stays in defrost, or you get cold air for over ~15 minutes, that's a fault."
     }
   ],
   "fixes": [
-    "Time the event. Start a stopwatch when the cool air or steam begins. A normal defrost is brief — usually a few minutes and generally under about 10-15 minutes — and ends with warm air returning by itself. Write down the start/end so you have a record.",
-    "Watch the outdoor unit during it. In a normal defrost the outdoor fan stops, the coil that was frosted starts dripping and clearing, and a cloud of steam/vapor rises off the unit. That 'smoke' is water vapor from melting ice, not smoke — do not panic.",
+    "Time the event. Start a stopwatch when the cool air or steam begins. A normal defrost is brief (usually a few minutes and generally under about 10-15 minutes) and ends with warm air returning by itself. Write down the start/end so you have a record.",
+    "Watch the outdoor unit during it. In a normal defrost the outdoor fan stops, the coil that was frosted starts dripping and clearing, and a cloud of steam/vapor rises off the unit. That 'smoke' is water vapor from melting ice, not smoke; do not panic.",
     "Listen for the whoosh. A soft whoosh or hiss when the cycle starts and ends is the reversing valve switching the refrigerant direction. That sound by itself is normal.",
-    "Check how often it happens. Periodic defrosts (roughly every 30-90 minutes in cold, damp weather) are normal. If the unit defrosts constantly every few minutes, or seems stuck defrosting and never returns to steady heating, that points to a fault — note it for a technician.",
+    "Check how often it happens. Periodic defrosts (roughly every 30-90 minutes in cold, damp weather) are normal. If the unit defrosts constantly every few minutes, or seems stuck defrosting and never returns to steady heating, that points to a fault; note it for a technician.",
     "Inspect the ice after a cycle. The coil should be mostly clear when defrost ends. Normal frost is a light coat that melts off. A solid block of ice covering the whole unit, ice on top of the cabinet, or fan blades frozen solid is not normal.",
-    "Clear airflow around the outdoor unit. Gently sweep away snow, leaves, and debris and keep about 18-24 inches of clearance on all sides and keep the top of the unit unobstructed. Do not chip or pry ice off with a screwdriver, ice pick, or any sharp tool — you can puncture the coil.",
-    "Thaw a heavily iced unit safely if needed. First switch the thermostat to 'Emergency/Aux heat' (or turn the system off) so the compressor stops and the coil can thaw while backup heat keeps you warm. If you need to speed it up, gently run cool-to-lukewarm (never hot) water from a garden hose over the ice — hot water on a cold coil can thermally shock and crack it. Only hose it when it is not actively freezing, or the runoff can refreeze and make the ice worse, and watch your footing for slick ice. Let it fully melt before switching back to normal heat.",
+    "Clear airflow around the outdoor unit. Gently sweep away snow, leaves, and debris and keep about 18-24 inches of clearance on all sides and keep the top of the unit unobstructed. Do not chip or pry ice off with a screwdriver, ice pick, or any sharp tool; you can puncture the coil.",
+    "Thaw a heavily iced unit safely if needed. First switch the thermostat to 'Emergency/Aux heat' (or turn the system off) so the compressor stops and the coil can thaw while backup heat keeps you warm. If you need to speed it up, gently run cool-to-lukewarm (never hot) water from a garden hose over the ice; hot water on a cold coil can thermally shock and crack it. Only hose it when it is not actively freezing, or the runoff can refreeze and make the ice worse, and watch your footing for slick ice. Let it fully melt before switching back to normal heat.",
     "Change a dirty indoor air filter. A clogged filter starves airflow across the indoor coil and can worsen icing and cold-air symptoms. Replace it with the correct size if it looks gray or loaded.",
-    "Set the thermostat sensibly. Avoid big temperature setbacks that force the strip/backup heat and mask what the heat pump is doing, and don't leave the system on 'Emergency heat' as a default — that runs expensive backup heat and hides real problems.",
-    "Confirm backup heat works during defrost. During a defrost, if the air feels genuinely cold (not just slightly cool) and you never see 'AUX' or 'EM' indicated, the backup heat may not be engaging — note this for a technician; it is not a DIY fix.",
+    "Set the thermostat sensibly. Avoid big temperature setbacks that force the strip/backup heat and mask what the heat pump is doing, and don't leave the system on 'Emergency heat' as a default; that runs expensive backup heat and hides real problems.",
+    "Confirm backup heat works during defrost. During a defrost, if the air feels cold (not just slightly cool) and you never see 'AUX' or 'EM' indicated, the backup heat may not be engaging: note this for a technician; it is not a DIY fix.",
     "Call a licensed HVAC technician (EPA 608 certified) if the fault signs appear: ice that returns within minutes or never melts, unit stuck in defrost or short-cycling, no heat or cold air lasting over ~15 minutes, a hissing/refrigerant smell, a burning smell, fan iced solid, or the breaker tripping. These usually mean a reversing valve, defrost sensor/board, or refrigerant issue.",
     "Keep a short log for the tech. Note the outdoor temperature, how long the cool air/steam lasts, how often it happens, and any sounds or smells. It shortens the diagnosis and cost."
   ],
@@ -49,7 +49,7 @@
   "typicalCostUSD": "DIY $0-30 (a new air filter is the only likely cost). Pro diagnostic visit typically $80-200. Common repairs if it's a real fault: defrost sensor or control board $150-500, reversing valve $600-1,200+, refrigerant leak diagnosis and repair $200-1,500+ depending on the leak.",
   "timeEstimate": "15-30 minutes to observe and confirm a normal cycle; 30-60 minutes to clear debris and thaw an iced-over unit.",
   "safetyLevel": "low",
-  "safetyNote": "The observation and cleanup steps here are low-risk, but respect these limits. Never chip or pry ice off the unit with a screwdriver, ice pick, or any sharp tool — the coil is thin and puncturing it releases refrigerant and ruins the unit. To thaw, put the system in Emergency heat or turn it off so the compressor is stopped, and use only cool-to-lukewarm water, never hot; hot water on a frozen coil can crack it. Watch for slick ice underfoot, and skip the hose if the runoff will just refreeze and worsen the ice. Do not open the electrical panel or the unit's electrical cabinet — that is pro-only; if any electrical service is ever needed, the breaker must be shut off and verified dead with a tester first. Refrigerant is handled only by an EPA 608-certified technician; venting it is illegal and it can cause frostbite. A hissing sound or chemical smell means stop and call a pro. If you have a dual-fuel system and smell gas, leave the house immediately, don't touch switches, and call your gas utility or 911 from outside. Watch for carbon monoxide only on gas-backup systems — keep a working CO alarm. Don't climb onto a roof to reach a rooftop unit; hire that out for fall safety.",
+  "safetyNote": "The observation and cleanup steps here are low-risk, but respect these limits. Never chip or pry ice off the unit with a screwdriver, ice pick, or any sharp tool: the coil is thin and puncturing it releases refrigerant and ruins the unit. To thaw, put the system in Emergency heat or turn it off so the compressor is stopped, and use only cool-to-lukewarm water, never hot; hot water on a frozen coil can crack it. Watch for slick ice underfoot, and skip the hose if the runoff will just refreeze and worsen the ice. Do not open the electrical panel or the unit's electrical cabinet. That is pro-only; if any electrical service is ever needed, the breaker must be shut off and verified dead with a tester first. Refrigerant is handled only by an EPA 608-certified technician; venting it is illegal and it can cause frostbite. A hissing sound or chemical smell means stop and call a pro. If you have a dual-fuel system and smell gas, leave the house immediately, don't touch switches, and call your gas utility or 911 from outside. Watch for carbon monoxide only on gas-backup systems; keep a working CO alarm. Don't climb onto a roof to reach a rooftop unit; hire that out for fall safety.",
   "toolsParts": [
     "Phone or stopwatch to time the cycle",
     "Flashlight",
@@ -71,10 +71,10 @@
     "how often should a heat pump defrost"
   ],
   "sources": [
-    "U.S. Department of Energy (energy.gov) — air-source heat pump operation and heating basics",
-    "ENERGY STAR — heat pump use and maintenance guidance",
+    "U.S. Department of Energy (energy.gov): air-source heat pump operation and heating basics",
+    "ENERGY STAR: heat pump use and maintenance guidance",
     "Manufacturer owner's manual and installation instructions for the specific heat pump",
-    "U.S. EPA — Section 608 refrigerant handling requirements (why refrigerant work is technician-only)"
+    "U.S. EPA: Section 608 refrigerant handling requirements (why refrigerant work is technician-only)"
   ],
   "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed HVAC technician's inspection of your specific equipment; when in doubt, have a professional diagnose it.",
   "verified": false,

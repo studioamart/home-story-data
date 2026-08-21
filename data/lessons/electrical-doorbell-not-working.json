@@ -1,14 +1,14 @@
 {
   "slug": "electrical-doorbell-not-working",
   "system": "electrical",
-  "title": "Doorbell Not Working — Causes & How to Fix It",
-  "question": "My wired doorbell stopped working — no sound when pressed. What are the likely causes and what can I safely check and fix myself?",
-  "summary": "A standard wired doorbell is low-voltage and safe to troubleshoot. The four parts that fail are the push button (most common — corrosion or worn contacts), the chime unit, the transformer, or the wiring. Test from the button inward: jump the button wires to see if the chime rings, then check the transformer voltage. Most fixes are a cheap button or chime swap. Note: smart/video doorbells add their own power and Wi-Fi issues.",
+  "title": "Doorbell Not Working: Causes & How to Fix It",
+  "question": "My wired doorbell stopped working: no sound when pressed. What are the likely causes and what can I safely check and fix myself?",
+  "summary": "A standard wired doorbell is low-voltage and safe to troubleshoot. The four parts that fail are the push button (most common: corrosion or worn contacts), the chime unit, the transformer, or the wiring. Test from the button inward: jump the button wires to see if the chime rings, then check the transformer voltage. Most fixes are a cheap button or chime swap. Note: smart/video doorbells add their own power and Wi-Fi issues.",
   "commonCauses": [
     {
-      "cause": "Worn or corroded push button. The most exposed part — weather and use corrode the contacts so pressing it no longer completes the circuit.",
+      "cause": "Worn or corroded push button. The most exposed part: weather and use corrode the contacts so pressing it no longer completes the circuit.",
       "likelihood": "most common",
-      "quickCheck": "Unscrew the button, remove the two wires, and touch them together briefly. If the chime rings, the button is bad — replace it."
+      "quickCheck": "Unscrew the button, remove the two wires, and touch them together briefly. If the chime rings, the button is bad; replace it."
     },
     {
       "cause": "Failed chime unit or stuck plunger. The chime's solenoid plungers stick or the unit dies, so the circuit completes but nothing sounds.",
@@ -22,19 +22,19 @@
     }
   ],
   "fixes": [
-    "Start at the button: unscrew it, detach the two wires, and tap them together. A ring means the button is the problem — install a new button.",
+    "Start at the button: unscrew it, detach the two wires, and tap them together. A ring means the button is the problem; install a new button.",
     "No ring from the button test? Go to the chime. Remove the cover, vacuum dust, and gently free any stuck plungers.",
-    "Check power at the chime with a multimeter (AC volts) across the transformer/front terminals — you should see roughly 16-24V. If present and the chime still won't sound, replace the chime unit.",
+    "Check power at the chime with a multimeter (AC volts) across the transformer/front terminals; you should see roughly 16-24V. If present and the chime still won't sound, replace the chime unit.",
     "No voltage at the chime? Find the transformer (often near the panel, in the basement, or in a closet/attic) and measure its low-voltage output. 0V means a dead transformer (replace it) or a tripped breaker / broken wire feeding it.",
     "If the transformer reads correctly but a wire run is broken inside walls, running new low-voltage wire or going to a wireless/smart doorbell is the practical fix.",
-    "For smart/video doorbells: confirm the transformer meets the device's voltage requirement, the breaker is on, and Wi-Fi/app connectivity is working — these add power and network failure points a basic chime doesn't have.",
+    "For smart/video doorbells: confirm the transformer meets the device's voltage requirement, the breaker is on, and Wi-Fi/app connectivity is working; these add power and network failure points a basic chime doesn't have.",
     "Reassemble and test."
   ],
-  "diyVsPro": "DIY-friendly — standard doorbells run on safe low voltage, and button/chime swaps need only a screwdriver and a multimeter. Call an electrician if the transformer is dead and hardwired into the panel area and you're not comfortable replacing it, if you find scorched wiring, if a smart doorbell needs a higher-voltage transformer or a new circuit, or if there's no low-voltage wiring and you'd rather not fish new wire. The line-voltage side of the transformer is not a beginner job.",
+  "diyVsPro": "DIY-friendly: standard doorbells run on safe low voltage, and button/chime swaps need only a screwdriver and a multimeter. Call an electrician if the transformer is dead and hardwired into the panel area and you're not comfortable replacing it, if you find scorched wiring, if a smart doorbell needs a higher-voltage transformer or a new circuit, or if there's no low-voltage wiring and you'd rather not fish new wire. The line-voltage side of the transformer is not a beginner job.",
   "typicalCostUSD": "$10-$30 for a new button or chime; $15-$40 for a transformer. A multimeter is $15-$40 if you don't have one. An electrician to replace a hardwired transformer runs $100-$250.",
   "timeEstimate": "20-45 minutes to test and replace a button or chime.",
   "safetyLevel": "caution",
-  "safetyNote": "The doorbell's low-voltage side (button, chime wiring) is safe to handle, but the transformer's line-voltage side is full household voltage — shut off that circuit at the breaker before touching the transformer's high-voltage wiring, and confirm it's dead. If you find scorched or melted wiring anywhere, stop and call an electrician. Don't poke a multimeter into line-voltage terminals unless you know what you're doing.",
+  "safetyNote": "The doorbell's low-voltage side (button, chime wiring) is safe to handle, but the transformer's line-voltage side is full household voltage: shut off that circuit at the breaker before touching the transformer's high-voltage wiring, and confirm it's dead. If you find scorched or melted wiring anywhere, stop and call an electrician. Don't poke a multimeter into line-voltage terminals unless you know what you're doing.",
   "toolsParts": [
     "Screwdriver set",
     "Multimeter (set to AC volts)",

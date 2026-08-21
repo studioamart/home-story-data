@@ -480,7 +480,7 @@
         "condo",
         "apartment"
       ],
-      "description": "Clear lint from the full duct run \u2014 the #1 preventable house-fire source."
+      "description": "Clear lint from the full duct run, the #1 preventable house-fire source."
     },
     {
       "id": "emergency-kit",
@@ -1182,7 +1182,7 @@
         "condo",
         "apartment"
       ],
-      "description": "Clear lint from the dryer duct and exhaust hood \u2014 a top home fire-safety task."
+      "description": "Clear lint from the dryer duct and exhaust hood. It is a top home fire-safety task."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "slug": "appliances-oven-not-heating",
   "system": "appliances",
-  "title": "Oven Won't Heat or Heats Poorly \u2014 Causes & Fixes",
+  "title": "Oven Won't Heat or Heats Poorly: Causes & Fixes",
   "question": "Why won't my oven heat up (or why does it barely get warm) even though the display and light still work?",
-  "summary": "An oven that won't heat or only gets warm is usually a burned-out bake/broil element (electric), a weak gas igniter that can't open the gas valve (gas), a faulty temperature sensor telling the control board to stop, or a lost leg of the 240V power on an electric oven. Element, sensor, and settings issues are cheap and often DIY on an electric oven with power confirmed off; anything gas \u2014 igniter, valve, a gas smell \u2014 and any 240V panel work goes to a licensed pro.",
+  "summary": "An oven that won't heat or only gets warm is usually a burned-out bake/broil element (electric), a weak gas igniter that can't open the gas valve (gas), a faulty temperature sensor telling the control board to stop, or a lost leg of the 240V power on an electric oven. Element, sensor, and settings issues are cheap and often DIY on an electric oven with power confirmed off; anything gas (igniter, valve, a gas smell) and any 240V panel work goes to a licensed pro.",
   "commonCauses": [
     {
-      "cause": "Burned-out bake or broil heating element (electric ovens) \u2014 the coil goes open, so that element makes no heat at all. Very common; often the bake element dies while the broil element still works (or the reverse).",
+      "cause": "Burned-out bake or broil heating element (electric ovens): the coil goes open, so that element makes no heat at all. Very common; often the bake element dies while the broil element still works (or the reverse).",
       "likelihood": "most common",
       "quickCheck": "Turn on Bake and look: a healthy element glows bright orange evenly along its whole length within a few minutes. A break, blister, or an element that never glows is dead. If broil heats but bake doesn't, the bake element is the culprit."
     },
     {
-      "cause": "Weak or failed gas oven igniter (the glow-bar). The igniter must glow hot enough to draw the current that opens the gas safety valve. As it ages it weakens \u2014 it still glows dull orange but never gets hot enough to open the valve, so gas never lights: no heat, slow preheat, or weak heat.",
+      "cause": "Weak or failed gas oven igniter (the glow-bar). The igniter must glow hot enough to draw the current that opens the gas safety valve. As it ages it weakens; it still glows dull orange but never gets hot enough to open the valve, so gas never lights: no heat, slow preheat, or weak heat.",
       "likelihood": "most common",
-      "quickCheck": "Watch the igniter at startup. It should glow bright and the burner should light within about 90 seconds. If it glows dull for several minutes and the burner never catches (or barely does), the igniter is weak. If you smell gas at any point, stop \u2014 leave and call the utility from outside."
+      "quickCheck": "Watch the igniter at startup. It should glow bright and the burner should light within about 90 seconds. If it glows dull for several minutes and the burner never catches (or barely does), the igniter is weak. If you smell gas at any point, stop. Leave and call the utility from outside."
     },
     {
-      "cause": "Electric oven lost one leg of its 240V power \u2014 one half of the double-pole breaker tripped, a fuse blew, or an outlet/terminal lug burned. The clock, light, and controls run on 120V, so the panel looks alive, but the elements need the full 240V and stay cold.",
+      "cause": "Electric oven lost one leg of its 240V power: one half of the double-pole breaker tripped, a fuse blew, or an outlet/terminal lug burned. The clock, light, and controls run on 120V, so the panel looks alive, but the elements need the full 240V and stay cold.",
       "likelihood": "common",
       "quickCheck": "Display and light work but neither element gets hot? At the panel, flip the oven's double-pole breaker fully OFF then back ON. If heat doesn't return, or the breaker trips again, a lost leg or burned lug needs an electrician."
     },
     {
-      "cause": "Faulty oven temperature sensor (the thin metal RTD probe inside). A shorted or out-of-spec sensor tells the control board the oven is already hot, so the board never calls for heat \u2014 or cuts heat early, giving weak/inconsistent temps.",
+      "cause": "Faulty oven temperature sensor (the thin metal RTD probe inside). A shorted or out-of-spec sensor tells the control board the oven is already hot, so the board never calls for heat, or cuts heat early, giving weak/inconsistent temps.",
       "likelihood": "common",
       "quickCheck": "With power off at the breaker and confirmed dead, test the sensor's resistance with a multimeter; many read roughly 1080-1100 ohms near room temperature, but confirm your model's spec. An open reading or a value far off spec means replace it."
     },
     {
-      "cause": "Control board, bake relay, or a blown thermal cutoff (fuse) \u2014 the relay that switches power to the element/valve fails, or a one-time thermal fuse opened after an overheat, so nothing gets power despite a good element or igniter.",
+      "cause": "Control board, bake relay, or a blown thermal cutoff (fuse): the relay that switches power to the element/valve fails, or a one-time thermal fuse opened after an overheat, so nothing gets power despite a good element or igniter.",
       "likelihood": "less common",
       "quickCheck": "If the element/igniter, sensor, power, and settings all check out but there's still no heat, suspect the board/relay or a blown thermal cutoff. Board diagnosis is best left to a pro; a thermal cutoff can be tested for continuity with power off."
     },
     {
-      "cause": "It's a setting, not a fault \u2014 a Delay-Start or timed-bake is armed, Sabbath mode is on, the control lock is engaged, or only the timer/clock was set instead of Bake. The oven waits and never heats.",
+      "cause": "It's a setting, not a fault: a Delay-Start or timed-bake is armed, Sabbath mode is on, the control lock is engaged, or only the timer/clock was set instead of Bake. The oven waits and never heats.",
       "likelihood": "less common",
       "quickCheck": "Check the display for a delay/timer, Sabbath, or lock icon. Cancel everything, then explicitly select Bake at a temperature and confirm the heating indicator comes on."
     }
@@ -39,18 +39,18 @@
   "fixes": [
     "Check the free causes first. Cancel any Delay-Start or timed-bake, exit Sabbath mode, clear the control lock, and make sure you actually selected Bake at a temperature (not just the clock or timer). Confirm the oven is pushed fully in and plugged in / powered. This fixes a real share of 'dead' ovens with zero repair.",
     "Confirm the symptom with a standalone oven thermometer: set 350F, wait 20+ minutes, and read it. This tells you whether it's truly no-heat or just weak/slow heat, which points you at the right cause.",
-    "Electric, both elements dead: at the breaker panel, flip the oven's double-pole breaker fully OFF then back ON to reset a half-tripped breaker. If heat doesn't return or the breaker trips again, stop \u2014 a lost 240V leg or a burned outlet lug is an electrician's job, not a repeated reset.",
+    "Electric, both elements dead: at the breaker panel, flip the oven's double-pole breaker fully OFF then back ON to reset a half-tripped breaker. If heat doesn't return or the breaker trips again, stop: a lost 240V leg or a burned outlet lug is an electrician's job, not a repeated reset.",
     "Inspect and replace the bake/broil element (electric). First switch OFF the oven's dedicated breaker and confirm it's dead with a non-contact voltage tester, then look for breaks, blistering, or burn spots and watch whether it glows evenly when powered. A bake element is a $20-60 part, usually a couple of screws and push-on terminals, and is a doable DIY swap once power is confirmed OFF. If bake is dead but broil works (or the reverse), replace the dead element.",
-    "Test or replace the temperature sensor (electric or gas control side). With the breaker off and confirmed dead, unscrew the probe from the rear wall, unplug it, and meter it (many read roughly 1080-1100 ohms near room temperature \u2014 verify your model's spec). The part runs $10-40 and swaps in minutes.",
-    "Gas oven, weak or no ignition: if the igniter glows dull and the burner is slow to light or never lights, the igniter is worn and must be replaced. The igniter sits right at the gas burner assembly next to the gas valve \u2014 have a licensed appliance technician replace it, and never loosen or disturb the gas line yourself. If you smell gas at any time, leave the house and call your gas utility from outside.",
+    "Test or replace the temperature sensor (electric or gas control side). With the breaker off and confirmed dead, unscrew the probe from the rear wall, unplug it, and meter it (many read roughly 1080-1100 ohms near room temperature; verify your model's spec). The part runs $10-40 and swaps in minutes.",
+    "Gas oven, weak or no ignition: if the igniter glows dull and the burner is slow to light or never lights, the igniter is worn and must be replaced. The igniter sits right at the gas burner assembly next to the gas valve; have a licensed appliance technician replace it, and never loosen or disturb the gas line yourself. If you smell gas at any time, leave the house and call your gas utility from outside.",
     "If the element/igniter, sensor, power, and settings all check out but there's still no heat, suspect the control board / bake relay or a blown thermal cutoff. These are best diagnosed by a pro; boards are model-specific and can cost as much as the repair itself.",
     "When you're unsure or not equipped to test, call an appliance repair tech and give them the brand and full model number (on the door jamb or inside the door frame). Treat every internal gas repair as pro work."
   ],
-  "diyVsPro": "DIY is reasonable on an electric oven once the dedicated breaker is OFF and confirmed dead with a tester: clearing settings/lock/Sabbath mode, resetting the breaker once, and swapping the bake/broil element or the temperature sensor. Call a licensed appliance pro for anything on a gas oven \u2014 a weak or failed igniter, the gas valve, or any gas smell \u2014 and call an electrician for a lost 240V leg, a burned outlet/lug, or a breaker that keeps tripping. Control board, bake relay, and thermal-cutoff diagnosis are also pro work. If the oven is gas, treat internal repairs as pro-only; if you're ever unsure whether power is truly off, stop.",
+  "diyVsPro": "DIY is reasonable on an electric oven once the dedicated breaker is OFF and confirmed dead with a tester: clearing settings/lock/Sabbath mode, resetting the breaker once, and swapping the bake/broil element or the temperature sensor. Call a licensed appliance pro for anything on a gas oven (a weak or failed igniter, the gas valve, or any gas smell) and call an electrician for a lost 240V leg, a burned outlet/lug, or a breaker that keeps tripping. Control board, bake relay, and thermal-cutoff diagnosis are also pro work. If the oven is gas, treat internal repairs as pro-only; if you're ever unsure whether power is truly off, stop.",
   "typicalCostUSD": "DIY parts: standalone oven thermometer $7-15; bake or broil element $20-60; temperature sensor $10-40; gas igniter part $20-60 (but have it pro-installed). Pro: appliance service call typically $90-180, with common repairs (element, sensor, relay, board) landing $150-400 total parts + labor. Gas igniter or gas valve diagnosis and repair often $200-450+.",
   "timeEstimate": "Settings check and thermometer test: 20-45 minutes including a full preheat-and-measure cycle. DIY element or sensor replacement: 30-60 minutes with power off and confirmed dead. Pro visit: usually 1-2 hours, sometimes a second trip if a part (board, igniter) has to be ordered.",
   "safetyLevel": "caution",
-  "safetyNote": "Always cut power at the breaker (not just the knob or touchpad) before reaching inside an electric oven, and confirm it's dead with a non-contact voltage tester before touching any element, sensor, or wiring \u2014 electric ovens are commonly 240V, which can be lethal. Elements and the cavity stay hot long after use; let everything cool first. Never attempt repairs on a gas igniter, burner, or gas valve yourself \u2014 that goes to a licensed appliance pro. If you smell gas, do not touch switches or the oven; leave the house and call your gas utility from outside. A breaker that repeatedly trips means a wiring or short fault for an electrician, not another reset.",
+  "safetyNote": "Always cut power at the breaker (not just the knob or touchpad) before reaching inside an electric oven, and confirm it's dead with a non-contact voltage tester before touching any element, sensor, or wiring: electric ovens are commonly 240V, which can be lethal. Elements and the cavity stay hot long after use; let everything cool first. Never attempt repairs on a gas igniter, burner, or gas valve yourself; that goes to a licensed appliance pro. If you smell gas, do not touch switches or the oven; leave the house and call your gas utility from outside. A breaker that repeatedly trips means a wiring or short fault for an electrician, not another reset.",
   "toolsParts": [
     "Standalone oven thermometer",
     "Non-contact voltage tester (to confirm power is off)",

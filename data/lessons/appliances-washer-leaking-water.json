@@ -1,17 +1,17 @@
 {
   "slug": "appliances-washer-leaking-water",
   "system": "appliances",
-  "title": "Washing Machine Leaking Water \u2014 Causes & Fixes",
+  "title": "Washing Machine Leaking Water: Causes & Fixes",
   "question": "Why is my washing machine leaking water onto the floor?",
   "summary": "A washer that leaks onto the floor usually has a loose or worn fill hose, too much detergent or too big a load (oversudsing), a torn or debris-clogged door boot on a front-loader, or a backed-up drain. Most of these are cheap DIY fixes; a tub-seal or bearing leak and control-board faults are where you call an appliance pro.",
   "commonCauses": [
     {
-      "cause": "Loose, worn, or split fill/supply hose connection at the back of the washer \u2014 a bad rubber washer or an old rubber hose weeps or bursts. This is the most common leak and a top cause of major home water damage.",
+      "cause": "Loose, worn, or split fill/supply hose connection at the back of the washer: a bad rubber washer or an old rubber hose weeps or bursts. This is the most common leak and a top cause of major home water damage.",
       "likelihood": "most common",
       "quickCheck": "Feel the two supply-hose connections and the hoses themselves for wetness; look for crusty mineral buildup, bulging, or cracks in old rubber hoses. A puddle mostly behind the machine points here."
     },
     {
-      "cause": "Oversudsing \u2014 too much detergent, non-HE detergent in a high-efficiency (HE) washer, or an overloaded drum. Excess suds and sloshing push water out past the seals.",
+      "cause": "Oversudsing: too much detergent, non-HE detergent in a high-efficiency (HE) washer, or an overloaded drum. Excess suds and sloshing push water out past the seals.",
       "likelihood": "common",
       "quickCheck": "Did you use more than the marked line, or regular detergent in an HE machine? Run a rinse-only cycle; if you see a mound of suds, that is the cause."
     },
@@ -21,9 +21,9 @@
       "quickCheck": "Peel back the rubber gasket and look for tears, trapped objects, or gunk. A leak that appears at the front-bottom while it is washing points here."
     },
     {
-      "cause": "Clogged or overwhelmed drain \u2014 a plugged standpipe, or a drain hose that is loose, cracked, or shoved airtight to the bottom of the standpipe so water backs up and overflows.",
+      "cause": "Clogged or overwhelmed drain: a plugged standpipe, or a drain hose that is loose, cracked, or shoved airtight to the bottom of the standpipe so water backs up and overflows.",
       "likelihood": "common",
-      "quickCheck": "Does the leak happen only during drain/spin? Watch the standpipe \u2014 if it overflows or the drain hose is wet at its connection, the drain path is the problem."
+      "quickCheck": "Does the leak happen only during drain/spin? Watch the standpipe: if it overflows or the drain hose is wet at its connection, the drain path is the problem."
     },
     {
       "cause": "Clogged coin-trap / drain-pump filter or a cracked, leaking drain pump (common on front-loaders, which have an accessible filter).",
@@ -33,14 +33,14 @@
     {
       "cause": "Overfilling from a stuck water inlet valve or failed water-level (pressure) switch, or a worn tub seal/bearing leaking from the center underneath the tub.",
       "likelihood": "less common",
-      "quickCheck": "If the tub keeps filling past normal, suspect the inlet valve or level switch. If water drips from the center-bottom of the machine (not a hose), the tub seal/bearing is likely \u2014 that is a pro job."
+      "quickCheck": "If the tub keeps filling past normal, suspect the inlet valve or level switch. If water drips from the center-bottom of the machine (not a hose), the tub seal/bearing is likely; that is a pro job."
     }
   ],
   "fixes": [
-    "Find the leak first: put dry towels down, run a short cycle, and watch exactly where and when water appears \u2014 during fill, wash, or drain/spin. The timing tells you the cause. Unplug the washer before reaching behind or under it.",
+    "Find the leak first: put dry towels down, run a short cycle, and watch exactly where and when water appears, during fill, wash, or drain/spin. The timing tells you the cause. Unplug the washer before reaching behind or under it.",
     "Fix the detergent and load: use HE detergent (only the marked amount, often just 1-2 tablespoons) in an HE washer and stop overloading. Correct dosing stops oversudsing overflow with zero parts.",
     "Level the machine: a washer that rocks sloshes water and walks. Adjust the leveling feet until it sits solid and level, then re-run a load.",
-    "Check and tighten the fill hoses: shut off both water supply valves, look for wet or crusty connections, make sure each fitting has a seated rubber washer, and hand-tighten plus a quarter turn. Replace old rubber hoses with braided stainless-steel ones \u2014 they are cheap insurance against a burst that floods a room.",
+    "Check and tighten the fill hoses: shut off both water supply valves, look for wet or crusty connections, make sure each fitting has a seated rubber washer, and hand-tighten plus a quarter turn. Replace old rubber hoses with braided stainless-steel ones; they are cheap insurance against a burst that floods a room.",
     "Clean and inspect the door boot (front-loaders): peel back the rubber gasket, wipe the folds, remove coins/hair/debris, and run a clean cycle. If the boot is split or torn, replace it.",
     "Clear the drain path: make sure the drain hose is secured and not pushed airtight to the bottom of the standpipe (it needs an air gap so it can't back-siphon). Snake the standpipe if water backs up during drain.",
     "Clean the drain-pump filter / coin trap (front-loaders): open the small front access panel, set a shallow pan and towels underneath, unscrew the filter to clear lint and coins, then reseat it snugly.",
@@ -51,7 +51,7 @@
   "typicalCostUSD": "DIY parts: braided stainless-steel fill hoses $10-25 a pair; rubber hose washers $2-5; HE detergent a few dollars; front-load door boot gasket $30-120; drain pump $30-90; water inlet valve $20-60; water-level/pressure switch $15-50. Pro: service call $90-160; common repair $150-400 total including parts; tub seal/bearing replacement $300-500+, which may not be worth it on an older washer.",
   "timeEstimate": "Leak-hunting 15-30 min; detergent/leveling/hose fixes 15-40 min; door-boot cleaning ~15 min, full boot replacement 1-2 hrs; clearing a drain or standpipe 30-60 min; pump-filter cleaning 15-30 min; pro visit 1-2 hrs, sometimes a second trip if a part must be ordered.",
   "safetyLevel": "caution",
-  "safetyNote": "Unplug the washer and shut off both water supply valves before working on hoses, the pump filter, or any internal part \u2014 water and electricity together is a shock and slip hazard. Mop up standing water before you start, and if water has pooled near the outlet or power cord, cut power at the breaker before you step in. A washer runs on a standard 120V outlet (no gas or 240V involved here), but a wet floor around a plugged-in appliance can still shock you. Don't overtighten plastic hose fittings \u2014 snug plus a slight turn is enough, or you can crack them. Leave tub-seal/bearing teardown and control-board work to a licensed appliance pro.",
+  "safetyNote": "Unplug the washer and shut off both water supply valves before working on hoses, the pump filter, or any internal part: water and electricity together is a shock and slip hazard. Mop up standing water before you start, and if water has pooled near the outlet or power cord, cut power at the breaker before you step in. A washer runs on a standard 120V outlet (no gas or 240V involved here), but a wet floor around a plugged-in appliance can still shock you. Don't overtighten plastic hose fittings; snug plus a slight turn is enough, or you can crack them. Leave tub-seal/bearing teardown and control-board work to a licensed appliance pro.",
   "toolsParts": [
     "Braided stainless-steel fill hoses (to replace old rubber ones)",
     "New rubber hose washers",

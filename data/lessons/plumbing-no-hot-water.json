@@ -16,7 +16,7 @@
       "quickCheck": "On a standing-pilot unit, look through the small window at the base of the tank: no flame means the pilot is out, so try relighting per the label. Many newer units have a sealed chamber with an electronic igniter and no visible flame; for those, follow the label's lighting/diagnostic steps. A pilot that won't stay lit usually points to the thermocouple."
     },
     {
-      "cause": "Failed heating element (electric) \u2014 a 'lukewarm only' or 'runs out fast' symptom often means the lower element is dead",
+      "cause": "Failed heating element (electric): a 'lukewarm only' or 'runs out fast' symptom often means the lower element is dead",
       "likelihood": "common",
       "quickCheck": "If you get a little warm water that quickly goes cold, suspect the lower element. Confirming requires a multimeter continuity test with the breaker off."
     },

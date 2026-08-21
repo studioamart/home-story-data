@@ -2,16 +2,16 @@
   "slug": "hvac-humidifier-maintenance",
   "system": "hvac",
   "title": "Whole-House Furnace Humidifier Maintenance: Change the Water Panel and Set the Humidistat",
-  "question": "My furnace has a built-in whole-house humidifier. How do I service it for the season — change the water pad, set the humidity level, and keep it from growing mold or getting crusty with minerals?",
-  "summary": "A furnace-mounted bypass or flow-through humidifier needs three things each heating season: a fresh water panel (the pad is a yearly consumable, not something you just rinse), a cleaned-out interior and drain, and a correctly set humidistat. The mistake most people make is cranking the humidity too high — more is not better. Too much moisture fogs your windows, and that condensation can grow mold and rot hidden framing inside your walls. The right indoor level tracks the outdoor temperature: keep it roughly in the 30-45% band during heating season, turn it down as it gets colder outside, and lower it any time you see water beading on the windows.",
+  "question": "My furnace has a built-in whole-house humidifier. How do I service it for the season: change the water pad, set the humidity level, and keep it from growing mold or getting crusty with minerals?",
+  "summary": "A furnace-mounted bypass or flow-through humidifier needs three things each heating season: a fresh water panel (the pad is a yearly consumable, not something you just rinse), a cleaned-out interior and drain, and a correctly set humidistat. The mistake most people make is cranking the humidity too high; more is not better. Too much moisture fogs your windows, and that condensation can grow mold and rot hidden framing inside your walls. The right indoor level tracks the outdoor temperature: keep it roughly in the 30-45% band during heating season, turn it down as it gets colder outside, and lower it any time you see water beading on the windows.",
   "commonCauses": [
     {
       "cause": "The water panel (evaporator pad) is caked with hard mineral scale and no longer wicks water, so almost no moisture reaches the air.",
       "likelihood": "most common",
-      "quickCheck": "Open the humidifier cover and pull the panel — if it is stiff, crusty white with scale, or crumbling, it is spent and needs replacing, not cleaning."
+      "quickCheck": "Open the humidifier cover and pull the panel: if it is stiff, crusty white with scale, or crumbling, it is spent and needs replacing, not cleaning."
     },
     {
-      "cause": "The humidistat is set wrong for the weather — too high causes window condensation and mold; too low (or off) means you feel no benefit.",
+      "cause": "The humidistat is set wrong for the weather: too high causes window condensation and mold; too low (or off) means you feel no benefit.",
       "likelihood": "common",
       "quickCheck": "Check the dial and look at your windows on a cold morning: heavy fog or beads of water at the glass edges means the setting is too high for the outdoor temperature."
     },
@@ -28,28 +28,28 @@
     {
       "cause": "Standing water or a neglected pad has grown mold, slime, or bacteria (more likely on older drum-style units that hold a water reservoir).",
       "likelihood": "less common",
-      "quickCheck": "Look and smell inside the unit — black or pink slime, a musty odor, or a filmy water tray means it needs cleaning and a fresh panel."
+      "quickCheck": "Look and smell inside the unit: black or pink slime, a musty odor, or a filmy water tray means it needs cleaning and a fresh panel."
     }
   ],
   "fixes": [
-    "Set the thermostat to OFF so the blower can't start, then cut power to the furnace at its service switch — the humidifier's controls are powered from the furnace, so this de-energizes them too (if your humidifier has its own on/off switch, turn that off as well). This routine service does not require touching any wiring; if you ever do go near wires, confirm the power is dead with a non-contact voltage tester first. Then close the small saddle/supply valve on the water tube feeding the humidifier.",
-    "Open the humidifier cover and slide out the old water panel. Before it comes all the way out, note its orientation — Aprilaire and Honeywell panels are printed with markings like 'TOP' / 'AIR FLOW' or a colored stripe, and you'll set the new one the same way. Discard the old panel; it's a consumable, not something you rinse and reuse.",
+    "Set the thermostat to OFF so the blower can't start, then cut power to the furnace at its service switch: the humidifier's controls are powered from the furnace, so this de-energizes them too (if your humidifier has its own on/off switch, turn that off as well). This routine service does not require touching any wiring; if you ever do go near wires, confirm the power is dead with a non-contact voltage tester first. Then close the small saddle/supply valve on the water tube feeding the humidifier.",
+    "Open the humidifier cover and slide out the old water panel. Before it comes all the way out, note its orientation: Aprilaire and Honeywell panels are printed with markings like 'TOP' / 'AIR FLOW' or a colored stripe, and you'll set the new one the same way. Discard the old panel; it's a consumable, not something you rinse and reuse.",
     "Inspect the inside: the top distribution tray, the drain pan, and the water orifice/nozzle. Scoop out sediment and wipe scale away. For heavy mineral crust, soak removable plastic parts in a 50/50 white vinegar and water mix for 15-30 minutes, then scrub with an old toothbrush and rinse. Do not soak the electrical parts (the solenoid valve or the humidistat).",
-    "Flush the drain line: pour clean water through it and confirm it runs out freely at the floor drain or condensate pump, clearing any clog before you reassemble — a backed-up drain is what causes leaks and standing water. (Drainless evaporative models, such as the Aprilaire 400 series, have no drain line — skip this step.)",
-    "Install the correct new water panel for your model — for example an Aprilaire #35 for 600/700 units, #10 for 500-series, or #45 for the 400 series, or a Honeywell/Resideo HC26A; check your manual for the exact part. Seat it in the frame in the same orientation as the old one, matching the airflow/TOP markings printed on the panel.",
-    "Reopen the water supply valve. Watch the connections for drips and snug up gently only if one weeps — don't overtighten plastic fittings.",
+    "Flush the drain line: pour clean water through it and confirm it runs out freely at the floor drain or condensate pump, clearing any clog before you reassemble; a backed-up drain is what causes leaks and standing water. (Drainless evaporative models, such as the Aprilaire 400 series, have no drain line; skip this step.)",
+    "Install the correct new water panel for your model: for example an Aprilaire #35 for 600/700 units, #10 for 500-series, or #45 for the 400 series, or a Honeywell/Resideo HC26A; check your manual for the exact part. Seat it in the frame in the same orientation as the old one, matching the airflow/TOP markings printed on the panel.",
+    "Reopen the water supply valve. Watch the connections for drips and snug up gently only if one weeps; don't overtighten plastic fittings.",
     "Set the bypass damper (on the round duct linking the supply and return) to the WINTER/heat position. In spring you'll flip it back to summer.",
-    "Restore power to the furnace, set the thermostat to call for heat (above room temperature so the furnace actually runs), and turn the humidistat up so it calls for moisture. Once the blower is running, within a minute or two you should hear the solenoid click open and see water trickle evenly down the panel and drain away — that's what 'working' looks like.",
-    "Set the humidistat for the weather: start around 35-40%. As it gets colder outside, dial it down (roughly 40% near freezing, 30% in the teens, 25% or less below zero). If windows fog or bead up, it's set too high — lower it a notch.",
+    "Restore power to the furnace, set the thermostat to call for heat (above room temperature so the furnace actually runs), and turn the humidistat up so it calls for moisture. Once the blower is running, within a minute or two you should hear the solenoid click open and see water trickle evenly down the panel and drain away; that's what 'working' looks like.",
+    "Set the humidistat for the weather: start around 35-40%. As it gets colder outside, dial it down (roughly 40% near freezing, 30% in the teens, 25% or less below zero). If windows fog or bead up, it's set too high; lower it a notch.",
     "Verify with an inexpensive hygrometer placed in a main living area; aim to hold the home in the 30-50% range and never above it for long.",
     "Write the date on the new panel or set a phone reminder: replace the panel every heating season, and in spring shut off the water, turn the humidistat to off, and flip the damper to summer so nothing sits wet through the cooling months.",
     "If you find mold covering more than about 10 square feet (roughly a 3 ft by 3 ft patch), a persistent musty smell, or moisture damage on walls, ceilings, or window framing, stop and bring in a pro rather than just wiping it (EPA guidance)."
   ],
-  "diyVsPro": "Routine service — swapping the water panel, cleaning the tray and drain, and setting the humidistat and damper — is well within DIY reach and takes under an hour, and it touches no wiring or gas. Call a licensed HVAC pro if: the humidifier needs a new solenoid valve, transformer, water valve, or control board (that means disconnecting 24V wiring and the water line); there's a water leak you can't trace or stop; you find mold bigger than roughly 10 square feet, a whole-home musty smell, or signs of moisture damage inside walls or ceilings; the unit isn't installed yet (adding one means cutting ductwork plus a water and 24V electrical tie-in — pro work); or the furnace itself is misbehaving. When in doubt about wiring or water damage, don't guess.",
+  "diyVsPro": "Routine service (swapping the water panel, cleaning the tray and drain, and setting the humidistat and damper) is well within DIY reach and takes under an hour, and it touches no wiring or gas. Call a licensed HVAC pro if: the humidifier needs a new solenoid valve, transformer, water valve, or control board (that means disconnecting 24V wiring and the water line); there's a water leak you can't trace or stop; you find mold bigger than roughly 10 square feet, a whole-home musty smell, or signs of moisture damage inside walls or ceilings; the unit isn't installed yet (adding one means cutting ductwork plus a water and 24V electrical tie-in, a pro job); or the furnace itself is misbehaving. When in doubt about wiring or water damage, don't guess.",
   "typicalCostUSD": "DIY: about $15-40 (a replacement water panel is typically $10-25, plus vinegar and a brush). Pro maintenance visit or a humidifier service bundled into an annual HVAC tune-up: roughly $80-200. Replacing a failed solenoid valve or control by a pro: about $150-350 with parts and labor.",
   "timeEstimate": "20-45 minutes for a seasonal service once you've done it once; add time the first time to find your model's parts.",
   "safetyLevel": "low",
-  "safetyNote": "Low hazard, but respect a few things. Water and electricity sit close together here, so before you open the cabinet, set the thermostat to OFF and cut power to the furnace at its service switch so the blower and the humidifier's 24V controls are dead. This routine service does not require touching any wiring; if you ever do go near the humidistat or solenoid wiring, confirm it's dead with a non-contact voltage tester first — and leave solenoid/valve/control replacement to a pro. Don't open the furnace's electrical panel or touch the gas burner assembly — that's not part of this job; if the furnace itself needs work, that's a pro. If you ever smell gas near the furnace, leave the house and call your gas utility or 911 from outside — do not flip switches or do anything that could create a spark. Wear gloves when cleaning the tray and pad, since standing water in a humidifier can harbor mold and bacteria. Clean only small amounts of mold; if it covers more than about 10 square feet (roughly a 3 ft by 3 ft patch), smells musty throughout, or shows water damage, hire a professional (EPA guidance). Never run indoor humidity so high that windows fog persistently — that trapped moisture is what breeds mold and rots framing.",
+  "safetyNote": "Low hazard, but respect a few things. Water and electricity sit close together here, so before you open the cabinet, set the thermostat to OFF and cut power to the furnace at its service switch so the blower and the humidifier's 24V controls are dead. This routine service does not require touching any wiring; if you ever do go near the humidistat or solenoid wiring, confirm it's dead with a non-contact voltage tester first, and leave solenoid/valve/control replacement to a pro. Don't open the furnace's electrical panel or touch the gas burner assembly: that's not part of this job; if the furnace itself needs work, that's a pro. If you ever smell gas near the furnace, leave the house and call your gas utility or 911 from outside; do not flip switches or do anything that could create a spark. Wear gloves when cleaning the tray and pad, since standing water in a humidifier can harbor mold and bacteria. Clean only small amounts of mold; if it covers more than about 10 square feet (roughly a 3 ft by 3 ft patch), smells musty throughout, or shows water damage, hire a professional (EPA guidance). Never run indoor humidity so high that windows fog persistently: that trapped moisture is what breeds mold and rots framing.",
   "toolsParts": [
     "Replacement water panel / evaporator pad for your exact model (e.g., Aprilaire #35, #10, or #45; Honeywell/Resideo HC26A)",
     "Your humidifier's owner or installation manual (for part number, damper, and orientation)",
@@ -62,7 +62,7 @@
     "Shop vacuum for sediment",
     "Flashlight or headlamp",
     "Digital hygrometer to verify indoor humidity",
-    "Replacement solenoid valve or water orifice (only if the old one is clogged or failed — wiring/valve swap is pro-level)"
+    "Replacement solenoid valve or water orifice (only if the old one is clogged or failed; wiring/valve swap is pro-level)"
   ],
   "searchTerms": [
     "how to change furnace humidifier water panel",
@@ -75,10 +75,10 @@
     "humidistat settings by outdoor temperature"
   ],
   "sources": [
-    "U.S. Environmental Protection Agency (EPA) — indoor humidity 30-50% guidance and mold cleanup (areas over ~10 sq ft warrant a professional)",
-    "U.S. Department of Energy (DOE) — home humidity control and HVAC maintenance",
-    "ENERGY STAR — HVAC system maintenance guidance",
-    "Manufacturer installation and maintenance instructions (Aprilaire, Honeywell/Resideo) — correct water panel part, damper, and humidistat settings"
+    "U.S. Environmental Protection Agency (EPA): indoor humidity 30-50% guidance and mold cleanup (areas over ~10 sq ft warrant a professional)",
+    "U.S. Department of Energy (DOE): home humidity control and HVAC maintenance",
+    "ENERGY STAR: HVAC system maintenance guidance",
+    "Manufacturer installation and maintenance instructions (Aprilaire, Honeywell/Resideo): correct water panel part, damper, and humidistat settings"
   ],
   "disclaimer": "This is general home-maintenance guidance, not professional advice; always follow your humidifier and furnace manufacturer's instructions, and consult a licensed HVAC pro for wiring, water leaks, gas, or mold concerns.",
   "verified": false,

@@ -2,8 +2,8 @@
   "slug": "yard-window-well-drainage",
   "system": "yard",
   "title": "Basement Window Well Fills With Water or Leaks During Rain: How to Fix the Drainage",
-  "question": "My basement window well fills up with water every time it rains and it's starting to leak into the basement — how do I get it to drain and stop the leak?",
-  "summary": "A window well is a below-grade basin, so it only stays dry if water can escape out the bottom AND surface water is steered away from it. Most people just bolt on a cover and stop there, but a cover alone won't fix a clogged or missing bottom drain, soil that slopes toward the house, or a downspout dumping right next to the well. The real fix is a three-part combination: a working gravel drain at the bottom of the well, positive grading and redirected downspouts to keep rain away, and a cover to block direct rainfall and debris. If water still pools after all three, the buried footing drain has likely failed or the water table is high — that's a pro job.",
+  "question": "My basement window well fills up with water every time it rains and it's starting to leak into the basement. How do I get it to drain and stop the leak?",
+  "summary": "A window well is a below-grade basin, so it only stays dry if water can escape out the bottom AND surface water is steered away from it. Most people just bolt on a cover and stop there, but a cover alone won't fix a clogged or missing bottom drain, soil that slopes toward the house, or a downspout dumping right next to the well. The real fix is a three-part combination: a working gravel drain at the bottom of the well, positive grading and redirected downspouts to keep rain away, and a cover to block direct rainfall and debris. If water still pools after all three, the buried footing drain has likely failed or the water table is high; that's a pro job.",
   "commonCauses": [
     {
       "cause": "No working drain at the bottom of the well (never installed, or the gravel drain is clogged with silt, leaves, and mud so water can't escape into the foundation's footing drain)",
@@ -13,12 +13,12 @@
     {
       "cause": "No cover, so rain, roof runoff, and leaves fall straight into the open well and overwhelm it",
       "likelihood": "common",
-      "quickCheck": "Look at the well after a rain — if it's full of wet leaves and standing water and there's no cover, uncovered exposure is a major contributor."
+      "quickCheck": "Look at the well after a rain: if it's full of wet leaves and standing water and there's no cover, uncovered exposure is a major contributor."
     },
     {
       "cause": "Negative grading or a downspout discharging next to the foundation, funneling surface water toward the well",
       "likelihood": "most common",
-      "quickCheck": "Set a 4-ft level on the soil next to the well and check the slope. Ground should fall away from the house. Also trace nearby downspouts — if one empties within a few feet of the well, that's the source."
+      "quickCheck": "Set a 4-ft level on the soil next to the well and check the slope. Ground should fall away from the house. Also trace nearby downspouts: if one empties within a few feet of the well, that's the source."
     },
     {
       "cause": "Failed window seal, cracked window, or bad caulk that lets even shallow standing water seep through the frame",
@@ -28,26 +28,26 @@
     {
       "cause": "Failed foundation footing (perimeter) drain or a high water table pushing groundwater up into the well from below",
       "likelihood": "less common",
-      "quickCheck": "If the well fills or the basement leaks even during dry spells, or after grading, a cover, and a clean bottom drain are all in place, the problem is below grade — a pro diagnosis (exterior excavation or interior drain tile/sump) is needed."
+      "quickCheck": "If the well fills or the basement leaks even during dry spells, or after grading, a cover, and a clean bottom drain are all in place, the problem is below grade; a pro diagnosis (exterior excavation or interior drain tile/sump) is needed."
     }
   ],
   "fixes": [
     "Bail or pump out the standing water and scoop out all leaves, mud, and silt until you reach the gravel or bare soil at the bottom of the well. A wet/dry shop vac makes this fast.",
-    "Find and test the drain: dig down a few inches at the lowest corner to expose the gravel bed and any drain opening. Pour a bucket of water in and watch — quick drainage means the drain works and just needed cleaning; standing water means it's clogged or was never built.",
+    "Find and test the drain: dig down a few inches at the lowest corner to expose the gravel bed and any drain opening. Pour a bucket of water in and watch: quick drainage means the drain works and just needed cleaning; standing water means it's clogged or was never built.",
     "If a drain exists but is clogged, flush it with a hose and run a drain snake/auger down the vertical pipe to clear silt back to the footing drain or daylight outlet.",
-    "If there is no drain, create a gravel drain at the low point of the well: dig down at the well's lowest corner to reach the foundation's footing drain, line the hole with landscape fabric, and backfill with clean 3/4-inch drainage gravel so water has a path down and out. Do NOT dig a deep, unsupported hole tight against the foundation — the soil can cave in and you can undermine the footing. If the footing drain is more than a foot or two down, or you can't safely reach it, stop and either tie into a small dry well / drainage basin set below the well bottom or call a drainage pro.",
-    "Regrade the soil around the well and foundation so it falls away from the house — aim for about a 6-inch drop over the first 10 feet (the IRC surface-drainage minimum). Tamp the soil so it doesn't settle back into a puddle.",
+    "If there is no drain, create a gravel drain at the low point of the well: dig down at the well's lowest corner to reach the foundation's footing drain, line the hole with landscape fabric, and backfill with clean 3/4-inch drainage gravel so water has a path down and out. Do NOT dig a deep, unsupported hole tight against the foundation; the soil can cave in and you can undermine the footing. If the footing drain is more than a foot or two down, or you can't safely reach it, stop and either tie into a small dry well / drainage basin set below the well bottom or call a drainage pro.",
+    "Regrade the soil around the well and foundation so it falls away from the house: aim for about a 6-inch drop over the first 10 feet (the IRC surface-drainage minimum). Tamp the soil so it doesn't settle back into a puddle.",
     "Redirect roof water: add downspout extensions or a buried drain line so every nearby downspout discharges at least 4-6 feet away from the foundation and the well, never beside it.",
     "Reseal the window: scrape out old, cracked caulk and re-caulk the frame with exterior-grade sealant, replace worn weatherstripping, and replace the window if the frame is rotted or cracked.",
     "Measure the well and install a rigid clear polycarbonate cover sized to fit, anchored to the foundation with masonry screws/clips. Clear lets light in; a slight dome or slope sheds rain. Keep it removable from the inside for egress on any bedroom window.",
     "If loose soil keeps washing into the well, add or reset a corrugated metal or composite well liner so the walls hold and debris stays out.",
-    "Flood-test the finished job with a garden hose for several minutes, then watch the bottom drain and check the basement interior for any seepage. Confirm again during the next real rain — a dry well and a dry basement wall is what 'done' looks like."
+    "Flood-test the finished job with a garden hose for several minutes, then watch the bottom drain and check the basement interior for any seepage. Confirm again during the next real rain; a dry well and a dry basement wall is what 'done' looks like."
   ],
-  "diyVsPro": "DIY is reasonable for cleaning out the well, clearing or adding a shallow gravel drain, regrading the soil, extending downspouts, re-caulking the window, and fitting a cover — all above-grade, low-risk work. Stop and call a licensed pro (foundation/waterproofing or drainage contractor) if: water keeps filling the well or leaking into the basement AFTER a cover, positive grading, and a clean bottom drain are all in place (that points to a failed footing drain or high water table needing exterior excavation or an interior drain-tile-and-sump system); you'd have to dig a deep hole against the foundation or tie into the buried perimeter drain; there are foundation cracks with active water entry; or there's more than about 10 square feet of mold. Also call an electrician for any outlet or wiring near the wet well.",
+  "diyVsPro": "DIY is reasonable for cleaning out the well, clearing or adding a shallow gravel drain, regrading the soil, extending downspouts, re-caulking the window, and fitting a cover, all above-grade, low-risk work. Stop and call a licensed pro (foundation/waterproofing or drainage contractor) if: water keeps filling the well or leaking into the basement AFTER a cover, positive grading, and a clean bottom drain are all in place (that points to a failed footing drain or high water table needing exterior excavation or an interior drain-tile-and-sump system); you'd have to dig a deep hole against the foundation or tie into the buried perimeter drain; there are foundation cracks with active water entry; or there's more than about 10 square feet of mold. Also call an electrician for any outlet or wiring near the wet well.",
   "typicalCostUSD": "DIY: a clear polycarbonate cover runs about $30-150; gravel, landscape fabric, drain pipe, caulk, and downspout extensions add roughly $50-300. Pro window well drain install: about $500-2,500 per well. If the underlying fix is a failed footing drain or a new interior drain-tile-and-sump system, expect roughly $3,000-15,000 depending on scope.",
   "timeEstimate": "Cleaning, grading, downspout extensions, and a cover: a half-day to a full day (2-6 hours). Adding or rebuilding a gravel drain: about 1 day per well. Full footing-drain or interior drain-tile work by a contractor: 1-3+ days.",
   "safetyLevel": "caution",
-  "safetyNote": "Call 811 (or your local utility-locate service) a few business days before any digging near the foundation — buried gas, electric, and water lines are shallow and hitting one is dangerous. Standing water plus electricity is a shock risk: if any outlet, light, or wiring is near or in the well, shut off that circuit at the breaker and verify it's dead with a tester before working in the water. Do not dig deep, unsupported holes against the foundation — the soil can cave in on you and you can undermine the footing; keep DIY digging shallow and hand off any deep excavation against the foundation to a pro. Window-well liners and covers can be heavy and have sharp edges — wear gloves and lift with help. Water intrusion breeds mold: anything larger than about 10 square feet, or mold in HVAC, should be handled by a professional, and wear an N95 and gloves for smaller cleanups. Keep any bedroom window-well cover openable from inside for emergency egress — never permanently seal it.",
+  "safetyNote": "Call 811 (or your local utility-locate service) a few business days before any digging near the foundation: buried gas, electric, and water lines are shallow and hitting one is dangerous. Standing water plus electricity is a shock risk: if any outlet, light, or wiring is near or in the well, shut off that circuit at the breaker and verify it's dead with a tester before working in the water. Do not dig deep, unsupported holes against the foundation: the soil can cave in on you and you can undermine the footing; keep DIY digging shallow and hand off any deep excavation against the foundation to a pro. Window-well liners and covers can be heavy and have sharp edges; wear gloves and lift with help. Water intrusion breeds mold: anything larger than about 10 square feet, or mold in HVAC, should be handled by a professional, and wear an N95 and gloves for smaller cleanups. Keep any bedroom window-well cover openable from inside for emergency egress; never permanently seal it.",
   "toolsParts": [
     "Wet/dry shop vac or bucket and hand pump",
     "Work gloves and safety glasses",
@@ -77,10 +77,10 @@
     "water in window well after heavy rain"
   ],
   "sources": [
-    "International Residential Code (IRC) — R401.3 surface drainage (about 6 in. of fall within the first 10 ft) and R405 foundation drainage",
-    "U.S. EPA — Mold Remediation / A Brief Guide to Mold, Moisture and Your Home (professional help for areas larger than ~10 sq ft)",
-    "FEMA — homeowner guidance on foundation grading and drainage to keep water away from the house",
-    "Common Ground Alliance / Call 811 — call-before-you-dig utility locating",
+    "International Residential Code (IRC): R401.3 surface drainage (about 6 in. of fall within the first 10 ft) and R405 foundation drainage",
+    "U.S. EPA: Mold Remediation / A Brief Guide to Mold, Moisture and Your Home (professional help for areas larger than ~10 sq ft)",
+    "FEMA: homeowner guidance on foundation grading and drainage to keep water away from the house",
+    "Common Ground Alliance / Call 811: call-before-you-dig utility locating",
     "Window well and window-well-cover manufacturer installation instructions"
   ],
   "disclaimer": "This is general home-maintenance guidance, not a substitute for professional inspection; local codes, soil, and site conditions vary, so consult a licensed contractor for structural, drainage, or electrical concerns.",

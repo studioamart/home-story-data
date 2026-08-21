@@ -2,7 +2,7 @@
   "app": "home",
   "schema": 1,
   "generatedAt": "2026-06-23T03:56:38Z",
-  "disclaimer": "General information compiled from public sources, for reference only — not professional advice and not reviewed by licensed experts. Verify before acting; Team AM is not liable.",
+  "disclaimer": "General information compiled from public sources, for reference only, not professional advice and not reviewed by licensed experts. Verify before acting; Team AM is not liable.",
   "source": "researched (see per-topic sources)",
   "topics": [
     {
@@ -13,7 +13,7 @@
       "tags": ["hvac", "seasonal", "efficiency"],
       "severity": "info",
       "sources": [
-        { "name": "ENERGY STAR — HVAC Maintenance Checklist", "url": "https://www.energystar.gov/saveathome/heating-cooling/maintenance-checklist" }
+        { "name": "ENERGY STAR: HVAC Maintenance Checklist", "url": "https://www.energystar.gov/saveathome/heating-cooling/maintenance-checklist" }
       ]
     },
     {
@@ -24,7 +24,7 @@
       "tags": ["hvac", "cooling", "seasonal"],
       "severity": "info",
       "sources": [
-        { "name": "DOE — Maintaining Your Air Conditioner", "url": "https://www.energy.gov/energysaver/maintaining-your-air-conditioner" }
+        { "name": "DOE: Maintaining Your Air Conditioner", "url": "https://www.energy.gov/energysaver/maintaining-your-air-conditioner" }
       ]
     },
     {
@@ -35,7 +35,7 @@
       "tags": ["water-heater", "efficiency", "safety"],
       "severity": "attention",
       "sources": [
-        { "name": "DOE — Lower Water Heating Temperature", "url": "https://www.energy.gov/energysaver/do-it-yourself-savings-project-lower-water-heating-temperature" }
+        { "name": "DOE: Lower Water Heating Temperature", "url": "https://www.energy.gov/energysaver/do-it-yourself-savings-project-lower-water-heating-temperature" }
       ]
     },
     {
@@ -46,18 +46,18 @@
       "tags": ["water-heater", "plumbing", "maintenance"],
       "severity": "info",
       "sources": [
-        { "name": "DOE — Solar Water Heating System Maintenance and Repair", "url": "https://www.energy.gov/energysaver/solar-water-heating-system-maintenance-and-repair" }
+        { "name": "DOE: Solar Water Heating System Maintenance and Repair", "url": "https://www.energy.gov/energysaver/solar-water-heating-system-maintenance-and-repair" }
       ]
     },
     {
       "id": "winterize-pipes",
       "title": "Protect pipes before a hard freeze",
       "summary": "Insulate exposed pipes, let a faucet drip, and open cabinets so warm air reaches the plumbing.",
-      "detail": "The American Red Cross recommends insulating exposed pipes with pipe sleeves or UL-listed heat tape, and letting cold water drip from faucets served by exposed pipes during very cold weather — even a trickle helps prevent freezing. Open kitchen and bathroom cabinet doors so warm air can circulate around the plumbing. Frozen pipes can burst and cause major water damage.",
+      "detail": "The American Red Cross recommends insulating exposed pipes with pipe sleeves or UL-listed heat tape, and letting cold water drip from faucets served by exposed pipes during very cold weather. Even a trickle helps prevent freezing. Open kitchen and bathroom cabinet doors so warm air can circulate around the plumbing. Frozen pipes can burst and cause major water damage.",
       "tags": ["plumbing", "winterization", "seasonal"],
       "severity": "attention",
       "sources": [
-        { "name": "American Red Cross — Preventing & Thawing Frozen Pipes", "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html" }
+        { "name": "American Red Cross: Preventing & Thawing Frozen Pipes", "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html" }
       ]
     },
     {
@@ -68,7 +68,7 @@
       "tags": ["plumbing", "winterization", "seasonal"],
       "severity": "attention",
       "sources": [
-        { "name": "American Red Cross — Preventing & Thawing Frozen Pipes", "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html" }
+        { "name": "American Red Cross: Preventing & Thawing Frozen Pipes", "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html" }
       ]
     },
     {
@@ -79,7 +79,7 @@
       "tags": ["insulation", "efficiency", "weatherization"],
       "severity": "info",
       "sources": [
-        { "name": "ENERGY STAR — Recommended Home Insulation R-Values", "url": "https://www.energystar.gov/saveathome/seal_insulate/identify-problems-you-want-fix/diy-checks-inspections/insulation-r-values" }
+        { "name": "ENERGY STAR: Recommended Home Insulation R-Values", "url": "https://www.energystar.gov/saveathome/seal_insulate/identify-problems-you-want-fix/diy-checks-inspections/insulation-r-values" }
       ]
     },
     {
@@ -90,7 +90,7 @@
       "tags": ["gutters", "roof", "water-damage", "seasonal"],
       "severity": "attention",
       "sources": [
-        { "name": "This Old House — How to Clean Your Gutters Safely", "url": "https://www.thisoldhouse.com/gutters/how-to-clean-gutters" }
+        { "name": "This Old House: How to Clean Your Gutters Safely", "url": "https://www.thisoldhouse.com/gutters/how-to-clean-gutters" }
       ]
     },
     {
@@ -101,7 +101,7 @@
       "tags": ["roof", "maintenance", "seasonal"],
       "severity": "info",
       "sources": [
-        { "name": "This Old House — Guide to Roof Inspections", "url": "https://www.thisoldhouse.com/roofing/what-is-a-roof-inspection" }
+        { "name": "This Old House: Guide to Roof Inspections", "url": "https://www.thisoldhouse.com/roofing/what-is-a-roof-inspection" }
       ]
     },
     {
@@ -112,8 +112,8 @@
       "tags": ["fire-safety", "dryer", "safety"],
       "severity": "safety",
       "sources": [
-        { "name": "FEMA U.S. Fire Administration — Clothes Dryer Fire Safety", "url": "https://www.usfa.fema.gov/downloads/pdf/publications/clothes_dryer_fire_safety_flyer.pdf" },
-        { "name": "NFPA — Clothes Dryer Safety Tip Sheet", "url": "https://www.nfpa.org/downloadable-resources/safety-tip-sheets/clothes-dryer-safety-tip-sheet" }
+        { "name": "FEMA U.S. Fire Administration: Clothes Dryer Fire Safety", "url": "https://www.usfa.fema.gov/downloads/pdf/publications/clothes_dryer_fire_safety_flyer.pdf" },
+        { "name": "NFPA: Clothes Dryer Safety Tip Sheet", "url": "https://www.nfpa.org/downloadable-resources/safety-tip-sheets/clothes-dryer-safety-tip-sheet" }
       ]
     },
     {
@@ -124,7 +124,7 @@
       "tags": ["radon", "indoor-air", "safety", "health"],
       "severity": "safety",
       "sources": [
-        { "name": "EPA — What is EPA's Action Level for Radon?", "url": "https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean" }
+        { "name": "EPA: What is EPA's Action Level for Radon?", "url": "https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean" }
       ]
     },
     {
@@ -135,7 +135,7 @@
       "tags": ["fire-safety", "carbon-monoxide", "safety"],
       "severity": "safety",
       "sources": [
-        { "name": "NFPA — Installing and Maintaining Smoke Alarms", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/smoke-alarms/installing-and-maintaining-smoke-alarms" }
+        { "name": "NFPA: Installing and Maintaining Smoke Alarms", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/smoke-alarms/installing-and-maintaining-smoke-alarms" }
       ]
     }
   ]

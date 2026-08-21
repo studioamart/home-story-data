@@ -1,7 +1,7 @@
 {
   "slug": "hvac-ac-freezing",
   "system": "hvac",
-  "title": "Why Your AC Is Freezing Up (Ice on the Unit) \u2014 Causes & Fixes",
+  "title": "Why Your AC Is Freezing Up (Ice on the Unit): Causes & Fixes",
   "question": "Why is my air conditioner freezing up with ice and not cooling?",
   "summary": "Your AC freezes when something starves the indoor coil of warm airflow or refrigerant, so the coil drops below 32\u00b0F and condensation turns to ice. The two most common culprits are a dirty air filter and a dirty/blocked coil; the fastest cure is to switch cooling off, run the fan to thaw it, and restore airflow.",
   "commonCauses": [
@@ -18,7 +18,7 @@
     {
       "cause": "Low refrigerant from a leak (drops coil pressure and temperature)",
       "likelihood": "common",
-      "quickCheck": "Ice on the larger insulated copper line at the outdoor unit, hissing/bubbling sounds, or cooling that has gradually weakened over weeks point to a leak \u2014 a pro must confirm."
+      "quickCheck": "Ice on the larger insulated copper line at the outdoor unit, hissing/bubbling sounds, or cooling that has gradually weakened over weeks point to a leak; a pro must confirm."
     },
     {
       "cause": "Running the AC when it's too cold outside (roughly below 60\u00b0F)",
@@ -38,19 +38,19 @@
   ],
   "fixes": [
     "Switch the thermostat from COOL to OFF immediately, and set the FAN to ON. Running the blower with cooling off melts the ice fastest and protects the compressor. A full thaw takes anywhere from 1 to 24 hours depending on how much ice formed.",
-    "Put towels around the indoor air handler/furnace and watch the condensate pan \u2014 melting ice can overflow and cause water damage.",
+    "Put towels around the indoor air handler/furnace and watch the condensate pan; melting ice can overflow and cause water damage.",
     "While it thaws, replace the air filter with a new one of the correct size (the dimensions are printed on the old filter's frame). A standard MERV 8-11 filter is a safe choice; very dense 'allergen' or HEPA-style filters can restrict airflow and cause this exact freeze-up.",
     "Open every supply register and clear furniture, rugs, or boxes off all return and supply vents so the system can move air freely.",
-    "Once fully thawed and dry, set the thermostat back to COOL at a normal setpoint and let it run. Feel the vents after 15-20 minutes \u2014 you should get a steady stream of cold air with no new ice forming.",
-    "If it re-freezes with a clean filter and open vents, shut off power at the outdoor disconnect box (or the breaker) first, then gently rinse the outdoor condenser coil \u2014 spray from the inside out with a regular garden hose on a gentle setting (never a pressure washer, which bends the fins) and clear leaves and grass from around the unit.",
-    "If the indoor evaporator coil is visibly dirty, a no-rinse foaming evaporator coil cleaner can help, but reaching it usually means removing panels near electrical and the blower \u2014 many homeowners call a pro for this.",
-    "If ice keeps returning after airflow is confirmed good, stop running it and call an HVAC technician. This almost always means low refrigerant (a leak) or a failed metering device \u2014 neither is a DIY fix, and running a starved system can damage the compressor."
+    "Once fully thawed and dry, set the thermostat back to COOL at a normal setpoint and let it run. Feel the vents after 15-20 minutes: you should get a steady stream of cold air with no new ice forming.",
+    "If it re-freezes with a clean filter and open vents, shut off power at the outdoor disconnect box (or the breaker) first, then gently rinse the outdoor condenser coil: spray from the inside out with a regular garden hose on a gentle setting (never a pressure washer, which bends the fins) and clear leaves and grass from around the unit.",
+    "If the indoor evaporator coil is visibly dirty, a no-rinse foaming evaporator coil cleaner can help, but reaching it usually means removing panels near electrical and the blower; many homeowners call a pro for this.",
+    "If ice keeps returning after airflow is confirmed good, stop running it and call an HVAC technician. This almost always means low refrigerant (a leak) or a failed metering device; neither is a DIY fix, and running a starved system can damage the compressor."
   ],
-  "diyVsPro": "DIY is fine for thawing, swapping the filter, clearing vents, and rinsing the outdoor condenser coil (power off first) \u2014 these solve most freeze-ups. Call a licensed HVAC pro if the unit re-freezes after airflow is restored, if you see ice on the insulated copper line at the outdoor unit, if cooling is weak across the whole house, or if you suspect a refrigerant leak. Refrigerant work is EPA Section 608 regulated and legally requires a certified technician \u2014 never add refrigerant yourself.",
+  "diyVsPro": "DIY is fine for thawing, swapping the filter, clearing vents, and rinsing the outdoor condenser coil (power off first); these solve most freeze-ups. Call a licensed HVAC pro if the unit re-freezes after airflow is restored, if you see ice on the insulated copper line at the outdoor unit, if cooling is weak across the whole house, or if you suspect a refrigerant leak. Refrigerant work is EPA Section 608 regulated and legally requires a certified technician. Never add refrigerant yourself.",
   "typicalCostUSD": "DIY: $5-$30 for a filter, $10-$25 for coil cleaner. Pro service call/diagnosis: $90-$200. Coil cleaning by a pro: $100-$400. Refrigerant leak repair plus recharge: $200-$1,500+ depending on leak location; a failed TXV/metering valve typically runs $350-$800; a full evaporator coil replacement can hit $1,000-$2,500.",
   "timeEstimate": "Thawing: 1-24 hours (often 3-8). Filter swap and clearing vents: 10-15 minutes. Rinsing the outdoor coil: 30-45 minutes. A pro diagnosis visit is typically 1-2 hours.",
   "safetyLevel": "caution",
-  "safetyNote": "Never chip or scrape ice off the coil or copper lines \u2014 you can puncture them and release refrigerant or cause an expensive repair; let it melt naturally. Before touching or rinsing the outdoor unit, shut off power at the nearby disconnect box or the breaker (the fan and compressor carry 240V). Use a regular garden hose, never a pressure washer, which will bend the fins. Watch for water overflow from the condensate pan during thaw. If you ever smell something acrid or see oily residue near the lines (signs of a refrigerant leak), ventilate the area and call a pro rather than handling it yourself.",
+  "safetyNote": "Never chip or scrape ice off the coil or copper lines: you can puncture them and release refrigerant or cause an expensive repair; let it melt naturally. Before touching or rinsing the outdoor unit, shut off power at the nearby disconnect box or the breaker (the fan and compressor carry 240V). Use a regular garden hose, never a pressure washer, which will bend the fins. Watch for water overflow from the condensate pan during thaw. If you ever smell something acrid or see oily residue near the lines (signs of a refrigerant leak), ventilate the area and call a pro rather than handling it yourself.",
   "toolsParts": [
     "New HVAC air filter (correct size, MERV 8-11)",
     "Garden hose with a gentle spray nozzle",

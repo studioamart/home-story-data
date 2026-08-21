@@ -1,14 +1,14 @@
 {
   "slug": "exterior-ice-dam-prevention",
   "system": "exterior",
-  "title": "Ice Dams at the Roof Eaves \u2014 Causes & Fixes",
+  "title": "Ice Dams at the Roof Eaves: Causes & Fixes",
   "question": "Why do ice dams keep forming at my roof eaves and leaking into the house, and how do I prevent them?",
-  "summary": "Ice dams form when heat escaping into the attic melts snow on the upper roof, and that water runs down and refreezes at the cold eave into a ridge of ice that backs water up under the shingles and into the house. The lasting fix is keeping the attic cold \u2014 air-seal and insulate the attic floor and keep the roof vented; removing a dam that is already leaking means roof-height, on-ice work, which is where you call a pro.",
+  "summary": "Ice dams form when heat escaping into the attic melts snow on the upper roof, and that water runs down and refreezes at the cold eave into a ridge of ice that backs water up under the shingles and into the house. The lasting fix is keeping the attic cold: air-seal and insulate the attic floor and keep the roof vented; removing a dam that is already leaking means roof-height, on-ice work, which is where you call a pro.",
   "commonCauses": [
     {
       "cause": "Warm air leaking from the living space up into the attic (around the attic hatch, plumbing stacks, chimneys, top plates, and wiring/pipe penetrations) heats the roof deck and melts the snow above it. This is the real root cause of most ice dams.",
       "likelihood": "most common",
-      "quickCheck": "On a cold day, feel for drafts around the attic hatch and penetrations, and look for dark, dirty streaks in the insulation \u2014 dust filtered out by escaping warm air marks the leak paths."
+      "quickCheck": "On a cold day, feel for drafts around the attic hatch and penetrations, and look for dark, dirty streaks in the insulation: dust filtered out by escaping warm air marks the leak paths."
     },
     {
       "cause": "Too little attic-floor insulation, so heat from the house conducts straight up and warms the roof.",
@@ -26,32 +26,32 @@
       "quickCheck": "In the attic, look for recessed housings with no airtight cover, crushed or bare flex duct, and a bathroom fan that blows into the attic instead of out through the roof or wall."
     },
     {
-      "cause": "Complex roof geometry \u2014 long overhangs, valleys, dormers, and low-slope or north-facing sections where the eave runs far colder than the heated field above it.",
+      "cause": "Complex roof geometry: long overhangs, valleys, dormers, and low-slope or north-facing sections where the eave runs far colder than the heated field above it.",
       "likelihood": "less common",
       "quickCheck": "Note where the ice ridges and icicles recur each winter; if it is always at the same eaves, valleys, or over a porch/addition, geometry is a driver you can't easily change."
     },
     {
       "cause": "Heavy snow plus repeated freeze\u2013thaw weather on a roof that has no self-adhering ice-and-water shield membrane under the eave shingles.",
       "likelihood": "less common",
-      "quickCheck": "After a snow-then-freeze cycle, look for a thick ice ridge at the eave with icicles, plus interior water stains near exterior walls \u2014 no eave membrane means any backup can reach the decking."
+      "quickCheck": "After a snow-then-freeze cycle, look for a thick ice ridge at the eave with icicles, plus interior water stains near exterior walls; no eave membrane means any backup can reach the decking."
     }
   ],
   "fixes": [
-    "After each big storm, safely pull the snow off the lower 3\u20134 ft of roof with a telescoping roof rake while standing on the ground \u2014 removing the snow that feeds the dam. Never get on a ladder or onto the roof to do this, and keep the metal rake well clear of overhead power lines.",
-    "For a dam that is leaking right now, melt a drain channel instead of chopping: fill a nylon stocking or pantyhose leg with calcium chloride ice melt and lay it across the dam so meltwater can run off the roof. Use calcium chloride, not rock salt (sodium chloride) \u2014 rock salt corrodes gutters/flashing and kills plants. Never hack at the ice with a hatchet, axe, or hammer; you will wreck the shingles and can fall.",
+    "After each big storm, safely pull the snow off the lower 3\u20134 ft of roof with a telescoping roof rake while standing on the ground, removing the snow that feeds the dam. Never get on a ladder or onto the roof to do this, and keep the metal rake well clear of overhead power lines.",
+    "For a dam that is leaking right now, melt a drain channel instead of chopping: fill a nylon stocking or pantyhose leg with calcium chloride ice melt and lay it across the dam so meltwater can run off the roof. Use calcium chloride, not rock salt (sodium chloride); rock salt corrodes gutters/flashing and kills plants. Never hack at the ice with a hatchet, axe, or hammer; you will wreck the shingles and can fall.",
     "Cut the heat feeding the attic from inside the house: weatherstrip and insulate the attic hatch/pull-down stairs, and avoid running top-floor recessed lights hot for long stretches.",
-    "The real fix \u2014 air-seal the attic floor: from inside the attic, seal every warm-air leak (top plates, wiring/plumbing penetrations, the hatch) with caulk and canned spray foam, and seal the gap around a masonry chimney or metal flue with sheet-metal flashing and high-temperature fire-block sealant, never regular foam. This is the highest-leverage DIY step because it stops the heat that melts the snow.",
-    "Add attic-floor insulation up to the recommended level for your climate (roughly R-49 to R-60 in cold zones) so the attic stays cold. Important: only bury recessed lights rated IC (Insulation Contact); keep a non-IC can 3 in clear or cap it with an airtight cover box first \u2014 burying a non-IC fixture is a fire hazard.",
+    "The real fix is to air-seal the attic floor: from inside the attic, seal every warm-air leak (top plates, wiring/plumbing penetrations, the hatch) with caulk and canned spray foam, and seal the gap around a masonry chimney or metal flue with sheet-metal flashing and high-temperature fire-block sealant, never regular foam. This is the highest-leverage DIY step because it stops the heat that melts the snow.",
+    "Add attic-floor insulation up to the recommended level for your climate (roughly R-49 to R-60 in cold zones) so the attic stays cold. Important: only bury recessed lights rated IC (Insulation Contact); keep a non-IC can 3 in clear or cap it with an airtight cover box first; burying a non-IC fixture is a fire hazard.",
     "Restore ventilation: install rafter baffles (vent chutes) at the eaves so soffit vents can draw cold air in, and pair them with ridge or upper vents so the deck stays uniformly cold. Do not let insulation block the soffit vents.",
     "Redirect heat and moisture out of the attic: duct bath and kitchen fans fully to the outside (not into the attic), and seal and insulate any HVAC ducts running through the attic.",
-    "As a stopgap on a chronic problem eave or valley, install UL-listed roof/gutter de-icing heat cables on a GFCI-protected circuit to keep a drain path open \u2014 but treat it as a band-aid that burns electricity, not a substitute for air-sealing and insulation.",
+    "As a stopgap on a chronic problem eave or valley, install UL-listed roof/gutter de-icing heat cables on a GFCI-protected circuit to keep a drain path open, but treat it as a band-aid that burns electricity, not a substitute for air-sealing and insulation.",
     "When you re-roof, have the roofer install a self-adhering ice-and-water shield membrane at the eaves (from the edge to at least 24 in inside the warm exterior-wall line, or per your local code) so any future ice backup can't leak into the house."
   ],
-  "diyVsPro": "DIY is reasonable for the prevention and low-risk work: raking snow off the lower roof from the ground, laying a calcium-chloride sock on an active dam, air-sealing and adding insulation in an accessible attic, keeping soffit vents clear, and weatherstripping the attic hatch. Call a pro for anything that puts you at roof height or on the ice: removing an established, already-leaking dam (hire a company that uses low-pressure roof STEAM \u2014 never a pressure washer, never chipping), cutting in new soffit or ridge vents, dense-pack or spray-foam insulation jobs, chimney flashing, and installing ice-and-water shield during a re-roof. If dams keep coming back despite raking, get an energy audit or insulation contractor to find and seal the heat leaks. Never climb your own ladder onto a snowy or icy roof \u2014 that is the injury that sends people to the ER every winter.",
+  "diyVsPro": "DIY is reasonable for the prevention and low-risk work: raking snow off the lower roof from the ground, laying a calcium-chloride sock on an active dam, air-sealing and adding insulation in an accessible attic, keeping soffit vents clear, and weatherstripping the attic hatch. Call a pro for anything that puts you at roof height or on the ice: removing an established, already-leaking dam (hire a company that uses low-pressure roof STEAM; never a pressure washer, never chipping), cutting in new soffit or ridge vents, dense-pack or spray-foam insulation jobs, chimney flashing, and installing ice-and-water shield during a re-roof. If dams keep coming back despite raking, get an energy audit or insulation contractor to find and seal the heat leaks. Never climb your own ladder onto a snowy or icy roof; that is the injury that sends people to the ER every winter.",
   "typicalCostUSD": "DIY: roof rake $30\u201370; calcium chloride ice melt $15\u201330/bag; caulk and spray foam for attic air-sealing $50\u2013150; rafter vent baffles $2\u20134 each; attic-hatch weatherstrip/insulation kit $20\u201360; DIY blown-in attic insulation materials/rental roughly $500\u20131,500; heat cables $50\u2013200 per run in materials. Pro: energy audit $200\u2013600 (often utility-rebated); attic air-seal + insulation upgrade $1,500\u20134,000+; steam removal of an active ice dam roughly $400\u20131,500 per visit; heat-cable install $400\u20131,000+; ice-and-water shield added during a re-roof (bundled into the roofing cost).",
   "timeEstimate": "Roof raking after a storm: 30\u201360 min. Laying a calcium-chloride sock on a dam: 15\u201330 min. Air-sealing an accessible attic: a weekend (4\u20138 hrs). Adding insulation: half a day to a day. Pro air-seal/insulation: about 1 day. Pro steam removal: 1\u20134 hrs.",
   "safetyLevel": "call-a-pro",
-  "safetyNote": "The dangerous part is removing an ice dam, not preventing one. Never get on a ladder or onto a snowy, icy roof \u2014 falls and falling ice cause serious injuries every winter, and a metal roof rake that touches an overhead power line or service drop can electrocute you, so keep the rake well clear of all wires. Never chop, chip, or hammer at the ice with a hatchet, axe, or hammer: you'll destroy the shingles you're trying to protect and can fall. For a dam that is already leaking, hire a pro who uses low-pressure steam, not a pressure washer. Do the air-sealing and insulation from inside the attic, wear eye protection and a dust mask, and only bury recessed lights rated for insulation contact (IC) \u2014 burying a non-IC can is a fire hazard. If you use heat cables, plug them into a GFCI-protected outlet.",
+  "safetyNote": "The dangerous part is removing an ice dam, not preventing one. Never get on a ladder or onto a snowy, icy roof: falls and falling ice cause serious injuries every winter, and a metal roof rake that touches an overhead power line or service drop can electrocute you, so keep the rake well clear of all wires. Never chop, chip, or hammer at the ice with a hatchet, axe, or hammer: you'll destroy the shingles you're trying to protect and can fall. For a dam that is already leaking, hire a pro who uses low-pressure steam, not a pressure washer. Do the air-sealing and insulation from inside the attic, wear eye protection and a dust mask, and only bury recessed lights rated for insulation contact (IC); burying a non-IC can is a fire hazard. If you use heat cables, plug them into a GFCI-protected outlet.",
   "toolsParts": [
     "Telescoping roof rake (used from the ground)",
     "Calcium chloride ice melt (not rock salt)",
@@ -84,7 +84,7 @@
     "Building-code norms (IRC ice-barrier/underlayment and attic ventilation/insulation requirements)",
     "Home-safety and property-insurer guidance (ladder/fall safety and ice-dam prevention bulletins)"
   ],
-  "disclaimer": "This is general home-maintenance guidance, not a substitute for an on-site inspection; roofs, attics, and local codes vary, so verify insulation levels and eave-membrane requirements against your local code and prioritize your safety over any DIY fix \u2014 if the work involves the roof, height, or ice, hire a licensed professional.",
+  "disclaimer": "This is general home-maintenance guidance, not a substitute for an on-site inspection; roofs, attics, and local codes vary, so verify insulation levels and eave-membrane requirements against your local code and prioritize your safety over any DIY fix. If the work involves the roof, height, or ice, hire a licensed professional.",
   "verified": false,
   "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
   "kind": "spoke"

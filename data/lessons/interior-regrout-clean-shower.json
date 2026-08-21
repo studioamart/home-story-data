@@ -1,9 +1,9 @@
 {
   "slug": "interior-regrout-clean-shower",
   "system": "interior",
-  "title": "How to Clean and Regrout Shower Tile — Step-by-Step Guide",
+  "title": "How to Clean and Regrout Shower Tile: Step-by-Step Guide",
   "question": "The grout in my shower is stained, cracked, and crumbling in spots. How do I clean it up and regrout without retiling the whole shower?",
-  "summary": "Most tired shower grout doesn't need replacing — it needs a deep clean and spot repair. Clean first; if the grout is just discolored, you may be done. Where grout is cracked, missing, or powdery, rake it out and apply fresh grout to that area. The one spot you should use caulk, not grout, is the corners and the joint where the wall meets the tub or pan — those flex and grout cracks there.",
+  "summary": "Most tired shower grout doesn't need replacing: it needs a deep clean and spot repair. Clean first; if the grout is just discolored, you may be done. Where grout is cracked, missing, or powdery, rake it out and apply fresh grout to that area. The one spot you should use caulk, not grout, is the corners and the joint where the wall meets the tub or pan; those flex and grout cracks there.",
   "commonCauses": [
     {
       "cause": "Surface staining and soap-scum/mildew buildup, not actual grout failure. The grout is sound but looks dark and dingy.",
@@ -28,14 +28,14 @@
     "Mix a small batch of matching grout (sanded for joints wider than 1/8 inch, unsanded for thinner) to a peanut-butter consistency.",
     "Press grout into the raked joints at a 45 degree angle with a rubber float, pack it fully, then wipe diagonally to remove excess.",
     "After it hazes (per the product, usually 15-30 minutes), wipe the tile clean with a damp sponge, rinsing often. Buff off the final haze once dry.",
-    "Caulk — don't grout — the inside corners and the wall-to-tub/pan joint with a mildew-resistant silicone or kitchen-and-bath caulk.",
+    "Caulk (don't grout) the inside corners and the wall-to-tub/pan joint with a mildew-resistant silicone or kitchen-and-bath caulk.",
     "Let everything cure fully (typically 24-72 hours, check the labels), then apply a penetrating grout sealer to the new and existing grout."
   ],
-  "diyVsPro": "DIY-friendly — cleaning, spot-regrouting, and recaulking are classic weekend jobs needing only basic tools. Call a tile pro if tiles are loose, drummy (hollow-sounding when tapped), or falling off; if you find soft, spongy wall behind the tile or a musty smell (water has gotten into the substrate); or if you see widespread cracking that suggests a failed backer board rather than just surface grout. Those mean water damage that regrouting will only hide.",
+  "diyVsPro": "DIY-friendly: cleaning, spot-regrouting, and recaulking are classic weekend jobs needing only basic tools. Call a tile pro if tiles are loose, drummy (hollow-sounding when tapped), or falling off; if you find soft, spongy wall behind the tile or a musty smell (water has gotten into the substrate); or if you see widespread cracking that suggests a failed backer board rather than just surface grout. Those mean water damage that regrouting will only hide.",
   "typicalCostUSD": "$20-$60 DIY (grout, caulk, sealer, a grout saw or oscillating blade, a float). A full professional regrout of a shower runs $300-$800; retiling after water damage is far more.",
   "timeEstimate": "Half a day of active work for a typical shower, plus 24-72 hours of curing before use and sealing.",
   "safetyLevel": "none",
-  "safetyNote": "Low-risk work, but ventilate the bathroom — grout dust and caulk/sealer fumes shouldn't be breathed in a closed room. Wear a dust mask and eye protection when raking out old grout, and gloves with cleaners. Don't mix bleach and other cleaners. If you find rot or persistent mold behind the tile, stop and address the water source.",
+  "safetyNote": "Low-risk work, but ventilate the bathroom: grout dust and caulk/sealer fumes shouldn't be breathed in a closed room. Wear a dust mask and eye protection when raking out old grout, and gloves with cleaners. Don't mix bleach and other cleaners. If you find rot or persistent mold behind the tile, stop and address the water source.",
   "toolsParts": [
     "Grout cleaner (or baking soda + white vinegar) and a stiff grout brush",
     "Grout saw or oscillating multi-tool with a grout-removal blade",
@@ -59,7 +59,7 @@
     "Grout/caulk manufacturer (Mapei, Custom Building Products) application and cure instructions",
     "General guidance on bathroom mold cleanup and ventilation"
   ],
-  "disclaimer": "General guidance only. If tiles are loose or you find rot or persistent mold, the problem is water intrusion behind the tile — consult a professional rather than regrouting over it.",
+  "disclaimer": "General guidance only. If tiles are loose or you find rot or persistent mold, the problem is water intrusion behind the tile; consult a professional rather than regrouting over it.",
   "verified": false,
   "verifierNote": "Drafted from TCNA and manufacturer practice (caulk at flexing joints, rake-and-replace method). Pending human source verification.",
   "kind": "spoke"

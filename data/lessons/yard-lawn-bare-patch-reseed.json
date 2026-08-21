@@ -2,8 +2,8 @@
   "slug": "yard-lawn-bare-patch-reseed",
   "system": "yard",
   "title": "How to Fix Bare or Dead Patches in Your Lawn (Reseed and Repair)",
-  "question": "I have bare, dead spots in my lawn — how do I reseed them and actually get grass to grow back?",
-  "summary": "Bare patches almost always come back unless you fix what killed them first — dog urine, foot-traffic compaction, deep shade, or grubs — before you reseed. The two things most people get wrong are timing and watering: seed cool-season grass (fescue, bluegrass, rye) in early fall, seed warm-season grass (Bermuda, zoysia, St. Augustine) in late spring to early summer, and then keep the top inch of soil constantly moist for 2 to 3 weeks so it never dries out. Loosen the soil so seed makes firm contact, match the seed to your region and sun level, and keep traffic off until it is established.",
+  "question": "I have bare, dead spots in my lawn. How do I reseed them and actually get grass to grow back?",
+  "summary": "Bare patches almost always come back unless you fix what killed them first (dog urine, foot-traffic compaction, deep shade, or grubs) before you reseed. The two things most people get wrong are timing and watering: seed cool-season grass (fescue, bluegrass, rye) in early fall, seed warm-season grass (Bermuda, zoysia, St. Augustine) in late spring to early summer, and then keep the top inch of soil constantly moist for 2 to 3 weeks so it never dries out. Loosen the soil so seed makes firm contact, match the seed to your region and sun level, and keep traffic off until it is established.",
   "commonCauses": [
     {
       "cause": "Dog urine burn (nitrogen and salt overload kills a small spot)",
@@ -13,7 +13,7 @@
     {
       "cause": "Soil compaction from heavy foot traffic, pets, or parking",
       "likelihood": "common",
-      "quickCheck": "Push a screwdriver into the patch and into a healthy area — if it barely enters the bare spot but sinks easily in good turf, the soil is compacted."
+      "quickCheck": "Push a screwdriver into the patch and into a healthy area: if it barely enters the bare spot but sinks easily in good turf, the soil is compacted."
     },
     {
       "cause": "Too much shade or the wrong grass for that spot",
@@ -23,7 +23,7 @@
     {
       "cause": "Grub or insect damage under the turf",
       "likelihood": "less common",
-      "quickCheck": "Tug the dead turf — if it peels back like loose carpet and you find C-shaped white grubs in the top 1 to 2 inches (or birds and skunks are digging), grubs are the cause."
+      "quickCheck": "Tug the dead turf: if it peels back like loose carpet and you find C-shaped white grubs in the top 1 to 2 inches (or birds and skunks are digging), grubs are the cause."
     },
     {
       "cause": "Fungal disease or a chemical/fuel/fertilizer spill",
@@ -36,20 +36,20 @@
     "Match seed to your grass type, region, and season. Cool-season grasses (tall fescue, Kentucky bluegrass, ryegrass) germinate best when seeded in early fall, or early spring as a second choice. Warm-season grasses (Bermuda, zoysia, St. Augustine, centipede) go in from late spring to early summer once soil is warm. Buy a blend rated for your sun or shade level and matched to the rest of your lawn.",
     "Clear the patch to bare soil. Rake out all dead grass, thatch, and debris, and pull any weeds so nothing shades or crowds the new seedlings.",
     "Loosen the top 2 to 3 inches of soil with a hand rake or cultivator so roots can penetrate and seed can nestle in. For larger or compacted areas, run a core aerator over the zone.",
-    "Add a thin layer of topsoil or compost if the soil is poor — about 1/4 to 1/2 inch — rake it level, then firm it lightly with your foot or the back of the rake so seed sits on firm ground, not fluffy loose dirt.",
-    "Spread the seed at the rate printed on the bag (bare-patch repair uses a heavier rate than overseeding, but do not overdo it — overcrowded seedlings compete and thin out).",
-    "Optionally apply a starter fertilizer, which is higher in phosphorus to feed young roots. Note: many states and cities restrict phosphorus lawn fertilizer, though new seedings are usually exempt — check your local rule, or use a soil test to confirm you actually need phosphorus before adding it.",
-    "Rake lightly so seed is worked into the top 1/4 inch of soil. Good seed-to-soil contact is the single biggest factor — most seed should be barely covered, never buried deeper than about 1/4 inch.",
-    "Cover with a thin layer of clean straw, seed mulch, or a biodegradable erosion mat. This holds moisture, blocks birds, and stops seed from washing away — you should still see soil through it.",
+    "Add a thin layer of topsoil or compost if the soil is poor (about 1/4 to 1/2 inch), rake it level, then firm it lightly with your foot or the back of the rake so seed sits on firm ground, not fluffy loose dirt.",
+    "Spread the seed at the rate printed on the bag (bare-patch repair uses a heavier rate than overseeding, but do not overdo it; overcrowded seedlings compete and thin out).",
+    "Optionally apply a starter fertilizer, which is higher in phosphorus to feed young roots. Note: many states and cities restrict phosphorus lawn fertilizer, though new seedings are usually exempt; check your local rule, or use a soil test to confirm you actually need phosphorus before adding it.",
+    "Rake lightly so seed is worked into the top 1/4 inch of soil. Good seed-to-soil contact is the single biggest factor; most seed should be barely covered, never buried deeper than about 1/4 inch.",
+    "Cover with a thin layer of clean straw, seed mulch, or a biodegradable erosion mat. This holds moisture, blocks birds, and stops seed from washing away; you should still see soil through it.",
     "Water gently right away, then keep the top inch of soil constantly moist. Light misting 1 to 3 times a day is normal until seeds sprout; the seedbed must never dry out, but do not flood it or the seed floats off.",
     "Watch for germination (ryegrass 5 to 10 days, fescue 7 to 14, Kentucky bluegrass 14 to 30, Bermuda 7 to 21). Once seedlings reach about 1 inch, water less often but more deeply to push roots down.",
-    "Mow for the first time only when the new grass reaches about 3 to 3.5 inches, using a sharp blade and cutting no more than 1/3 of the height. Keep foot traffic and pets off the area until it is established, and wait 4 to 8 weeks after germination before any weed-and-feed or broadleaf herbicide — and never apply a standard pre-emergent crabgrass preventer near new seed, since it stops grass seed from sprouting too."
+    "Mow for the first time only when the new grass reaches about 3 to 3.5 inches, using a sharp blade and cutting no more than 1/3 of the height. Keep foot traffic and pets off the area until it is established, and wait 4 to 8 weeks after germination before any weed-and-feed or broadleaf herbicide, and never apply a standard pre-emergent crabgrass preventer near new seed, since it stops grass seed from sprouting too."
   ],
-  "diyVsPro": "Patch repair and overseeding are well within DIY range for almost anyone — the job is low-risk and the materials are cheap. Consider calling a lawn-care service or landscaper when: dead areas keep spreading across the whole lawn (a sign of disease or a systemic soil/drainage problem), you have a recurring grub infestation that needs a properly applied pesticide, standing water or grading issues keep drowning the grass, an irrigation system needs repair, or you want same-day results from professionally installed sod. None of this is a licensed-trade safety issue — it is a call about scale, recurring problems, and how fast you want results.",
+  "diyVsPro": "Patch repair and overseeding are well within DIY range for almost anyone: the job is low-risk and the materials are cheap. Consider calling a lawn-care service or landscaper when: dead areas keep spreading across the whole lawn (a sign of disease or a systemic soil/drainage problem), you have a recurring grub infestation that needs a properly applied pesticide, standing water or grading issues keep drowning the grass, an irrigation system needs repair, or you want same-day results from professionally installed sod. None of this is a licensed-trade safety issue; it is a call about scale, recurring problems, and how fast you want results.",
   "typicalCostUSD": "DIY for a few patches: about $20 to $60 (grass seed, starter fertilizer, a bag of topsoil or compost, straw). Larger reseeding: roughly $40 to $100 in seed plus $60 to $100/day to rent a core aerator. Professional overseeding/reseeding service: about $250 to $500+; installed sod for instant coverage: roughly $1 to $2+ per square foot.",
   "timeEstimate": "About 1 to 2 hours of hands-on work for a few patches, then 2 to 3 weeks of daily watering until germination, and 4 to 8 weeks total until the grass is established (warm-season grass can take a full season to fully fill in).",
   "safetyLevel": "low",
-  "safetyNote": "This is a low-hazard job with no electrical, gas, height, or structural risk. Real precautions: wear gloves and wash your hands after handling seed and fertilizer; keep children and pets off any area treated with starter fertilizer or grub control until it has been watered in and dried, following the product label exactly. Never apply pesticides beyond label directions, and store them out of reach of kids and pets. Lift bags of soil or compost with your legs, not your back, and stay hydrated working in the sun. One easy-to-miss point: if a pre-emergent (crabgrass preventer) was applied to the lawn in the last several weeks, do not seed there — it blocks grass seed from sprouting.",
+  "safetyNote": "This is a low-hazard job with no electrical, gas, height, or structural risk. Real precautions: wear gloves and wash your hands after handling seed and fertilizer; keep children and pets off any area treated with starter fertilizer or grub control until it has been watered in and dried, following the product label exactly. Never apply pesticides beyond label directions, and store them out of reach of kids and pets. Lift bags of soil or compost with your legs, not your back, and stay hydrated working in the sun. One easy-to-miss point: if a pre-emergent (crabgrass preventer) was applied to the lawn in the last several weeks, do not seed there: it blocks grass seed from sprouting.",
   "toolsParts": [
     "Grass seed matched to your region and sun/shade (cool-season blend or warm-season)",
     "Starter fertilizer (higher phosphorus, for new roots)",
@@ -76,10 +76,10 @@
     "overseeding bare spots"
   ],
   "sources": [
-    "University cooperative extension turfgrass programs (Land-Grant universities such as Penn State, Purdue, and University of Maryland Extension) — lawn seeding and establishment guidance",
-    "USDA Plant Hardiness Zone Map — region and grass-type selection",
-    "Grass seed manufacturer product labels — species mix and application-rate instructions",
-    "U.S. EPA — responsible lawn care, fertilizer, and pesticide use guidance (including phosphorus runoff concerns)"
+    "University cooperative extension turfgrass programs (Land-Grant universities such as Penn State, Purdue, and University of Maryland Extension): lawn seeding and establishment guidance",
+    "USDA Plant Hardiness Zone Map: region and grass-type selection",
+    "Grass seed manufacturer product labels: species mix and application-rate instructions",
+    "U.S. EPA: responsible lawn care, fertilizer, and pesticide use guidance (including phosphorus runoff concerns)"
   ],
   "disclaimer": "This guide is general home-maintenance information, not professional advice; verify grass types, timing, and product instructions for your specific region and always follow product labels.",
   "verified": false,

@@ -1,51 +1,51 @@
 {
   "slug": "appliances-microwave-not-heating",
   "system": "appliances",
-  "title": "Microwave Runs but Won't Heat \u2014 Causes & Fixes",
+  "title": "Microwave Runs but Won't Heat: Causes & Fixes",
   "question": "Why does my microwave run and the plate keeps spinning, but my food comes out cold?",
-  "summary": "A microwave that runs \u2014 light on, fan going, plate turning \u2014 but leaves food cold has lost its high-voltage heating circuit, not its motor. The usual culprits are a burned-out magnetron, a failed high-voltage diode, or a bad door interlock switch. Here's the catch: the high-voltage capacitor inside can hold a lethal shock even after you unplug it, so internal diagnosis and repair is pro territory. On a cheap countertop unit, replacing the whole microwave is usually smarter and safer than fixing it.",
+  "summary": "A microwave that runs (light on, fan going, plate turning) but leaves food cold has lost its high-voltage heating circuit, not its motor. The usual culprits are a burned-out magnetron, a failed high-voltage diode, or a bad door interlock switch. Here's the catch: the high-voltage capacitor inside can hold a lethal shock even after you unplug it, so internal diagnosis and repair is pro territory. On a cheap countertop unit, replacing the whole microwave is usually smarter and safer than fixing it.",
   "commonCauses": [
     {
-      "cause": "Burned-out magnetron \u2014 the vacuum tube that actually generates the microwaves. When it fails, everything else (turntable, light, fan, display) still runs on regular 120V, but no heat is produced. This is the most common reason for the exact 'runs but stays cold' symptom, especially on older units.",
+      "cause": "Burned-out magnetron, the vacuum tube that actually generates the microwaves. When it fails, everything else (turntable, light, fan, display) still runs on regular 120V, but no heat is produced. This is the most common reason for the exact 'runs but stays cold' symptom, especially on older units.",
       "likelihood": "most common",
-      "quickCheck": "A cup of water still cold after 2 minutes on High, with the turntable, light, and fan all working normally, is the classic magnetron sign \u2014 but confirming it means opening the cabinet, which is pro territory because of the capacitor."
+      "quickCheck": "A cup of water still cold after 2 minutes on High, with the turntable, light, and fan all working normally, is the classic magnetron sign, but confirming it means opening the cabinet, which is pro territory because of the capacitor."
     },
     {
-      "cause": "Failed high-voltage diode (rectifier) \u2014 a cheap part that converts the transformer's output to the DC the magnetron needs. An open diode leaves the microwave running with weak or no heating, often with a loud buzzing or humming during the cycle.",
+      "cause": "Failed high-voltage diode (rectifier), a cheap part that converts the transformer's output to the DC the magnetron needs. An open diode leaves the microwave running with weak or no heating, often with a loud buzzing or humming during the cycle.",
       "likelihood": "common",
       "quickCheck": "Same no-heat symptom but with a loud buzz or hum while running often points to the diode; a tech confirms it with a diode-test meter after discharging the capacitor."
     },
     {
-      "cause": "Faulty door interlock switch \u2014 several micro-switches sense that the door is fully shut. If the switch that enables the high-voltage circuit wears out or goes out of alignment, the display, light, and turntable run but the magnetron never fires.",
+      "cause": "Faulty door interlock switch: several micro-switches sense that the door is fully shut. If the switch that enables the high-voltage circuit wears out or goes out of alignment, the display, light, and turntable run but the magnetron never fires.",
       "likelihood": "common",
       "quickCheck": "Close the door firmly and clean the latch area. If it only heats when you push the door in hard, or never heats despite latching, a worn interlock switch is likely."
     },
     {
-      "cause": "Open thermal cutout / thermal fuse on the magnetron \u2014 a one-time safety device that trips when the magnetron overheats, usually because the top or side vents are blocked by dust or a nearby cabinet. On many models this kills heat while the rest of the unit keeps running.",
+      "cause": "Open thermal cutout / thermal fuse on the magnetron, a one-time safety device that trips when the magnetron overheats, usually because the top or side vents are blocked by dust or a nearby cabinet. On many models this kills heat while the rest of the unit keeps running.",
       "likelihood": "less common",
       "quickCheck": "Happens after heavy use or with dust-blocked vents. Let the unit cool fully and clear the vents; if heat still doesn't return, the cutout has likely tripped permanently and needs a tech."
     },
     {
       "cause": "Failed high-voltage capacitor or transformer, or a control-board relay not energizing the HV circuit. These are rarer and not testable from outside.",
       "likelihood": "less common",
-      "quickCheck": "Suspect these only after a technician has ruled out the diode, magnetron, and door switches \u2014 they are not something to diagnose externally."
+      "quickCheck": "Suspect these only after a technician has ruled out the diode, magnetron, and door switches; they are not something to diagnose externally."
     }
   ],
   "fixes": [
-    "Confirm it's really a no-heat fault with a water test: put a microwave-safe cup holding about 1 cup of water inside and run it on HIGH (power level 10) for 2 minutes. Still cold means a genuine heating fault; warm means your earlier food was just dense or cold, or the power level was set low.",
+    "Confirm it's really a no-heat fault with a water test: put a microwave-safe cup holding about 1 cup of water inside and run it on HIGH (power level 10) for 2 minutes. Still cold means a heating fault; warm means your earlier food was just dense or cold, or the power level was set low.",
     "Check the mode and power level. Make sure you're on full power / High, not Defrost, Low, or a delayed-start timer. Then reset a possible control glitch by unplugging the microwave for one minute and plugging it back in.",
     "Make sure the door closes and latches fully. A door that doesn't fully engage the interlock switches will let the display and turntable run but never energize the magnetron. Wipe food debris off the latch tabs and door edge so it seats cleanly.",
     "Verify the microwave is plugged directly into a good wall outlet at full voltage. A long extension cord, an overloaded circuit, or low line voltage can underpower the magnetron so it heats weakly or not at all. Plug straight into a known-good outlet, not a power strip.",
-    "If it still won't heat, stop here \u2014 the remaining causes are all inside the cabinet, behind a capacitor that can shock you even while unplugged. On a countertop microwave (typically $60-200 new), replacing the whole unit is usually cheaper and far safer than repairing it.",
+    "If it still won't heat, stop here: the remaining causes are all inside the cabinet, behind a capacitor that can shock you even while unplugged. On a countertop microwave (typically $60-200 new), replacing the whole unit is usually cheaper and far safer than repairing it.",
     "For an over-the-range or built-in microwave that's worth saving, call a licensed appliance technician. A trained tech will unplug it, safely discharge the high-voltage capacitor first, then test the HV diode, magnetron, capacitor, door interlock switches, and thermal cutout to find the failed part.",
-    "If the fault turns out to be an overheated thermal cutout, have the tech confirm the vents are clear and the unit has breathing room before fitting a new part \u2014 otherwise it will just trip again.",
+    "If the fault turns out to be an overheated thermal cutout, have the tech confirm the vents are clear and the unit has breathing room before fitting a new part; otherwise it will just trip again.",
     "Never bypass, tape down, or defeat a door interlock switch to force it to run. Those switches keep microwave energy from leaking out while the door is open. A microwave that only heats with a defeated door switch must be repaired properly or retired, not used."
   ],
-  "diyVsPro": "DIY is fine for the external checks only: the water test, confirming full-power mode, cleaning and reseating the door, verifying a good outlet, and an unplug-reset. Everything past that is inside the cabinet and is pro territory, because a microwave's high-voltage capacitor can hold a lethal charge even after it's unplugged, and the transformer runs at roughly 2,000 volts. Call a licensed appliance technician for any internal diagnosis or part replacement (magnetron, high-voltage diode, capacitor, door switches, thermal cutout) \u2014 or, for an inexpensive countertop unit, simply replace it. Do not open the cabinet unless you are trained to discharge that capacitor first.",
+  "diyVsPro": "DIY is fine for the external checks only: the water test, confirming full-power mode, cleaning and reseating the door, verifying a good outlet, and an unplug-reset. Everything past that is inside the cabinet and is pro territory, because a microwave's high-voltage capacitor can hold a lethal charge even after it's unplugged, and the transformer runs at roughly 2,000 volts. Call a licensed appliance technician for any internal diagnosis or part replacement (magnetron, high-voltage diode, capacitor, door switches, thermal cutout), or, for an inexpensive countertop unit, simply replace it. Do not open the cabinet unless you are trained to discharge that capacitor first.",
   "typicalCostUSD": "DIY: $0 for the external checks. Replacing a countertop microwave outright: $60-200 (often the smart call). Pro: appliance repair service call typically $90-180; a high-voltage diode is a $5-15 part but $100-200 repaired; a magnetron is a $50-120 part, usually $150-350 total; a door interlock switch runs $80-180 total. Over-the-range or built-in microwave replacement runs $250-1000+ installed.",
   "timeEstimate": "External checks: 10-20 minutes. Pro diagnosis and repair: usually a single 1-2 hour visit. Swapping a countertop microwave for a new one: about 15 minutes.",
   "safetyLevel": "call-a-pro",
-  "safetyNote": "The high-voltage capacitor inside a microwave can store a LETHAL electric charge even after the unit is unplugged and left sitting \u2014 this, not the wall outlet, is what makes microwave repair dangerous. Do NOT open the cabinet unless you are trained to safely discharge that capacitor first. The HV transformer produces around 2,000 volts in use. Leave all internal diagnosis and repair to a licensed appliance technician, or just replace a low-cost unit. Never bypass, tape, or defeat the door interlock switches \u2014 they keep microwave energy from leaking while the door is open. Don't run the microwave empty, and stop using any unit that only heats when the door is pushed or a switch is held.",
+  "safetyNote": "The high-voltage capacitor inside a microwave can store a LETHAL electric charge even after the unit is unplugged and left sitting: this, not the wall outlet, is what makes microwave repair dangerous. Do NOT open the cabinet unless you are trained to safely discharge that capacitor first. The HV transformer produces around 2,000 volts in use. Leave all internal diagnosis and repair to a licensed appliance technician, or just replace a low-cost unit. Never bypass, tape, or defeat the door interlock switches; they keep microwave energy from leaking while the door is open. Don't run the microwave empty, and stop using any unit that only heats when the door is pushed or a switch is held.",
   "toolsParts": [
     "Microwave-safe cup of water (for the heat test)",
     "For trained/pro internal work only: insulated screwdriver plus a capacitor discharge tool (or an insulated screwdriver with a bleed resistor)",
@@ -70,7 +70,7 @@
     "Reputable DIY repair references (This Old House, Family Handyman)",
     "CPSC and manufacturer safety guidance on microwave high-voltage capacitor discharge and servicing"
   ],
-  "disclaimer": "General home-maintenance guidance, not a substitute for a licensed appliance technician. A microwave's high-voltage capacitor can hold a lethal charge even when unplugged \u2014 do not open the cabinet unless trained; when in doubt, replace the unit or call a pro.",
+  "disclaimer": "General home-maintenance guidance, not a substitute for a licensed appliance technician. A microwave's high-voltage capacitor can hold a lethal charge even when unplugged. Do not open the cabinet unless trained; when in doubt, replace the unit or call a pro.",
   "verified": false,
   "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
   "kind": "spoke"

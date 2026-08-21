@@ -2,8 +2,8 @@
   "slug": "safety-dryer-fire-prevention",
   "system": "safety",
   "title": "How to Prevent a Clothes Dryer Fire: Clean the Vent, Spot the Warning Signs, and Duct It Right",
-  "question": "My dryer takes two cycles to dry a load and the clothes come out really hot — how do I keep it from starting a fire?",
-  "summary": "The thing most people get wrong: cleaning the lint screen is not enough. Lint also packs deep inside the vent duct and at the outside hood, and failing to clear that hidden buildup is the leading contributing factor in home dryer fires. Longer dry times, very hot clothes, or a burning smell all mean airflow is choked and lint is collecting where you cannot see it. Fix it by cleaning the full duct run, using rigid or listed semi-rigid metal duct (never plastic or foil accordion), keeping the run short and vented outdoors, and — for gas dryers — keeping a working carbon monoxide alarm nearby.",
+  "question": "My dryer takes two cycles to dry a load and the clothes come out really hot. How do I keep it from starting a fire?",
+  "summary": "The thing most people get wrong: cleaning the lint screen is not enough. Lint also packs deep inside the vent duct and at the outside hood, and failing to clear that hidden buildup is the leading contributing factor in home dryer fires. Longer dry times, very hot clothes, or a burning smell all mean airflow is choked and lint is collecting where you cannot see it. Fix it by cleaning the full duct run, using rigid or listed semi-rigid metal duct (never plastic or foil accordion), keeping the run short and vented outdoors, and, for gas dryers, keeping a working carbon monoxide alarm nearby.",
   "commonCauses": [
     {
       "cause": "Lint packed inside the vent duct and lint-trap housing (not just the screen)",
@@ -21,35 +21,35 @@
       "quickCheck": "Pull the dryer out and look at the duct. A flattened, sharply bent, or accordion-squashed section chokes airflow and traps lint at the crush point."
     },
     {
-      "cause": "Wrong duct material — white vinyl/plastic or thin foil accordion flex duct that traps lint and can melt or burn",
+      "cause": "Wrong duct material: white vinyl/plastic or thin foil accordion flex duct that traps lint and can melt or burn",
       "likelihood": "less common",
       "quickCheck": "Look behind the dryer. If the duct is ribbed white plastic or flimsy silver foil, it is non-compliant. Code and manufacturers require smooth rigid metal (with a listed flexible transition connector only where allowed)."
     },
     {
       "cause": "Duct run too long or too many elbows, or it dumps indoors (attic, crawlspace, garage) instead of outside",
       "likelihood": "less common",
-      "quickCheck": "Trace the duct to its end — it must terminate at an exterior wall or roof hood. Lint or damp, musty air in the attic/crawlspace means it is venting inside; count elbows and measure the run against the manual's limit."
+      "quickCheck": "Trace the duct to its end: it must terminate at an exterior wall or roof hood. Lint or damp, musty air in the attic/crawlspace means it is venting inside; count elbows and measure the run against the manual's limit."
     }
   ],
   "fixes": [
-    "Cut the power first: unplug an electric dryer. For a gas dryer, unplug it AND close the gas shutoff valve behind it (a quarter-turn on the valve — do not disconnect the gas line) before you move or open anything.",
+    "Cut the power first: unplug an electric dryer. For a gas dryer, unplug it AND close the gas shutoff valve behind it (a quarter-turn on the valve; do not disconnect the gas line) before you move or open anything.",
     "Pull the lint screen and clean it. Wash off any waxy fabric-softener film with warm soapy water and a brush, rinse, and let it dry fully before reinserting.",
     "Slide the dryer away from the wall. On a gas dryer, move it gently and only as far as the flexible gas connector allows, so you do not strain, stretch, or kink it.",
     "Loosen the clamp and disconnect the duct from the back of the dryer. Inspect both the duct and the dryer's exhaust outlet for packed lint and damage.",
     "Run a dryer-vent brush kit on a cordless drill through the full duct run from both ends, and vacuum out the lint-trap housing and the dryer's exhaust port with a shop vac.",
-    "Go outside and clean the exterior hood: pull out lint mats and any nests, and make sure the backdraft damper flap swings freely. Do not add a screen — screens catch lint and are not allowed at a dryer termination.",
+    "Go outside and clean the exterior hood: pull out lint mats and any nests, and make sure the backdraft damper flap swings freely. Do not add a screen; screens catch lint and are not allowed at a dryer termination.",
     "Replace any plastic/vinyl or foil accordion duct with rigid metal duct (or a UL-listed flexible transition connector where a short connector is allowed), 4-inch diameter. Keep the run as short and straight as you can.",
-    "Reconnect joints with clamps or UL 181 metal foil tape — never sheet-metal screws inside the duct, because the screw tips reach into the airflow and snag lint.",
-    "Confirm the duct ends outdoors — never in an attic, crawlspace, wall cavity, or garage — and that its length and number of bends fall within your dryer's installation manual (a common general limit is about 35 ft of developed length, reduced for each elbow — follow the manual's numbers).",
+    "Reconnect joints with clamps or UL 181 metal foil tape, never sheet-metal screws inside the duct, because the screw tips reach into the airflow and snag lint.",
+    "Confirm the duct ends outdoors (never in an attic, crawlspace, wall cavity, or garage) and that its length and number of bends fall within your dryer's installation manual (a common general limit is about 35 ft of developed length, reduced for each elbow; follow the manual's numbers).",
     "Reposition the dryer without crushing the duct. If space is tight, use a close-elbow or periscope connector so the dryer sits near the wall without pinching the duct.",
-    "Restore power. For an electric dryer, plug it back in. For a gas dryer, reopen the gas shutoff valve and, BEFORE turning the dryer on, check for leaks: sniff for a rotten-egg odor and brush soapy water on the connector fittings — growing bubbles mean a leak. If you smell gas or see bubbles, shut the valve, leave the house, and call your gas utility or 911 from outside; do not run the dryer.",
-    "Run a timed cycle and check the outside hood — you should feel strong, warm airflow and see the damper open wide. For a gas dryer, confirm a working carbon monoxide alarm is installed nearby. Then set a recurring reminder: clean the lint screen every load and the full vent at least once a year (more often for long runs or heavy use)."
+    "Restore power. For an electric dryer, plug it back in. For a gas dryer, reopen the gas shutoff valve and, BEFORE turning the dryer on, check for leaks: sniff for a rotten-egg odor and brush soapy water on the connector fittings; growing bubbles mean a leak. If you smell gas or see bubbles, shut the valve, leave the house, and call your gas utility or 911 from outside; do not run the dryer.",
+    "Run a timed cycle and check the outside hood: you should feel strong, warm airflow and see the damper open wide. For a gas dryer, confirm a working carbon monoxide alarm is installed nearby. Then set a recurring reminder: clean the lint screen every load and the full vent at least once a year (more often for long runs or heavy use)."
   ],
   "diyVsPro": "DIY is fine for the core job on a ground-floor electric dryer: cleaning the lint screen, brushing out the duct, clearing the outside hood, and swapping flexible plastic/foil duct for metal. Stop and call a licensed pro if: you smell gas or suspect a gas leak; the job needs a gas supply line moved, reconnected, or capped (gas-line work is licensed-only); the vent terminates on a roof or an upper story you would have to climb to reach (fall risk); the duct runs hidden inside walls or ceilings you cannot access; you need a new exterior penetration or a full reroute; or you suspect carbon monoxide is entering the home. For long or complicated runs, a certified dryer-vent cleaning service is a reasonable hire even when nothing is wrong.",
   "typicalCostUSD": "DIY: about $15-60 (vent brush kit $15-40, plus metal duct, clamps, and UL 181 foil tape). Professional dryer-vent cleaning: about $100-200. Gas-dryer work or a vent reroute/new termination: about $150-500+ depending on access and length.",
   "timeEstimate": "1-2 hours for a typical DIY lint-and-duct cleaning; add time if you are also replacing the duct.",
   "safetyLevel": "caution",
-  "safetyNote": "Electric: unplug the dryer before you touch the duct or reach into any opening, and treat the machine as live until it is unplugged (unplugging the cord fully de-energizes it). Gas: if you ever smell gas (a rotten-egg odor), do not flip switches, unplug or plug anything, light anything, or create any spark — leave the house and call your gas utility or 911 from outside. Do not move, disconnect, or reconnect a gas supply line yourself; that is licensed-professional work (relighting a pilot per the manufacturer's instructions is the only gas step a homeowner should attempt). A gas dryer produces carbon monoxide, so a blocked or disconnected vent can push CO into your home — always vent a gas dryer outdoors and keep a working CO alarm nearby. Vents that exit at roof height or on an upper story are a fall hazard; hire a pro instead of climbing. Never use plastic/vinyl or foil accordion duct, and never keep running a dryer that shows a burning smell, scorching heat, or a clogged vent.",
+  "safetyNote": "Electric: unplug the dryer before you touch the duct or reach into any opening, and treat the machine as live until it is unplugged (unplugging the cord fully de-energizes it). Gas: if you ever smell gas (a rotten-egg odor), do not flip switches, unplug or plug anything, light anything, or create any spark. Leave the house and call your gas utility or 911 from outside. Do not move, disconnect, or reconnect a gas supply line yourself; that is licensed-professional work (relighting a pilot per the manufacturer's instructions is the only gas step a homeowner should attempt). A gas dryer produces carbon monoxide, so a blocked or disconnected vent can push CO into your home: always vent a gas dryer outdoors and keep a working CO alarm nearby. Vents that exit at roof height or on an upper story are a fall hazard; hire a pro instead of climbing. Never use plastic/vinyl or foil accordion duct, and never keep running a dryer that shows a burning smell, scorching heat, or a clogged vent.",
   "toolsParts": [
     "Dryer-vent cleaning brush kit (flexible rods with drill attachment)",
     "Cordless drill",
@@ -77,10 +77,10 @@
     "dryer vent cleaning cost"
   ],
   "sources": [
-    "U.S. Consumer Product Safety Commission (CPSC) — clothes dryer fire safety guidance",
-    "National Fire Protection Association (NFPA) — dryer safety tips",
-    "U.S. Fire Administration / FEMA — clothes dryer fire prevention",
-    "International Residential Code (IRC Section M1502) — clothes dryer exhaust requirements",
+    "U.S. Consumer Product Safety Commission (CPSC): clothes dryer fire safety guidance",
+    "National Fire Protection Association (NFPA): dryer safety tips",
+    "U.S. Fire Administration / FEMA: clothes dryer fire prevention",
+    "International Residential Code (IRC Section M1502): clothes dryer exhaust requirements",
     "Dryer manufacturer installation instructions / owner's manual"
   ],
   "disclaimer": "This is general home-maintenance information, not professional advice; when gas, electrical, or roof-height work is involved, consult a licensed professional.",

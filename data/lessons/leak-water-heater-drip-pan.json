@@ -47,11 +47,11 @@
     "Optional upgrade: install an automatic water-shutoff valve kit (sensor triggers a motorized valve on the cold inlet). This is the only setup that stops a leak while you're away.",
     "Write the install date and battery type on tape on the tank, and set a calendar reminder to test the alarm twice a year."
   ],
-  "diyVsPro": "The pan and alarm are a confident DIY job IF you can get the pan under the tank without lifting a full heater. The risky part is moving the tank: a full 50-gallon tank is over 400 lbs, and tilting it can rupture supply lines, crack fittings, or hurt your back. If the heater is gas, sits flat with no lift clearance, or is in an attic, upper floor, or closet over finished space, hire a plumber for the lift and drain routing (often bundled with the pan). The leak sensor itself is always DIY. Also stop and call a pro if pulling the heater reveals soft/rotted subfloor, framing damage, or mold larger than about 10 sq ft \u2014 that is past a maintenance job.",
+  "diyVsPro": "The pan and alarm are a confident DIY job IF you can get the pan under the tank without lifting a full heater. The risky part is moving the tank: a full 50-gallon tank is over 400 lbs, and tilting it can rupture supply lines, crack fittings, or hurt your back. If the heater is gas, sits flat with no lift clearance, or is in an attic, upper floor, or closet over finished space, hire a plumber for the lift and drain routing (often bundled with the pan). The leak sensor itself is always DIY. Also stop and call a pro if pulling the heater reveals soft/rotted subfloor, framing damage, or mold larger than about 10 sq ft; that is past a maintenance job.",
   "typicalCostUSD": "$25-80 DIY (pan $20-40, basic alarm $10-15, drain pipe and fittings $10-25). Smart Wi-Fi sensor adds $20-50. Auto-shutoff valve kit $150-300. Plumber to lift the tank and add a pan plus drain: $150-350 labor.",
   "timeEstimate": "30-45 minutes for pan plus alarm if there's lift clearance; 1.5-3 hours if you must drain and disconnect the tank to slide the pan under it.",
   "safetyLevel": "caution",
-  "safetyNote": "Water heaters are heavy and hot. For a GAS heater, do not disconnect the gas line yourself \u2014 a mistake risks a gas leak; call a plumber for the lift and let them handle the gas connection and pilot relight. For ELECTRIC, the 240V supply must be OFF at the breaker before you touch anything, and never run an element dry. Always close the cold inlet before moving the tank, and get a helper for the lift to avoid back injury and burst lines. If the heater is in an attic or above finished space, treat the lift as a pro job. Pan-drain water must never be plumbed directly into a sewer. If you find rotted subfloor, framing damage, or mold over ~10 sq ft, stop and bring in a pro.",
+  "safetyNote": "Water heaters are heavy and hot. For a GAS heater, do not disconnect the gas line yourself: a mistake risks a gas leak; call a plumber for the lift and let them handle the gas connection and pilot relight. For ELECTRIC, the 240V supply must be OFF at the breaker before you touch anything, and never run an element dry. Always close the cold inlet before moving the tank, and get a helper for the lift to avoid back injury and burst lines. If the heater is in an attic or above finished space, treat the lift as a pro job. Pan-drain water must never be plumbed directly into a sewer. If you find rotted subfloor, framing damage, or mold over ~10 sq ft, stop and bring in a pro.",
   "toolsParts": [
     "Water heater drain/drip pan (galvanized steel or heavy plastic, inside diameter ~2 in larger than tank)",
     "Battery or Wi-Fi water leak sensor (or auto-shutoff valve kit)",
@@ -72,8 +72,8 @@
     "smart water leak detector for water heater pan"
   ],
   "sources": [
-    "International Residential Code (IRC) P2801 \u2014 water heater drain pan and pan drain requirements",
-    "Water heater manufacturer installation manuals (Rheem, A.O. Smith, Bradford White) \u2014 pan and clearance guidance",
+    "International Residential Code (IRC) P2801: water heater drain pan and pan drain requirements",
+    "Water heater manufacturer installation manuals (Rheem, A.O. Smith, Bradford White): pan and clearance guidance",
     "Manufacturer documentation for leak sensors and automatic water-shutoff valve kits"
   ],
   "disclaimer": "General home-maintenance guidance, not a substitute for professional inspection. Local plumbing codes vary; verify pan/drain requirements with your local building department. If your heater is gas, or in an attic or above finished space, consult a licensed plumber.",

@@ -39,12 +39,12 @@
   "typicalCostUSD": "Screw-on washing-machine arrestor pair: $20-$35. Under-sink mini arrestor (dishwasher/ice maker): $10-$20. Pressure gauge: $10-$15. Drain-down reset: $0. Plumber to install/adjust a PRV or a soldered-in arrestor: $150-$450 depending on access and region.",
   "timeEstimate": "15-30 minutes for a screw-on or under-sink arrestor; 10 minutes for the drain-down reset; half a day if a plumber sets a PRV.",
   "safetyLevel": "caution",
-  "safetyNote": "This is low-risk water work, but always shut off the supply valve before disconnecting any hose or fitting, and keep a towel and bucket handy. Do not over-tighten plastic arrestor fittings or you can crack them. Ignoring chronic water hammer is not just noise: the repeated shock can loosen joints and eventually cause a leak, so it is worth fixing. If your pressure gauge reads very high (90+ psi), reduce it before the next appliance cycle to avoid stressing supply lines.",
+  "safetyNote": "This is low-risk water work, but always shut off the supply valve before disconnecting any hose or fitting, and keep a towel and bucket handy. Do not over-tighten plastic arrestor fittings or you can crack them. Chronic water hammer is more than a noise problem: the repeated shock can loosen joints and eventually cause a leak, so it is worth fixing. If your pressure gauge reads very high (90+ psi), reduce it before the next appliance cycle to avoid stressing supply lines.",
   "toolsParts": [
     "Water hammer arrestor (screw-on tee pair for washer, or mini arrestor for dishwasher/ice maker)",
     "Water pressure test gauge (hose-bib type)",
     "Adjustable wrench or channel-lock pliers",
-    "Plumber's tape (PTFE) \u2014 only for tapered threaded (NPT) connections; do NOT use on rubber-gasketed hose/washer fittings",
+    "Plumber's tape (PTFE): only for tapered threaded (NPT) connections; do NOT use on rubber-gasketed hose/washer fittings",
     "Towel and small bucket",
     "Foam pipe insulation or cushioned pipe clamps (if securing loose pipe)"
   ],

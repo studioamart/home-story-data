@@ -1,7 +1,7 @@
 {
   "slug": "hvac-uneven-temperature",
   "system": "hvac",
-  "title": "Why Some Rooms Are Hotter or Colder Than Others \u2014 Causes & Fixes",
+  "title": "Why Some Rooms Are Hotter or Colder Than Others: Causes & Fixes",
   "question": "Why is one room in my house always hotter or colder than the rest?",
   "summary": "Uneven room temperatures usually come from blocked or unbalanced airflow, a dirty filter, leaky ducts, or the single thermostat only reading one spot in the house. Most causes are cheap DIY fixes; persistent problems point to duct or system sizing issues that need a pro.",
   "commonCauses": [
@@ -11,7 +11,7 @@
       "quickCheck": "Pull the filter and hold it up to a light. If you can't see light through it, it's clogged. Note the last time it was changed (most filters want every 1-3 months)."
     },
     {
-      "cause": "Closed, blocked, or unbalanced supply/return vents and dampers \u2014 furniture over a register, dampers set wrong for the season",
+      "cause": "Closed, blocked, or unbalanced supply/return vents and dampers: furniture over a register, dampers set wrong for the season",
       "likelihood": "most common",
       "quickCheck": "Walk the house: are any registers closed, covered by rugs/furniture, or barely blowing air? Feel for airflow at each one with your hand."
     },
@@ -31,7 +31,7 @@
       "quickCheck": "Is the worst room above a garage, on the top floor, an addition, or full of windows? Check for drafts at windows/doors and thin/missing insulation in that area."
     },
     {
-      "cause": "Long or undersized duct runs to the far room \u2014 the room is simply at the end of the line with too little duct capacity",
+      "cause": "Long or undersized duct runs to the far room: the room is simply at the end of the line with too little duct capacity",
       "likelihood": "less common",
       "quickCheck": "Compare airflow at the far room's vent to a close room's. Much weaker flow that isn't explained by filter/dampers suggests a duct design limit."
     },
@@ -42,21 +42,21 @@
     }
   ],
   "fixes": [
-    "Change the air filter first \u2014 it's the cheapest fix and solves more uneven-temp complaints than anything else. Match the size printed on the old filter and avoid the densest 'allergen' filters if your system airflow is already weak.",
-    "Open and unblock every supply and return vent. Move furniture, rugs, and curtains off registers. Don't close vents in unused rooms hoping to push air elsewhere \u2014 on most systems this raises duct pressure, can worsen leaks, and on common PSC blowers can even freeze the coil; it makes balance worse, not better.",
-    "Balance the dampers. Many duct systems have lever or wing-nut dampers on the trunk lines (in the basement, attic, or near the air handler). Slightly closing the damper to over-served rooms pushes more air to the weak room. Make small changes, wait a few hours, and re-check \u2014 and mark the original positions first so you can undo it.",
+    "Change the air filter first: it's the cheapest fix and solves more uneven-temp complaints than anything else. Match the size printed on the old filter and avoid the densest 'allergen' filters if your system airflow is already weak.",
+    "Open and unblock every supply and return vent. Move furniture, rugs, and curtains off registers. Don't close vents in unused rooms hoping to push air elsewhere: on most systems this raises duct pressure, can worsen leaks, and on common PSC blowers can even freeze the coil; it makes balance worse, not better.",
+    "Balance the dampers. Many duct systems have lever or wing-nut dampers on the trunk lines (in the basement, attic, or near the air handler). Slightly closing the damper to over-served rooms pushes more air to the weak room. Make small changes, wait a few hours, and re-check. And mark the original positions first so you can undo it.",
     "Adjust register louvers: aim more flow toward problem rooms and partially close registers in rooms that are already comfortable.",
-    "Seal accessible duct leaks with foil-backed mastic or UL 181 foil tape (never cloth 'duct tape' \u2014 it dries out and fails). Reconnect any duct sections you can safely reach and tighten loose joints.",
+    "Seal accessible duct leaks with foil-backed mastic or UL 181 foil tape (never cloth 'duct tape'; it dries out and fails). Reconnect any duct sections you can safely reach and tighten loose joints.",
     "Address the room's own losses: weatherstrip drafty doors/windows, add or top up insulation in the affected area, and use blackout or cellular shades on west/south-facing windows during cooling season.",
-    "Help the thermostat the easy way: run the fan in 'ON' (continuous) mode instead of 'AUTO' to mix air between rooms and even out temperatures, at a small energy cost. Physically relocating the thermostat means running new low-voltage wire and patching the wall \u2014 treat that as a bigger project, and have a pro do it if you're unsure about the wiring (including the C-wire).",
-    "If a single room still won't behave, consider a targeted add-on. Set expectations: a register or in-line duct booster fan can help a marginally weak run but won't overcome a system-wide airflow shortage, and some add noise \u2014 hardwired in-line models may need an electrician. For a chronically hot upstairs, a ductless mini-split or a professional zoning system with motorized dampers and multiple thermostats is the more reliable fix.",
+    "Help the thermostat the easy way: run the fan in 'ON' (continuous) mode instead of 'AUTO' to mix air between rooms and even out temperatures, at a small energy cost. Physically relocating the thermostat means running new low-voltage wire and patching the wall; treat that as a bigger project, and have a pro do it if you're unsure about the wiring (including the C-wire).",
+    "If a single room still won't behave, consider a targeted add-on. Set expectations: a register or in-line duct booster fan can help a marginally weak run but won't overcome a system-wide airflow shortage, and some add noise; hardwired in-line models may need an electrician. For a chronically hot upstairs, a ductless mini-split or a professional zoning system with motorized dampers and multiple thermostats is the more reliable fix.",
     "If the whole house is unbalanced and basic fixes don't work, get an HVAC contractor to perform a Manual J load calculation and a duct/airflow assessment to check for sizing or design problems."
   ],
   "diyVsPro": "DIY is fine for filters, opening/aiming vents, simple damper balancing, sealing reachable duct leaks with mastic/tape, weatherstripping, plug-in booster fans, and switching the fan to ON. Call a licensed HVAC pro (or electrician where noted) for thermostat relocation, hardwired booster fans, duct redesign or major sealing, adding a zoning system or mini-split, refrigerant or system-sizing problems, or a Manual J load calculation. Any work on gas furnaces or 240V wiring is pro-only.",
   "typicalCostUSD": "DIY: filters $10-40; foil tape/mastic $10-25; weatherstripping $10-30; register booster fan $30-80; in-line duct booster $100-250. Pro: professional duct sealing $400-1,500 (Aeroseal commonly $1,500-3,000); adding a zoning system $2,000-4,000+; a single-zone ductless mini-split $3,500-6,000 installed; full duct rework or system replacement several thousand and up.",
   "timeEstimate": "Filter swap and opening vents: 10-15 minutes. Damper balancing with re-checks: a few hours spread over a day. Duct sealing you can reach: 1-3 hours. Pro duct sealing or zoning: a half-day to a couple of days.",
   "safetyLevel": "caution",
-  "safetyNote": "Most steps are low-risk, but attics and crawlspaces involve heights, fiberglass insulation, sharp sheet-metal edges, and possible electrical near the air handler \u2014 wear gloves, a dust mask, and watch your footing: step only on joists or laid decking, never on the drywall between them or you can fall through the ceiling. Turn the system off at the thermostat before reaching into return openings or near the blower. Do not open or modify a gas furnace cabinet or any 240V wiring yourself \u2014 that's a licensed pro's job. If you ever smell gas, leave the house first, then call your gas utility from outside.",
+  "safetyNote": "Most steps are low-risk, but attics and crawlspaces involve heights, fiberglass insulation, sharp sheet-metal edges, and possible electrical near the air handler. Wear gloves, a dust mask, and watch your footing: step only on joists or laid decking, never on the drywall between them or you can fall through the ceiling. Turn the system off at the thermostat before reaching into return openings or near the blower. Do not open or modify a gas furnace cabinet or any 240V wiring yourself; that's a licensed pro's job. If you ever smell gas, leave the house first, then call your gas utility from outside.",
   "toolsParts": [
     "Replacement air filter (correct size)",
     "Thermometer or two (to compare rooms)",

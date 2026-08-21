@@ -68,6 +68,6 @@
   ],
   "disclaimer": "General home-maintenance guidance, not professional electrical or code advice. Verify fixture ratings and local code before working, and consult a licensed electrician or weatherization pro when in doubt.",
   "verified": true,
-  "verifierNote": "Confirmed core physics (attic air via stack effect, not the fixture making cold), IC vs non-IC fire logic, the 3 in. clearance rule, costs, and times against DOE/Energy Star and IRC practice; tightened the non-IC cover description (a true 5-sided enclosure can itself be IC/airtight \u2014 the key constraint is the 3 in. clearance), added that non-IC cans stay hot after switch-off, noted clearance applies to combustibles too, and added an explicit pro-routing line for hardwiring/240V/junction-box work in the safety note.",
+  "verifierNote": "Confirmed core physics (attic air via stack effect, not the fixture making cold), IC vs non-IC fire logic, the 3 in. clearance rule, costs, and times against DOE/Energy Star and IRC practice; tightened the non-IC cover description (a true 5-sided enclosure can itself be IC/airtight; the key constraint is the 3 in. clearance), added that non-IC cans stay hot after switch-off, noted clearance applies to combustibles too, and added an explicit pro-routing line for hardwiring/240V/junction-box work in the safety note.",
   "kind": "spoke"
 }

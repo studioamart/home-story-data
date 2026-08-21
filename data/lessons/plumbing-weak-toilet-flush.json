@@ -1,7 +1,7 @@
 {
   "slug": "plumbing-weak-toilet-flush",
   "system": "plumbing",
-  "title": "Why Your Toilet Won't Flush Properly \u2014 Causes & Fixes",
+  "title": "Why Your Toilet Won't Flush Properly: Causes & Fixes",
   "question": "Why won't my toilet flush all the way (weak or incomplete flush)?",
   "summary": "A weak toilet flush is usually a tank water-level, flapper, or clogged-jet problem before it's a real drain clog. Check the fill level and flapper first; most fixes are cheap and take under an hour.",
   "commonCauses": [
@@ -46,15 +46,15 @@
     "Check the flush chain: remove excess slack so the flapper opens fully but isn't held open. Leave only about a half-inch of slack. Re-hook or replace a broken chain or cracked handle arm.",
     "Inspect and replace the flapper if it's warped, stiff, or coated in slime (about $5-$12, 10 minutes). Buy the type that matches your toilet brand/model. A clean, snug flapper that stays open long enough restores flush power; some flappers have an adjustable dial to lengthen the flush.",
     "Clear the rim jets and siphon jet. Pour about a cup of white vinegar into the overflow tube (let it sit overnight) and scrub the jet holes with a small mirror and a piece of stiff wire or an old toothbrush. For heavy hard-water scale, a CLR-type cleaner helps. Never combine it with bleach, and avoid jamming anything hard enough to chip the porcelain.",
-    "Test for a drain clog with the bucket-pour. If it confirms a clog, use a flange (toilet) plunger with a good seal and firm strokes, then re-test. If plunging fails, use a toilet auger (closet auger, about $20-$35) \u2014 not a wire drain snake \u2014 feeding it gently to avoid scratching the bowl.",
-    "If drains gurgle or several fixtures are slow, the vent or main line is likely involved \u2014 stop here and call a plumber rather than chasing it from the toilet.",
+    "Test for a drain clog with the bucket-pour. If it confirms a clog, use a flange (toilet) plunger with a good seal and firm strokes, then re-test. If plunging fails, use a toilet auger (closet auger, about $20-$35), not a wire drain snake, feeding it gently to avoid scratching the bowl.",
+    "If drains gurgle or several fixtures are slow, the vent or main line is likely involved; stop here and call a plumber rather than chasing it from the toilet.",
     "If the toilet is old and weak despite everything checking out, consider replacing it with a well-rated gravity or pressure-assisted WaterSense model."
   ],
   "diyVsPro": "Tank adjustments, flapper/chain swaps, jet cleaning, and plunging/augering a simple clog are all solid DIY jobs. Call a licensed plumber if a clog won't clear with a closet auger (it may be deep in the line or the main), if multiple fixtures drain slowly or gurgle (vent/main-line problem), if there's any sewage backup, or if you're replacing the toilet and aren't comfortable resetting the wax ring and water supply.",
   "typicalCostUSD": "DIY parts: flapper $5-$12, fill valve $12-$20, closet auger $20-$35, cleaning supplies under $10. Pro: drain clearing $100-$275, vent/main-line snaking $150-$500+, toilet replacement $200-$600 labor plus $150-$700 for the new toilet.",
   "timeEstimate": "15-30 minutes for tank/flapper/chain fixes; up to 1-2 hours including jet cleaning or augering a clog.",
   "safetyLevel": "caution",
-  "safetyNote": "Shut off the toilet supply valve before swapping internal parts, and wear gloves when handling anything that contacts wastewater. Never mix cleaning chemicals \u2014 bleach plus vinegar or any acid (including CLR-type cleaners) releases toxic chlorine gas. If raw sewage backs up, treat it as a contamination hazard and call a pro.",
+  "safetyNote": "Shut off the toilet supply valve before swapping internal parts, and wear gloves when handling anything that contacts wastewater. Never mix cleaning chemicals: bleach plus vinegar or any acid (including CLR-type cleaners) releases toxic chlorine gas. If raw sewage backs up, treat it as a contamination hazard and call a pro.",
   "toolsParts": [
     "Replacement flapper (brand/model-matched)",
     "Fill valve (if replacing)",

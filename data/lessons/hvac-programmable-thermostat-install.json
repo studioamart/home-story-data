@@ -2,28 +2,28 @@
   "slug": "hvac-programmable-thermostat-install",
   "system": "hvac",
   "title": "How to Replace a Thermostat With a Programmable or Smart One (and Fix the C-Wire Problem)",
-  "question": "I want to swap my old thermostat for a smart one like a Nest or ecobee, but I'm worried I don't have a C-wire — how do I install it safely and what do I do if the common wire is missing?",
-  "summary": "Swapping a low-voltage thermostat is a beginner-friendly job, but the single thing most people get wrong is the C-wire (common wire) — a smart thermostat needs it for steady 24-volt power, and many older homes don't have one connected. Before you touch anything, photograph and label every wire, and never jumper R to C to \"fake\" a common: that shorts the transformer and can blow your furnace's fuse or damage the control board. If you have no C-wire, the safe fixes are a C-wire adapter at the furnace, a thermostat rated to run without one, or running new cable — not a shortcut jumper.",
+  "question": "I want to swap my old thermostat for a smart one like a Nest or ecobee, but I'm worried I don't have a C-wire. How do I install it safely and what do I do if the common wire is missing?",
+  "summary": "Swapping a low-voltage thermostat is a beginner-friendly job, but the single thing most people get wrong is the C-wire (common wire): a smart thermostat needs it for steady 24-volt power, and many older homes don't have one connected. Before you touch anything, photograph and label every wire, and never jumper R to C to \"fake\" a common: that shorts the transformer and can blow your furnace's fuse or damage the control board. If you have no C-wire, the safe fixes are a C-wire adapter at the furnace, a thermostat rated to run without one, or running new cable, not a shortcut jumper.",
   "commonCauses": [
     {
-      "cause": "There is no wire on the C terminal at the thermostat — the old mechanical or basic thermostat never needed one",
+      "cause": "There is no wire on the C terminal at the thermostat: the old mechanical or basic thermostat never needed one",
       "likelihood": "most common",
       "quickCheck": "Pull off the faceplate and look at the terminals: if you see 4 or fewer wires (typically R, W, Y, G) and the C terminal is empty, you have no active C-wire."
     },
     {
       "cause": "A C-wire is actually present but tucked, capped, or folded back unused inside the wall",
       "likelihood": "common",
-      "quickCheck": "Gently pull the wire bundle a little out of the wall and look for an extra unused conductor (often blue, sometimes another color) that was cut short or wrapped back — that spare is very likely your C."
+      "quickCheck": "Gently pull the wire bundle a little out of the wall and look for an extra unused conductor (often blue, sometimes another color) that was cut short or wrapped back; that spare is very likely your C."
     },
     {
       "cause": "Wires were removed without a photo or labels, so terminals get reconnected wrong",
       "likelihood": "common",
-      "quickCheck": "Before disconnecting anything, take a clear photo and write down which color goes to which letter (R, Rc, Rh, W, Y, G, C, O/B) — if you didn't, compare colors to a wiring diagram for your equipment type."
+      "quickCheck": "Before disconnecting anything, take a clear photo and write down which color goes to which letter (R, Rc, Rh, W, Y, G, C, O/B). If you didn't, compare colors to a wiring diagram for your equipment type."
     },
     {
-      "cause": "The system is line-voltage (electric baseboard/wall heaters at 120/240V), high-voltage, or a proprietary communicating system — not a standard 24V low-voltage setup",
+      "cause": "The system is line-voltage (electric baseboard/wall heaters at 120/240V), high-voltage, or a proprietary communicating system, not a standard 24V low-voltage setup",
       "likelihood": "less common",
-      "quickCheck": "Look for thick wires joined with wire nuts (not thin wires on lettered screw terminals) and a thermostat rated 120V/240V — that is line voltage and needs a matching line-voltage thermostat or a pro, not a smart 24V unit."
+      "quickCheck": "Look for thick wires joined with wire nuts (not thin wires on lettered screw terminals) and a thermostat rated 120V/240V; that is line voltage and needs a matching line-voltage thermostat or a pro, not a smart 24V unit."
     },
     {
       "cause": "A short during install blew the furnace's low-voltage fuse or tripped the transformer, so the new thermostat stays dead even with a C-wire",
@@ -32,24 +32,24 @@
     }
   ],
   "fixes": [
-    "Confirm the system is low-voltage 24V forced-air, not line-voltage. Flip the old thermostat to check that it uses thin wires on lettered screw terminals. If your thermostat maker (Nest, ecobee, Honeywell) offers an online compatibility checker, enter your wires there first. If you find thick wires with wire nuts or a 120/240V rating (electric baseboard/wall heat), stop — that needs a line-voltage thermostat or a pro.",
+    "Confirm the system is low-voltage 24V forced-air, not line-voltage. Flip the old thermostat to check that it uses thin wires on lettered screw terminals. If your thermostat maker (Nest, ecobee, Honeywell) offers an online compatibility checker, enter your wires there first. If you find thick wires with wire nuts or a 120/240V rating (electric baseboard/wall heat), stop; that needs a line-voltage thermostat or a pro.",
     "Cut power to the HVAC system before touching wires. Turn off the furnace/air handler switch and the matching breaker in the panel. Set the old thermostat to Off first, then confirm neither heat nor cooling can start. The 24V wires are low voltage, but killing power prevents a short that can blow the transformer or fuse; if the system might be line-voltage, also verify the wires are dead with a tester before touching them.",
-    "Remove the old faceplate and document the wiring. Take a sharp, well-lit photo of the terminals, then use the labeling stickers included with the new thermostat to tag each wire with its terminal letter (R, Rc, Rh, W, Y, G, C, O/B). Colors are not a reliable guide — go by the letter on the terminal.",
+    "Remove the old faceplate and document the wiring. Take a sharp, well-lit photo of the terminals, then use the labeling stickers included with the new thermostat to tag each wire with its terminal letter (R, Rc, Rh, W, Y, G, C, O/B). Colors are not a reliable guide; go by the letter on the terminal.",
     "Keep the wires from falling into the wall. Wrap the bundle around a pencil or tape it to the wall before you unscrew the old base. If wires drop inside the wall cavity, fishing them back out is the hardest part of the whole job.",
-    "Check for an existing C-wire. If a wire is already on the C terminal, you are set. If you find a spare unused wire (often blue) capped or folded back in the bundle, that is very likely your common — you will connect its other end at the furnace control board's C terminal in the next steps.",
-    "If there is truly no C-wire, choose ONE safe solution, and do NOT jumper R to C. Options: (a) install a C-wire adapter such as an ecobee Power Extender Kit or a Venstar Add-a-Wire at the furnace control board — the most reliable fix; (b) use a smart thermostat rated to run without a C-wire, but know that its 'power stealing' can cause clicking, short-cycling, or a dead screen on some systems, so a real C-wire or an adapter is still the safer choice; (c) run new 18/5 or 18/8 thermostat cable from the furnace to the thermostat and land a true common; or (d) repurpose the G (fan) wire as common ONLY if you can give up independent fan control — this usually works for heat-only systems, but on any system with AC the G wire is needed to run the blower during cooling (without it the evaporator coil can freeze), so do not sacrifice G unless the maker's guide confirms your exact setup supports it.",
+    "Check for an existing C-wire. If a wire is already on the C terminal, you are set. If you find a spare unused wire (often blue) capped or folded back in the bundle, that is very likely your common; you will connect its other end at the furnace control board's C terminal in the next steps.",
+    "If there is truly no C-wire, choose ONE safe solution, and do NOT jumper R to C. Options: (a) install a C-wire adapter such as an ecobee Power Extender Kit or a Venstar Add-a-Wire at the furnace control board, the most reliable fix; (b) use a smart thermostat rated to run without a C-wire, but know that its 'power stealing' can cause clicking, short-cycling, or a dead screen on some systems, so a real C-wire or an adapter is still the safer choice; (c) run new 18/5 or 18/8 thermostat cable from the furnace to the thermostat and land a true common; or (d) repurpose the G (fan) wire as common ONLY if you can give up independent fan control; this usually works for heat-only systems, but on any system with AC the G wire is needed to run the blower during cooling (without it the evaporator coil can freeze), so do not sacrifice G unless the maker's guide confirms your exact setup supports it.",
     "If you are adding a C-wire or adapter at the furnace, do it with furnace power off. Follow the adapter's diagram exactly (it wires between the control board's R, C, G, Y, W terminals and the thermostat cable). Connect the C-wire's other end to the C terminal on the control board.",
     "Mount the new base plate. Feed the wires through the opening, level it, mark and drill for the included anchors if needed, and screw it to the wall. Connect each labeled wire to the matching terminal on the new thermostat, and set or remove the Rc/Rh jumper exactly as the instructions specify for your system.",
     "Snap on the thermostat and restore power at the breaker and the furnace switch. Run the on-screen setup wizard and pick the correct equipment type (conventional furnace vs. heat pump, single vs. multi-stage, O/B orientation for heat pumps).",
     "Test every mode and confirm steady power. Call for Heat and listen for the furnace/burner; call for Cool and wait a few minutes for the compressor and cold air; run Fan only. If it is a heat pump, verify it actually heats in Heat mode (not cold air). The C-wire is working if the screen stays lit and the battery, if any, is not draining.",
-    "Watch for trouble signs. If the screen is dead, or the furnace short-cycles or clicks rapidly, turn the system off and re-check the wiring and the furnace's low-voltage fuse. Repeatedly blowing that fuse means a wiring fault — stop and get a pro.",
+    "Watch for trouble signs. If the screen is dead, or the furnace short-cycles or clicks rapidly, turn the system off and re-check the wiring and the furnace's low-voltage fuse. Repeatedly blowing that fuse means a wiring fault; stop and get a pro.",
     "Finish setup: connect to Wi-Fi, set your schedule or eco/away settings, and keep the old thermostat and your wiring photo for a few weeks in case you need to reference or revert."
   ],
   "diyVsPro": "DIY is reasonable for a standard low-voltage (24V) forced-air furnace/AC with a clearly labeled thermostat and 4-5 wires, especially when a C-wire is already present or the thermostat ships with a C-wire adapter. Stop and call a licensed HVAC tech or electrician if: you have line-voltage electric heat (thick wires with wire nuts, 120/240V baseboard or wall heaters); there is no C-wire and no safe way to add one that you're comfortable doing at the furnace board; you have a heat pump with auxiliary/emergency heat or O/B wiring you can't confidently map; the system is a proprietary or communicating type (some high-end Trane/Carrier/Lennox use a special data bus, not standard terminals); or the system won't power up, short-cycles, or keeps blowing the low-voltage fuse after your install.",
   "typicalCostUSD": "Basic programmable thermostat $25-100; smart thermostat (Nest, ecobee, Honeywell) $100-250; C-wire adapter (Venstar Add-a-Wire, ecobee Power Extender Kit) $10-30, and often included with the thermostat. DIY total is roughly $25-250 in parts. Professional install typically runs $100-300 depending on whether new wiring or an adapter is needed.",
   "timeEstimate": "30-60 minutes for a straightforward swap with an existing C-wire; 1-2 hours if you're installing a C-wire adapter at the furnace; longer if new cable must be run.",
   "safetyLevel": "caution",
-  "safetyNote": "A standard thermostat runs on low-voltage 24V control wiring, which is not the main shock hazard — but you must still turn off the furnace/air handler switch AND the breaker before wiring, because accidentally touching the R and C wires together can short the transformer, blow the furnace fuse, or damage the control board. The real danger is a line-voltage thermostat: electric baseboard and wall heaters use 120V or 240V (thick wires under wire nuts), which can seriously shock or kill — if you see that, shut off the breaker, verify the wires are dead with a non-contact voltage tester or multimeter, and use a matching line-voltage thermostat or hire a licensed electrician; do not install a 24V smart thermostat there. Never jumper R to C to fake a common wire, and keep thermostat wires from falling into the wall. If you smell gas near the furnace at any point, leave the house and call your gas utility or 911 from outside — do not flip switches or create any spark. If the new thermostat repeatedly blows the furnace's low-voltage fuse, stop and call an HVAC pro.",
+  "safetyNote": "A standard thermostat runs on low-voltage 24V control wiring, which is not the main shock hazard, but you must still turn off the furnace/air handler switch AND the breaker before wiring, because accidentally touching the R and C wires together can short the transformer, blow the furnace fuse, or damage the control board. The real danger is a line-voltage thermostat: electric baseboard and wall heaters use 120V or 240V (thick wires under wire nuts), which can seriously shock or kill. If you see that, shut off the breaker, verify the wires are dead with a non-contact voltage tester or multimeter, and use a matching line-voltage thermostat or hire a licensed electrician; do not install a 24V smart thermostat there. Never jumper R to C to fake a common wire, and keep thermostat wires from falling into the wall. If you smell gas near the furnace at any point, leave the house and call your gas utility or 911 from outside; do not flip switches or create any spark. If the new thermostat repeatedly blows the furnace's low-voltage fuse, stop and call an HVAC pro.",
   "toolsParts": [
     "New programmable or smart thermostat",
     "Small Phillips and flat-head screwdrivers",
@@ -76,11 +76,11 @@
     "does my thermostat have a c-wire"
   ],
   "sources": [
-    "U.S. Department of Energy (energy.gov) — thermostat and home heating & cooling guidance",
-    "ENERGY STAR (energystar.gov) — smart thermostat selection and savings guidance",
-    "Manufacturer installation instructions (Google Nest, ecobee, Honeywell Home) — wiring, compatibility checker, and C-wire requirements",
+    "U.S. Department of Energy (energy.gov): thermostat and home heating & cooling guidance",
+    "ENERGY STAR (energystar.gov): smart thermostat selection and savings guidance",
+    "Manufacturer installation instructions (Google Nest, ecobee, Honeywell Home): wiring, compatibility checker, and C-wire requirements",
     "C-wire adapter documentation (ecobee Power Extender Kit, Venstar Add-a-Wire)",
-    "National Electrical Code (NEC / NFPA 70) — line-voltage vs. low-voltage circuit requirements"
+    "National Electrical Code (NEC / NFPA 70): line-voltage vs. low-voltage circuit requirements"
   ],
   "disclaimer": "This guide is general home-maintenance information, not professional advice; verify against your specific equipment's manual and local codes, and consult a licensed HVAC or electrical professional when in doubt.",
   "verified": false,
