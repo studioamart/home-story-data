@@ -8,12 +8,12 @@
     {
       "cause": "Faulty, cracked, or poorly vented furnace or boiler heat exchanger \u2014 a leading home CO source, especially older units run hard in winter",
       "likelihood": "most common",
-      "quickCheck": "Note your furnace's age and last service date; look for soot, rust, or a yellow/orange (not crisp blue) burner flame. Any of these means stop using it and call a licensed HVAC tech."
+      "quickCheck": "Note the appliance age and last professional service date and look only from outside the cabinet for soot, rust, damage, or a disconnected vent. Do not use flame color or the absence of soot to decide that combustion is safe; a qualified professional must test it."
     },
     {
       "cause": "Gas water heater, gas/propane stove, or fireplace with a blocked, disconnected, or backdrafting vent or flue",
       "likelihood": "common",
-      "quickCheck": "Visually confirm the water-heater and furnace vent pipes are intact and sloped upward toward the chimney. A lit incense stick held near the draft hood is a rough draft check (smoke pulled in = drawing; smoke pushed back = possible backdraft) \u2014 treat any concern as a reason to call a pro, not a pass/fail test."
+      "quickCheck": "From outside the appliance cabinet, look for a visibly disconnected, damaged, rusted, or blocked vent. Do not use incense, smoke, or a flame as a draft test; shut the appliance down and call a qualified professional if venting is in doubt."
     },
     {
       "cause": "Running a car, generator, pressure washer, or other gas engine in an attached garage or near windows/doors",
@@ -37,10 +37,10 @@
     }
   ],
   "fixes": [
-    "Install UL-listed (UL 2034) CO alarms on every level of the home, inside or just outside each sleeping area, following NFPA 72 and the manufacturer's instructions. Because CO mixes evenly through the air, wall or ceiling mounting per the brand is fine; keep alarms out of dead-air corners, away from the kitchen, and roughly 10\u201315 ft from fuel-burning appliances to avoid nuisance trips.",
+    "Install listed CO alarms on every level and outside sleeping areas, plus any locations required by local code. Follow each alarm manufacturer's mounting and separation instructions rather than a single fixed distance from fuel-burning appliances.",
     "Test every CO alarm monthly with the test button and replace batteries yearly (or use 10-year sealed-battery units). CO sensors wear out \u2014 replace the whole alarm per the date stamped on the back, typically every 7\u201310 years.",
     "Have every fuel-burning appliance \u2014 furnace, boiler, water heater, gas range, fireplace, gas dryer \u2014 inspected and serviced by a licensed HVAC or gas tech once a year, ideally before heating season.",
-    "Have the chimney and all flues/vents inspected and cleaned annually by a certified (e.g., CSIA) chimney sweep; keep vents clear of nests, debris, and snow.",
+    "Have chimneys and fuel-appliance flues or vents professionally inspected at least annually and serviced or cleaned when the inspection, appliance instructions, or local requirements call for it.",
     "Never run a car, generator, or any gas engine inside an attached garage \u2014 not even with the door open. Run generators outdoors, at least 20 ft from the house, with exhaust aimed away from windows, doors, and vents.",
     "Never use a charcoal grill, camp stove, or unvented portable fuel heater indoors, in the basement, or in a closed garage.",
     "If a CO alarm sounds: get everyone (and pets) outside to fresh air immediately, call 911 from outside, and do not re-enter until the fire department or gas utility says it's safe.",
@@ -55,7 +55,6 @@
     "UL-listed (UL 2034) CO alarms, or combo smoke/CO alarms",
     "Batteries (or 10-year sealed-battery units)",
     "Drill and screws for mounting",
-    "Incense stick or smoke pencil (rough backdraft check only)",
     "Step ladder"
   ],
   "searchTerms": [
@@ -76,7 +75,8 @@
     "reputable DIY references (This Old House, Family Handyman)"
   ],
   "disclaimer": "General home-maintenance information, not professional, medical, or emergency advice. Carbon monoxide is potentially fatal \u2014 when in doubt, leave the home and call 911. Codes and product requirements vary by state and locality; follow your CO alarm's instructions and local building code.",
-  "verified": true,
-  "verifierNote": "Corrected NFPA 720 to NFPA 72 (720 was withdrawn/merged ~2016), changed alarm replacement from 5\u20137 to 7\u201310 yrs (UL 2034 norm; fixed contradiction with the 10-yr sealed units), relaxed appliance clearance to 10\u201315 ft, softened the incense backdraft check to a rough indicator, added roof-height caution for chimney work, and nudged furnace inspection cost to current ~$100\u2013250; sources, generator 20 ft rule, evacuate-and-call-911 guidance, and call-a-pro level confirmed accurate.",
+  "verified": false,
+  "verifierNote": "Combustion-test, alarm-placement, and chimney-service wording remediated; pending qualified human review before publication.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

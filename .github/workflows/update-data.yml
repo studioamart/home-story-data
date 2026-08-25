@@ -9,23 +9,45 @@ name: Update home task data
 
 on:
   workflow_dispatch: {}            # manual trigger
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+      - '.github/workflows/update-data.yml'
   push:
     paths:
-      - 'data/home-tasks.json'        # schedule data
-      - 'data/lessons/**'             # fix-guide source files
+      - 'data/**'
+      - 'scripts/**'
+      - '.github/workflows/update-data.yml'
   schedule:
     - cron: '0 9 1 */3 *'           # 09:00 UTC on the 1st, every 3rd month
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: update-data
   cancel-in-progress: false
 
 jobs:
-  build:
+  validate-pr:
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Validate schemas, review policy, and generated artifacts
+        run: |
+          node --test scripts/*.test.mjs
+          node scripts/build-manifest.mjs --check
+
+  build:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -43,11 +65,13 @@ jobs:
         run: node scripts/build-manifest.mjs
 
       - name: Check lesson publishing policy
-        run: node --test scripts/*.test.mjs
+        run: |
+          node --test scripts/*.test.mjs
+          node scripts/build-manifest.mjs --check
 
       - name: Commit manifests if changed
         run: |
-          FILES="data/manifest.json data/lessons.json data/lessons-manifest.json"
+          FILES="data/manifest.json data/lessons.json data/lessons/index.json data/lessons-manifest.json"
           if [[ -n "$(git status --porcelain $FILES)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"

@@ -74,7 +74,8 @@
     "CPSC guidance on aluminum branch-circuit wiring hazards"
   ],
   "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed electrician's inspection. Electrical codes and conditions vary; when in doubt, or if you see any sign of an actual fault, hire a qualified pro and follow your local code.",
-  "verified": true,
-  "verifierNote": "Confirmed costs, ratings, aluminum-wiring dates, and back-stab-to-screw advice; softened the \"overloaded 15A switch\" cause (lighting rarely maxes a switch \u2014 loose connections are the real heat source), added not-to-disturb-aluminum warnings, scoped DIY to non-panel line-voltage switches, and clarified that a switch can leave wires live.",
+  "verified": false,
+  "verifierNote": "Quarantined pending qualified electrical review of line-voltage diagnostic and replacement steps.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

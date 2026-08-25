@@ -73,7 +73,8 @@
     "General electrical/building-code norms for 120V dimmer replacement"
   ],
   "disclaimer": "This guide is general home-maintenance information, not professional electrical advice. Electrical codes and conditions vary; when in doubt, consult a licensed electrician. Always de-energize circuits and verify they are dead before working on them.",
-  "verified": true,
-  "verifierNote": "Confirmed causes/fixes and the \"caution\" safety level (single dimmer swap is careful-DIY; multi-fixture/neutral flicker correctly escalated to a pro); fixed the misleading cost framing (Lutron Caseta is a ~$50\u201370 smart dimmer, not $20\u201335) and added a neutral-wire note for smart dimmers; softened the loose \"predates 2015\" age heuristic.",
+  "verified": false,
+  "verifierNote": "Quarantined because the line-voltage replacement step relies on a non-contact voltage tester; pending qualified electrical rewrite and review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

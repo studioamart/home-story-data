@@ -32,6 +32,7 @@
     }
   ],
   "fixes": [
+    "Before scraping or sanding, determine whether painted surfaces may date to before 1978. If age is unknown or lead is possible, do not dry-sand; use an EPA-recognized test or a lead-safe certified professional and follow containment and HEPA-cleanup requirements.",
     "Find and verify the exact original paint. Locate the original can or the store formula sticker (brand, color name/code, and sheen). If the paint is more than a year or two old, take it to a paint store to re-shake or buy a fresh quart of the same formula and sheen. Do not substitute 'close' colors.",
     "Clean the area first. Wipe scuffs and the surrounding wall with a damp microfiber cloth and a little dish soap, then let it dry completely. Touching up over grease, dust, or a marker scuff will flash or smear. A magic-eraser sponge removes many scuffs entirely \u2014 try that before you even paint.",
     "Repair any damage before painting. Fill nail holes and dings with lightweight spackle, let dry, sand flush with fine (220-grit) sandpaper, wipe off dust, then spot-prime just the patch with a stain-blocking primer and let it dry. On bare patches, skipping primer is the main reason a spot dries dull.",
@@ -44,8 +45,8 @@
   "diyVsPro": "This is firmly DIY for flat/matte and eggshell walls \u2014 it's cosmetic, low-risk, and the technique is the whole game. Call a painter when the wall is satin, semi-gloss, or high-gloss and the touch-up keeps flashing (those sheens essentially require recoating wall-to-wall), when the area is large or high on a stairwell, or when the color has drifted enough that the whole room needs repainting to look uniform. A pro is also worth it for textured walls (knockdown, orange peel, skip-trowel) where matching the texture is the hard part.",
   "typicalCostUSD": "$0\u201325 if you already have the original paint (spackle, sandpaper, a mini roller, and a sample primer run about $15\u201325). A fresh quart to re-match runs $18\u201330. If you hire a painter to repaint one wall to fix flashing, expect roughly $150\u2013400 depending on wall size and region; a full small room is typically $300\u2013800.",
   "timeEstimate": "15\u201330 minutes of active work for a few scuffs or nail holes, plus drying time (2\u20134 hours to judge sheen, overnight for full color cure). Repairs that need spackle and primer add a couple of hours of waiting between steps.",
-  "safetyLevel": "none",
-  "safetyNote": "This is a cosmetic task with no real hazard. Basic common sense only: ventilate the room, keep water-based paint and primer off skin and out of eyes, and use a stable step stool \u2014 not a chair \u2014 if reaching up. If your home was built before 1978 and you're sanding old paint, treat it as possible lead paint: don't dry-sand aggressively, wet-wipe the dust, and follow EPA RRP lead-safe guidance before disturbing large areas.",
+  "safetyLevel": "caution",
+  "safetyNote": "Paint disturbance can create hazardous lead dust in pre-1978 housing, and age may be uncertain. Do not dry-sand possible lead paint. Isolate the area from children and pregnant people and use lead-safe containment and HEPA cleanup or a certified professional. Ventilate coatings and use a stable step stool.",
   "toolsParts": [
     "Original leftover paint (exact color + sheen) or a fresh-matched quart",
     "Paint store formula sticker / can label for matching",
@@ -75,7 +76,8 @@
     "EPA Renovation, Repair and Painting (RRP) lead-safe guidance for pre-1978 homes"
   ],
   "disclaimer": "General home-maintenance guidance for a typical US interior wall. Results vary with paint type, wall texture, age, and lighting. Always follow the paint and primer manufacturer's label instructions, and test in an inconspicuous spot first.",
-  "verified": true,
-  "verifierNote": "Confirmed sheen/color/application causes, primer step, \"paint to a corner\" practice, costs, and pre-1978 lead-paint flag as accurate; softened the overstated \"#1 cause\" primer claim for consistency with its less-common ranking and tightened wording. safetyLevel \"none\" is correct (cosmetic, no gas/240V/structural/roof/mold).",
+  "verified": false,
+  "verifierNote": "Lead-age gate, containment boundary, and caution classification added; pending qualified lead-safe review before publication.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

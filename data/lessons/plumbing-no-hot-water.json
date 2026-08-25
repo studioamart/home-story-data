@@ -87,7 +87,8 @@
     "Gas utility emergency-response guidance"
   ],
   "disclaimer": "This is general guidance, not a substitute for professional inspection. Water heaters involve gas and high-voltage electricity; if you're unsure at any step, or if work touches the gas line or panel wiring, hire a licensed plumber or electrician. Codes and equipment vary by region and model.",
-  "verified": true,
-  "verifierNote": "Fixed \"gas gas-control valve\" typo; scoped the gas-flame-window check to standing-pilot units and added newer sealed/electronic-igniter case; emphasized verifying power is dead before opening electric panel and not repeatedly resetting a tripped ECO; added non-contact voltage tester to tools. Costs, safetyLevel (call-a-pro), and core diagnostics confirmed accurate.",
+  "verified": false,
+  "verifierNote": "Quarantined pending removal of internal electrical and combustion DIY steps and qualified plumbing/electrical review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

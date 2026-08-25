@@ -72,7 +72,8 @@
     "Manufacturer instructions for foam outlet gaskets and fire-rated caulk"
   ],
   "disclaimer": "General home-maintenance guidance, not professional electrical advice. Local codes vary; when in doubt, turn off power and consult a licensed electrician.",
-  "verified": true,
-  "verifierNote": "Confirmed the air paths, gasket/safety-plug/caulk approach, costs, and times against DOE/ENERGY STAR and NEC box-fill practice; removed the unsafe \"wet/damp hand near the box\" draft-check, dropped the moisture-condensation claim, made breaker-off the default before any box-interior work, and clarified that tamper-resistant receptacle swaps are an electrician task.",
+  "verified": false,
+  "verifierNote": "Quarantined because the electrical box step relies on a non-contact voltage tester; pending qualified electrical rewrite and review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

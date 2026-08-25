@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": 2,
+  "version": 5,
   "url": "https://studioamart.github.io/home-story-data/data/home-tasks.json",
-  "sha256": "ff0fe9ee353aadd2f0b38ce0553bbfa8adc6b4076196960c780d14258835cbd7",
-  "taskCount": 67,
-  "generatedAt": "2026-06-29T03:20:23.839Z"
+  "sha256": "75277f35e07959c6af5e77098f09d09a7de8a2881b42d36c7abf487661545eb1",
+  "taskCount": 66,
+  "generatedAt": "2026-08-13T23:19:14.036Z"
 }

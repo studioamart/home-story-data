@@ -74,7 +74,8 @@
     "Reputable DIY references (This Old House, Family Handyman)"
   ],
   "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed electrician. Electrical work carries shock and fire risk and may be subject to local code and permits. If you are unsure at any step, or see signs of overheating or damage, stop and hire a licensed professional.",
-  "verified": true,
-  "verifierNote": "Confirmed causes/costs/safety as accurate for a 120V receptacle task; tightened the reset-technique cause (pressing TEST first isn't required), added labeling the LINE pair before replacement to prevent the LINE/LOAD swap the lesson itself warns about, noted multi-circuit boxes, and added knob-and-tube to the call-a-pro list.",
+  "verified": false,
+  "verifierNote": "Quarantined pending a qualified electrical rewrite that removes receptacle wiring and the non-contact-tester-only boundary.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

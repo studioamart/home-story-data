@@ -32,6 +32,7 @@
     }
   ],
   "fixes": [
+    "Before scraping or sanding painted material, determine whether it may date to before 1978. If lead is possible or age is unknown, do not dry-sand; use an EPA-recognized test or a lead-safe certified professional and follow containment and HEPA-cleanup requirements.",
     "Clear and prep each spot: scrape off any raised paint lip or paper burr around the hole with the corner of a putty knife so the area is flat or slightly recessed\u2014filler must sit in a low spot, never on a bump. Wipe away dust with a dry cloth.",
     "For nail/tack holes and tiny dings, scoop a small amount of lightweight spackle (e.g., DAP DryDex or 3M lightweight) onto a 1.5-2\" flexible putty knife. Press it firmly into the hole, then drag the knife across at a low angle to wipe the surface flush, leaving the hole full and the wall clean. A little proud is fine; globs are not.",
     "For a dent or ding (a depression with no hole), apply a thin skim coat over it with the putty knife, feathering the edges out past the dent so there's no hard ridge. Don't try to fill a deep dent in one thick pass\u2014it'll crack or sink.",
@@ -45,8 +46,8 @@
   "diyVsPro": "Squarely DIY\u2014filling nail holes and small dings is one of the most beginner-friendly home repairs there is, and the materials are cheap. Consider calling a painter or drywall pro only if what you thought were dings turn out to be recurring cracks, multiple nail pops, water-stained drywall, or holes bigger than a few inches, since those point to a movement, fastener, or moisture problem that needs proper repair (mesh/backing, screws, or stain-blocking) rather than cosmetic filler.",
   "typicalCostUSD": "$15-$35 for materials (a tub of lightweight spackle ~$6-$10, a putty knife ~$4-$8, a sanding sponge ~$4, and a small can of primer ~$8-$15 if you don't already have it). A pro patch-and-prime visit, if you outsource it, typically runs $150-$400 depending on count and minimum trip charges.",
   "timeEstimate": "About 1-2 hours of hands-on work for a typical room of nail holes, spread across an evening to allow for drying between fill, sand, prime, and paint (plan for a few hours total elapsed, or overnight if you skim-coated dents).",
-  "safetyLevel": "none",
-  "safetyNote": "This is cosmetic work with no real hazard. The only minor cautions: wear a dust mask or respirator and open a window when sanding so you don't breathe drywall/spackle dust, and use a step stool rather than overreaching for high spots. If the wall paint is from before 1978, assume it may contain lead\u2014don't dry-sand it; wet-sand or consult EPA lead-safe guidance instead.",
+  "safetyLevel": "caution",
+  "safetyNote": "Paint disturbance can create hazardous lead dust in pre-1978 housing. Do not dry-sand possible lead paint; isolate the work from children and pregnant people and use lead-safe containment and HEPA cleanup or a certified professional. For confirmed non-lead patch material, use eye and respiratory protection and a stable step stool.",
   "toolsParts": [
     "Lightweight spackle (e.g., DAP DryDex color-change or 3M lightweight)",
     "Flexible putty knife, 1.5-2\" (and a 4-6\" knife for skim-coating dents)",
@@ -73,7 +74,8 @@
     "EPA lead-safe (RRP) practices for sanding pre-1978 painted surfaces"
   ],
   "disclaimer": "General home-maintenance guidance for typical interior drywall in good condition. Dry times, products, and results vary by humidity, filler type, and wall condition\u2014always follow the instructions on your specific spackle and primer cans. If holes turn out to be cracks, nail pops, or signs of moisture, treat them as a different repair.",
-  "verified": true,
-  "verifierNote": "Confirmed steps, 220-grit/spot-prime-to-stop-flashing practice, costs, and pre-1978 lead caution all match US norms; softened the optimistic DryDex dry-time to defer to the can and named EPA RRP in sources. No gas/240V/structural/roof/mold issues\u2014safetyLevel \"none\" is correct.",
+  "verified": false,
+  "verifierNote": "Lead-age gate, containment boundary, and caution classification added; pending qualified lead-safe review before publication.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

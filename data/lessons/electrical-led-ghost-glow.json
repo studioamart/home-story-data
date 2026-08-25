@@ -77,7 +77,8 @@
     "Reputable DIY references (Family Handyman, This Old House) on LED phantom glow and lighted-switch leakage"
   ],
   "disclaimer": "General home-maintenance information, not professional electrical advice. Codes and conditions vary; when in doubt or when working beyond simple device replacement, consult a licensed electrician and follow local code and permit requirements.",
-  "verified": true,
-  "verifierNote": "Confirmed causes/fixes/costs against US practice; tightened the smart-switch cause (only NO-neutral switches glow), clarified non-contact testers beep on harmless phantom voltage, corrected the switched-neutral quick-check to a multimeter reading across fixture wires (not \"120V on the screw shell\"), and added buzzing/warmth as escalation triggers.",
+  "verified": false,
+  "verifierNote": "Quarantined pending qualified electrical review of line-voltage diagnostic and replacement steps.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

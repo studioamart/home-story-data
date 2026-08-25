@@ -33,8 +33,8 @@
   ],
   "fixes": [
     "Ventilate before you start: open a window, run the exhaust fan, and wear rubber gloves, an N95 mask, and eye protection. Mold spores and cleaning fumes both irritate lungs and eyes.",
-    "For surface mold on tile, grout, and painted walls, scrub with a cleaner \u2014 either a store-bought mold/mildew remover, OR undiluted white vinegar in a spray bottle (vinegar penetrates porous grout and caulk better and is the gentler choice), OR diluted bleach (CDC: up to 1 cup of bleach per 1 gallon of water). Let it dwell about 10 minutes, scrub with a stiff brush, then rinse and dry. Test bleach on a hidden spot first \u2014 it can lighten colored grout and caulk.",
-    "NEVER mix bleach with vinegar, ammonia, or any other cleaner \u2014 combinations release toxic gas. Pick ONE product, and if you switch products, rinse thoroughly and ventilate in between.",
+    "For a small area on a hard, non-porous surface, scrub with detergent and water, then dry completely. Follow any product label exactly. Do not rely on vinegar penetration claims, and do not combine cleaning products. Moldy porous material such as drywall, ceiling tile, or deeply affected caulk may need removal rather than surface treatment.",
+    "Never mix bleach with ammonia, acids, vinegar, or another cleaner. Mixing products can release toxic gas; use only one labeled product with ventilation and the protective equipment its label requires.",
     "For mold in caulk that won't scrub clean, cut out the old caulk completely, let the joint dry fully, and re-caulk with a 100% silicone caulk labeled mildew-resistant for kitchen/bath. Mold roots inside the caulk, so surface cleaning won't fix it.",
     "For a moldy shower curtain liner or bath mat, machine wash it or just replace the liner \u2014 they're cheap and rarely worth saving.",
     "Prevent recurrence: run the exhaust fan during every shower and for 20-30 minutes after; squeegee or wipe down shower walls; spread out towels and the liner so they dry; and keep bathroom humidity down (a hygrometer kept under ~50% and, if needed, a small dehumidifier help).",
@@ -52,7 +52,7 @@
     "Eye protection",
     "Stiff scrub brush or old toothbrush",
     "Spray bottle",
-    "Mold/mildew remover, or white vinegar, or household bleach",
+    "Mild detergent or a labeled mold-cleaning product",
     "Utility knife or caulk-removal tool",
     "100% silicone mildew-resistant kitchen/bath caulk",
     "Caulk gun",
@@ -81,7 +81,8 @@
     "Building-code norms on bathroom exhaust fans venting to the exterior and on de-energizing circuits before electrical work"
   ],
   "disclaimer": "This is general home-maintenance information, not professional inspection, medical, or remediation advice. Conditions in your home may differ. When in doubt \u2014 especially with large infestations, hidden leaks, structural damage, electrical work, or health concerns \u2014 consult a licensed professional and follow local building codes.",
-  "verified": true,
-  "verifierNote": "Confirmed causes/costs/EPA 10-sqft threshold; corrected bleach dilution to CDC's up to 1 cup/gallon, added \"don't mix bleach with vinegar,\" warned bleach can discolor grout and doesn't penetrate porous surfaces (vinegar preferred), and added breaker-off/dead-wire and licensed-electrician warnings to the fan swap.",
+  "verified": false,
+  "verifierNote": "Unsupported vinegar-performance claim removed and EPA-style hard-surface/porous-material boundary added; pending qualified mold-remediation review before publication.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

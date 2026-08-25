@@ -94,7 +94,8 @@
     "Electrical and gas safety norms (breaker lockout and dead-test before service; gas and 240V work by licensed pros)"
   ],
   "disclaimer": "This is general home-maintenance guidance, not a substitute for your appliance's manual or a licensed technician. Specs like sensor resistance and calibration steps vary by model \u2014 always confirm against your manufacturer. Work on gas appliances and 240V electrical only if qualified; when in doubt, hire a pro.",
-  "verified": true,
-  "verifierNote": "Confirmed causes/fixes/costs as sound; downgraded safetyLevel from \"call-a-pro\" to \"caution\" (it contradicted the DIY-friendly content), added a confirm-dead/voltage-tester step and 240V lethality warning, generalized the element-terminal and sensor-resistance claims to avoid model-specific overconfidence, and added a voltage tester to tools.",
+  "verified": false,
+  "verifierNote": "Quarantined pending removal of 240V internal repair steps and qualified appliance/electrical review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

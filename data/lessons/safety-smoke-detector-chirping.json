@@ -75,7 +75,8 @@
     "Reputable DIY references (This Old House, Family Handyman)"
   ],
   "disclaimer": "This is general home-maintenance guidance, not a substitute for professional inspection. Smoke alarms are life-safety devices \u2014 when in doubt, replace the unit and consult a licensed electrician or your local fire department. Codes and product instructions vary; always follow your alarm manufacturer's manual and local building codes.",
-  "verified": true,
-  "verifierNote": "Confirmed chirp diagnostics, 10-year end-of-life, and cleaning advice; softened the hardwired-replacement DIY framing toward \"only if comfortable with line voltage, else call an electrician,\" added a voltage-tester step, reworded the dubious \"clear residual charge\" claim to \"reset per manual,\" corrected CO sensor life to 5\u201310 yrs, nudged electrician cost to $100\u2013250/unit with service minimum, and made the continuous-alarm note say call 911.",
+  "verified": false,
+  "verifierNote": "Quarantined pending qualified electrical/fire-safety review of hardwired replacement and emergency distinctions.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

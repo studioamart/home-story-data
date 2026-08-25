@@ -73,7 +73,8 @@
     "Established acoustic-construction references on mass, damping, decoupling, and flanking paths (STC concepts)"
   ],
   "disclaimer": "General home-maintenance guidance, not professional engineering, electrical, or legal advice. Party walls in townhouses/condos are frequently shared common elements and may be fire-rated assemblies \u2014 verify ownership, code requirements, and HOA rules before altering. Results vary with the existing wall and noise type; deep bass is hard to stop without opening the wall.",
-  "verified": true,
-  "verifierNote": "Confirmed Green Glue coverage (~2 tubes/sheet), box-extender code requirement, and cost ranges; added explicit voltage-tester verification, a fire-rated-assembly pro routing in the safety note, and minor wording fixes.",
+  "verified": false,
+  "verifierNote": "Quarantined pending qualified electrical and fire-rated party-wall review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

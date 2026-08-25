@@ -74,7 +74,8 @@
     "Manufacturer guidance for low-expansion window/door spray foam and rigid foam board"
   ],
   "disclaimer": "General home-maintenance guidance for a typical US townhouse; your wall construction, climate zone, and local building codes may differ. Verify electrical work safety and pull permits where required. When in doubt, consult a licensed contractor or insulation professional.",
-  "verified": true,
-  "verifierNote": "Confirmed methods, R-values, and costs against DOE/ENERGY STAR and 2025-26 pricing; added a double-vapor-barrier moisture/rot warning to the interior rigid-foam step and safety note, made the moisture/mold-stop-and-call-a-pro routing explicit (>10 sq ft mold or any rot), and corrected window-sealing advice to leave exterior weep holes uncaulked.",
+  "verified": false,
+  "verifierNote": "Quarantined pending qualified electrical and hazardous-material review of wall-opening and outlet steps.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

@@ -41,22 +41,17 @@
     "Press RESET on every GFCI outlet in the home \u2014 bathrooms, kitchen, garage, basement, laundry, and exterior outlets. One tripped GFCI commonly kills several downstream outlets, so check them all even if they look fine.",
     "Go to the breaker panel and find the breaker for that room. Switch it fully OFF, then firmly back ON. A tripped breaker often rests in the middle and needs a full reset, not just a nudge.",
     "Rule out a switched outlet: flip every wall switch in the room and watch whether the outlet powers on. Many living-room and bedroom outlets are wired to a switch by design.",
-    "If resets don't help, turn OFF the breaker for that circuit, then confirm power is truly off before touching any wires. A non-contact voltage tester can read falsely 'dead,' so back it up: test it first on a known-live outlet to confirm it works, then check both slots of the outlet you're opening. Once verified dead, unscrew and pull the outlet to check for loose, backstabbed, or burnt wires. Tighten loose screw terminals; if you see scorching or melted insulation, stop and call an electrician.",
-    "If the outlet is simply worn (plugs fall out, intermittent), replace it with a matching receptacle \u2014 with the breaker off and power verified \u2014 moving one wire at a time so you don't mix them up.",
+    "If the GFCI and breaker resets and switch check do not restore power, stop. A dead receptacle may still have energized conductors or an upstream fault; have a licensed electrician open boxes, test conductors, tighten connections, or replace the device.",
     "If everything tests fine but the outlet is still dead, the break is likely upstream (a failed wire connection in another box or the panel). That tracing work is best left to a licensed electrician."
   ],
-  "diyVsPro": "Resetting GFCIs and breakers, checking for a switched outlet, and swapping a worn-out receptacle are reasonable DIY tasks if you kill the power and verify it's off with a tester first. Call a licensed electrician if you smell burning, see scorch marks or melted plastic, the breaker trips again immediately after resetting, multiple outlets are dead with no GFCI to reset, or you're dealing with aluminum wiring, knob-and-tube, or anything inside the panel.",
+  "diyVsPro": "DIY is limited to testing with a known-good plug-in device, checking wall switches, pressing GFCI RESET, and resetting a breaker once. Opening the receptacle box, proving absence of voltage, tightening conductors, or replacing the receptacle is licensed-electrician work in this guide.",
   "typicalCostUSD": "DIY: $0 to reset a GFCI/breaker; $3-$25 for a replacement receptacle (standard ~$3, GFCI ~$15-$25). Pro: $120-$250 for a service call to diagnose and replace an outlet; $200-$500+ if they have to trace and repair a hidden wiring fault.",
   "timeEstimate": "5-15 minutes for resets and basic checks; 20-40 minutes to replace an outlet.",
   "safetyLevel": "caution",
-  "safetyNote": "Always turn off the circuit breaker and confirm power is off before removing a cover plate or touching wires \u2014 voltage can still be present even when an outlet seems dead. Don't trust a single non-contact voltage tester reading: these give false 'no voltage' results if the battery is weak or the tip doesn't get close enough, so first confirm the tester lights up on a known-live outlet, then verify the outlet you're working on. If you smell burning, see scorch marks, feel heat at the outlet, or the breaker trips again right after you reset it, stop and call a licensed electrician \u2014 these point to a fault that can cause a fire.",
+  "safetyNote": "A dead outlet is not proof that its conductors are de-energized. Do not remove the cover plate, pull out the receptacle, or touch wiring as part of this guide. If you smell burning, see scorching, feel heat, hear arcing, or the breaker trips again after one reset, leave it off and call a licensed electrician; call emergency services for active smoke or fire.",
   "toolsParts": [
     "Plug-in lamp or phone charger (to test for power)",
-    "Non-contact voltage tester (and ideally a plug-in outlet tester as a backup)",
-    "Flat-head and Phillips screwdrivers",
-    "Replacement receptacle (standard or GFCI, matching the original)",
-    "Flashlight or headlamp",
-    "Replacement fuse of matching amperage (older fuse-box homes only)"
+    "Flashlight or headlamp"
   ],
   "searchTerms": [
     "outlet not working",
@@ -74,7 +69,8 @@
     "Reputable DIY references (This Old House, Family Handyman)"
   ],
   "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed electrician. Electrical work carries shock and fire risk, and local codes vary \u2014 when in doubt, hire a professional and follow all applicable codes and permit requirements.",
-  "verified": true,
-  "verifierNote": "Confirmed causes, costs, and the kill-power-first DIY scope as accurate; strengthened the safety guidance to warn about non-contact voltage tester false negatives (verify on a known-live outlet first) and added a backup plug-in tester to the tools.",
+  "verified": false,
+  "verifierNote": "DIY scope limited to resets and non-invasive checks; pending qualified electrical review before publication.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

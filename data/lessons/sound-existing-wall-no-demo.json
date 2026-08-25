@@ -81,7 +81,8 @@
     "General building-code norms for Type X fire-rated drywall in shared walls"
   ],
   "disclaimer": "General guidance for typical US wood-framed interior walls. Verify local building and fire codes and any HOA/condo rules before adding layers to a shared wall. If you are unsure about electrical work or the wall's construction, consult a licensed professional.",
-  "verified": true,
-  "verifierNote": "Confirmed the Green-Glue-plus-5/8\"-drywall no-demo approach, costs, and realistic-gain framing as sound; fixed the screw-length error (2.5\" screws on a single 1/2\" layer over-penetrate \u2014 changed to 2\"/bite-1\"-into-stud), tightened the \"press and tap\" check to tap-only, removed \"let wiring breathe\" phrasing, and added verify-dead-with-tester to the electrical step.",
+  "verified": false,
+  "verifierNote": "Quarantined pending qualified electrical and hazardous-material review before wall fastening and box work.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

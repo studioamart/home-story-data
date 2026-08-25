@@ -21,10 +21,10 @@
  */
 
 import { createHash } from 'node:crypto';
-import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
-import { isPublishableLesson } from './lesson-publish-policy.mjs';
+import { assertValidRepository, buildLessonIndex } from './content-policy.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = join(ROOT, 'data');
@@ -35,6 +35,7 @@ const BASE = 'https://studioamart.github.io/home-story-data/data';
 // Bump only if a channel's JSON shape changes incompatibly. Older app builds
 // ignore remote data whose schema is newer than they understand.
 const SCHEMA = 1;
+const CHECK_ONLY = process.argv.includes('--check');
 
 const sha = (buf) => createHash('sha256').update(buf).digest('hex');
 const readPrev = (p) => {
@@ -70,43 +71,41 @@ function writeManifest(path, { url, sha256, countField, count }) {
   return version;
 }
 
+function assertEqualFile(path, expected) {
+  if (!existsSync(path) || readFileSync(path, 'utf8') !== expected) {
+    throw new Error(`${path.split('/').pop()} is stale; run node scripts/build-manifest.mjs and commit the result.`);
+  }
+}
+
+function checkManifest(path, { url, sha256, countField, count }) {
+  const manifest = readPrev(path);
+  if (!manifest || manifest.schema !== SCHEMA || !Number.isInteger(manifest.version) || manifest.version < 1 ||
+      manifest.url !== url || manifest.sha256 !== sha256 || manifest[countField] !== count ||
+      typeof manifest.generatedAt !== 'string' || Number.isNaN(Date.parse(manifest.generatedAt))) {
+    throw new Error(`${path.split('/').pop()} is stale or invalid; run node scripts/build-manifest.mjs and commit the result.`);
+  }
+}
+
 // --- Schedule channel: data/home-tasks.json -> data/manifest.json -----------
-function buildSchedule() {
+function buildSchedule(tasksDoc) {
   const dataPath = join(DATA, 'home-tasks.json');
   const raw = readFileSync(dataPath);
-  let parsed;
-  try { parsed = JSON.parse(raw.toString('utf8')); }
-  catch (e) { console.error('home-tasks.json is not valid JSON:', e.message); process.exit(1); }
-  const taskCount = Array.isArray(parsed.tasks) ? parsed.tasks.length : 0;
+  const taskCount = tasksDoc.tasks.length;
   if (taskCount === 0) { console.error('Refusing to publish: tasks array is empty.'); process.exit(1); }
   console.log('schedule:');
-  writeManifest(join(DATA, 'manifest.json'), {
+  const spec = {
     url: `${BASE}/home-tasks.json`,
     sha256: sha(raw),
     countField: 'taskCount',
     count: taskCount,
-  });
+  };
+  if (CHECK_ONLY) checkManifest(join(DATA, 'manifest.json'), spec);
+  else writeManifest(join(DATA, 'manifest.json'), spec);
 }
 
 // --- Lessons channel: data/lessons/*.json -> data/lessons.json + manifest ----
-function buildLessons() {
+function buildLessons(sources, lessons) {
   const dir = join(DATA, 'lessons');
-  // Only real guide files. `index.json` is a catalog, not a lesson; and any
-  // object without a `slug` can't be keyed by the app or rendered on the web.
-  const files = readdirSync(dir)
-    .filter((f) => f.endsWith('.json') && f !== 'index.json')
-    .sort();
-  if (files.length === 0) { console.error('Refusing to publish: no lesson files.'); process.exit(1); }
-  const sources = files.map((f) => {
-    let j;
-    try { j = JSON.parse(readFileSync(join(dir, f), 'utf8')); }
-    catch (e) { console.error(`lessons/${f} is not valid JSON:`, e.message); process.exit(1); }
-    if (!j || !j.slug) { console.error(`lessons/${f} has no slug — refusing to publish.`); process.exit(1); }
-    return j;
-  });
-  // Drafts stay in source control for review, but never enter the public feed.
-  // Fail closed: only the exact boolean `true` is publishable.
-  const lessons = sources.filter(isPublishableLesson);
   if (lessons.length === 0) {
     console.error('Refusing to publish: no verified lessons.');
     process.exit(1);
@@ -115,15 +114,31 @@ function buildLessons() {
   if (excluded > 0) console.log(`  excluded ${excluded} unverified lesson drafts.`);
   // Deterministic serialization (files already sorted by slug) so the sha is stable.
   const combined = JSON.stringify(lessons, null, 2) + '\n';
-  writeFileSync(join(DATA, 'lessons.json'), combined);
+  const index = JSON.stringify(buildLessonIndex(lessons), null, 2) + '\n';
+  if (CHECK_ONLY) {
+    assertEqualFile(join(DATA, 'lessons.json'), combined);
+    assertEqualFile(join(dir, 'index.json'), index);
+  } else {
+    writeFileSync(join(DATA, 'lessons.json'), combined);
+    writeFileSync(join(dir, 'index.json'), index);
+  }
   console.log('lessons:');
-  writeManifest(join(DATA, 'lessons-manifest.json'), {
+  const spec = {
     url: `${BASE}/lessons.json`,
     sha256: sha(Buffer.from(combined)),
     countField: 'lessonCount',
     count: lessons.length,
-  });
+  };
+  if (CHECK_ONLY) checkManifest(join(DATA, 'lessons-manifest.json'), spec);
+  else writeManifest(join(DATA, 'lessons-manifest.json'), spec);
 }
 
-buildSchedule();
-buildLessons();
+try {
+  const content = assertValidRepository(ROOT);
+  buildSchedule(content.tasksDoc);
+  buildLessons(content.lessons, content.publishedLessons);
+  console.log(CHECK_ONLY ? 'All generated artifacts are current.' : 'Build completed and validated.');
+} catch (error) {
+  console.error(error.message);
+  process.exit(1);
+}

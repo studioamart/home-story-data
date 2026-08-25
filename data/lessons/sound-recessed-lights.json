@@ -70,7 +70,8 @@
     "Reputable acoustic/soundproofing references on mass, air sealing, and flanking paths"
   ],
   "disclaimer": "General guidance for a typical US home; your fixtures, wiring, and local building code may differ. Verify your can's IC rating and follow manufacturer and local code requirements. When in doubt about fire clearances or line-voltage wiring, consult a licensed electrician.",
-  "verified": true,
-  "verifierNote": "Confirmed IC/Non-IC 3 in. clearance rule, costs, and methods against US practice; tempered the canless-retrofit \"highest-leverage\" claim (seals air leaks but adds little mass, so weak on footstep noise), routed the Non-IC enclosure to a pro instead of DIY, specified UL-listed covers, and added voltage-tester confirmation.",
+  "verified": false,
+  "verifierNote": "Quarantined pending qualified electrical/fire-safety review of fixture and attic work.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

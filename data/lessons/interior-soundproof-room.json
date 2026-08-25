@@ -76,7 +76,8 @@
     "ASTM acoustic standards for STC (Sound Transmission Class) ratings"
   ],
   "disclaimer": "This is general home-maintenance guidance, not a substitute for professional assessment. Building codes, fire-rating requirements, and HVAC/ventilation rules vary by locality \u2014 confirm with your local building department and pull permits where required, especially for structural or wall-cavity work. Results depend on your specific construction; verify wiring is de-energized before any electrical work.",
-  "verified": true,
-  "verifierNote": "Confirmed STC ~33\u201335, CO/backdraft warning, and cost ranges as accurate; softened resilient-channel over isolation-clips, added ~30-day damping-compound cure note, generalized the acoustic-sealant brand, and strengthened voltage-tester/electrician and combustion-vent CO cautions.",
+  "verified": false,
+  "verifierNote": "Quarantined pending qualified electrical, combustion-ventilation, and wall-assembly review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

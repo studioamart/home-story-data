@@ -37,6 +37,7 @@
     }
   ],
   "fixes": [
+    "Before cutting, scraping, or sanding, establish the wall assembly's age and materials. Pre-1978 paint may contain lead; older joint compound, texture, patching compound, or adjacent insulation may contain asbestos. If age/material is unknown, stop for appropriate testing rather than creating dust.",
     "Find the hole size first \u2014 it decides the method. Under ~1/2 in.: just fill. Up to ~6 in.: a self-adhesive patch (adhesive mesh holds best up to ~4 in.; a perforated metal patch covers up to ~6 in.). Bigger than ~6 in.: cut a clean opening and patch with a new piece of drywall.",
     "TINY HOLES (nail/anchor): Remove anchors and tap protruding edges flush. Press lightweight spackle in with a putty knife, slightly overfilling. Let dry, sand flush, then prime and paint.",
     "SMALL/MEDIUM HOLES (up to ~6 in.): Trim loose paper and crumbs. Center a self-adhesive mesh or metal patch over the hole. Spread a thin coat of joint compound over it, feathering past the edges. Apply 2\u20133 thin coats, letting each dry and lightly sanding between.",
@@ -50,7 +51,7 @@
   "typicalCostUSD": "DIY: $15\u2013$50 in materials (spackle/joint compound, a patch kit, putty knife, sandpaper, primer); a patch kit alone runs $8\u2013$15. Pro: roughly $150\u2013$400 for a typical small-to-medium patch including texture and paint touch-up, with $75\u2013$150 minimum service fees common; large or multiple-area jobs $400+.",
   "timeEstimate": "Tiny holes: 15\u201320 min plus dry time. Small/medium patch: about 1 hour of work spread over 1\u20132 days (drying between coats). Large cut-in patch: 2\u20134 hours of work over 2\u20133 days including drying, sanding, priming, and paint.",
   "safetyLevel": "caution",
-  "safetyNote": "Before cutting into any wall, assume wiring, plumbing, or ducts may be behind it. Scan with a stud/cable finder, cut shallow (score the paper, don't plunge a saw deep), and look before you widen. Near an outlet or switch, turn off the relevant circuit at the breaker first. If you uncover electrical, a gas line, or plumbing, stop and call the appropriate licensed trade \u2014 do not work around it yourself. Drywall dust is irritating: wear a dust mask (N95) and eye protection when sanding, and ventilate the room. Brown stains, soft board, or a musty smell mean water damage \u2014 find the source and have it assessed for mold before sealing it up.",
+  "safetyNote": "Before cutting, test or professionally assess unknown older paint, joint compound, texture, patching material, and nearby insulation for lead or asbestos; do not sand, drill, or cut suspected material. Also assume wiring, plumbing, or ducts may be hidden, and stop for the appropriate licensed trade if one is found. Water damage or musty odor requires leak and mold assessment before closure.",
   "toolsParts": [
     "Lightweight spackle (small holes)",
     "All-purpose or setting-type joint compound (mud)",
@@ -80,7 +81,8 @@
     "General residential building-code and construction norms"
   ],
   "disclaimer": "General guidance for typical US homes; your situation may differ. When cutting into walls, verify what's behind the surface and follow local codes. If you suspect water damage, mold, or hidden utilities (wiring, gas, plumbing), consult the appropriate licensed professional.",
-  "verified": true,
-  "verifierNote": "Confirmed methods and costs as accurate; corrected adhesive-mesh size limit (~4 in., metal patch to ~6 in.), strengthened safety to require breaker shutoff before cutting near outlets and a hard stop to call a licensed trade if wiring/gas/plumbing is uncovered, and specified N95 dust mask.",
+  "verified": false,
+  "verifierNote": "Lead/asbestos material-age gate added before cutting or sanding; pending qualified hazardous-material and trade review before publication.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

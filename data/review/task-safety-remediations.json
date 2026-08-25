@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "note": "These seven active tasks replace riskier wording while preserving stable reminder IDs. This is explicitly not a qualified technical approval. Each item cites an authoritative source and carries a content-bound unreviewed-remediation status; any change fails closed. Qualified human review is still required.",
+  "tasks": {
+    "ids": [
+      "chimney-sweep",
+      "detector-replace",
+      "dryer-vent",
+      "panel-inspect",
+      "smoke-batteries",
+      "tree-trim",
+      "water-heater-flush"
+    ],
+    "aggregateSha256": "bf821974b47db58a1a7663163bfb00c12156fdaef1fb04e24c141aa3c2367251"
+  }
+}

@@ -34,7 +34,7 @@
   "diyVsPro": "Freeing a painted-shut or lightly swollen window is a patient-but-simple DIY job. Call a window pro or handyman if: the window is a sealed/foggy double-pane unit that needs the glass replaced, the sash cords or spiral balances are broken and you're not comfortable opening the jamb, the frame is rotted or out of square, or it's a tall/upper-story window where working from outside is unsafe. If you suspect old paint (pre-1978 homes), treat the dust as lead-bearing and follow lead-safe practices or hire a certified pro.",
   "typicalCostUSD": "DIY: $0-15 for a utility knife or window-zipper tool, putty knife, and silicone spray or wax. Pro: roughly $75-200 for a handyman to free and tune a stuck window; sash-balance or cord replacement $100-350; foggy double-pane glass replacement $150-500+ per sash.",
   "timeEstimate": "20-60 minutes to score, separate, and free a painted-shut window; longer if you sand a swollen sash.",
-  "safetyLevel": "low",
+  "safetyLevel": "caution",
   "safetyNote": "The main risks are a slipped utility knife and cracked glass. Cut away from yourself, keep hands off the glass, and apply force only to the wooden sash rails. Don't stand on the sill or lean out of an upper-story window — work from a stable position. In homes built before 1978, paint may contain lead; mist the area, avoid dry sanding, and follow lead-safe cleanup or hire an EPA-certified pro.",
   "toolsParts": [
     "Utility knife or window-zipper tool",
@@ -59,7 +59,8 @@
     "Window manufacturer sash-balance and maintenance guidance"
   ],
   "disclaimer": "This guide is general home-maintenance information. Old windows can contain lead paint and fragile glass; when in doubt, or for upper-story windows, consult a qualified professional.",
-  "verified": true,
-  "verifierNote": "Confirmed the score-the-seam-then-separate method as the standard safe approach, kept the never-pry-on-glass rule firm, and added the pre-1978 lead-paint caution as a real safety/legal consideration. Costs reflect current US handyman and double-pane glass ranges.",
+  "verified": false,
+  "verifierNote": "Safety-level remediation prepared; pending qualified human review before publication.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }

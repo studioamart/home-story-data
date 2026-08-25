@@ -1,6 +1,9 @@
 {
   "schema": 1,
   "version": 2,
+  "taskAliases": {
+    "appliances-dryer-vent": "dryer-vent"
+  },
   "tasks": [
     {
       "id": "hvac-filter",
@@ -129,21 +132,24 @@
     },
     {
       "id": "water-heater-flush",
-      "task": "Flush Water Heater",
+      "task": "Review Water-Heater Flush Guidance",
       "system": "plumbing",
       "monthInterval": 12,
       "season": null,
-      "estimatedCost": [
-        0,
-        150
-      ],
-      "diy": true,
-      "appliesTo": [
-        "house",
-        "townhouse",
-        "condo"
-      ],
-      "description": "Drain sediment from the tank; extends element and tank life."
+      "estimatedCost": [0, 200],
+      "diy": false,
+      "appliesTo": ["house", "townhouse", "condo"],
+      "description": "Check the model manual first and follow its interval. Stored water can scald; use a licensed plumber for old, corroded, seized, leaking, or unfamiliar equipment.",
+      "serviceMode": "manual-or-pro",
+      "safetyLevel": "call-a-pro",
+      "sources": [{
+        "title": "Technical Operations and Maintenance Guidelines for Common Water Equipment",
+        "publisher": "U.S. Department of Energy",
+        "url": "https://www.energy.gov/cmei/femp/technical-operations-and-maintenance-guidelines-common-water-equipment",
+        "sourceType": "government",
+        "claimRefs": ["manufacturer-specific maintenance", "hot-water safety boundary"]
+      }],
+      "review": { "status": "safety-remediated-unreviewed", "contentSha256": "a1558bbcf42270095b905fabfd953eb1e3d182803f19c45d5dc988a18c23186a" }
     },
     {
       "id": "water-heater-anode",
@@ -372,40 +378,45 @@
     },
     {
       "id": "smoke-batteries",
-      "task": "Replace Detector Batteries",
+      "task": "Maintain Smoke & CO Alarm Batteries",
       "system": "safety",
       "monthInterval": 12,
-      "season": "fall",
-      "estimatedCost": [
-        10,
-        30
-      ],
+      "season": null,
+      "estimatedCost": [0, 30],
       "diy": true,
-      "appliesTo": [
-        "house",
-        "townhouse",
-        "condo",
-        "apartment"
-      ],
-      "description": "Fresh batteries in every smoke/CO unit; do it when clocks change."
+      "appliesTo": ["house", "townhouse", "condo", "apartment"],
+      "description": "For replaceable batteries, follow the manufacturer or low-battery signal. Never open a sealed-battery alarm; test every alarm monthly.",
+      "serviceMode": "diy-per-manufacturer",
+      "safetyLevel": "caution",
+      "sources": [{
+        "title": "Smoke Alarms",
+        "publisher": "U.S. Fire Administration",
+        "url": "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/",
+        "sourceType": "government",
+        "claimRefs": ["monthly testing", "sealed and replaceable batteries"]
+      }],
+      "review": { "status": "safety-remediated-unreviewed", "contentSha256": "8bd72d6fc6438f9b1b9a346b3b9a2a4c99be148e6b9457e500be16c2b608e800" }
     },
     {
       "id": "detector-replace",
-      "task": "Replace Smoke Detectors (10 yr)",
+      "task": "Check Alarm Replace-By Dates",
       "system": "safety",
-      "monthInterval": 120,
+      "monthInterval": 12,
       "season": null,
-      "estimatedCost": [
-        60,
-        200
-      ],
+      "estimatedCost": [0, 200],
       "diy": true,
-      "appliesTo": [
-        "house",
-        "townhouse",
-        "condo"
-      ],
-      "description": "Sensors expire: replace units 10 years from their manufacture date."
+      "appliesTo": ["house", "townhouse", "condo", "apartment"],
+      "description": "Read each smoke/CO alarm's replace-by date and instructions; CO life varies. Renters notify the owner. Use an electrician for incompatible hardwired replacements.",
+      "serviceMode": "inspect-or-pro",
+      "safetyLevel": "caution",
+      "sources": [{
+        "title": "Smoke Alarms",
+        "publisher": "U.S. Fire Administration",
+        "url": "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/",
+        "sourceType": "government",
+        "claimRefs": ["replacement date", "manufacturer instructions"]
+      }],
+      "review": { "status": "safety-remediated-unreviewed", "contentSha256": "e06e07222522cb7e6af4121864fda937c0ed4432ae7e9c0a1c99bdf9c678e742" }
     },
     {
       "id": "gfci-test",
@@ -428,21 +439,24 @@
     },
     {
       "id": "panel-inspect",
-      "task": "Inspect Electrical Panel",
+      "task": "Visually Check Closed Electrical Panel",
       "system": "electrical",
       "monthInterval": 12,
       "season": null,
-      "estimatedCost": [
-        0,
-        150
-      ],
+      "estimatedCost": [0, 250],
       "diy": true,
-      "appliesTo": [
-        "house",
-        "townhouse",
-        "condo"
-      ],
-      "description": "Look for rust, heat marks, or buzzing; torque check by a pro every few years."
+      "appliesTo": ["house", "townhouse", "condo"],
+      "description": "With the cover closed, check for rust, water, scorching, heat, crackling, buzzing, or burning odor. Never remove the dead-front; call an electrician for warning signs.",
+      "serviceMode": "visual-only-or-pro",
+      "safetyLevel": "call-a-pro",
+      "sources": [{
+        "title": "Home Electrical Safety Checklist",
+        "publisher": "U.S. Consumer Product Safety Commission",
+        "url": "https://www.cpsc.gov/safety-education/safety-guides/electronics-and-electrical-home/home-electrical-safety-checklist",
+        "sourceType": "government",
+        "claimRefs": ["electrical warning signs", "qualified-repair boundary"]
+      }],
+      "review": { "status": "safety-remediated-unreviewed", "contentSha256": "39ae30083663bf0cde1948eeb5a5adc62ad7e0c687030ea1e1ddece55918bbaf" }
     },
     {
       "id": "extinguisher",
@@ -480,7 +494,17 @@
         "condo",
         "apartment"
       ],
-      "description": "Clear lint from the full duct run \u2014 the #1 preventable house-fire source."
+      "description": "Clean the lint filter after every load. At this annual reminder, inspect the exhaust path and arrange cleaning as the dryer manual directs; use a professional for gas dryers or long, concealed, roof-vented, or unsafe-to-reach ducts.",
+      "serviceMode": "manual-or-pro",
+      "safetyLevel": "caution",
+      "sources": [{
+        "title": "Clothes Dryer Fire Safety",
+        "publisher": "U.S. Fire Administration",
+        "url": "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/clothes-dryers/",
+        "sourceType": "government",
+        "claimRefs": ["lint-filter cleaning", "exhaust-path maintenance"]
+      }],
+      "review": { "status": "safety-remediated-unreviewed", "contentSha256": "2950fe0e72796bc1a3170e6d6cc91474f6a237fec7825bee36bcac802c666458" }
     },
     {
       "id": "emergency-kit",
@@ -570,20 +594,24 @@
     },
     {
       "id": "chimney-sweep",
-      "task": "Chimney Sweep & Inspection",
+      "task": "Schedule Chimney & Vent Inspection",
       "system": "exterior",
       "monthInterval": 12,
       "season": "fall",
-      "estimatedCost": [
-        150,
-        350
-      ],
+      "estimatedCost": [150, 500],
       "diy": false,
-      "appliesTo": [
-        "house",
-        "townhouse"
-      ],
-      "description": "Required annually for wood burners; every few years for gas flues."
+      "appliesTo": ["house", "townhouse"],
+      "description": "Have a qualified professional inspect fireplaces, chimneys, vents, and fuel-burning heating equipment; service or clean as the inspection and manuals direct.",
+      "serviceMode": "qualified-pro",
+      "safetyLevel": "call-a-pro",
+      "sources": [{
+        "title": "Heating Fire Safety",
+        "publisher": "U.S. Fire Administration",
+        "url": "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/",
+        "sourceType": "government",
+        "claimRefs": ["professional inspection", "chimney and vent safety"]
+      }],
+      "review": { "status": "safety-remediated-unreviewed", "contentSha256": "e3cc56a59f9223d0305446dbe518657523c7945bbab8e4e6ba436c361ee4f8ba" }
     },
     {
       "id": "siding-wash",
@@ -1119,19 +1147,24 @@
     },
     {
       "id": "tree-trim",
-      "task": "Trim Trees & Shrubs",
+      "task": "Inspect Trees & Shrubs From the Ground",
       "system": "yard",
       "monthInterval": 12,
       "season": "winter",
-      "estimatedCost": [
-        0,
-        500
-      ],
-      "diy": true,
-      "appliesTo": [
-        "house"
-      ],
-      "description": "Cut back branches near the roof and siding; remove deadwood."
+      "estimatedCost": [0, 800],
+      "diy": false,
+      "appliesTo": ["house"],
+      "description": "Use a qualified arborist for dead, large, overhead, or roof-adjacent limbs. Never prune near power lines; contact the utility for line-clearance work.",
+      "serviceMode": "qualified-pro",
+      "safetyLevel": "call-a-pro",
+      "sources": [{
+        "title": "Line-Clearance Tree-Trimming Operations",
+        "publisher": "Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/etools/electric-power/overhead-line-work/line-clearance-tree-trimming-operations",
+        "sourceType": "government",
+        "claimRefs": ["energized-line clearance", "qualified-worker boundary"]
+      }],
+      "review": { "status": "safety-remediated-unreviewed", "contentSha256": "9d36f1ace405ec42e60ca56b4d1cadc9bb58277c8a13f56d1ded0da8dce1a878" }
     },
     {
       "id": "mulch",
@@ -1164,25 +1197,6 @@
         "house"
       ],
       "description": "Tighten hardware, check post rot, re-stain as needed."
-    },
-    {
-      "id": "appliances-dryer-vent",
-      "task": "Clean Dryer Vent",
-      "system": "appliances",
-      "monthInterval": 12,
-      "season": null,
-      "estimatedCost": [
-        0,
-        30
-      ],
-      "diy": true,
-      "appliesTo": [
-        "house",
-        "townhouse",
-        "condo",
-        "apartment"
-      ],
-      "description": "Clear lint from the dryer duct and exhaust hood \u2014 a top home fire-safety task."
     }
   ]
 }

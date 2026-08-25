@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "aliases": {
+    "appliances-dryer-vent": "dryer-vent"
+  },
+  "note": "The duplicate dryer task was removed from the OTA catalog. Consumers should canonicalize its legacy ID to dryer-vent so existing completion/reminder state is retained."
+}

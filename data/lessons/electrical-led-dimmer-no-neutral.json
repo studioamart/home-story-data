@@ -74,7 +74,8 @@
     "Manufacturer dimmer load-range and compatibility specifications"
   ],
   "disclaimer": "General home-maintenance information, not a substitute for a licensed electrician or local code review. Electrical codes vary by jurisdiction and some areas require permits or licensed work. Verify against your dimmer's instructions and local rules before proceeding.",
-  "verified": true,
-  "verifierNote": "Fixed a wiring error that called the 3-way common a \"traveler\" (it's distinct: one common on the dark screw, two travelers); clarified ELV=reverse/trailing edge; corrected the misleading \"won't behave\" minimum-load claim to \"may misbehave\"; clarified Caseta needs a Smart Bridge hub for smart control; confirmed costs, tools, and caution-level safety routing (aluminum/no-ground to a pro).",
+  "verified": false,
+  "verifierNote": "Quarantined because a non-contact voltage tester alone cannot prove an electrical box de-energized; pending qualified electrical rewrite and review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

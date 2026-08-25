@@ -34,27 +34,20 @@
   "fixes": [
     "Locate the exact vent first. On the next windy day, walk the attic and the exterior and match the noise to one vent \u2014 bath fan hood, range hood cap, turbine, or pipe cap. Fixing the wrong one wastes a roof trip. Do all roof-level inspection from the attic, a stable ladder at the eave, or the ground with binoculars; do not walk a steep, wet, or high roof.",
     "For a fluttering damper flap (most common): from inside, remove the interior grille of the bath/kitchen fan and check the backdraft flap, or at the exterior hood lift the louver. Make sure it swings freely and seats flat. Add a small self-adhesive felt or foam bumper where the flap meets the housing so it closes quietly, or replace a warped flap or louvered cap with a new one (about $10-$25). Do not glue, tape, or block the flap shut \u2014 it must still open to vent moisture or grease, or you risk mold in the duct.",
-    "For a loose flange (most common): with the vent identified, snug every mounting screw. Replace any rusted nails with rubber-washered roofing screws driven into solid decking, and add a dab of roofing sealant under any lifted edge. If you are not comfortable at that spot on the roof, stop and call a roofer \u2014 this is the step that tempts people onto unsafe footing.",
-    "For a worn turbine (whirlybird): a wobble or squeal means bearings. A light spray of dry silicone lubricant can quiet a squeak temporarily, but a wobbling turbine should be replaced (about $30-$60 for the part). Balanced replacement turbines spin nearly silently. This is roof-mounted work \u2014 only do it from safe footing, or hire it out.",
-    "For a resonating or undersized cap: replace it with a heavier-gauge, baffled vent cap or hood designed for high wind. A flat-back, gravity-louver hood resists fluttering far better than a thin domed cap. (Does not apply to gas B-vents \u2014 see safety note.)",
+    "For any loose roof flange, fastener, flashing, turbine, or cap, photograph it from the ground and use a licensed roofer. Do not climb onto the roof to tighten, lubricate, seal, or replace it.",
+    "If the suspected vent serves a furnace, water heater, fireplace, or other fuel-burning appliance, stop using the appliance when vent damage, soot, gas odor, or a CO alarm is present and contact the gas utility or a licensed combustion professional. Do not alter the cap or flue.",
     "For plumbing vents, never seal or cap a stack that was originally open \u2014 codes require the vent to stay open, and capping it can siphon traps and let sewer gas indoors. Only re-secure a cap that is meant to be there.",
     "After any fix, wait for the next windy day to confirm the noise is gone before assuming you're done \u2014 vents can have more than one loose part."
   ],
-  "diyVsPro": "DIY-friendly only when the noisy vent is reachable safely from inside the attic, from a wall-mounted hood, or from a stable ladder at a low eave on a low-slope roof \u2014 and when it's an exhaust or attic vent, not a gas flue. Call a pro if the vent is mid-roof on a steep or tall roof, if you'd have to walk the roof, if it's a furnace or water-heater B-vent or any gas-appliance flue cap, or if you find rot, flashing damage, or active leaks around the vent. A roofer or handyman trip for one vent is cheap insurance against a fall or a botched flashing seal.",
+  "diyVsPro": "DIY is limited to identifying the sound from the ground or a finished interior grille and cleaning or replacing an accessible interior exhaust-fan damper exactly as its manual directs. Do not use a ladder or enter an unfinished attic for this guide. A roofer handles every roof-mounted part; a licensed combustion professional handles every fuel-appliance vent.",
   "typicalCostUSD": "DIY: $5-$25 for felt/foam bumpers, sealant, and screws; $10-$60 for a replacement flap, cap, or turbine. Pro: roughly $150-$400 for a service call to re-secure or replace a single roof vent, more if flashing or decking repair is needed.",
   "timeEstimate": "15-45 minutes to locate and quiet a reachable flap or tighten a flange; 1-2 hours to swap a cap or turbine. Add time for waiting on a windy day to confirm both the source and the fix.",
   "safetyLevel": "call-a-pro",
   "safetyNote": "Roof work is a leading cause of serious home-DIY falls. Never go on a steep, wet, icy, or tall roof \u2014 do all roof-level work from the attic, a wall hood, or a stable ladder at a low eave, or hire a pro. Do not tighten, seal, or cap any furnace, water-heater, or other gas-appliance flue; an improperly altered flue can cause carbon-monoxide backup \u2014 that is a licensed pro's job. If a rattle comes with any gas or sewer smell, soot, or signs of leaking, stop and call a professional.",
   "toolsParts": [
     "Binoculars (to spot the noisy vent from the ground)",
-    "Stable extension or step ladder rated for your weight",
-    "Cordless drill/driver and assorted bits",
-    "Rubber-washered roofing screws (neoprene-gasket hex-head)",
-    "Roofing/flashing sealant (polyurethane or butyl)",
     "Self-adhesive felt or closed-cell foam weatherstrip bumpers",
-    "Dry silicone spray lubricant (for turbine bearings)",
     "Replacement backdraft damper flap or louvered vent cap (if needed)",
-    "Replacement turbine vent (if bearings are shot)",
     "Work gloves and safety glasses"
   ],
   "searchTerms": [
@@ -73,7 +66,8 @@
     "Reputable DIY references (This Old House, Family Handyman) on roof vent and exhaust fan damper repair"
   ],
   "disclaimer": "General home-maintenance information, not professional inspection or code advice. Conditions vary by home and local code; when in doubt, or for any roof-height or gas-flue work, hire a licensed contractor.",
-  "verified": true,
-  "verifierNote": "Confirmed diagnosis-by-noise approach, costs, and DIY/pro line are sound; tightened the plumbing-vent fix to warn against trap-siphoning/sewer gas, added a no-glue-shut warning on the damper flap (mold/grease risk), flagged the cap-replacement fix as not applying to gas B-vents, and reinforced roof-height safety on the turbine step.",
+  "verified": false,
+  "verifierNote": "Roof-access and fuel-vent DIY steps removed; pending qualified roofing/combustion review before publication.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

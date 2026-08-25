@@ -33,7 +33,7 @@
     {
       "cause": "Gas supply issue \u2014 the shutoff behind the range is partly closed, the propane tank is empty, or the supply is interrupted, so the burner starves.",
       "likelihood": "less common",
-      "quickCheck": "Do the other burners light? If none of them do, check that the gas shutoff behind the range is fully open and (for propane) the tank isn't empty \u2014 other gas appliances working confirms supply is fine."
+      "quickCheck": "Do the other burners light? If none do, stop using the range and contact the gas utility or a licensed gas-appliance professional; do not pull out the range or manipulate its connector, regulator, or shutoff."
     }
   ],
   "fixes": [
@@ -43,22 +43,22 @@
     "Wash the removable cap and burner head in warm soapy water, scrub the ports clean, then dry them completely before putting them back \u2014 reinstalling them wet just recreates the problem.",
     "Gently clean around the ceramic spark igniter with a dry old toothbrush or cloth to clear off food and grease; a dirty igniter sparks weakly.",
     "With everything dry and reassembled, watch the spark in a dim kitchen \u2014 a healthy igniter throws a strong blue-white spark. A weak, orange, or missing spark points to a failing igniter.",
-    "If only one burner won't light, the problem is that burner's cap, ports, or igniter. If none light, confirm the gas shutoff behind the range is fully open (and for propane the tank isn't empty) and that other gas appliances work.",
+    "If only one burner won't light, recheck only the removable cap, ports, and surface igniter after everything is cool. If none light, stop using the range and contact the gas utility or a licensed gas-appliance professional; do not pull out the range or touch its supply components.",
     "If the burner clicks nonstop even with all knobs off, or won't spark at all after cleaning, the spark switch/electrode or ignition module has likely failed \u2014 call an appliance tech for the part swap.",
-    "If you ever smell gas: turn the burner off, do not flip switches or light anything, and open windows to ventilate. If the smell persists, leave the house and call your gas utility from outside."
+    "If you smell gas or hear escaping gas, do not operate a burner, light, phone, appliance, switch, plug, garage-door opener, or vehicle inside. Leave everyone outside immediately, move well away from the building, and call 911 or the gas utility from outside. Do not re-enter until responders say it is safe."
   ],
-  "diyVsPro": "DIY is fine for the whole cleaning routine on the cooktop surface \u2014 clearing the burner ports, washing and reseating the caps, drying out moisture, and brushing off the spark igniter \u2014 all with the burner off and cool. Call a licensed appliance tech to replace a failed spark igniter, electrode, or ignition module, and to diagnose a burner that clicks nonstop. Call a licensed plumber or gas fitter \u2014 never DIY \u2014 for anything on the gas supply itself: the shutoff valve behind the range, the regulator, the flexible gas connector, or converting between natural gas and propane. If you smell gas that doesn't clear after ventilating, stop and call your utility.",
+  "diyVsPro": "DIY is limited to cleaning and reseating removable cooktop-surface parts exactly as the manufacturer directs, with every control off and the appliance cool. A licensed appliance or gas professional must diagnose failed ignition parts, nonstop clicking, multiple burners that will not light, or anything involving the shutoff, regulator, connector, gas line, or fuel conversion. Any gas odor requires immediate evacuation and a call from outside; do not troubleshoot or ventilate first.",
   "typicalCostUSD": "DIY: cleaning is $0-10 (paperclip, old toothbrush, dish soap). A replacement spark igniter/electrode typically runs $10-40 and a burner cap $15-40 (model-specific). Pro: an appliance repair service call is usually $90-180, with an igniter or spark-module repair landing around $150-350 total parts + labor. Gas-line, valve, or regulator work by a licensed plumber/gas fitter often runs $150-400 or more.",
-  "timeEstimate": "Reseating the cap and drying: 5-30 minutes. Cleaning ports and washing caps: 15-30 minutes. DIY spark igniter/electrode replacement: 30-60 minutes. Pro repair: usually a single 1-2 hour visit.",
+  "timeEstimate": "Reseating the cap and drying: 5-30 minutes. Cleaning removable surface parts: 15-30 minutes. Professional diagnosis or repair: commonly a 1-2 hour visit.",
   "safetyLevel": "caution",
-  "safetyNote": "Gas is unforgiving. Clean burners only when they are off and fully cool, and never ream the ports larger. If a burner clicks with the knob on but doesn't light within a few seconds, turn it off, let the gas clear, and ventilate before trying again \u2014 don't let raw gas keep flowing or pool. Never work on the gas supply line, shutoff valve, regulator, or flexible connector yourself; that is licensed-pro work. If you smell gas (a rotten-egg odor), do not flip switches or light a flame \u2014 turn off the burner, open windows, and if the smell persists, leave the house and call your gas utility or 911 from outside.",
+  "safetyNote": "Clean only removable cooktop-surface parts with every control off and the appliance fully cool; never enlarge a burner port. If a burner does not light promptly, turn its control off. If you smell or hear gas, do not touch switches, phones, plugs, appliances, flames, the range, or gas controls inside. Evacuate immediately and call 911 or the gas utility from well outside; do not re-enter until cleared.",
   "toolsParts": [
     "Straightened paperclip or sewing needle/pin (to clear the ports)",
     "Soft old toothbrush",
     "Dry cloth and paper towels",
     "Warm water and mild dish soap (to wash caps and heads)",
     "Hair dryer (optional, to dry the igniter and burner)",
-    "Replacement spark igniter/electrode or burner cap (model-specific, only if a part failed)",
+    "Replacement burner cap only when the manufacturer identifies the exact model-specific part",
     "Work gloves (optional)"
   ],
   "searchTerms": [
@@ -79,6 +79,7 @@
   ],
   "disclaimer": "General home-maintenance guidance, not a substitute for professional service \u2014 clean gas burners only with the burner off and cool, and leave igniter/spark-module replacement and any work on the gas line, valve, or regulator to a licensed pro. If you smell gas, stop, leave, and call your gas utility from outside.",
   "verified": false,
-  "verifierNote": "AI-generated draft (2026-07-12): schema-validated and safety-framed, but technical and cost claims are not yet human-verified. Treat as general guidance and verify against manufacturer documentation or a licensed pro.",
+  "verifierNote": "Gas-emergency wording remediated; technical content remains pending qualified human review and must not be published.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

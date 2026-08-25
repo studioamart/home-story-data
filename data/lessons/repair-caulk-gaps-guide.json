@@ -82,7 +82,8 @@
     "Standard product labeling guidance for paintable siliconized acrylic latex vs silicone caulk"
   ],
   "disclaimer": "General home-maintenance guidance, not professional engineering, electrical, or fire-code advice. Verify product suitability on the manufacturer's label and follow local building codes; when working near electrical or fire-rated walls and you're unsure, consult a licensed professional.",
-  "verified": true,
-  "verifierNote": "Confirmed product-by-gap-size logic, acoustical sealant guidance, outlet-gasket fix, and flanking/mass soundproofing limits as accurate; removed the child-safe plug-insert claim (slots aren't the air/sound path), softened grease prep from denatured alcohol to mild detergent, added non-contact-tester verify step to the outlet fix, widened DIY cost to $90, and flagged shared multifamily walls alongside fire-rated walls.",
+  "verified": false,
+  "verifierNote": "Quarantined because an electrical cover-removal step relies on a non-contact voltage tester; pending qualified electrical rewrite and review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

@@ -75,7 +75,8 @@
     "General NEC-aligned residential wiring practice for switch replacement"
   ],
   "disclaimer": "This is general home-maintenance guidance, not a substitute for a licensed electrician. Electrical codes vary by locality. If anything is unclear, the wiring looks unusual, or you're not fully confident the power is off, stop and hire a professional.",
-  "verified": true,
-  "verifierNote": "Confirmed causes, costs, and breaker-off/NCVT safety steps as accurate US practice; clarified that TRIAC = leading-edge (old) while trailing-edge/ELV is the LED-friendly choice, and corrected the over-precise \"10x power\" claim.",
+  "verified": false,
+  "verifierNote": "Quarantined because a non-contact voltage tester alone cannot prove an electrical box de-energized; pending qualified electrical rewrite and review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

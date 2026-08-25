@@ -75,7 +75,8 @@
     "Foam outlet/switch gasket usage as sold at major US hardware retailers for air and sound sealing"
   ],
   "disclaimer": "This is general home-maintenance information, not professional electrical advice. Working in electrical boxes carries shock and fire risk; codes and conditions vary. When in doubt, hire a licensed electrician and follow local code and product instructions.",
-  "verified": true,
-  "verifierNote": "Confirmed the air-seal approach (gaskets, putty pads, acoustic caulk) and costs as sound US practice; tightened the live-box safety steps (test the tester on a known-live source, keep sealant off terminals, putty pads go outside the box per product instructions), added an aluminum-wiring identifier/date range, removed the questionable \"line the inside back wall of the box\" suggestion, and clarified the remodel-only escalation.",
+  "verified": false,
+  "verifierNote": "Quarantined because electrical box work relies on a non-contact voltage tester; pending qualified electrical/fire-barrier review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

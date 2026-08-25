@@ -79,7 +79,8 @@
     "General caulk manufacturer application guidance (DAP, GE) for paintable acrylic-latex and elastomeric/polyurethane sealants"
   ],
   "disclaimer": "General home-maintenance guidance, not a substitute for professional inspection. Conditions in your home may differ; if you find moisture, mold, structural rot, or wiring concerns, consult a qualified professional before sealing.",
-  "verified": true,
-  "verifierNote": "Confirmed the two-seam air-sealing approach, costs, and DIY framing match DOE/ENERGY STAR practice; firmed up the safety note (mold >10 sq ft and any moisture/rot now explicitly route to a pro), added voltage-tester verification and a knob-and-tube stop for outlet work, and clarified floor-seam caulk to elastomeric/polyurethane.",
+  "verified": false,
+  "verifierNote": "Quarantined because the electrical cover-removal step relies on a non-contact voltage tester; pending qualified electrical rewrite and review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

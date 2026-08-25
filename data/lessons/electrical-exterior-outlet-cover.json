@@ -73,7 +73,8 @@
     "Manufacturer installation instructions for in-use weatherproof covers (e.g., TayMac/Hubbell, Leviton)"
   ],
   "disclaimer": "General home-maintenance guidance, not a substitute for a licensed electrician or your local building code. Electrical codes (NEC adoption and local amendments) vary by jurisdiction and edition; verify requirements with your local building department and permit office before doing electrical work.",
-  "verified": true,
-  "verifierNote": "Confirmed NEC cites (406.9(B), 406.9(B)(1) extra-duty, 210.8(A), WR requirement) and DIY/cost/time ranges; fixed GFCI LINE wiring to specify the supply/always-hot side (not just \"black to LINE\"), added aluminum-wiring pro routing in DIY/safety, and removed the inaccurate \"weep hole/drain\" claims (in-use covers seal rather than drain).",
+  "verified": false,
+  "verifierNote": "Quarantined pending a qualified electrical rewrite that removes device-wiring work and the non-contact-tester-only boundary.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

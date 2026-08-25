@@ -74,7 +74,8 @@
     "Manufacturer LED bulb dimmable ratings and dimmer wattage derating notes"
   ],
   "disclaimer": "General guidance for typical US residential wiring, not a substitute for a licensed electrician or your local electrical code. Codes and conditions vary by home and jurisdiction; if anything looks unfamiliar or unsafe, stop and consult a pro.",
-  "verified": true,
-  "verifierNote": "Confirmed steps, costs, and the 3-way/neutral/LED-rating cautions against Lutron/Leviton practice; sharpened the LED-vs-incandescent wattage point (LED rating is far lower, e.g. 150W vs 600W), added the \"tag the travelers/common correctly\" and \"test the NCVT on a known-live outlet first\" specifics, and fixed aluminum-wiring era to mid-1960s\u2013mid-1970s.",
+  "verified": false,
+  "verifierNote": "Quarantined because a non-contact voltage tester alone cannot prove an electrical box de-energized; pending qualified electrical rewrite and review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "spoke"
 }

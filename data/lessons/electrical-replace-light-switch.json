@@ -60,7 +60,8 @@
     "Switch and device manufacturer installation instructions (e.g. Leviton, Lutron)"
   ],
   "disclaimer": "This guide is general home-maintenance information, not professional electrical advice. Electrical codes vary by location and some areas require permits or licensed work. When in doubt, turn off the power and consult a licensed electrician.",
-  "verified": true,
-  "verifierNote": "Confirmed wiring/cost/safety accuracy; key fix \u2014 test the NCVT must cover ALL wires in the box (boxes can hold a second live circuit) and the tester must be verified on a known-live source first; softened the over-strict 'no ground = call a pro' claim, kept aluminum-wiring and panel/240V as firm pro triggers, and nudged smart-switch/pro cost ranges up to current US reality.",
+  "verified": false,
+  "verifierNote": "Quarantined because a non-contact voltage tester alone cannot prove an electrical box de-energized; pending qualified electrical rewrite and review.",
+  "review": { "status": "pending-qualified-review" },
   "kind": "pillar"
 }
