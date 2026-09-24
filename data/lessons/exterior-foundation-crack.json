@@ -2,78 +2,88 @@
   "slug": "exterior-foundation-crack",
   "system": "exterior",
   "title": "Foundation Cracks: Which Ones Are Harmless and Which Need a Pro",
-  "question": "why is there a crack in my foundation and is it serious",
-  "summary": "Most thin, vertical hairline cracks in a concrete foundation are normal shrinkage and only need sealing to keep water out. Horizontal, stair-step, or wide/widening cracks can signal structural movement and warrant a foundation engineer.",
+  "question": "Is a crack in my foundation serious, and how do I fix it?",
+  "summary": "Most foundation cracks are thin, vertical, and caused by concrete shrinking as it cured. They are not structural and only need sealing. Call a structural engineer if a crack is horizontal, wider than 1/4 inch, keeps growing, or has one side pushed out past the other, or if you also see a bowing wall, sticking doors, or sloping floors. Either way, fix the drainage first. Water against the wall causes most leaks and many new cracks.",
   "commonCauses": [
     {
-      "cause": "Concrete shrinkage as the foundation cured (thin vertical or diagonal hairline cracks, often within the first year). Cosmetic, very common.",
+      "cause": "Shrinkage as the concrete cured. Poured walls lose water and shrink, which leaves thin vertical or slightly angled cracks. They often start at the corner of a basement window. They are cosmetic, though they can let water in.",
       "likelihood": "most common",
-      "quickCheck": "Crack is vertical or near-vertical, under about 1/8 inch wide, and not getting longer. A nickel's edge (about 1/16 inch) barely fits."
+      "quickCheck": "The crack is vertical or close to it, hairline to about 1/16 inch wide, and both sides are flush. A US quarter is about 1/16 inch thick; if its edge will not slide in, the crack is narrower than that."
     },
     {
-      "cause": "Soil settlement or heave under the footing (expansive clay drying/swelling, poor compaction, drought then heavy rain). Produces diagonal or stair-step cracks.",
+      "cause": "Settling or heaving soil under the footing. Clay soil shrinks in drought and swells when wet, and poorly packed fill settles. This makes diagonal cracks in poured walls and stair-step cracks along the mortar joints of block or brick.",
       "likelihood": "common",
-      "quickCheck": "Look for a crack that widens toward one end, plus sticking doors/windows or sloping floors nearby."
+      "quickCheck": "The crack is wider at one end than the other, or one side sits higher or sticks out past the other by 1/8 inch or more. Check for sticking doors and windows or sloping floors nearby."
     },
     {
-      "cause": "Hydrostatic pressure from poor drainage pushing on the wall (downspouts dumping at the base, ground sloping toward the house, high water table).",
+      "cause": "Water pressure from poor drainage. Downspouts that dump next to the wall, soil that slopes toward the house, or a high water table load the wall with wet soil and push water through any crack.",
       "likelihood": "common",
-      "quickCheck": "Crack leaks during/after rain; soil grade slopes toward the foundation; gutters overflow or discharge near the wall."
+      "quickCheck": "The crack leaks or looks damp during or after rain. Look outside for downspouts that end at the wall, overflowing gutters, or ground that slopes toward the house."
     },
     {
-      "cause": "Frost heave or freeze-thaw cycling (cold climates, footings above frost line, saturated soil).",
+      "cause": "Frost. In cold climates, wet soil that freezes against the wall or under a shallow footing pushes on the foundation.",
       "likelihood": "less common",
-      "quickCheck": "New cracks appear or widen seasonally in winter/spring; common in unheated garages and porches."
+      "quickCheck": "Cracks appear or widen in winter and early spring, often in the upper part of the wall or at unheated garages and porches."
     },
     {
-      "cause": "Structural overload or lateral soil/water pressure bowing a basement wall, the serious one. Horizontal crack across a block or poured wall, often mid-height, sometimes with inward bowing.",
+      "cause": "Soil pressure pushing the wall in. This is the serious one. Heavy, wet, or frozen soil pushes a basement wall inward until it cracks horizontally, often near mid-height. Walls of hollow concrete block are the most at risk.",
       "likelihood": "less common",
-      "quickCheck": "Crack runs horizontally, wall is bowing inward, or a stair-step crack in block is wide (over 1/4 inch). Stop DIY and call an engineer."
+      "quickCheck": "The crack runs sideways across the wall, or the wall bows inward when you hold a long level or a tight string against it. Stop and call a structural engineer."
     }
   ],
   "fixes": [
-    "Identify the crack type first. Measure width with a tape or coin. Mark each end with a pencil and write today's date next to it; check again in 2-4 weeks (and after a heavy rain) to see if it is growing. A photo log helps.",
-    "Triage by pattern. Thin vertical/diagonal hairlines = cosmetic, seal them. Horizontal cracks, inward-bowing walls, stair-step cracks wider than ~1/4 inch, or anything actively widening = stop and get a structural/foundation engineer before doing anything.",
-    "Fix the water first (this prevents most repeat cracks and leaks). Extend downspouts 4-6 feet from the house, clean gutters, and regrade soil so the ground slopes away at least 6 inches of drop over the first 10 feet.",
-    "Seal a non-structural vertical poured-concrete crack from the inside with an injection kit (about $20-$80 at a hardware store). Use a flexible polyurethane kit if the crack is damp or leaks; use rigid epoxy only on a fully dry, stable crack. Clean the crack, set the surface ports, smear the paste over the crack face, then inject port to port per the kit instructions.",
-    "For a narrow cosmetic crack you only want to keep watertight, clean it out and fill with a polyurethane or masonry crack sealant/caulk; for wider gaps use a fast-setting, water-resistant hydraulic cement patch (mixes and sets in minutes).",
-    "After repair, keep monitoring. Re-mark the patched crack and watch for new movement. A repair that re-cracks means there is ongoing movement underneath; that needs a pro, not another tube of caulk.",
-    "Do not patch over a structural crack and call it done. Sealing a horizontal or bowing-wall crack hides a load problem and can let it get dangerous. The fix there is engineered: carbon-fiber straps, wall anchors, steel I-beams, or push/helical piers, installed by a foundation contractor."
+    "Read the crack. Note which way it runs (vertical, diagonal, stair-step, or horizontal) and measure the widest point with a ruler or a crack width card. Check whether both sides are flush. A thin vertical crack with flush sides is almost always shrinkage.",
+    "Decide if it needs an engineer. Stop here and call a structural engineer if the crack is horizontal, wider than 1/4 inch, offset, growing, stair-stepped and wider at one end, or paired with a bowing wall, sticking doors, or sloping floors. An engineer tells you what is moving and what repair fits. A contractor who sells the repair is not a neutral judge.",
+    "Watch it for change. Mark each end of the crack with a pencil line and the date, and measure the width at one marked spot. Take a photo with a ruler in the frame. Check again after a few weeks, after heavy rain, and across a season. A plastic crack monitor glued across the crack shows small movement. A crack that stays the same is dormant. A crack that grows is active and needs an engineer.",
+    "Fix the water first. Clean the gutters. Extend downspouts so water lands at least 5 feet from the wall, the distance the building code sets for expansive soil. Regrade so the ground drops at least 6 inches in the first 10 feet away from the house, and slope patios and walks within 10 feet at least 2 percent away. This stops most leaks and slows new cracking.",
+    "Seal a dry, dormant crack in a poured concrete wall with an injection kit. Epoxy bonds the two sides of the crack back together and works best on a dry crack that is not moving. Polyurethane foam reacts with water and swells to fill the crack, so it is the better choice for a damp or leaking crack. It stays flexible and is a waterproofing repair, not a structural one.",
+    "To inject, clean loose material out of the crack face, glue the plastic ports along it about as far apart as the wall is thick (or as the kit says), and cover the crack between ports with the paste. Inject at the lowest port until resin shows at the next port up, cap it, and move up. Let it cure, then cut off the ports.",
+    "Do not inject a hollow concrete block wall. The resin runs into the hollow cores instead of filling the crack. For a thin, stable stair-step crack in block, repoint the mortar joints. For anything wider or growing, call an engineer.",
+    "Use hydraulic cement to plug an active leak or a hole. It sets in about 3 to 5 minutes, even against running water. It is rigid, so it will crack again if the wall is still moving.",
+    "Keep checking after the repair. Mark and date the ends of the sealed crack. If it cracks again, the wall is still moving. That calls for an engineer, not more sealant.",
+    "Do not seal over a structural crack and call it done. Patching a horizontal crack or a bowing wall hides the problem. Structural fixes are designed by an engineer and installed by a foundation contractor: carbon-fiber straps, wall anchors, steel braces, or piers under the footing."
   ],
-  "diyVsPro": "DIY is fine for sealing thin (under ~1/8 inch), stable, vertical or diagonal hairline cracks and for fixing the drainage that caused them; polyurethane/epoxy injection and downspout/grading work are well within a careful homeowner's reach. Call a licensed structural or foundation engineer/contractor for any horizontal crack, any inward-bowing wall, stair-step cracks wider than ~1/4 inch, cracks that keep widening, or cracks paired with sticking doors, sloping floors, or chimney separation. When in doubt, a one-time engineer inspection ($400-$800) is cheap insurance against a five-figure mistake.",
-  "typicalCostUSD": "DIY crack injection/sealant kit: $20-$80. Downspout extensions and regrading materials: $50-$300 DIY. Professional epoxy/polyurethane injection of a single crack: $400-$900. Structural engineer inspection report: $400-$800. Carbon-fiber strap or wall-anchor repair: ~$500-$1,200 per location. Major foundation underpinning with piers: $1,500-$3,000 per pier, total jobs commonly $10,000-$30,000+.",
-  "timeEstimate": "Inspecting and measuring: 30 minutes. Sealing one crack with an injection kit: 1-2 hours plus cure time. Downspout/grading fixes: a half to full day. Monitoring period before you trust a repair: 2-4 weeks (longer across a season).",
+  "diyVsPro": "You can handle thin, dormant, vertical cracks in a poured wall yourself: fix the gutters, downspouts, and grading, then seal the crack with an epoxy or polyurethane injection kit. Call a licensed structural engineer for any horizontal crack, any bowing or leaning wall, cracks wider than 1/4 inch, cracks that are offset or growing, stair-step cracks in block that are wider at one end, or cracks with sticking doors, sloping floors, or a chimney pulling away. A foundation inspection costs about $400 to $750, and a full structural engineer report $500 to $3,000. That is small next to repairs that can pass $10,000. Get the engineer's report before you take bids, so contractors price the same repair.",
+  "typicalCostUSD": "DIY injection or sealant kit: $20-$80. Downspout extensions and grading materials: $50-$300. Professional crack injection: $250-$800 per crack. Foundation inspection: $400-$750; structural engineer report: $500-$3,000. Bowed wall repair (anchors, carbon-fiber straps, tiebacks): $5,000-$15,000. Underpinning with piers: $10,000-$30,000 or more.",
+  "timeEstimate": "Reading and measuring the crack: 30 minutes. Sealing one crack with an injection kit: 1-2 hours plus cure time. Gutter, downspout, and grading work: half a day to a full day. Watching for movement: a few weeks at least, ideally across a season.",
   "safetyLevel": "call-a-pro",
-  "safetyNote": "Foundation cracks can be structural. Horizontal cracks, inward-bowing walls, stair-step cracks wider than ~1/4 inch, sudden new cracks, or cracks with sticking doors/sloping floors mean active movement. Stop DIY and get a licensed structural/foundation engineer. Do not excavate deeply against a foundation wall yourself; removing soil from one side can let an already-stressed wall fail inward. Wear eye protection and gloves when mixing epoxy or hydraulic cement and work in a ventilated space.",
+  "safetyNote": "Call a licensed structural engineer before any repair if you see: a horizontal crack in a basement or crawl space wall; a wall that bows, leans, or bulges inward; a crack wider than 1/4 inch; one side of a crack sticking out past the other; a crack that grows between checks; a stair-step crack in block or brick that is wider at one end; or cracks along with sticking doors and windows, sloping floors, or a chimney pulling away. An inward bulge of an inch or more in a block or brick wall is serious. Do not dig deep next to a foundation wall yourself: removing soil from one side can let a stressed wall move. Wear eye protection and gloves when you mix epoxy or cement, and keep the space ventilated.",
   "toolsParts": [
-    "Tape measure or a nickel/quarter for gauging width",
-    "Pencil or paint marker for dating crack ends",
+    "Ruler or crack width card (a US quarter is about 1/16 inch thick)",
+    "Pencil or paint marker to date the crack ends",
+    "Phone camera for a dated photo log",
+    "Crack monitor (optional) to track small movement",
     "Wire brush and shop vacuum to clean the crack",
-    "Polyurethane (for damp/leaking) or epoxy (for dry/stable) crack-injection kit with surface ports",
-    "Hydraulic cement or masonry crack sealant for wider gaps",
-    "Caulk gun (for tube-style sealant)",
-    "Safety glasses, nitrile gloves, dust mask",
-    "Downspout extensions and a shovel/rake for drainage and regrading",
-    "Phone camera for a dated photo log"
+    "Crack injection kit with surface ports: epoxy for dry, dormant cracks; polyurethane for damp or leaking cracks",
+    "Hydraulic cement to plug an active leak",
+    "4-foot level or string line to check a wall for bowing",
+    "Safety glasses, nitrile gloves, and a dust mask",
+    "Downspout extensions, shovel, and rake for drainage and grading"
   ],
   "searchTerms": [
-    "foundation crack repair",
+    "foundation crack",
     "is my foundation crack serious",
+    "foundation crack repair",
+    "when to worry about foundation cracks",
     "horizontal vs vertical foundation crack",
+    "hairline crack in foundation",
+    "stair step crack in block foundation",
     "how to seal a concrete foundation crack",
     "basement wall crack leaking water",
-    "stair step crack in block foundation",
-    "epoxy crack injection kit",
-    "when to call a foundation engineer"
+    "epoxy vs polyurethane crack injection",
+    "when to call a structural engineer for foundation",
+    "foundation crack repair cost"
   ],
   "sources": [
-    "Reputable DIY references (This Old House, Family Handyman, Bob Vila in spirit)",
-    "Manufacturer guidance for epoxy/polyurethane crack-injection and hydraulic cement products",
-    "Building-code grading/drainage norms (IRC R401.3: slope away ~6 inches over 10 feet)",
-    "Foundation-repair industry guidance on structural vs. non-structural crack assessment"
+    "International Residential Code 2021: R401.3 Drainage (grade falls at least 6 inches within the first 10 feet; hard surfaces within 10 feet sloped at least 2 percent) and R801.3 Roof drainage (discharge at least 5 feet from foundation walls where soils are expansive or collapsible) (codes.iccsafe.org)",
+    "American Concrete Institute: ACI PRC-224.1-07, Causes, Evaluation, and Repair of Cracks in Concrete Structures (epoxy injection, routing and sealing, stitching) (concrete.org)",
+    "InspectAPedia building inspection reference: Concrete Shrinkage Cracks; Horizontal Foundation Cracks (an inward bulge of 1 inch or more is serious); Foundation Crack Repair by Foam Injection (inspectapedia.com)",
+    "Quikrete: Hydraulic Water-Stop Cement product information (sets in 3-5 minutes, plugs active leaks in concrete and masonry) (quikrete.com)",
+    "Building Science Corporation: BSD-103 Understanding Basements (slope grade and drain roof water away from the foundation) (buildingscience.com)",
+    "HomeGuide: Foundation repair cost, February 2026 (homeguide.com)"
   ],
   "disclaimer": "General homeowner guidance, not a substitute for an on-site inspection. Foundation problems vary by soil, climate, and construction; when a crack shows any structural warning sign, have a licensed structural or foundation engineer evaluate it before acting.",
   "verified": true,
-  "verifierNote": "Fixed the epoxy-vs-polyurethane error (epoxy rigid/dry-only, polyurethane flexible for damp/leaking cracks); removed the false \"hydraulic cement expands\" claim (it's fast-setting and water-resistant, not expanding); bumped engineer inspection to $400-$800 and carbon-fiber to $1,200 for realism; confirmed grading spec matches IRC R401.3 and kept the correct call-a-pro level and excavation warning.",
+  "verifierNote": "Sept 2026 rewrite for search quality: answer-first summary, explicit call-an-engineer list in the safety note, fixes, and DIY section. Rechecked grading and downspout figures against IRC 2021 R401.3 and R801.3 text; crack patterns and thresholds against InspectAPedia (shrinkage width, 1/8 inch offset, 1 inch bulge, 1/4 inch referral); injection methods against ACI PRC-224.1-07 and injection-kit guidance; hydraulic cement set time against Quikrete; costs against HomeGuide Feb 2026. Fixed the coin gauge (a nickel is about 5/64 inch; a quarter is about 1/16 inch), added a no-injection rule for hollow block walls, and replaced vague sources with named documents.",
   "kind": "pillar"
 }
